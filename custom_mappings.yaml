@@ -1,23 +1,63 @@
 entries:
-  - title: The Rising of the Shield Hero
+  - title: "86: Eighty Six"
+    seasons:
+     - season: 1
+       anilist-id: 116589
+       start: 1
+     - season: 1
+       anilist-id: 131586
+       start: 12
+  - title: "A Certain Scientific Railgun"
     seasons:
       - season: 1
-        anilist-id: 99263
-  - title: "Re:ZERO -Starting Life in Another World-"
+        anilist-id: 6213
+      - season: 2
+        anilist-id: 16049
+      - season: 3
+        anilist-id: 104462
+  - title: "A Silent Voice: The Movie"
     seasons:
+      - season: 1
+        anilist-id: 20954
+  - title: "Attack on Titan"
+    seasons:
+      - season: 1
+        anilist-id: 16498
       - season: 2
-        anilist-id: 108632
-        start: 1
+        anilist-id: 20958
+      - season: 3
+        anilist-id: 99147
+      - season: 4
+        anilist-id: 110277
+  - title: "Cells at Work!"
+    seasons:
+      - season: 1
+        anilist-id: 100977
       - season: 2
-        anilist-id: 119661
-        start: 14
+        anilist-id: 108631
+  - title: "Clannad"
+    seasons:
+      - season: 1
+        anilist-id: 2167
+      - season: 2
+        anilist-id: 4181
   - title: "Code Geass: Lelouch of the Rebellion"
     seasons:
       - season: 1
         anilist-id: 1575
       - season: 2
         anilist-id: 2904
-  - title: Gintama
+  - title: "Danganronpa 3: The End of Hope’s Peak Academy - Despair Arc"
+    seasons:
+      - season: 1
+        anilist-id: 21825
+  - title: "Dr. Stone"
+    seasons:
+      - season: 1
+        anilist-id: 105333
+      - season: 2
+        anilist-id: 113936
+  - title: "Gintama"
     seasons:
       - season: 1
         anilist-id: 918
@@ -43,64 +83,6 @@ entries:
       - season: 10
         anilist-id: 101925
         start: 13
-  - title: "Symphogear"
-    seasons:
-      - season: 1
-        anilist-id: 11751
-      - season: 2
-        anilist-id: 15793
-      - season: 3
-        anilist-id: 20560
-      - season: 4
-        anilist-id: 21672
-      - season: 5
-        anilist-id: 21673
-  - title: "Danganronpa 3: The End of Hope’s Peak Academy - Despair Arc"
-    seasons:
-      - season: 1
-        anilist-id: 21825
-  - title: "A Certain Scientific Railgun"
-    seasons:
-      - season: 1
-        anilist-id: 6213
-      - season: 2
-        anilist-id: 16049
-      - season: 3
-        anilist-id: 104462
-  - title: "Clannad"
-    seasons:
-      - season: 1
-        anilist-id: 2167
-      - season: 2
-        anilist-id: 4181
-  - title: "Dr. Stone"
-    seasons:
-      - season: 1
-        anilist-id: 105333
-      - season: 2
-        anilist-id: 113936
-  - title: "Kaguya-sama: Love Is War"
-    seasons:
-      - season: 1
-        anilist-id: 101921
-      - season: 2
-        anilist-id: 112641
-  - title: "Cells at Work!"
-    seasons:
-      - season: 1
-        anilist-id: 100977
-      - season: 2
-        anilist-id: 108631
-  - title: "Attack on Titan"
-    seasons:
-      - season: 1
-        anilist-id: 16498
-      - season: 2
-        anilist-id: 20958
-      - season: 3
-        anilist-id: 99147
-      - season: 4
-        anilist-id: 110277
   - title: "JoJo's Bizarre Adventure (2012)"
     seasons:
       - season: 1
@@ -115,14 +97,12 @@ entries:
         anilist-id: 21450
       - season: 4
         anilist-id: 102883
-  - title: "86: Eighty Six"
+  - title: "Kaguya-sama: Love Is War"
     seasons:
-     - season: 1
-       anilist-id: 116589
-       start: 1
-     - season: 1
-       anilist-id: 131586
-       start: 12
+      - season: 1
+        anilist-id: 101921
+      - season: 2
+        anilist-id: 112641
   - title: "Monogatari"
     seasons: 
      - season: 1
@@ -161,23 +141,15 @@ entries:
      - season: 0  
        anilist-id: 100815
        start: 33
-  - title: "The Melancholy of Haruhi Suzumiya"
+  - title: "Re:ZERO -Starting Life in Another World-"
     seasons:
-     - season: 1
-       anilist-id: 4382
-  - title: "Tokyo Ghoul"
-    seasons:
-     - season: 1
-       anilist-id: 20605
-     - season: 2
-       anilist-id: 20850
-     - season: 3
-       anilist-id: 100240
-       start: 1
-     - season: 3
-       anilist-id: 102351
-       start: 13
-  - title: "Sword Art Online"
+      - season: 2
+        anilist-id: 108632
+        start: 1
+      - season: 2
+        anilist-id: 119661
+        start: 14
+- title: "Sword Art Online"
     seasons:
      - season: 1
        anilist-id: 11757
@@ -191,3 +163,35 @@ entries:
      - season: 4
        anilist-id: 114308
        start: 13
+  - title: "Symphogear"
+    seasons:
+      - season: 1
+        anilist-id: 11751
+      - season: 2
+        anilist-id: 15793
+      - season: 3
+        anilist-id: 20560
+      - season: 4
+        anilist-id: 21672
+      - season: 5
+        anilist-id: 21673
+  - title: "The Melancholy of Haruhi Suzumiya"
+    seasons:
+      - season: 1
+        anilist-id: 4382
+  - title: "The Rising of the Shield Hero"
+    seasons:
+      - season: 1
+        anilist-id: 99263
+  - title: "Tokyo Ghoul"
+    seasons:
+      - season: 1
+        anilist-id: 20605
+      - season: 2
+        anilist-id: 20850
+      - season: 3
+        anilist-id: 100240
+        start: 1
+      - season: 3
+        anilist-id: 102351
+        start: 13
