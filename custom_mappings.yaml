@@ -65,6 +65,13 @@ entries:
       - season: 1
         anilist-id: 20792
         start: 13
+  - title: "Fate/Zero"
+    seasons:
+      - season: 1
+        anilist-id: 10087
+      - season: 1
+        anilist-id: 11741
+        start: 13
   - title: "Gintama"
     seasons:
       - season: 1
