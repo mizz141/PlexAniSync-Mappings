@@ -57,6 +57,14 @@ entries:
         anilist-id: 105333
       - season: 2
         anilist-id: 113936
+  - title: "Fate/stay night: Unlimited Blade Works"
+    seasons:
+      - season: 1
+        anilist-id: 19603
+        start: 2
+      - season: 1
+        anilist-id: 20792
+        start: 13
   - title: "Gintama"
     seasons:
       - season: 1
