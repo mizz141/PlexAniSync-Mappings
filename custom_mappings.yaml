@@ -149,7 +149,7 @@ entries:
       - season: 2
         anilist-id: 119661
         start: 14
-- title: "Sword Art Online"
+  - title: "Sword Art Online"
     seasons:
      - season: 1
        anilist-id: 11757
