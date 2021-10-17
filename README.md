@@ -19,7 +19,7 @@ Currently Mapped Titles:
 | Gintama  | Series  | S01-S10  |   |  |
 | JoJo's Bizarre Adventure (2012)  | Series  | S01, S02, S03, S04  | S01, Stardust Crusaders + Egypt Battle, Unbreakable Diamond, Golden Wind |  |
 | Kaguya-sama: Love Is War  | Series | S01, S02 |Kaguya-sama: Love Is War, Kaguya-sama: Love Is War? |  |
-| Monogatari |   |   |   | S00 for Specials is only a placeholder due to PlexAniSync not recognizing Specials |
+| Monogatari | Series and Movies  | S00, S01, S02, S03, S04, S05  | ***yes***  | S00 for Specials is only a placeholder due to PlexAniSync not recognizing Specials, will get up |
 |  Re:ZERO -Starting Life in Another World- | Series  | S02 | S02P1, S02P2  |  |
 | Sword Art Online  | Series  | S01, S02, S03, S04  | I, II, Alicization, Alicization War of Underworld Part 1 + 2|  |
 | Symphogear  | Series  | S01, S02, S03, S04, S05 | Symphogear, G, GX, AXZ, XV|  |
