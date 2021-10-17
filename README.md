@@ -16,6 +16,8 @@ Currently Mapped Titles:
 | Code Geass: Lelouch of the Rebellion  | Series  | S01, S02  | R1, R2  |  |
 |  Danganronpa 3: The End of Hope's Peak Academy - Despair Arc | Series  |  S01 | Danganronpa 3: The End of Hope's Peak High School - Despair Arc  |  |
 | Dr. Stone  | Series  | S01, S02  | Dr. Stone, Stone Wars  |  |
+| Fate/stay night: Unlimited Blade Works | Series  | S01 | S01+S02  | Anilist Episode 2 mapped to Plex Episode 1 due to TVDB having 25 episodes for S01 and a Special Episode while Anilist has Special Episode included in total episode count,that is,26. |
+| Fate/Zero | Series  | S01 | S01+S02  |  |
 | Gintama  | Series  | S01-S10  |   |  |
 | JoJo's Bizarre Adventure (2012)  | Series  | S01, S02, S03, S04  | S01, Stardust Crusaders + Egypt Battle, Unbreakable Diamond, Golden Wind |  |
 | Kaguya-sama: Love Is War  | Series | S01, S02 |Kaguya-sama: Love Is War, Kaguya-sama: Love Is War? |  |
