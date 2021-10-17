@@ -26,4 +26,5 @@ Currently Mapped Titles:
 | Sword Art Online  | Series  | S01, S02, S03, S04  | I, II, Alicization, Alicization War of Underworld Part 1 + 2|  |
 | Symphogear  | Series  | S01, S02, S03, S04, S05 | Symphogear, G, GX, AXZ, XV|  |
 | The Melancholy of Haruhi Suzumiya | Series  | S01  | The Melancholy of Haruhi Suzumiya (2009)  |  |
+|  The Rising of the Shield Hero | Series  | S01 | The Rising of the Shield Hero  |  |
 |  Tokyo Ghoul | Series  | S01, S02, S03  | Tokyo Ghoul, √A, re: + re:2  |  |
