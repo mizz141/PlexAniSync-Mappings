@@ -126,8 +126,14 @@ entries:
         anilist-id: 101921
       - season: 2
         anilist-id: 112641
+  - title: "Miss Kobayashi's Dragon Maid"
+    seasons:
+      - season: 1
+        anilist-id: 21776
+      - season: 2
+        anilist-id: 107717
   - title: "Monogatari"
-    seasons: 
+    seasons:
       - season: 1
         anilist-id: 5081
       - season: 2
@@ -140,28 +146,28 @@ entries:
       - season: 5
         anilist-id: 21262
         start: 1
-      - season: 0 
+      - season: 0
         anilist-id: 9260
         start: 2
-      - season: 0 
+      - season: 0
         anilist-id: 15689
         start: 3
-      - season: 0 
+      - season: 0
         anilist-id: 20593
         start: 10
-      - season: 0 
+      - season: 0
         anilist-id: 20918
         start: 15
-      - season: 0   
+      - season: 0
         anilist-id: 21399
         start: 19
-      - season: 0 
+      - season: 0
         anilist-id: 21400
         start: 20
-      - season: 0 
+      - season: 0
         anilist-id: 21520
         start: 21
-      - season: 0  
+      - season: 0
         anilist-id: 100815
         start: 33
   - title: "Mushoku Tensei: Jobless Reincarnation"
