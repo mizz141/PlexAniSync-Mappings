@@ -1,12 +1,12 @@
 entries:
   - title: "86: Eighty Six"
     seasons:
-     - season: 1
-       anilist-id: 116589
-       start: 1
-     - season: 1
-       anilist-id: 131586
-       start: 12
+      - season: 1
+        anilist-id: 116589
+        start: 1
+      - season: 1
+        anilist-id: 131586
+        start: 12
   - title: "A Certain Scientific Railgun"
     seasons:
       - season: 1
@@ -19,6 +19,14 @@ entries:
     seasons:
       - season: 1
         anilist-id: 20954
+  - title: "Ascendance of a Bookworm"
+    seasons:
+      - season: 1
+        anilist-id: 108268
+        start: 1
+      - season: 1
+        anilist-id: 113693
+        start: 15
   - title: "Attack on Titan"
     seasons:
       - season: 1
@@ -120,42 +128,50 @@ entries:
         anilist-id: 112641
   - title: "Monogatari"
     seasons: 
-     - season: 1
-       anilist-id: 5081
-     - season: 2
-       anilist-id: 11597
-     - season: 3
-       anilist-id: 17074
-     - season: 4
-       anilist-id: 21262
-       start: 1
-     - season: 5
-       anilist-id: 21262
-       start: 1
-     - season: 0 
-       anilist-id: 9260
-       start: 2
-     - season: 0 
-       anilist-id: 15689
-       start: 3
-     - season: 0 
-       anilist-id: 20593
-       start: 10
-     - season: 0 
-       anilist-id: 20918
-       start: 15
-     - season: 0   
-       anilist-id: 21399
-       start: 19
-     - season: 0 
-       anilist-id: 21400
-       start: 20
-     - season: 0 
-       anilist-id: 21520
-       start: 21
-     - season: 0  
-       anilist-id: 100815
-       start: 33
+      - season: 1
+        anilist-id: 5081
+      - season: 2
+        anilist-id: 11597
+      - season: 3
+        anilist-id: 17074
+      - season: 4
+        anilist-id: 21262
+        start: 1
+      - season: 5
+        anilist-id: 21262
+        start: 1
+      - season: 0 
+        anilist-id: 9260
+        start: 2
+      - season: 0 
+        anilist-id: 15689
+        start: 3
+      - season: 0 
+        anilist-id: 20593
+        start: 10
+      - season: 0 
+        anilist-id: 20918
+        start: 15
+      - season: 0   
+        anilist-id: 21399
+        start: 19
+      - season: 0 
+        anilist-id: 21400
+        start: 20
+      - season: 0 
+        anilist-id: 21520
+        start: 21
+      - season: 0  
+        anilist-id: 100815
+        start: 33
+  - title: "Mushoku Tensei: Jobless Reincarnation"
+    seasons:
+      - season: 1
+        anilist-id: 108465
+        start: 1
+      - season: 1
+        anilist-id: 127720
+        start: 12
   - title: "Re:ZERO -Starting Life in Another World-"
     seasons:
       - season: 2
@@ -166,18 +182,18 @@ entries:
         start: 14
   - title: "Sword Art Online"
     seasons:
-     - season: 1
-       anilist-id: 11757
-     - season: 2
-       anilist-id: 20594
-     - season: 3
-       anilist-id: 100182
-     - season: 4
-       anilist-id: 108759
-       start: 1
-     - season: 4
-       anilist-id: 114308
-       start: 13
+      - season: 1
+        anilist-id: 11757
+      - season: 2
+        anilist-id: 20594
+      - season: 3
+        anilist-id: 100182
+      - season: 4
+        anilist-id: 108759
+        start: 1
+      - season: 4
+        anilist-id: 114308
+        start: 13
   - title: "Symphogear"
     seasons:
       - season: 1
