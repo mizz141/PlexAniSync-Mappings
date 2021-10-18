@@ -8,6 +8,7 @@ Currently Mapped Titles:
 |  Title | Type  | Plex  Season |  Anilist Entries| Note|
 | ------------ | ------------ | ------------ | ------------ | ------------ |
 | 86: Eighty Six  | Series  | S01  | Cour 1 + Cour 2  |  |
+| Ascendance of a Bookworm  | Series  | S01  | Cour 1 + Cour 2  |  |
 | A Certain Scientific Railgun  |  Series | S01, S02, S03  | Railgun, Railgun S, Railgun T  |  |
 | A Silent Voice: The Movie  | Movie  | S01  | A Silent Voice  |  |
 | Attack on Titan  | Series  | S01, S02, S03, S04  | S01, S02, S03P1 + S03P2, S04P1  |  |
@@ -22,6 +23,7 @@ Currently Mapped Titles:
 | JoJo's Bizarre Adventure (2012)  | Series  | S01, S02, S03, S04  | S01, Stardust Crusaders + Egypt Battle, Unbreakable Diamond, Golden Wind |  |
 | Kaguya-sama: Love Is War  | Series | S01, S02 |Kaguya-sama: Love Is War, Kaguya-sama: Love Is War? |  |
 | Monogatari | Series and Movies  | S00, S01, S02, S03, S04, S05  | ***yes***  | ~~S00 for Specials is only a placeholder due to PlexAniSync not recognizing Specials, will get updated when a fix is found.~~ [will never be fixed](https://github.com/RickDB/PlexAniSync/issues/80#issuecomment-944931420) |
+| Mushoku Tensei: Jobless Reincarnation  | Series  | S01  | Cour 1 + Cour 2  |  |
 |  Re:ZERO -Starting Life in Another World- | Series  | S02 | S02P1, S02P2  |  |
 | Sword Art Online  | Series  | S01, S02, S03, S04  | I, II, Alicization, Alicization War of Underworld Part 1 + 2|  |
 | Symphogear  | Series  | S01, S02, S03, S04, S05 | Symphogear, G, GX, AXZ, XV|  |
