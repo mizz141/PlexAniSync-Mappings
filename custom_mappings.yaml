@@ -212,6 +212,16 @@ entries:
         anilist-id: 21672
       - season: 5
         anilist-id: 21673
+  - title: "That Time I Got Reincarnated as a Slime"
+    seasons:
+      - season: 1
+        anilist-id: 101280
+      - season: 2
+        anilist-id: 108511
+        start: 1
+      - season: 2
+        anilist-id: 116742
+        start: 13
   - title: "The Melancholy of Haruhi Suzumiya"
     seasons:
       - season: 1
