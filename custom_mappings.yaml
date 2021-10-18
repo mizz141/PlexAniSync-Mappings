@@ -27,9 +27,6 @@ entries:
       - season: 1
         anilist-id: 113693
         start: 15
-      - season: 0
-        anilist-id: 113811
-        start: 1
   - title: "Attack on Titan"
     seasons:
       - season: 1
