@@ -9,7 +9,7 @@ Currently Mapped Titles:
 | ------------ | ------------ | ------------ | ------------ | ------------ |
 | 86: Eighty Six  | Series  | S01  | Cour 1 + Cour 2  |  |
 | A Certain Scientific Railgun  |  Series | S01, S02, S03  | Railgun, Railgun S, Railgun T  |  |
-| A Silent Voice: The Movie  | Movie  | S01  | A Silent Voice  |  |
+| A Silent Voice: The Movie  | Movie  | None  | A Silent Voice  |  |
 | Ascendance of a Bookworm  | Series  | S01  | Cour 1 + Cour 2  |  |
 | Attack on Titan  | Series  | S01, S02, S03, S04  | S01, S02, S03P1 + S03P2, S04P1  |  |
 |  Cells at Work! | Series  | S01, S02  | Cells at Work!, Cells at Work!!  |  |
@@ -26,6 +26,7 @@ Currently Mapped Titles:
 | Monogatari | Series and Movies  | S00, S01, S02, S03, S04, S05  | ***yes***  | ~~S00 for Specials is only a placeholder due to PlexAniSync not recognizing Specials, will get updated when a fix is found.~~ [will never be fixed](https://github.com/RickDB/PlexAniSync/issues/80#issuecomment-944931420) |
 | Mushoku Tensei: Jobless Reincarnation  | Series  | S01  | Cour 1 + Cour 2  |  |
 |  Re:ZERO -Starting Life in Another World- | Series  | S02 | S02P1, S02P2  |  |
+| Shelter | Movie | None |  Shelter | Music Video released as an Anime | 
 | Sword Art Online  | Series  | S01, S02, S03, S04  | I, II, Alicization, Alicization War of Underworld Part 1 + 2|  |
 | Symphogear  | Series  | S01, S02, S03, S04, S05 | Symphogear, G, GX, AXZ, XV|  |
 | That Time I Got Reincarnated as a Slime | Series | S01, S02 | S01, S02P1 + S02P2 | |

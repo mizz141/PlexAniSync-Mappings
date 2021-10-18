@@ -186,6 +186,10 @@ entries:
       - season: 2
         anilist-id: 119661
         start: 14
+  - title: "Shelter"
+    seasons:
+      - season: 1
+        anilist-id: 97731
   - title: "Sword Art Online"
     seasons:
       - season: 1
