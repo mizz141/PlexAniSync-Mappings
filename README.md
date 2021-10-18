@@ -8,7 +8,7 @@ Currently Mapped Titles:
 |  Title | Type  | Plex  Season |  Anilist Entries| Note|
 | ------------ | ------------ | ------------ | ------------ | ------------ |
 | 86: Eighty Six  | Series  | S01  | Cour 1 + Cour 2  |  |
-| Ascendance of a Bookworm  | Series  | Specials (S00), S01  | Cour 1 + Cour 2, Side Story Special  |  |
+| Ascendance of a Bookworm  | Series  | S01  | Cour 1 + Cour 2  |  |
 | A Certain Scientific Railgun  |  Series | S01, S02, S03  | Railgun, Railgun S, Railgun T  |  |
 | A Silent Voice: The Movie  | Movie  | S01  | A Silent Voice  |  |
 | Attack on Titan  | Series  | S01, S02, S03, S04  | S01, S02, S03P1 + S03P2, S04P1  |  |
