@@ -16,9 +16,8 @@ Currently Mapped Titles:
 |  Clannad | Series  | S01, S02  | Clannad, Clannad After Story  |  |
 | Code Geass: Lelouch of the Rebellion  | Series  | S01, S02  | R1, R2  |  |
 |  Danganronpa 3: The End of Hope's Peak Academy - Despair Arc | Series  |  S01 | Danganronpa 3: The End of Hope's Peak High School - Despair Arc  |  |
-| Demon Slayer | Series | S01, S02 | Demon Slayer: Kimetsu no Yaiba, Demon Slayer: Kimetsu no Yaiba 2| Season 1 is Optional but Season 2 doesn't sync due to Plex and AniList Name differences. |
-| Dr. Stone  | Series  | S01, S02 | Dr. Stone, Stone Wars  |  |
-| Fate/stay night: Unlimited Blade Works | Series  | S01 | S01+S02  | Anilist Episode 2 mapped to Plex Episode 1 due to TVDB having 25 episodes for S01 and a Special Episode while Anilist has Special Episode included in total episode count,that is 26. |
+| Dr. Stone  | Series  | S01, S02  | Dr. Stone, Stone Wars  |  |
+| Fate/stay night: Unlimited Blade Works | Series  | S01 | S01+S02  | Anilist Episode 2 mapped to Plex Episode 1 due to TVDB having 25 episodes for S01 and a Special Episode while Anilist has Special Episode included in total episode count,that is,26. |
 | Fate/Zero | Series  | S01 | S01+S02  |  |
 | Gintama  | Series  | S01-S04, S05, S06, S07, S08, S09, S10  | S01, S02, S03, S04, S05, Slip Arc, Silver Soul Arc + Silver Soul Arc Second Half War   |  |
 | JoJo's Bizarre Adventure (2012)  | Series  | S01, S02, S03, S04  | S01, Stardust Crusaders + Egypt Battle, Unbreakable Diamond, Golden Wind |  |
@@ -35,3 +34,29 @@ Currently Mapped Titles:
 |  The Rising of the Shield Hero | Series  | S01 | The Rising of the Shield Hero  |  |
 |The Slime Diaries| Series | S01 | The Slime Diaries | |
 |  Tokyo Ghoul | Series  | S01, S02, S03  | Tokyo Ghoul, √A, re: + re:2  |  |
+
+# Installation on unRAID
+First you need to install the PlexAniSync Docker, if you have that already, you can skip this section.
+
+This is easiest done with the [Community Applications](https://forums.unraid.net/topic/38582-plug-in-community-applications/) plugin. (Installation from dockerHub must be enabled).
+
+Enter the Variables according to the [dockerHub](https://hub.docker.com/r/rickdb/plexanisync/)
+
+Configure the Path to be in your AppData folder named "PlexAniSync-Mappings" and create that folder.
+
+**Installation of the Mappings**
+
+You can automate the mappings with a simple script that can be run with the "User Scripts" plugin (also in the Community Applications)
+
+Create a script with a name (preferrably PlexAniSync) and add this:
+``` 
+#!/bin/bash
+cd /mnt/user/appdata/PlexAniSync-Mappings 
+git clone https://github.com/mizz141/PlexAniSync-Mappings.git
+docker restart plexanisync
+```
+The Script will cd into the appdata folder you created, clone the repo, and restart the Docker Container. 
+
+You can set the update interwall to whatever you like, best results are gained with a Daily inteval. It's recommended to test-run the script for any errors, most commonly a misnamed container or wrong filepath.
+
+Credits to [Randy Chen](https://github.com/ZhunCn) for the Script and Installation instructions.
