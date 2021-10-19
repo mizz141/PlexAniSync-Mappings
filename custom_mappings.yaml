@@ -129,9 +129,9 @@ entries:
   - title: "Miss Kobayashi's Dragon Maid"
     seasons:
       - season: 1
-        anilist-id: 21776      
+        anilist-id: 21776
       - season: 2
-        anilist-id: 107717        
+        anilist-id: 107717
   - title: "Monogatari"
     seasons:
       - season: 1
@@ -225,7 +225,7 @@ entries:
         start: 1
       - season: 2
         anilist-id: 116742
-        start: 13              
+        start: 13
   - title: "The Melancholy of Haruhi Suzumiya"
     seasons:
       - season: 1
@@ -237,7 +237,7 @@ entries:
   - title: "The Slime Diaries"
     seasons:
       - season: 1
-        anilist-id: 116741        
+        anilist-id: 116741
   - title: "Tokyo Ghoul"
     seasons:
       - season: 1
