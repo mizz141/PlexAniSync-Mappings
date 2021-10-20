@@ -4,7 +4,7 @@ This is a collection of [custom-mappings](https://github.com/RickDB/PlexAniSync#
 Tested for Plex Scanner and TVDB, not tested with and for other scanners.
 
 Currently Mapped Titles:
-- Plex Season And Anilist Entries are respective to each other.
+- Plex Season and Anilist Entries are respective to each other.
 - Plus (+) sign indicates that two Anilist entries have been mapped to a single Plex Season respectively.
 - TVDB Specials cannot be matched with custom mappings due to [PlexAniSync not supporting Season 0/Specials](https://github.com/RickDB/PlexAniSync/issues/80#issuecomment-944931420).
 
