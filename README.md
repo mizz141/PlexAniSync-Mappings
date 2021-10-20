@@ -23,7 +23,7 @@ Currently Mapped Titles:
 | Fate/stay night: Unlimited Blade Works | Series  | S01 | S01+S02  | Anilist Episode 2 mapped to Plex Episode 1 due to TVDB having 25 episodes for S01 and a Special Episode while Anilist has Special Episode included in total episode count,that is,26. |
 | Fate/Zero | Series  | S01 | S01+S02  |  |
 | Gintama  | Series  | S01-S04, S05, S06, S07, S08, S09, S10  | S01, S02, S03, S04, S05, Slip Arc, Silver Soul Arc + Silver Soul Arc Second Half War |  |
-| Higurashi - When They Cry GOU | S01, S02 | Gou, Sotsu | Seperate entries for Ni, Rei, Kai and the new Gou and Sotsu |
+| Higurashi - When They Cry GOU | Series | S01, S02 | Gou, Sotsu | Seperate entries for Ni, Rei, Kai and the new Gou and Sotsu |
 | JoJo's Bizarre Adventure (2012)  | Series  | S01, S02, S03, S04  | S01, Stardust Crusaders + Egypt Battle, Unbreakable Diamond, Golden Wind |  |
 | Kaguya-sama: Love Is War  | Series | S01, S02 |Kaguya-sama: Love Is War, Kaguya-sama: Love Is War? |  |
 | Miss Kobayashi's Dragon Maid | Series | S01, S02 | Miss Kobayashi's Dragon Maid, Miss Kobayashi's Dragon Maid S| |
