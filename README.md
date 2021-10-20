@@ -10,7 +10,7 @@ Currently Mapped Titles:
 
 |  Title | Type  | Plex  Season |  Anilist Entries| Note|
 | ------------ | ------------ | ------------ | ------------ | ------------ |
-| 5 Centimeters per Second | Movie | Movie | 5 Centimeters per Second | This movie is divided in 3 episodes on Anilist. |
+| 5 Centimeters per Second | Movie | Movie | 5 Centimeters per Second | This movie is divided into 3 episodes on Anilist. |
 | 86: Eighty Six  | Series  | S01  | Cour 1 + Cour 2  |  |
 | A Certain Scientific Railgun  |  Series | S01, S02, S03  | Railgun, Railgun S, Railgun T  |  |
 | A Silent Voice: The Movie  | Movie  | Movie  | A Silent Voice  |  |
