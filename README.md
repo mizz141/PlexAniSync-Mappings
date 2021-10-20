@@ -6,9 +6,11 @@ Tested for Plex Scanner and TVDB, not tested with and for other scanners.
 Currently Mapped Titles:
 - Plex Season And Anilist Entries are respective to each other.
 - Plus (+) sign indicates that two Anilist entries have been mapped to a single Plex Season respectively.
+- TVDB Specials cannot be matched with custom mappings due to [PlexAniSync not supporting Season 0/Specials](https://github.com/RickDB/PlexAniSync/issues/80#issuecomment-944931420).
 
 |  Title | Type  | Plex  Season |  Anilist Entries| Note|
 | ------------ | ------------ | ------------ | ------------ | ------------ |
+| 5 Centimeters per Second | Movie | Movie | 5 Centimeters per Second | This movie is divided in 3 episodes on Anilist |
 | 86: Eighty Six  | Series  | S01  | Cour 1 + Cour 2  |  |
 | A Certain Scientific Railgun  |  Series | S01, S02, S03  | Railgun, Railgun S, Railgun T  |  |
 | A Silent Voice: The Movie  | Movie  | Movie  | A Silent Voice  |  |
@@ -20,14 +22,14 @@ Currently Mapped Titles:
 | Danganronpa 3: The End of Hope's Peak Academy - Despair Arc | Series  |  S01 | Danganronpa 3: The End of Hope's Peak High School - Despair Arc  |  |
 | Demon Slayer | Series | S01, S02 | Demon Slayer: Kimetsu no Yaiba, Demon Slayer: Kimetsu no Yaiba 2| |
 | Dr. Stone  | Series  | S01, S02  | Dr. Stone, Stone Wars  |  |
-| Fate/stay night: Unlimited Blade Works | Series  | S01 | S01+S02  | Anilist Episode 2 mapped to Plex Episode 1 due to TVDB having 25 episodes for S01 and a Special Episode while Anilist has Special Episode included in total episode count, that is, 26. |
+| Fate/stay night: Unlimited Blade Works | Series  | S01 | S01+S02  | Anilist Episode 2 mapped to Plex Episode 1 due to TVDB having 25 episodes for S01 and a Special Episode (listed as Season 0) while Anilist has Special Episode included in total episode count, that is, 26. |
 | Fate/Zero | Series  | S01 | S01+S02  |  |
 | Gintama  | Series  | S01-S04, S05, S06, S07, S08, S09, S10  | S01, S02, S03, S04, S05, Slip Arc, Silver Soul Arc + Silver Soul Arc Second Half War |  |
 | Higurashi - When They Cry GOU | Series | S01, S02 | Gou, Sotsu | Seperate entries for Ni, Rei, Kai and the new Gou and Sotsu |
 | JoJo's Bizarre Adventure (2012)  | Series  | S01, S02, S03, S04  | S01, Stardust Crusaders + Egypt Battle, Unbreakable Diamond, Golden Wind |  |
 | Kaguya-sama: Love Is War  | Series | S01, S02 |Kaguya-sama: Love Is War, Kaguya-sama: Love Is War? |  |
 | Miss Kobayashi's Dragon Maid | Series | S01, S02 | Miss Kobayashi's Dragon Maid, Miss Kobayashi's Dragon Maid S| |
-| Monogatari | Series and Movies  | S01, S02, S03, S04, S05 | Bakemonogatari, Nisemonogatari, Monogatari Series Second Season, Owarimonogatari, Owarimonogatari Second Season | ~~S00 for Specials is only a placeholder due to PlexAniSync not recognizing Specials, will get updated when a fix is found.~~ [will never be fixed](https://github.com/RickDB/PlexAniSync/issues/80#issuecomment-944931420) |
+| Monogatari | Series | S01, S02, S03, S04, S05 | Bakemonogatari, Nisemonogatari, Monogatari Series Second Season, Owarimonogatari, Owarimonogatari Second Season | Monogatari Series Second Season has 26 (includes 3 special episodes) episodes listed on Anilist while only 23 (excludes Special, lists them as Season 0 instead) episodes on TVDB, hence Anilist Episode 4 mapped to TVDB Episode 1|
 | Mushoku Tensei: Jobless Reincarnation  | Series  | S01  | Cour 1 + Cour 2  |  |
 | Re:ZERO -Starting Life in Another World- | Series  | S02 | S02P1, S02P2  |  |
 | Shelter | Music | Movie |  Shelter | Music Video released as an Anime. Plex treats it as a Movie. |
@@ -54,14 +56,14 @@ Configure the Path to be in your AppData folder named "PlexAniSync-Mappings" and
 You can automate the mappings with a simple script that can be run with the "User Scripts" plugin (also in the Community Applications)
 
 Create a script with a name (preferrably PlexAniSync) and add this:
-``` 
+```
 #!/bin/bash
 rm -r /mnt/user/appdata/PlexAniSync/*
 cd /mnt/user/appdata/PlexAniSync
 git clone https://github.com/mizz141/PlexAniSync-Mappings.git
 docker restart plexanisync
 ```
-The Script will cd into the appdata folder you created, clone the repo, and restart the Docker Container. 
+The Script will cd into the appdata folder you created, clone the repo, and restart the Docker Container.
 
 You can set the update interwall to whatever you like, best results are gained with a Daily inteval. It's recommended to test-run the script for any errors, most commonly a misnamed container or wrong filepath.
 
