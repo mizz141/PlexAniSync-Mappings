@@ -154,10 +154,8 @@ entries:
         anilist-id: 17074
       - season: 4
         anilist-id: 21262
-        start: 1
       - season: 5
-        anilist-id: 21262
-        start: 1
+        anilist-id: 21745
       - season: 0
         anilist-id: 9260
         start: 2
