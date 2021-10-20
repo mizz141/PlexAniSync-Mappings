@@ -54,7 +54,8 @@ You can automate the mappings with a simple script that can be run with the "Use
 Create a script with a name (preferrably PlexAniSync) and add this:
 ``` 
 #!/bin/bash
-cd /mnt/user/appdata/PlexAniSync-Mappings 
+rm -r /mnt/user/appdata/PlexAniSync/*
+cd /mnt/user/appdata/PlexAniSync
 git clone https://github.com/mizz141/PlexAniSync-Mappings.git
 docker restart plexanisync
 ```
