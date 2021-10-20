@@ -112,6 +112,12 @@ entries:
       - season: 10
         anilist-id: 101925
         start: 13
+  - title: "Higurashi - When They Cry Gou"
+    seasons:
+      - season: 1
+        anilist-id: 114446
+      - season: 2
+        anilist-id: 131149
   - title: "JoJo's Bizarre Adventure (2012)"
     seasons:
       - season: 1
@@ -256,3 +262,11 @@ entries:
       - season: 3
         anilist-id: 102351
         start: 13
+  - title: "When They Cry - Higurashi"
+    seasons:
+      - season: 1
+        anilist-id: 934
+      - season: 2
+        anilist-id: 1889
+      - season: 3
+        anilist-id: 3652
