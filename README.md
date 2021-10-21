@@ -49,7 +49,7 @@ This is easiest done with the [Community Applications](https://forums.unraid.net
 
 Enter the Variables according to the [dockerHub](https://hub.docker.com/r/rickdb/plexanisync/)
 
-Configure the Path to be in your AppData folder named `PlexAniSync-Mappings` and create that folder.
+Configure the Path to be in your AppData folder named `PlexAniSync-Mappings`.
 
 **Installation of the Mappings**
 
