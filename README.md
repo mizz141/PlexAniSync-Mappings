@@ -49,21 +49,41 @@ This is easiest done with the [Community Applications](https://forums.unraid.net
 
 Enter the Variables according to the [dockerHub](https://hub.docker.com/r/rickdb/plexanisync/)
 
-Configure the Path to be in your AppData folder named "PlexAniSync-Mappings" and create that folder.
+Configure the Path to be in your AppData folder named `PlexAniSync-Mappings` and create that folder.
 
 **Installation of the Mappings**
 
 You can automate the mappings with a simple script that can be run with the "User Scripts" plugin (also in the Community Applications)
 
-Create a script with a name (preferrably PlexAniSync) and add this:
+In the unRAID webterminal, input the following commands to clone the git repository:
+
+```
+cd /mnt/user/appdata/
+git clone https://github.com/mizz141/PlexAniSync-Mappings.git
+```
+This will create a `PlexAniSync-Mappings` directory in your appdata share and copy all files from the repository into this directory.
+
+You may need to configure default git configurations for it to pull automatically without any additional arguments on the `git pull` command. If you are never going to make changes with the repository and only want to grab changes, you should input the following command in your unRAID webterminal to only fast forward your repository whenever there are new changes:
+
+```
+git config --global pull.ff only
+```
+
+You can configure this configuration manually by editing the `~/.gitconfig` file. If you have only ran this configuration command, then the content of your config file is:
+
+```
+[pull]
+        ff = only
+```
+
+Now, to finally automate the whole process, create a script with a name (preferrably `PlexAniSync`) and add this:
 ```
 #!/bin/bash
-rm -r /mnt/user/appdata/PlexAniSync/*
-cd /mnt/user/appdata/PlexAniSync
-git clone https://github.com/mizz141/PlexAniSync-Mappings.git
+cd /mnt/user/appdata/PlexAniSync-Mappings
+git pull origin main
 docker restart plexanisync
 ```
-The Script will cd into the appdata folder you created, clone the repo, and restart the Docker Container.
+The Script will cd into the appdata folder you created, pull the latest changes for the repository from GitHub, and restart the Docker Container.
 
 You can set the update interwall to whatever you like, best results are gained with a Daily inteval. It's recommended to test-run the script for any errors, most commonly a misnamed container or wrong filepath.
 
