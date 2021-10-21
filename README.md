@@ -59,9 +59,11 @@ In the unRAID webterminal, input the following commands to clone the git reposit
 
 ```
 cd /mnt/user/appdata/
+mkdir PlexAniSync
+cd PlexAniSync
 git clone https://github.com/mizz141/PlexAniSync-Mappings.git
 ```
-This will create a `PlexAniSync-Mappings` directory in your appdata share and copy all files from the repository into this directory.
+This will create a `PlexAniSync-Mappings` directory in your appdata share as a nested folder of the PlexAniSync docker and copy all files from the repository into this directory.
 
 You may need to configure default git configurations for it to pull automatically without any additional arguments on the `git pull` command. If you are never going to make changes with the repository and only want to grab changes, you should input the following command in your unRAID webterminal to only fast forward your repository whenever there are new changes:
 
