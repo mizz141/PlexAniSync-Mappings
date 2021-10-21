@@ -85,6 +85,6 @@ docker restart plexanisync
 ```
 The Script will cd into the appdata folder you created, pull the latest changes for the repository from GitHub, and restart the Docker Container.
 
-You can set the update interwall to whatever you like, best results are gained with a Daily inteval. It's recommended to test-run the script for any errors, most commonly a misnamed container or wrong filepath.
+You can set the update interval to whatever you like, best results are gained with a Daily interval. It's recommended to test-run the script for any errors, most commonly a misnamed container or wrong filepath.
 
 Credits to [Randy Chen](https://github.com/ZhunCn) for the Script and Installation instructions.
