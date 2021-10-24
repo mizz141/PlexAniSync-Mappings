@@ -71,7 +71,7 @@ Currently Mapped Titles:
 | The Irregular at Magic High School | Series | S01, S02 | S01, Visitor Arc |  |
 | The King's Avatar | Series | S01, S02, S03 | S01, S02, S03 |  |
 | The Melancholy of Haruhi Suzumiya | Series | S01 | The Melancholy of Haruhi Suzumiya (2009) |  |
-| The Rising of the Shield Hero | Series | S01 | The Rising of the Shield Hero |  |
+| The Rising of the Shield Hero | Series | S01, S02, S03 | S01, S02, S03 |  |
 | The Slime Diaries | Series | S01 | The Slime Diaries |  |
 | Tokyo Ghoul | Series | S01, S02, S03 | Tokyo Ghoul, √A, re: + re:2 |  |
 | Twin Star Exorcists | Series | S01 | S01 |  |

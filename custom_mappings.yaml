@@ -486,6 +486,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 99263
+      - season: 2
+        anilist-id: 111321
+      - season: 3
+        anilist-id: 111322
   - title: "The Slime Diaries"
     seasons:
       - season: 1
