@@ -109,6 +109,7 @@ entries:
         anilist-id: 101922
       - season: 2
         anilist-id: 129874
+        start: 8
   - title: "Dr. Stone"
     seasons:
       - season: 1
