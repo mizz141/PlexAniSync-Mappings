@@ -8,7 +8,6 @@ entries:
     seasons:
       - season: 1
         anilist-id: 116589
-        start: 1
       - season: 1
         anilist-id: 131586
         start: 12
@@ -28,7 +27,6 @@ entries:
     seasons:
       - season: 1
         anilist-id: 108268
-        start: 1
       - season: 1
         anilist-id: 113693
         start: 15
@@ -113,7 +111,6 @@ entries:
         anilist-id: 99714
       - season: 10
         anilist-id: 100784
-        start: 1
       - season: 10
         anilist-id: 101925
         start: 13
@@ -129,7 +126,6 @@ entries:
         anilist-id: 14719
       - season: 2
         anilist-id: 20474
-        start: 1
       - season: 2
         anilist-id: 20799
         start: 25
@@ -190,7 +186,6 @@ entries:
     seasons:
       - season: 1
         anilist-id: 108465
-        start: 1
       - season: 1
         anilist-id: 127720
         start: 12
@@ -198,7 +193,6 @@ entries:
     seasons:
       - season: 2
         anilist-id: 108632
-        start: 1
       - season: 2
         anilist-id: 119661
         start: 14
@@ -216,7 +210,6 @@ entries:
         anilist-id: 100182
       - season: 4
         anilist-id: 108759
-        start: 1
       - season: 4
         anilist-id: 114308
         start: 13
@@ -238,7 +231,6 @@ entries:
         anilist-id: 101280
       - season: 2
         anilist-id: 108511
-        start: 1
       - season: 2
         anilist-id: 116742
         start: 13
@@ -262,7 +254,6 @@ entries:
         anilist-id: 20850
       - season: 3
         anilist-id: 100240
-        start: 1
       - season: 3
         anilist-id: 102351
         start: 13
