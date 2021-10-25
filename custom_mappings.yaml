@@ -23,6 +23,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 20954
+  - title: "Aldnoah.Zero"
+    seasons:
+      - season: 1
+        anilist-id: 20632
+      - season: 1
+        anilist-id: 20853
+        start: 13
   - title: "Ascendance of a Bookworm"
     seasons:
       - season: 1
@@ -38,14 +45,42 @@ entries:
         anilist-id: 20958
       - season: 3
         anilist-id: 99147
+      - season: 3
+        anilist-id: 104578
+        start: 13
       - season: 4
         anilist-id: 110277
+      - season: 4
+        anilist-id: 131681
+        start: 17
+  - title: "BEASTARS"
+    seasons:
+      - season: 1
+        anilist-id: 107660
+      - season: 2
+        anilist-id: 114194
+  - title: "Blood Blockade Battlefront"
+    seasons:
+      - season: 1
+        anilist-id: 20727
+      - season: 2
+        anilist-id: 97886
+  - title: "Boruto: Naruto Next Generations"
+    seasons:
+      - season: 1
+        anilist-id: 97938
   - title: "Cells at Work!"
     seasons:
       - season: 1
         anilist-id: 100977
       - season: 2
         anilist-id: 108631
+  - title: "Chaika the Coffin Princess"
+    seasons:
+      - season: 1
+        anilist-id: 20462
+      - season: 2
+        anilist-id: 20719
   - title: "Clannad"
     seasons:
       - season: 1
@@ -62,7 +97,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 21825
-  - title: "Demon Slayer"
+  - title: "Darker Than Black"
+    seasons:
+      - season: 1
+        anilist-id: 2025
+      - season: 2
+        anilist-id: 6573
+  - title: "Demon Slayer: Kimetsu no Yaiba"
     seasons:
       - season: 1
         anilist-id: 101922
@@ -74,6 +115,18 @@ entries:
         anilist-id: 105333
       - season: 2
         anilist-id: 113936
+  - title: "Durarara!!"
+    seasons:
+      - season: 1
+        anilist-id: 6746
+      - season: 2
+        anilist-id: 20652
+      - season: 2
+        anilist-id: 20879
+        start: 13
+      - season: 2
+        anilist-id: 20880
+        start: 25
   - title: "Fate/stay night: Unlimited Blade Works"
     seasons:
       - season: 1
@@ -89,6 +142,29 @@ entries:
       - season: 1
         anilist-id: 11741
         start: 13
+  - title: "Food Wars! Shokugeki no Soma"
+    seasons:
+      - season: 1
+        anilist-id: 20923
+      - season: 2
+        anilist-id: 21518
+      - season: 3
+        anilist-id: 99255
+      - season: 3
+        anilist-id: 100773
+        start: 13
+      - season: 4
+        anilist-id: 109963
+      - season: 5
+        anilist-id: 114043
+  - title: "Fruits Basket (2019)"
+    seasons:
+      - season: 1
+        anilist-id: 105334
+      - season: 2
+        anilist-id: 111762
+      - season: 3
+        anilist-id: 124194
   - title: "Gintama"
     seasons:
       - season: 1
@@ -114,12 +190,60 @@ entries:
       - season: 10
         anilist-id: 101925
         start: 13
+  - title: "Grimgar of Fantasy & Ash"
+    seasons:
+      - season: 1
+        anilist-id: 21428
+  - title: "Haikyu!!"
+    seasons:
+      - season: 1
+        anilist-id: 20464
+      - season: 2
+        anilist-id: 20992
+      - season: 3
+        anilist-id: 21698
+      - season: 4
+        anilist-id: 106625
+      - season: 4
+        anilist-id: 113538
+        start: 14
   - title: "Higurashi - When They Cry Gou"
     seasons:
       - season: 1
         anilist-id: 114446
       - season: 2
         anilist-id: 131149
+  - title: "Hozuki's Coolheadedness"
+    seasons:
+      - season: 1
+        anilist-id: 20431
+      - season: 2
+        anilist-id: 98438
+      - season: 2
+        anilist-id: 100852
+        start: 14
+  - title: "Hunter x Hunter (2011)"
+    seasons:
+      - season: 1
+        anilist-id: 11061
+      - season: 2
+        anilist-id: 11061
+      - season: 3
+        anilist-id: 11061
+  - title: "Inu × Boku Secret Service"
+    seasons:
+      - season: 1
+        anilist-id: 11013
+  - title: "Is It Wrong to Try to Pick Up Girls in a Dungeon?"
+    seasons:
+      - season: 1
+        anilist-id: 20920
+      - season: 2
+        anilist-id: 101167
+      - season: 3
+        anilist-id: 112124
+      - season: 4
+        anilist-id: 129196
   - title: "JoJo's Bizarre Adventure (2012)"
     seasons:
       - season: 1
@@ -133,12 +257,66 @@ entries:
         anilist-id: 21450
       - season: 4
         anilist-id: 102883
-  - title: "Kaguya-sama: Love Is War"
+  - title: "K"
+    seasons:
+      - season: 1
+        anilist-id: 14467
+      - season: 2
+        anilist-id: 20913
+  - title: "Kaguya-sama: Love is War"
     seasons:
       - season: 1
         anilist-id: 101921
       - season: 2
         anilist-id: 112641
+      - season: 3
+        anilist-id: 125367
+  - title: "Kakegurui"
+    seasons:
+      - season: 1
+        anilist-id: 98314
+      - season: 2
+        anilist-id: 100876
+  - title: "Kingdom"
+    seasons:
+      - season: 1
+        anilist-id: 12031
+      - season: 2
+        anilist-id: 17389
+      - season: 3
+        anilist-id: 113108
+      - season: 4
+        anilist-id: 140350
+  - title: "Log Horizon"
+    seasons:
+      - season: 1
+        anilist-id: 17265
+      - season: 2
+        anilist-id: 20671
+      - season: 3
+        anilist-id: 114862
+  - title: "Love, Chunibyo & Other Delusions!"
+    seasons:
+      - season: 1
+        anilist-id: 14741
+      - season: 2
+        anilist-id: 18671
+  - title: "Magi: Adventure of Sinbad"
+    seasons:
+      - season: 1
+        anilist-id: 21394
+  - title: "Magi: The Labyrinth of Magic"
+    seasons:
+      - season: 1
+        anilist-id: 14513
+      - season: 2
+        anilist-id: 18115
+  - title: "Megalobox"
+    seasons:
+      - season: 1
+        anilist-id: 100298
+      - season: 2
+        anilist-id: 113359
   - title: "Miss Kobayashi's Dragon Maid"
     seasons:
       - season: 1
@@ -189,17 +367,69 @@ entries:
       - season: 1
         anilist-id: 127720
         start: 12
+  - title: "My Teen Romantic Comedy SNAFU"
+    seasons:
+      - season: 1
+        anilist-id: 14813
+      - season: 2
+        anilist-id: 20698
+      - season: 3
+        anilist-id: 108489
+  - title: "Noragami"
+    seasons:
+      - season: 1
+        anilist-id: 20447
+      - season: 2
+        anilist-id: 21128
+  - title: "One Piece"
+    seasons:
+      - season: 21
+        anilist-id: 21
+        start: -890
+  - title: "Psycho-Pass"
+    seasons:
+      - season: 1
+        anilist-id: 13601
+      - season: 2
+        anilist-id: 20513
+      - season: 3
+        anilist-id: 108307
+  - title: "Rage of Bahamut"
+    seasons:
+      - season: 1
+        anilist-id: 20590
+      - season: 2
+        anilist-id: 21184
   - title: "Re:ZERO -Starting Life in Another World-"
     seasons:
+      - season: 1
+        anilist-id: 21355
       - season: 2
         anilist-id: 108632
       - season: 2
         anilist-id: 119661
         start: 14
+  - title: "Seraph of the End"
+    seasons:
+      - season: 1
+        anilist-id: 20829
+      - season: 1
+        anilist-id: 20993
+        start: 13
   - title: "Shelter"
     seasons:
       - season: 1
         anilist-id: 97731
+  - title: "Star Blazers: Space Battleship Yamato 2199"
+    seasons:
+      - season: 1
+        anilist-id: 12029
+      - season: 2
+        anilist-id: 21730
+  - title: "Sweetness & Lightning"
+    seasons:
+      - season: 1
+        anilist-id: 21659
   - title: "Sword Art Online"
     seasons:
       - season: 1
@@ -234,6 +464,20 @@ entries:
       - season: 2
         anilist-id: 116742
         start: 13
+  - title: "The Irregular at Magic High School"
+    seasons:
+      - season: 1
+        anilist-id: 20458
+      - season: 2
+        anilist-id: 112300
+  - title: "The King's Avatar"
+    seasons:
+      - season: 1
+        anilist-id: 98861
+      - season: 2
+        anilist-id: 102997 
+      - season: 3
+        anilist-id: 137735
   - title: "The Melancholy of Haruhi Suzumiya"
     seasons:
       - season: 1
@@ -242,6 +486,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 99263
+      - season: 2
+        anilist-id: 111321
+      - season: 3
+        anilist-id: 111322
   - title: "The Slime Diaries"
     seasons:
       - season: 1
@@ -257,6 +505,10 @@ entries:
       - season: 3
         anilist-id: 102351
         start: 13
+  - title: "Twin Star Exorcists"
+    seasons:
+      - season: 1
+        anilist-id: 21499
   - title: "When They Cry - Higurashi"
     seasons:
       - season: 1
@@ -265,3 +517,7 @@ entries:
         anilist-id: 1889
       - season: 3
         anilist-id: 3652
+  - title: "Yamada-kun and the Seven Witches (2015)"
+    seasons:
+      - season: 1
+        anilist-id: 20966
