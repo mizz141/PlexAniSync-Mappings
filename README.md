@@ -33,7 +33,7 @@ Currently Mapped Titles:
 | Fate/stay night: Unlimited Blade Works | Series | S01 | S01 + S02 | Anilist Episode 2 mapped to Plex Episode 1 due to TVDB having 25 episodes for S01 and a Special Episode (listed as Season 0) while Anilist has Special Episode included in total episode count, that is, 26. |
 | Fate/Zero | Series | S01 | S01 + S02 |  |
 | Food Wars! Shokugeki no Soma | Series | S01, S02, S03, S04, S05 | S01, Ni no Sara, San no Sara + Tootsuki Ressha-hen, Shin no Sara, Gou no Sara |  |
-| Fruits Basket | Series | S01, S02, S03 | S01, S02, S03 |  |
+| Fruits Basket (2019) | Series | S01, S02, S03 | S01, S02, S03 |  |
 | Gintama | Series | S01-S04, S05, S06, S07, S08, S09, S10 | S01, S02, S03, S04, S05, Slip Arc, Silver Soul Arc + Silver Soul Arc Second Half War |  |
 | Grimgar of Fantasy & Ash | Series | S01 | S01 |  |
 | Haikyu!! | Series | S01, S02, S03, S04 | S01, S02, Karasuno VS Shiratorizawa, To the Top 1 + To the Top 2 |  |
