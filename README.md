@@ -27,7 +27,7 @@ Currently Mapped Titles:
 | Code Geass: Lelouch of the Rebellion | Series | S01, S02 | R1, R2 |  |
 | Danganronpa 3: The End of Hope's Peak Academy - Despair Arc | Series |  S01 | Danganronpa 3: The End of Hope's Peak High School - Despair Arc |  |
 | Darker Than Black | Series | S01, S02 | Darker than Black, Gemini of the Meteor |  |
-| Demon Slayer | Series | S01, S02 | S01, S02 | S02 starts at ep 8, due to ep 1-7 being specials on TVDB | |
+| Demon Slayer | Series | S01, S02 | S01, S02 | |
 | Dr. Stone | Series | S01, S02 | Dr. Stone, Stone Wars |  |
 | Durarara!! | Series | S01, S02 | Durarara!!, Shou+Ten+Ketsu |  |
 | Fate/stay night: Unlimited Blade Works | Series | S01 | S01 + S02 | Anilist Episode 2 mapped to Plex Episode 1 due to TVDB having 25 episodes for S01 and a Special Episode (listed as Season 0) while Anilist has Special Episode included in total episode count, that is, 26. |
@@ -117,7 +117,7 @@ You can configure this configuration manually by editing the `~/.gitconfig` file
 Now, to finally automate the whole process, create a script with a name (preferrably `PlexAniSync`) and add this:
 ```
 #!/bin/bash
-cd /mnt/user/appdata/PlexAniSync-Mappings
+cd /mnt/user/appdata/PlexAniSync/PlexAniSync-Mappings
 git pull origin main
 docker restart plexanisync
 ```
