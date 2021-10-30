@@ -73,8 +73,8 @@ Currently Mapped Titles:
 | The Melancholy of Haruhi Suzumiya | Series | S01 | The Melancholy of Haruhi Suzumiya (2009) |  |
 | The Rising of the Shield Hero | Series | S01, S02, S03 | S01, S02, S03 |  |
 | The Slime Diaries | Series | S01 | The Slime Diaries |  |
-| To Love-Ru | Series | S01, S02, S03, S04 + OVA | To Love-Ru, Motto, Darkness, Darkness 2nd + OVA |  |
 | Tokyo Ghoul | Series | S01, S02, S03 | Tokyo Ghoul, √A, re: + re:2 |  |
+| To Love-Ru | Series | S01, S02, S03, S04 + OVA | To Love-Ru, Motto, Darkness, Darkness 2nd + OVA |  |
 | Twin Star Exorcists | Series | S01 | S01 |  |
 | When They Cry - Higurashi | Series | S01, S02, S03 | Ni, Kai, Rei | Seperate entries for Ni, Kai, Rei and the new Gou and Sotsu. |
 | Yamada-kun and the Seven Witches (2015) | Series | S01 | S01 |  |
