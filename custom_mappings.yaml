@@ -590,3 +590,15 @@ entries:
     seasons:
       - season: 1
         anilist-id: 20966
+  - title: "Yu-Gi-Oh!"
+    seasons:
+      - season: 1
+        anilist-id: 481
+      - season: 2
+        anilist-id: 481
+      - season: 3
+        anilist-id: 481
+      - season: 4
+        anilist-id: 481
+      - season: 5
+        anilist-id: 481
