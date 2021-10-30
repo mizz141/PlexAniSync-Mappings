@@ -19,6 +19,7 @@ Currently Mapped Titles:
 | Ascendance of a Bookworm | Series | S01 | S01P1 + S01P2 |  |
 | Attack on Titan | Series | S01, S02, S03, S04 | S01, S02, S03P1 + S03P2, S04P1 + S04P2 |  |
 | BEASTARS | Series | S01, S02 | S01, S02 |  |
+| Black Butler | Series | S01, S02, S03 | S01, S02, Book of Circus |  |
 | Blood Blockade Battlefront | Series | S01, S02 | S01, S02 |  |
 | Boruto: Naruto Next Generations | Series | S01 | S01 |  |
 | Cells at Work! | Series | S01, S02 | Cells at Work!, Cells at Work!! |  |
