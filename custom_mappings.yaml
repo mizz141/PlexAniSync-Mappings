@@ -67,6 +67,12 @@ entries:
         anilist-id: 6707
       - season: 3
         anilist-id: 20606
+  - title: "Black Lagoon"
+    seasons: 
+     - season: 1
+       anilist-id: 889
+     - season: 2
+       anilist-id: 1519
   - title: "Blood Blockade Battlefront"
     seasons:
       - season: 1
