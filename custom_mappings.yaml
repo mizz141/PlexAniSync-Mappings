@@ -500,6 +500,16 @@ entries:
       - season: 2
         anilist-id: 116742
         start: 13
+  - title: "The Familiar of Zero"
+    seasons:
+      - season: 1
+        anilist-id: 1195
+      - season: 2
+        anilist-id: 1840
+      - season: 3
+        anilist-id: 3712
+      - season: 4
+        anilist-id: 11319
   - title: "The Irregular at Magic High School"
     seasons:
       - season: 1
