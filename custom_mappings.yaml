@@ -511,6 +511,19 @@ entries:
       - season: 3
         anilist-id: 102351
         start: 13
+  - title: "To Love-Ru"
+    seasons:
+     - season: 1
+       anilist-id: 3455
+     - season: 2
+       anilist-id: 9181
+     - season: 3
+       anilist-id: 13663
+     - season: 4
+       anilist-id: 20995
+     - season: 4
+       anilist-id: 21852
+       start: 13
   - title: "Twin Star Exorcists"
     seasons:
       - season: 1
