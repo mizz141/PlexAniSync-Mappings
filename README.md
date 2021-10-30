@@ -73,6 +73,7 @@ Currently Mapped Titles:
 | Sword Art Online | Series | S01, S02, S03, S04 | I, II, Alicization, Alicization War of Underworld Part 1 + 2 |  |
 | Symphogear | Series | S01, S02, S03, S04, S05 | Symphogear, G, GX, AXZ, XV|  |
 | That Time I Got Reincarnated as a Slime | Series | S01, S02 | S01, S02P1 + S02P2 |  |
+| The Familiar of Zero | Series | S01, S02, S03, S04 | S01, Twin Moons, "Rondo" of Princess, F |  |
 | The Irregular at Magic High School | Series | S01, S02 | S01, Visitor Arc |  |
 | The King's Avatar | Series | S01, S02, S03 | S01, S02, S03 |  |
 | The Melancholy of Haruhi Suzumiya | Series | S01 | The Melancholy of Haruhi Suzumiya (2009) |  |
