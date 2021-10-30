@@ -20,7 +20,7 @@ Currently Mapped Titles:
 | Attack on Titan | Series | S01, S02, S03, S04 | S01, S02, S03P1 + S03P2, S04P1 + S04P2 |  |
 | BEASTARS | Series | S01, S02 | S01, S02 |  |
 | Black Butler | Series | S01, S02, S03 | S01, S02, Book of Circus |  |
-| Black Lagoon | Series | S01, S02 | S01, S02 |  |
+| Black Lagoon | Series | S01, S02 | S01, The Second Barrage |  |
 | Blood Blockade Battlefront | Series | S01, S02 | S01, S02 |  |
 | Boruto: Naruto Next Generations | Series | S01 | S01 |  |
 | Cells at Work! | Series | S01, S02 | Cells at Work!, Cells at Work!! |  |
