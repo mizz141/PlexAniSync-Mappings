@@ -67,6 +67,12 @@ entries:
         anilist-id: 6707
       - season: 3
         anilist-id: 20606
+  - title: "Black Lagoon"
+    seasons: 
+      - season: 1
+       anilist-id: 889
+      - season: 2
+       anilist-id: 1519
   - title: "Blood Blockade Battlefront"
     seasons:
       - season: 1
@@ -101,10 +107,26 @@ entries:
         anilist-id: 1575
       - season: 2
         anilist-id: 2904
-  - title: "Danganronpa 3: The End of Hope’s Peak Academy - Despair Arc"
+  - title: "Danganronpa"
     seasons:
       - season: 1
-        anilist-id: 21825
+        anilist-id: 16592
+  - title: "Danganronpa 3: The End of Hope’s Peak Academy - Despair Arc"
+    seasons:
+       - season: 1
+         anilist-id: 21825
+  - title: "Danganronpa 3: The End of Hope's Peak Academy - Future Arc"
+    seasons: 
+      - season: 1
+        anilist-id: 21509
+  - title: "Danmachi: Is It Wrong to Try to Pick Up Girls in a Dungeon?"
+    seasons:
+      - season: 1
+       anilist-id: 20920
+      - season: 2
+        anilist-id: 101167
+      - season: 3
+        anilist-id: 112124
   - title: "Darker Than Black"
     seasons:
       - season: 1
@@ -117,7 +139,7 @@ entries:
         anilist-id: 101922
       - season: 2
         anilist-id: 129874
-- title: "Demon Slayer: Kimetsu no Yaiba"
+  - title: "Demon Slayer: Kimetsu no Yaiba"
     seasons:
       - season: 1
         anilist-id: 101922
@@ -221,6 +243,16 @@ entries:
       - season: 4
         anilist-id: 113538
         start: 14
+  - title: "Highschool DxD"
+    seasons:
+      - season: 1
+        anilist-id: 11617
+      - season: 2
+        anilist-id: 15451
+      - season: 3
+        anilist-id: 20745
+      - season: 4
+        anilist-id: 97767
   - title: "Higurashi - When They Cry Gou"
     seasons:
       - season: 1
@@ -478,6 +510,16 @@ entries:
       - season: 2
         anilist-id: 116742
         start: 13
+  - title: "The Familiar of Zero"
+    seasons:
+      - season: 1
+        anilist-id: 1195
+      - season: 2
+        anilist-id: 1840
+      - season: 3
+        anilist-id: 3712
+      - season: 4
+        anilist-id: 11319
   - title: "The Irregular at Magic High School"
     seasons:
       - season: 1
@@ -548,3 +590,15 @@ entries:
     seasons:
       - season: 1
         anilist-id: 20966
+  - title: "Yu-Gi-Oh!"
+    seasons:
+      - season: 1
+        anilist-id: 481
+      - season: 2
+        anilist-id: 481
+      - season: 3
+        anilist-id: 481
+      - season: 4
+        anilist-id: 481
+      - season: 5
+        anilist-id: 481

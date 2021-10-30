@@ -20,13 +20,17 @@ Currently Mapped Titles:
 | Attack on Titan | Series | S01, S02, S03, S04 | S01, S02, S03P1 + S03P2, S04P1 + S04P2 |  |
 | BEASTARS | Series | S01, S02 | S01, S02 |  |
 | Black Butler | Series | S01, S02, S03 | S01, S02, Book of Circus |  |
+| Black Lagoon | Series | S01, S02 | S01, The Second Barrage |  |
 | Blood Blockade Battlefront | Series | S01, S02 | S01, S02 |  |
 | Boruto: Naruto Next Generations | Series | S01 | S01 |  |
 | Cells at Work! | Series | S01, S02 | Cells at Work!, Cells at Work!! |  |
 | Chaika the Coffin Princess | Series | S01, S02 | S01, Avenging Battle |  |
 | Clannad | Series | S01, S02 | S01, After Story |  |
 | Code Geass: Lelouch of the Rebellion | Series | S01, S02 | R1, R2 |  |
+| Danganronpa | Series |  S01 | Danganronpa |  |
 | Danganronpa 3: The End of Hope's Peak Academy - Despair Arc | Series |  S01 | Danganronpa 3: The End of Hope's Peak High School - Despair Arc |  |
+| Danganronpa 3: The End of Hope's Peak Academy - Future Arc | Series |  S01 | Danganronpa 3: The End of Hope's Peak High School - Future Arc |  |
+| Danmachi: Is It Wrong to Try to Pick Up Girls in a Dungeon? | Series |  S01, S02, S03 | S01, S02, S03 |  |
 | Darker Than Black | Series | S01, S02 | Darker than Black, Gemini of the Meteor |  |
 | Demon Slayer | Series | S01, S02 | S01, S02 | |
 | Dr. Stone | Series | S01, S02 | Dr. Stone, Stone Wars |  |
@@ -38,6 +42,7 @@ Currently Mapped Titles:
 | Gintama | Series | S01-S04, S05, S06, S07, S08, S09, S10 | S01, S02, S03, S04, S05, Slip Arc, Silver Soul Arc + Silver Soul Arc Second Half War |  |
 | Grimgar of Fantasy & Ash | Series | S01 | S01 |  |
 | Haikyu!! | Series | S01, S02, S03, S04 | S01, S02, Karasuno VS Shiratorizawa, To the Top 1 + To the Top 2 |  |
+| Highschool DxD | Series | S01, S02, S03, S04 | S01, NEW, BorN, HERO |  |
 | Higurashi - When They Cry GOU | Series | S01, S02 | Gou, Sotsu | Seperate entries for Ni, Rei, Kai and the new Gou and Sotsu. |
 | Hozuki's Coolheadedness | Series | S01, S02 | S01, S02P1 + S02P2 |  |
 | Hunter x Hunter (2011) | Series | S01, S02, S03 | S01 |  |
@@ -69,6 +74,7 @@ Currently Mapped Titles:
 | Sword Art Online | Series | S01, S02, S03, S04 | I, II, Alicization, Alicization War of Underworld Part 1 + 2 |  |
 | Symphogear | Series | S01, S02, S03, S04, S05 | Symphogear, G, GX, AXZ, XV|  |
 | That Time I Got Reincarnated as a Slime | Series | S01, S02 | S01, S02P1 + S02P2 |  |
+| The Familiar of Zero | Series | S01, S02, S03, S04 | S01, Twin Moons, "Rondo" of Princess, F |  |
 | The Irregular at Magic High School | Series | S01, S02 | S01, Visitor Arc |  |
 | The King's Avatar | Series | S01, S02, S03 | S01, S02, S03 |  |
 | The Melancholy of Haruhi Suzumiya | Series | S01 | The Melancholy of Haruhi Suzumiya (2009) |  |
@@ -79,6 +85,7 @@ Currently Mapped Titles:
 | Twin Star Exorcists | Series | S01 | S01 |  |
 | When They Cry - Higurashi | Series | S01, S02, S03 | Ni, Kai, Rei | Seperate entries for Ni, Kai, Rei and the new Gou and Sotsu. |
 | Yamada-kun and the Seven Witches (2015) | Series | S01 | S01 |  |
+| Yu-Gi-Oh! | Series | S01, S02, S03, S04, S05 | S01 |  |
 
 # Installation on unRAID
 First you need to install the PlexAniSync Docker, if you have that already, you can skip this section.
