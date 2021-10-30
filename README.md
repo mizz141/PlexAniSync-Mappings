@@ -42,6 +42,7 @@ Currently Mapped Titles:
 | Gintama | Series | S01-S04, S05, S06, S07, S08, S09, S10 | S01, S02, S03, S04, S05, Slip Arc, Silver Soul Arc + Silver Soul Arc Second Half War |  |
 | Grimgar of Fantasy & Ash | Series | S01 | S01 |  |
 | Haikyu!! | Series | S01, S02, S03, S04 | S01, S02, Karasuno VS Shiratorizawa, To the Top 1 + To the Top 2 |  |
+| Highschool DxD | Series | S01, S02, S03, S04 | S01, NEW, BorN, HERO |  |
 | Higurashi - When They Cry GOU | Series | S01, S02 | Gou, Sotsu | Seperate entries for Ni, Rei, Kai and the new Gou and Sotsu. |
 | Hozuki's Coolheadedness | Series | S01, S02 | S01, S02P1 + S02P2 |  |
 | Hunter x Hunter (2011) | Series | S01, S02, S03 | S01 |  |
