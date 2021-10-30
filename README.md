@@ -30,6 +30,7 @@ Currently Mapped Titles:
 | Danganronpa | Series |  S01 | Danganronpa |  |
 | Danganronpa 3: The End of Hope's Peak Academy - Despair Arc | Series |  S01 | Danganronpa 3: The End of Hope's Peak High School - Despair Arc |  |
 | Danganronpa 3: The End of Hope's Peak Academy - Future Arc | Series |  S01 | Danganronpa 3: The End of Hope's Peak High School - Future Arc |  |
+| Danmachi: Is It Wrong to Try to Pick Up Girls in a Dungeon? | Series |  S01, S02, S03 | S01, S02, S03 |  |
 | Darker Than Black | Series | S01, S02 | Darker than Black, Gemini of the Meteor |  |
 | Demon Slayer | Series | S01, S02 | S01, S02 | |
 | Dr. Stone | Series | S01, S02 | Dr. Stone, Stone Wars |  |
