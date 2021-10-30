@@ -119,6 +119,14 @@ entries:
     seasons: 
      - season: 1
        anilist-id: 21509
+  - title: "Danmachi: Is It Wrong to Try to Pick Up Girls in a Dungeon?"
+    seasons:
+    - season: 1
+      anilist-id: 20920
+    - season: 2
+      anilist-id: 101167
+    - season: 3
+      anilist-id: 112124
   - title: "Darker Than Black"
     seasons:
       - season: 1
