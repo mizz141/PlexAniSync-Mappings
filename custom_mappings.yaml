@@ -258,7 +258,7 @@ entries:
         anilist-id: 112124
       - season: 4
         anilist-id: 129196
-  - title: "JoJo's Bizarre Adventure (2012)"
+  - title: "JoJo's Bizarre Adventure"
     seasons:
       - season: 1
         anilist-id: 14719
@@ -536,7 +536,7 @@ entries:
     seasons:
       - season: 1
         anilist-id: 21499
-  - title: "When They Cry - Higurashi"
+  - title: "Higurashi no Naku Koro ni"
     seasons:
       - season: 1
         anilist-id: 934
