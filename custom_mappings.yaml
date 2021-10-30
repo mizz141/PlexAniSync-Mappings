@@ -69,9 +69,9 @@ entries:
         anilist-id: 20606
   - title: "Black Lagoon"
     seasons: 
-     - season: 1
+      - season: 1
        anilist-id: 889
-     - season: 2
+      - season: 2
        anilist-id: 1519
   - title: "Blood Blockade Battlefront"
     seasons:
@@ -109,24 +109,24 @@ entries:
         anilist-id: 2904
   - title: "Danganronpa"
     seasons:
-     - season: 1
-       anilist-id: 16592
+      - season: 1
+        anilist-id: 16592
   - title: "Danganronpa 3: The End of Hope’s Peak Academy - Despair Arc"
     seasons:
-      - season: 1
-        anilist-id: 21825
+       - season: 1
+         anilist-id: 21825
   - title: "Danganronpa 3: The End of Hope's Peak Academy - Future Arc"
     seasons: 
-     - season: 1
-       anilist-id: 21509
+      - season: 1
+        anilist-id: 21509
   - title: "Danmachi: Is It Wrong to Try to Pick Up Girls in a Dungeon?"
     seasons:
-    - season: 1
-      anilist-id: 20920
-    - season: 2
-      anilist-id: 101167
-    - season: 3
-      anilist-id: 112124
+      - season: 1
+       anilist-id: 20920
+      - season: 2
+        anilist-id: 101167
+      - season: 3
+        anilist-id: 112124
   - title: "Darker Than Black"
     seasons:
       - season: 1
