@@ -101,10 +101,18 @@ entries:
         anilist-id: 1575
       - season: 2
         anilist-id: 2904
+  - title: "Danganronpa"
+    seasons:
+     - season: 1
+       anilist-id: 16592
   - title: "Danganronpa 3: The End of Hope’s Peak Academy - Despair Arc"
     seasons:
       - season: 1
         anilist-id: 21825
+  - title: "Danganronpa 3: The End of Hope's Peak Academy - Future Arc"
+    seasons: 
+     - season: 1
+       anilist-id: 21509
   - title: "Darker Than Black"
     seasons:
       - season: 1
@@ -117,7 +125,7 @@ entries:
         anilist-id: 101922
       - season: 2
         anilist-id: 129874
-- title: "Demon Slayer: Kimetsu no Yaiba"
+  - title: "Demon Slayer: Kimetsu no Yaiba"
     seasons:
       - season: 1
         anilist-id: 101922
