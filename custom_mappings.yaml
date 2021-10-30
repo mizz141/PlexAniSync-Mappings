@@ -243,6 +243,16 @@ entries:
       - season: 4
         anilist-id: 113538
         start: 14
+  - title: "Highschool DxD"
+    seasons:
+      - season: 1
+        anilist-id: 11617
+      - season: 2
+        anilist-id: 15451
+      - season: 3
+        anilist-id: 20745
+      - season: 4
+        anilist-id: 97767
   - title: "Higurashi - When They Cry Gou"
     seasons:
       - season: 1
