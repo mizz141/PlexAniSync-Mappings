@@ -71,8 +71,9 @@ entries:
     seasons: 
       - season: 1
        anilist-id: 889
-      - season: 2
+      - season: 1
        anilist-id: 1519
+       start: 14
   - title: "Blood Blockade Battlefront"
     seasons:
       - season: 1
