@@ -111,14 +111,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 16592
+      - season: 2
+        anilist-id: 21509
   - title: "Danganronpa 3: The End of Hope’s Peak Academy - Despair Arc"
     seasons:
        - season: 1
          anilist-id: 21825
-  - title: "Danganronpa 3: The End of Hope's Peak Academy - Future Arc"
-    seasons: 
-      - season: 1
-        anilist-id: 21509
   - title: "Danmachi: Is It Wrong to Try to Pick Up Girls in a Dungeon?"
     seasons:
       - season: 1
