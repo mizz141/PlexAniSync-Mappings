@@ -27,9 +27,8 @@ Currently Mapped Titles:
 | Chaika the Coffin Princess | Series | S01, S02 | S01, Avenging Battle |  |
 | Clannad | Series | S01, S02 | S01, After Story |  |
 | Code Geass: Lelouch of the Rebellion | Series | S01, S02 | R1, R2 |  |
-| Danganronpa | Series |  S01 | Danganronpa |  |
+| Danganronpa | Series |  S01, S02 | Danganronpa, DR3 Future Arc | *note: It might be needed to change to TVDB Aired order to properly scan series.* |
 | Danganronpa 3: The End of Hope's Peak Academy - Despair Arc | Series |  S01 | Danganronpa 3: The End of Hope's Peak High School - Despair Arc |  |
-| Danganronpa 3: The End of Hope's Peak Academy - Future Arc | Series |  S01 | Danganronpa 3: The End of Hope's Peak High School - Future Arc |  |
 | Danmachi: Is It Wrong to Try to Pick Up Girls in a Dungeon? | Series |  S01, S02, S03 | S01, S02, S03 |  |
 | Darker Than Black | Series | S01, S02 | Darker than Black, Gemini of the Meteor |  |
 | Demon Slayer | Series | S01, S02 | S01, S02 | |
