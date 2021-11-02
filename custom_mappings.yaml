@@ -549,6 +549,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 116741
+  - title: "The Way of the Househusband"
+    seasons:
+      - season: 1
+        anilist-id: 125426
+      - season: 1
+        anilist-id: 132193
+        start: 6
   - title: "Tokyo Ghoul"
     seasons:
       - season: 1
