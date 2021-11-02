@@ -68,12 +68,12 @@ entries:
       - season: 3
         anilist-id: 20606
   - title: "Black Lagoon"
-    seasons: 
+    seasons:
       - season: 1
-       anilist-id: 889
+        anilist-id: 889
       - season: 1
-       anilist-id: 1519
-       start: 14
+        anilist-id: 1519
+        start: 14
   - title: "Blood Blockade Battlefront"
     seasons:
       - season: 1
@@ -121,7 +121,7 @@ entries:
   - title: "Danmachi: Is It Wrong to Try to Pick Up Girls in a Dungeon?"
     seasons:
       - season: 1
-       anilist-id: 20920
+        anilist-id: 20920
       - season: 2
         anilist-id: 101167
       - season: 3
@@ -530,7 +530,7 @@ entries:
       - season: 1
         anilist-id: 98861
       - season: 2
-        anilist-id: 102997 
+        anilist-id: 102997
       - season: 3
         anilist-id: 137735
   - title: "The Melancholy of Haruhi Suzumiya"
@@ -549,6 +549,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 116741
+  - title: "The Way of the Househusband"
+    seasons:
+      - season: 1
+        anilist-id: 125426
+      - season: 1
+        anilist-id: 132193
+        start: 6
   - title: "Tokyo Ghoul"
     seasons:
       - season: 1
