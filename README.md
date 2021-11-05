@@ -1,7 +1,7 @@
 # PlexAniSync-Mappings
 This is a collection of [custom-mappings](https://github.com/RickDB/PlexAniSync#custom-anime-mapping "custom-mappings") for the [PlexAniSync](https://github.com/RickDB/PlexAniSync "PlexAniSync") plex addon.
 
-Tested for Plex Scanner and TVDB, not tested with and for other scanners.
+Tested for maximum compatibility TVDB, TMDB and the new Plex Scanner.
 
 Currently Mapped Titles:
 - Plex Season and Anilist Entries are respective to each other.
