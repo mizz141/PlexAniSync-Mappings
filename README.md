@@ -45,6 +45,7 @@ Currently Mapped Titles:
 | Higurashi - When They Cry GOU | Series | S01, S02 | Gou, Sotsu | Seperate entries for Ni, Rei, Kai and the new Gou and Sotsu. |
 | Hozuki's Coolheadedness | Series | S01, S02 | S01, S02P1 + S02P2 |  |
 | Hunter x Hunter (2011) | Series | S01, S02, S03 | S01 |  |
+| Initial D | Series | S01, S02, S03, S04, S05, S06 | First, Second, Third, Fourth, Fifth, Final Stage |  |
 | Inu × Boku Secret Service | Series | S01 | S01 |  |
 | Is It Wrong to Try to Pick Up Girls in a Dungeon? | Series | S01, S02, S03, S04 | S01, S02, S03, S04 |  |
 | JoJo's Bizarre Adventure (2012) | Series | S01, S02, S03, S04 | S01, Stardust Crusaders + Egypt Battle, Unbreakable Diamond, Golden Wind |  |

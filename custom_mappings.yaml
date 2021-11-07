@@ -362,6 +362,22 @@ entries:
         anilist-id: 11061
   #TMDB#
   #Same entry#
+  - title: "Initial D"
+    seasons: 
+      - season: 1
+        anilist-id: 185
+      - season: 2
+        anilist-id: 186
+      - season: 3
+        anilist-id: 187
+      - season: 4
+        anilist-id: 18
+      - season: 5
+        anilist-id: 15059
+      - season: 6
+        anilist-id: 19613
+  #TMDB#
+  #Same Entry#
   - title: "Inu × Boku Secret Service"
     seasons:
       - season: 1
