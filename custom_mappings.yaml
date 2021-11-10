@@ -4,8 +4,6 @@ entries:
       - season: 1
         anilist-id: 1689
         start: -1
-  #TMDB#
-  #Same entry#
   - title: "86: Eighty Six"
     seasons:
       - season: 1
@@ -13,8 +11,6 @@ entries:
       - season: 1
         anilist-id: 131586
         start: 12
-  #TMDB#
-  #Same entry#
   - title: "A Certain Scientific Railgun"
     seasons:
       - season: 1
@@ -23,17 +19,12 @@ entries:
         anilist-id: 16049
       - season: 3
         anilist-id: 104462
-  #TMDB#
-  #Same entry#
   - title: "A Silent Voice: The Movie"
     seasons:
       - season: 1
         anilist-id: 20954
-  #TMDB#
-  - title: "A Silent Voice"
-    seasons:
-      - season: 1
-        anilist-id: 20954
+    synonyms:
+      - "A Silent Voice"
   - title: "Aldnoah.Zero"
     seasons:
       - season: 1
@@ -41,8 +32,6 @@ entries:
       - season: 1
         anilist-id: 20853
         start: 13
-  #TMDB#
-  #Same entry#
   - title: "Ascendance of a Bookworm"
     seasons:
       - season: 1
@@ -50,8 +39,6 @@ entries:
       - season: 1
         anilist-id: 113693
         start: 15
-  #TMDB#
-  #Same entry#
   - title: "Attack on Titan"
     seasons:
       - season: 1
@@ -68,16 +55,12 @@ entries:
       - season: 4
         anilist-id: 131681
         start: 17
-  #TMDB#
-  #Same entry#
   - title: "BEASTARS"
     seasons:
       - season: 1
         anilist-id: 107660
       - season: 2
         anilist-id: 114194
-  #TMDB#
-  #Same entry#
   - title: "Black Butler"
     seasons:
       - season: 1
@@ -86,8 +69,6 @@ entries:
         anilist-id: 6707
       - season: 3
         anilist-id: 20606
-  #TMDB#
-  #Same entry#
   - title: "Black Lagoon"
     seasons:
       - season: 1
@@ -95,68 +76,50 @@ entries:
       - season: 1
         anilist-id: 1519
         start: 14
-  #TMDB#
-  #Same entry#
   - title: "Blood Blockade Battlefront"
     seasons:
       - season: 1
         anilist-id: 20727
       - season: 2
         anilist-id: 97886
-  #TMDB#
-  #Same entry#
   - title: "Boruto: Naruto Next Generations"
     seasons:
       - season: 1
         anilist-id: 97938
-  #TMDB#
-  #Same entry#
   - title: "Cells at Work!"
     seasons:
       - season: 1
         anilist-id: 100977
       - season: 2
         anilist-id: 108631
-  #TMDB#
-  #Same entry#
   - title: "Chaika the Coffin Princess"
     seasons:
       - season: 1
         anilist-id: 20462
       - season: 2
         anilist-id: 20719
-  #TMDB#
-  #Same entry#
   - title: "Clannad"
     seasons:
       - season: 1
         anilist-id: 2167
       - season: 2
         anilist-id: 4181
-  #TMDB#
-  #Same entry#
   - title: "Code Geass: Lelouch of the Rebellion"
     seasons:
       - season: 1
         anilist-id: 1575
       - season: 2
         anilist-id: 2904
-  #TMDB#
-  #Same entry#
   - title: "Danganronpa"
     seasons:
       - season: 1
         anilist-id: 16592
       - season: 2
         anilist-id: 21509
-  #TMDB#
-  #Same entry#
   - title: "Danganronpa 3: The End of Hope’s Peak Academy - Despair Arc"
     seasons:
        - season: 1
          anilist-id: 21825
-  #TMDB#
-  #Same entry#
   - title: "Danmachi: Is It Wrong to Try to Pick Up Girls in a Dungeon?"
     seasons:
       - season: 1
@@ -165,37 +128,26 @@ entries:
         anilist-id: 101167
       - season: 3
         anilist-id: 112124
-  #TMDB#
-  #Same entry#
   - title: "Darker Than Black"
     seasons:
       - season: 1
         anilist-id: 2025
       - season: 2
         anilist-id: 6573
-  #TMDB#
-  #Same entry#
   - title: "Demon Slayer: Kimetsu no Yaiba"
     seasons:
       - season: 1
         anilist-id: 101922
       - season: 2
         anilist-id: 129874
-  #TMDB#
-  - title: "Demon Slayer"
-    seasons:
-      - season: 1
-        anilist-id: 101922
-      - season: 2
-        anilist-id: 129874
+    synonyms:
+      - "Demon Slayer"
   - title: "Dr. Stone"
     seasons:
       - season: 1
         anilist-id: 105333
       - season: 2
         anilist-id: 113936
-  #TMDB#
-  #Same entry#
   - title: "Durarara!!"
     seasons:
       - season: 1
@@ -208,8 +160,6 @@ entries:
       - season: 2
         anilist-id: 20880
         start: 25
-  #TMDB#
-  #Same entry#
   - title: "Fate/stay night: Unlimited Blade Works"
     seasons:
       - season: 1
@@ -218,8 +168,6 @@ entries:
       - season: 1
         anilist-id: 20792
         start: 13
-  #TMDB#
-  #Same entry#
   - title: "Fate/Zero"
     seasons:
       - season: 1
@@ -227,8 +175,6 @@ entries:
       - season: 1
         anilist-id: 11741
         start: 13
-  #TMDB#
-  #Same entry#
   - title: "Food Wars! Shokugeki no Soma"
     seasons:
       - season: 1
@@ -244,22 +190,8 @@ entries:
         anilist-id: 109963
       - season: 5
         anilist-id: 114043
-  #TMDB#
-  - title: "Food Wars!"
-    seasons:
-      - season: 1
-        anilist-id: 20923
-      - season: 2
-        anilist-id: 21518
-      - season: 3
-        anilist-id: 99255
-      - season: 3
-        anilist-id: 100773
-        start: 13
-      - season: 4
-        anilist-id: 109963
-      - season: 5
-        anilist-id: 114043
+    synonyms:
+      - "Food Wars!"
   - title: "Fruits Basket (2019)"
     seasons:
       - season: 1
@@ -268,8 +200,6 @@ entries:
         anilist-id: 111762
       - season: 3
         anilist-id: 124194
-  #TMDB#
-  #Same entry# 
   - title: "Gintama"
     seasons:
       - season: 1
@@ -295,17 +225,12 @@ entries:
       - season: 10
         anilist-id: 101925
         start: 13
-  #TMDB#
-  #Same entry#
   - title: "Grimgar of Fantasy & Ash"
     seasons:
       - season: 1
         anilist-id: 21428
-  #TMDB#
-  - title: "Grimgar, Ashes and Illusions"
-    seasons:
-      - season: 1
-        anilist-id: 21428
+    synonyms:
+      - "Grimgar, Ashes and Illusions"
   - title: "Haikyu!!"
     seasons:
       - season: 1
@@ -319,8 +244,6 @@ entries:
       - season: 4
         anilist-id: 113538
         start: 14
-  #TMDB#
-  #Same entry#
   - title: "Highschool DxD"
     seasons:
       - season: 1
@@ -331,16 +254,12 @@ entries:
         anilist-id: 20745
       - season: 4
         anilist-id: 97767
-  #TMDB#
-  #Same entry#
   - title: "Higurashi - When They Cry Gou"
     seasons:
       - season: 1
         anilist-id: 114446
       - season: 2
         anilist-id: 131149
-  #TMDB#
-  #Same entry#
   - title: "Hozuki's Coolheadedness"
     seasons:
       - season: 1
@@ -350,8 +269,6 @@ entries:
       - season: 2
         anilist-id: 100852
         start: 14
-  #TMDB#
-  #Same entry#
   - title: "Hunter x Hunter (2011)"
     seasons:
       - season: 1
@@ -360,8 +277,6 @@ entries:
         anilist-id: 11061
       - season: 3
         anilist-id: 11061
-  #TMDB#
-  #Same entry#
   - title: "Initial D"
     seasons: 
       - season: 1
@@ -376,17 +291,12 @@ entries:
         anilist-id: 15059
       - season: 6
         anilist-id: 19613
-  #TMDB#
-  #Same Entry#
   - title: "Inu × Boku Secret Service"
     seasons:
       - season: 1
         anilist-id: 11013
-  #TMDB#
-  - title: "Inu x Boku SS"
-    seasons:
-      - season: 1
-        anilist-id: 11013
+    synonyms:
+      - "Inu x Boku SS"
   - title: "Is It Wrong to Try to Pick Up Girls in a Dungeon?"
     seasons:
       - season: 1
@@ -397,7 +307,6 @@ entries:
         anilist-id: 112124
       - season: 4
         anilist-id: 129196
-  #TMDB#
   - title: "Danmachi: Is It Wrong to Try to Pick Up Girls in a Dungeon?"
     seasons:
       - season: 1
@@ -421,21 +330,14 @@ entries:
         anilist-id: 21450
       - season: 4
         anilist-id: 102883
-  #TMDB#
-  #Same entry#
   - title: "K"
     seasons:
       - season: 1
         anilist-id: 14467
       - season: 2
         anilist-id: 20913
-  #TMDB#
-  - title: "K: Return of Kings"
-    seasons:
-      - season: 1
-        anilist-id: 14467
-      - season: 2
-        anilist-id: 20913
+    synonyms:
+      - "K: Return of Kings"
   - title: "Kaguya-sama: Love is War"
     seasons:
       - season: 1
@@ -444,16 +346,12 @@ entries:
         anilist-id: 112641
       - season: 3
         anilist-id: 125367
-  #TMDB#
-  #Same entry#
   - title: "Kakegurui"
     seasons:
       - season: 1
         anilist-id: 98314
       - season: 2
         anilist-id: 100876
-  #TMDB#
-  #Same entry#
   - title: "Kingdom"
     seasons:
       - season: 1
@@ -464,8 +362,6 @@ entries:
         anilist-id: 113108
       - season: 4
         anilist-id: 140350
-  #TMDB#
-  #Same entry#
   - title: "Log Horizon"
     seasons:
       - season: 1
@@ -474,56 +370,38 @@ entries:
         anilist-id: 20671
       - season: 3
         anilist-id: 114862
-  #TMDB#
-  #Same entry#
   - title: "Love, Chunibyo & Other Delusions!"
     seasons:
       - season: 1
         anilist-id: 14741
       - season: 2
         anilist-id: 18671
-  #TMDB#
-  - title: "Love, Chunibyo & Other Delusions"
-    seasons:
-      - season: 1
-        anilist-id: 14741
-      - season: 2
-        anilist-id: 18671
+    synonyms:
+      - "Love, Chunibyo & Other Delusions"
   - title: "Magi: Adventure of Sinbad"
     seasons:
       - season: 1
         anilist-id: 21394
-  #TMDB#
-  #Same entry#
   - title: "Magi: The Labyrinth of Magic"
     seasons:
       - season: 1
         anilist-id: 14513
       - season: 2
         anilist-id: 18115
-  #TMDB#
-  #Same entry#
   - title: "Megalobox"
     seasons:
       - season: 1
         anilist-id: 100298
       - season: 2
         anilist-id: 113359
-  #TMDB#
-  - title: "Megalo Box"
-    seasons:
-      - season: 1
-        anilist-id: 100298
-      - season: 2
-        anilist-id: 113359
+    synonyms:
+      - "Megalo Box"
   - title: "Miss Kobayashi's Dragon Maid"
     seasons:
       - season: 1
         anilist-id: 21776
       - season: 2
         anilist-id: 107717
-  #TMDB#
-  #Same entry#
   - title: "Monogatari"
     seasons:
       - season: 1
@@ -561,8 +439,6 @@ entries:
 #      - season: 0
 #        anilist-id: 100815
 #        start: 33
-  #TMDB#
-  #Same entry#
   - title: "Mushoku Tensei: Jobless Reincarnation"
     seasons:
       - season: 1
@@ -570,8 +446,6 @@ entries:
       - season: 1
         anilist-id: 127720
         start: 12
-  #TMDB#
-  #Same entry#
   - title: "My Teen Romantic Comedy SNAFU"
     seasons:
       - season: 1
@@ -580,23 +454,17 @@ entries:
         anilist-id: 20698
       - season: 3
         anilist-id: 108489
-  #TMDB#
-  #Same entry#
   - title: "Noragami"
     seasons:
       - season: 1
         anilist-id: 20447
       - season: 2
         anilist-id: 21128
-  #TMDB#
-  #Same entry#
   - title: "One Piece"
     seasons:
       - season: 21
         anilist-id: 21
         start: -890
-  #TMDB#
-  #Same entry#
   - title: "Psycho-Pass"
     seasons:
       - season: 1
@@ -605,21 +473,14 @@ entries:
         anilist-id: 20513
       - season: 3
         anilist-id: 108307
-  #TMDB#
-  #Same entry#
   - title: "Rage of Bahamut"
     seasons:
       - season: 1
         anilist-id: 20590
       - season: 2
         anilist-id: 21184
-  #TMDB#
-  - title: "Rage of Bahamut: Genesis"
-    seasons:
-      - season: 1
-        anilist-id: 20590
-      - season: 2
-        anilist-id: 21184
+    synonyms:
+      - "Rage of Bahamut: Genesis"
   - title: "Re:ZERO -Starting Life in Another World-"
     seasons:
       - season: 1
@@ -629,16 +490,8 @@ entries:
       - season: 2
         anilist-id: 119661
         start: 14
-  #TMDB#
-  - title: "Re:ZERO - Starting Life in Another World-"
-    seasons:
-      - season: 1
-        anilist-id: 21355
-      - season: 2
-        anilist-id: 108632
-      - season: 2
-        anilist-id: 119661
-        start: 14
+    synonyms:
+      - "Re:ZERO - Starting Life in Another World-"
   - title: "Seraph of the End"
     seasons:
       - season: 1
@@ -646,33 +499,22 @@ entries:
       - season: 1
         anilist-id: 20993
         start: 13
-  #TMDB#
-  #Same entry#
   - title: "Shelter"
     seasons:
       - season: 1
         anilist-id: 97731
-  #TMDB#
-  #Same entry#
   - title: "Star Blazers: Space Battleship Yamato 2199"
     seasons:
       - season: 1
         anilist-id: 12029
       - season: 2
         anilist-id: 21730
-  #TMDB#
-  - title: "Star Blazers 2199 - Space Battleship Yamato"
-    seasons:
-      - season: 1
-        anilist-id: 12029
-      - season: 2
-        anilist-id: 21730
+    synonyms:
+      - "Star Blazers 2199 - Space Battleship Yamato"
   - title: "Sweetness & Lightning"
     seasons:
       - season: 1
         anilist-id: 21659
-  #TMDB#
-  #Same entry#
   - title: "Sword Art Online"
     seasons:
       - season: 1
@@ -686,8 +528,6 @@ entries:
       - season: 4
         anilist-id: 114308
         start: 13
-  #TMDB#
-  #Same entry#
   - title: "Symphogear"
     seasons:
       - season: 1
@@ -700,8 +540,6 @@ entries:
         anilist-id: 21672
       - season: 5
         anilist-id: 21673
-  #TMDB#
-  #Same entry#
   - title: "That Time I Got Reincarnated as a Slime"
     seasons:
       - season: 1
@@ -711,8 +549,6 @@ entries:
       - season: 2
         anilist-id: 116742
         start: 13
-  #TMDB#
-  #Same entry#
   - title: "The Familiar of Zero"
     seasons:
       - season: 1
@@ -723,16 +559,12 @@ entries:
         anilist-id: 3712
       - season: 4
         anilist-id: 11319
-  #TMDB#
-  #Same entry#
   - title: "The Irregular at Magic High School"
     seasons:
       - season: 1
         anilist-id: 20458
       - season: 2
         anilist-id: 112300
-  #TMDB#
-  #Same entry#
   - title: "The King's Avatar"
     seasons:
       - season: 1
@@ -741,21 +573,12 @@ entries:
         anilist-id: 102997
       - season: 3
         anilist-id: 137735
-  #TMDB#
-  - title: "The King’s Avatar: For The Glory"
-    seasons:
-      - season: 1
-        anilist-id: 98861
-      - season: 2
-        anilist-id: 102997
-      - season: 3
-        anilist-id: 137735
+    synonyms:
+      - "The King’s Avatar: For The Glory"
   - title: "The Melancholy of Haruhi Suzumiya"
     seasons:
       - season: 1
         anilist-id: 4382
-  #TMDB#
-  #Same entry#
   - title: "The Rising of the Shield Hero"
     seasons:
       - season: 1
@@ -768,11 +591,8 @@ entries:
     seasons:
       - season: 1
         anilist-id: 116741
-  #TMDB#
-  - title: "The Slime Diaries"
-    seasons:
-      - season: 1
-        anilist-id: 116741
+    synonyms:
+      - "The Slime Diaries"
   - title: "The Way of the Househusband"
     seasons:
       - season: 1
@@ -780,8 +600,6 @@ entries:
       - season: 1
         anilist-id: 132193
         start: 6
-  #TMDB#
-  #Same entry#
   - title: "Tokyo Ghoul"
     seasons:
       - season: 1
@@ -793,8 +611,6 @@ entries:
       - season: 3
         anilist-id: 102351
         start: 13
-  #TMDB#
-  #Same entry#
   - title: "To Love-Ru"
     seasons:
      - season: 1
@@ -808,14 +624,10 @@ entries:
      - season: 4
        anilist-id: 21852
        start: 13
-  #TMDB#
-  #Same entry#
   - title: "Twin Star Exorcists"
     seasons:
       - season: 1
         anilist-id: 21499
-  #TMDB#
-  #Same entry#
   - title: "Higurashi no Naku Koro ni"
     seasons:
       - season: 1
@@ -824,17 +636,12 @@ entries:
         anilist-id: 1889
       - season: 3
         anilist-id: 3652
-  #TMDB#
-  #Same entry#
   - title: "Yamada-kun and the Seven Witches (2015)"
     seasons:
       - season: 1
         anilist-id: 20966
-  #TMDB#
-  - title: "Yamada-kun & the 7 Witches"
-    seasons:
-      - season: 1
-        anilist-id: 20966
+    synonyms:
+      - "Yamada-kun & the 7 Witches"
   - title: "Yu-Gi-Oh!"
     seasons:
       - season: 1
@@ -847,5 +654,3 @@ entries:
         anilist-id: 481
       - season: 5
         anilist-id: 481
-  #TMDB#
-  #Same entry#
