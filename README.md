@@ -130,7 +130,7 @@ Now, to finally automate the whole process, create a script with a name (preferr
 #!/bin/bash
 cd /mnt/user/appdata/PlexAniSync/PlexAniSync-Mappings
 git pull origin main
-docker restart plexanisync
+docker restart plexanisync-mizz141
 ```
 The Script will cd into the appdata folder you created, pull the latest changes for the repository from GitHub, and restart the Docker Container.
 
