@@ -538,9 +538,9 @@ entries:
       - season: 1
         anilist-id: 97731
   - title: "Star Blazers: Space Battleship Yamato 2199"
-   synonyms:
+    synonyms:
       - "Star Blazers 2199 - Space Battleship Yamato"
-   seasons:
+    seasons:
       - season: 1
         anilist-id: 12029
       - season: 2
