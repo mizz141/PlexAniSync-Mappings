@@ -20,11 +20,11 @@ entries:
       - season: 3
         anilist-id: 104462
   - title: "A Silent Voice: The Movie"
+     synonyms:
+      - "A Silent Voice"
     seasons:
       - season: 1
         anilist-id: 20954
-    synonyms:
-      - "A Silent Voice"
   - title: "Aldnoah.Zero"
     seasons:
       - season: 1
@@ -135,13 +135,13 @@ entries:
       - season: 2
         anilist-id: 6573
   - title: "Demon Slayer: Kimetsu no Yaiba"
+    synonyms:
+      - "Demon Slayer"
     seasons:
       - season: 1
         anilist-id: 101922
       - season: 2
         anilist-id: 129874
-    synonyms:
-      - "Demon Slayer"
   - title: "Dr. Stone"
     seasons:
       - season: 1
@@ -176,6 +176,8 @@ entries:
         anilist-id: 11741
         start: 13
   - title: "Food Wars! Shokugeki no Soma"
+    synonyms:
+      - "Food Wars!"
     seasons:
       - season: 1
         anilist-id: 20923
@@ -190,8 +192,6 @@ entries:
         anilist-id: 109963
       - season: 5
         anilist-id: 114043
-    synonyms:
-      - "Food Wars!"
   - title: "Fruits Basket (2019)"
     seasons:
       - season: 1
@@ -226,11 +226,11 @@ entries:
         anilist-id: 101925
         start: 13
   - title: "Grimgar of Fantasy & Ash"
+    synonyms:
+      - "Grimgar, Ashes and Illusions"
     seasons:
       - season: 1
         anilist-id: 21428
-    synonyms:
-      - "Grimgar, Ashes and Illusions"
   - title: "Haikyu!!"
     seasons:
       - season: 1
@@ -292,11 +292,11 @@ entries:
       - season: 6
         anilist-id: 19613
   - title: "Inu × Boku Secret Service"
+    synonyms:
+      - "Inu x Boku SS"
     seasons:
       - season: 1
         anilist-id: 11013
-    synonyms:
-      - "Inu x Boku SS"
   - title: "Is It Wrong to Try to Pick Up Girls in a Dungeon?"
     seasons:
       - season: 1
@@ -331,13 +331,13 @@ entries:
       - season: 4
         anilist-id: 102883
   - title: "K"
+    synonyms:
+      - "K: Return of Kings"
     seasons:
       - season: 1
         anilist-id: 14467
       - season: 2
         anilist-id: 20913
-    synonyms:
-      - "K: Return of Kings"
   - title: "Kaguya-sama: Love is War"
     seasons:
       - season: 1
@@ -371,13 +371,13 @@ entries:
       - season: 3
         anilist-id: 114862
   - title: "Love, Chunibyo & Other Delusions!"
+    synonyms:
+      - "Love, Chunibyo & Other Delusions"
     seasons:
       - season: 1
         anilist-id: 14741
       - season: 2
         anilist-id: 18671
-    synonyms:
-      - "Love, Chunibyo & Other Delusions"
   - title: "Magi: Adventure of Sinbad"
     seasons:
       - season: 1
@@ -389,13 +389,13 @@ entries:
       - season: 2
         anilist-id: 18115
   - title: "Megalobox"
+    synonyms:
+      - "Megalo Box"
     seasons:
       - season: 1
         anilist-id: 100298
       - season: 2
         anilist-id: 113359
-    synonyms:
-      - "Megalo Box"
   - title: "Miss Kobayashi's Dragon Maid"
     seasons:
       - season: 1
@@ -439,6 +439,14 @@ entries:
 #      - season: 0
 #        anilist-id: 100815
 #        start: 33
+  - title: "Mob Psycho 100"
+    seasons:
+      - season: 1
+        anilist-id: 21507
+      - season: 2
+        anilist-id: 101338
+      - season: 3
+        anilist-id: 140439
   - title: "Mushoku Tensei: Jobless Reincarnation"
     seasons:
       - season: 1
@@ -446,6 +454,22 @@ entries:
       - season: 1
         anilist-id: 127720
         start: 12
+   - title: "Boku no Hero Academia"
+    synonyms:
+      - "My Hero Academia"
+    seasons:
+      - season: 1
+        anilist-id: 21459
+      - season: 2
+        anilist-id: 21856
+      - season: 3
+        anilist-id: 100166
+      - season: 4
+        anilist-id: 104276
+      - season: 5
+        anilist-id: 117193
+      - season: 6
+        anilist-id: 139630
   - title: "My Teen Romantic Comedy SNAFU"
     seasons:
       - season: 1
@@ -465,6 +489,16 @@ entries:
       - season: 21
         anilist-id: 21
         start: -890
+  - title: "Overlord"
+    seasons:
+      - season: 1
+        anilist-id: 20832
+      - season: 2
+        anilist-id: 98437
+      - season: 3
+        anilist-id: 101474
+      - season: 4
+        anilist-id: 133844      
   - title: "Psycho-Pass"
     seasons:
       - season: 1
@@ -474,14 +508,16 @@ entries:
       - season: 3
         anilist-id: 108307
   - title: "Rage of Bahamut"
+    synonyms:
+      - "Rage of Bahamut: Genesis"
     seasons:
       - season: 1
         anilist-id: 20590
       - season: 2
         anilist-id: 21184
-    synonyms:
-      - "Rage of Bahamut: Genesis"
   - title: "Re:ZERO -Starting Life in Another World-"
+    synonyms:
+      - "Re:ZERO - Starting Life in Another World-"
     seasons:
       - season: 1
         anilist-id: 21355
@@ -490,8 +526,6 @@ entries:
       - season: 2
         anilist-id: 119661
         start: 14
-    synonyms:
-      - "Re:ZERO - Starting Life in Another World-"
   - title: "Seraph of the End"
     seasons:
       - season: 1
@@ -504,13 +538,13 @@ entries:
       - season: 1
         anilist-id: 97731
   - title: "Star Blazers: Space Battleship Yamato 2199"
-    seasons:
+   synonyms:
+      - "Star Blazers 2199 - Space Battleship Yamato"
+   seasons:
       - season: 1
         anilist-id: 12029
       - season: 2
         anilist-id: 21730
-    synonyms:
-      - "Star Blazers 2199 - Space Battleship Yamato"
   - title: "Sweetness & Lightning"
     seasons:
       - season: 1
@@ -566,6 +600,8 @@ entries:
       - season: 2
         anilist-id: 112300
   - title: "The King's Avatar"
+    synonyms:
+      - "The King’s Avatar: For The Glory"
     seasons:
       - season: 1
         anilist-id: 98861
@@ -573,8 +609,6 @@ entries:
         anilist-id: 102997
       - season: 3
         anilist-id: 137735
-    synonyms:
-      - "The King’s Avatar: For The Glory"
   - title: "The Melancholy of Haruhi Suzumiya"
     seasons:
       - season: 1
@@ -588,11 +622,11 @@ entries:
       - season: 3
         anilist-id: 111322
   - title: "The Slime Diaries: That Time I Got Reincarnated as a Slime"
+    synonyms:
+      - "The Slime Diaries"
     seasons:
       - season: 1
         anilist-id: 116741
-    synonyms:
-      - "The Slime Diaries"
   - title: "The Way of the Househusband"
     seasons:
       - season: 1
@@ -637,11 +671,11 @@ entries:
       - season: 3
         anilist-id: 3652
   - title: "Yamada-kun and the Seven Witches (2015)"
+    synonyms:
+      - "Yamada-kun & the 7 Witches"
     seasons:
       - season: 1
         anilist-id: 20966
-    synonyms:
-      - "Yamada-kun & the 7 Witches"
   - title: "Yu-Gi-Oh!"
     seasons:
       - season: 1
