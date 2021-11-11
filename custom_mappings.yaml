@@ -455,21 +455,21 @@ entries:
         anilist-id: 127720
         start: 12
   - title: "Boku no Hero Academia"
-   synonyms:
-     - "My Hero Academia"
-   seasons:
-     - season: 1
-       anilist-id: 21459
-     - season: 2
-       anilist-id: 21856
-     - season: 3
-       anilist-id: 100166
-     - season: 4
-       anilist-id: 104276
-     - season: 5
+    synonyms:
+      - "My Hero Academia"
+    seasons:
+      - season: 1
+        anilist-id: 21459
+      - season: 2
+        anilist-id: 21856
+      - season: 3
+        anilist-id: 100166
+      - season: 4
+        anilist-id: 104276
+      - season: 5
        anilist-id: 117193
-     - season: 6
-       anilist-id: 139630
+      - season: 6
+        anilist-id: 139630
   - title: "My Teen Romantic Comedy SNAFU"
     seasons:
       - season: 1
