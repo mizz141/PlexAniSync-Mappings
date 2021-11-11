@@ -20,9 +20,9 @@ entries:
       - season: 3
         anilist-id: 104462
   - title: "A Silent Voice: The Movie"
-     synonyms:
+    synonyms:
       - "A Silent Voice"
-     seasons:
+    seasons:
       - season: 1
         anilist-id: 20954
   - title: "Aldnoah.Zero"
@@ -454,7 +454,7 @@ entries:
       - season: 1
         anilist-id: 127720
         start: 12
-   - title: "Boku no Hero Academia"
+  - title: "Boku no Hero Academia"
     synonyms:
       - "My Hero Academia"
     seasons:
@@ -467,7 +467,7 @@ entries:
       - season: 4
         anilist-id: 104276
       - season: 5
-        anilist-id: 117193
+       anilist-id: 117193
       - season: 6
         anilist-id: 139630
   - title: "My Teen Romantic Comedy SNAFU"
@@ -538,9 +538,9 @@ entries:
       - season: 1
         anilist-id: 97731
   - title: "Star Blazers: Space Battleship Yamato 2199"
-   synonyms:
+    synonyms:
       - "Star Blazers 2199 - Space Battleship Yamato"
-   seasons:
+    seasons:
       - season: 1
         anilist-id: 12029
       - season: 2
