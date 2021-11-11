@@ -20,9 +20,9 @@ entries:
       - season: 3
         anilist-id: 104462
   - title: "A Silent Voice: The Movie"
-     synonyms:
+    synonyms:
       - "A Silent Voice"
-     seasons:
+    seasons:
       - season: 1
         anilist-id: 20954
   - title: "Aldnoah.Zero"
