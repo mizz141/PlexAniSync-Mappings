@@ -60,10 +60,13 @@ Currently Mapped Titles:
 | Megalobox | Series | S01, S02 | S01, Nomad |  |
 | Miss Kobayashi's Dragon Maid | Series | S01, S02 | S01, S|  |
 | Monogatari | Series | S01, S02, S03, S04, S05 | Bakemonogatari, Nisemonogatari, Monogatari Series Second Season, Owarimonogatari, Owarimonogatari Second Season | Monogatari Series Second Season has 26 (includes 3 special episodes) episodes listed on Anilist while only 23 (excludes Special, lists them as Season 0 instead) episodes on TVDB, hence Anilist Episode 4 mapped to TVDB Episode 1. |
+| Mob Psycho 100 | Series | S01, S02, S03 | S01, S02, S03 | |
 | Mushoku Tensei: Jobless Reincarnation | Series | S01 | S01P1 + S01P2 |  |
+| My Hero Academia | Series | S01, S02, S03, S04, S05, S06 | S01, S02, S03, S04, S05, S06 | |
 | My Teen Romantic Comedy SNAFU | Series | S01, S02, S03 | S01, Zoku, Kan |  |
 | Noragami | Series | S01, S02 | S01, Aragoto |  |
 | One Piece | Series | S21 | Wano | Currently only works with Season 21, will add more |
+| Overlord | Series | S01, S02, S03, S04 | S01, S02, S03, S04 | |
 | Psycho-Pass | Series | S01, S02, S03 | S01, S02, S03 |  |
 | Rage of Bahamut | Series | S01, S02 | Genesis, Virgin Soul |  |
 | Re:ZERO -Starting Life in Another World- | Series | S01, S02 | S01, S02P1 + S02P2 |  |
