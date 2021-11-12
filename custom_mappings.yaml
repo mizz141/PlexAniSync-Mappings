@@ -5,6 +5,8 @@ entries:
         anilist-id: 1689
         start: -1
   - title: "86: Eighty Six"
+    synonym: 
+      - "86: Eighty-Six"
     seasons:
       - season: 1
         anilist-id: 116589
