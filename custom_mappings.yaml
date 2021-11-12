@@ -605,6 +605,12 @@ entries:
       - season: 3
         anilist-id: 20
         start: 204
+  - title: "Nisekoi"
+    seasons: 
+      - season: 1
+        anilist-id: 18897
+      - season: 2
+        anilist-id: 20876
   - title: "Noragami"
     seasons:
       - season: 1
@@ -810,9 +816,10 @@ entries:
         anilist-id: 1889
       - season: 3
         anilist-id: 3652
-  - title: "Yamada-kun and the Seven Witches (2015)"
+  - title: "Yamada-kun and the Seven Witches"
     synonyms:
       - "Yamada-kun & the 7 Witches"
+      - "Yamada-kun and the Seven Witches (2015)"
     seasons:
       - season: 1
         anilist-id: 20966
