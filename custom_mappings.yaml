@@ -21,6 +21,14 @@ entries:
         anilist-id: 16049
       - season: 3
         anilist-id: 104462
+  - title: "A Certain Magical Index"
+    seasons: 
+      - season: 1
+        anilist-id: 4654
+      - season: 2
+        anilist-id: 8937
+      - season: 3
+        anilist-id: 100185
   - title: "A Silent Voice: The Movie"
     synonyms:
       - "A Silent Voice"
