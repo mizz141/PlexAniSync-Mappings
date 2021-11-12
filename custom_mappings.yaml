@@ -593,6 +593,18 @@ entries:
         anilist-id: 104647
       - season: 2
         anilist-id: 120209
+  - title: "Naruto"
+    synonyms:
+      - "Naruto (2002)
+    seasons:
+      - season: 1
+        anilist-id: 20
+      - season: 2
+        anilist-id: 20
+        start: 136
+      - season: 3
+        anilist-id: 20
+        start: 204
   - title: "Noragami"
     seasons:
       - season: 1
