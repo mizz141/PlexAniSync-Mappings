@@ -348,6 +348,14 @@ entries:
         anilist-id: 11061
       - season: 3
         anilist-id: 11061
+  - title: "Is the Order a Rabbit?"
+    seasons: 
+      - season: 1
+        anilist-id: 20517
+      - season: 2
+        anilist-id: 21034
+      - season: 3
+        anilist-id: 104198
   - title: "Initial D"
     seasons: 
       - season: 1
