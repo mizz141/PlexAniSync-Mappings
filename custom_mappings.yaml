@@ -617,6 +617,14 @@ entries:
         anilist-id: 20447
       - season: 2
         anilist-id: 21128
+  - title: "Nyaruko - Crawling with Love!"
+    synonyms:
+      - "Nyaruko: Crawling with Love!"
+    seasons:
+      - season: 1
+        anilist-id: 11785
+      - season: 2
+        anilist-id: 15699
   - title: "One Piece"
     seasons:
       - season: 21
