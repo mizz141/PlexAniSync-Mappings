@@ -13,6 +13,7 @@ Currently Mapped Titles:
 | ------------ | ------------ | ------------ | ------------ | ------------ |
 | 5 Centimeters per Second | Movie | Movie | 5 Centimeters per Second | This movie is divided into 3 episodes on Anilist. |
 | 86: Eighty Six | Series | S01 | S01P1 + S01P2 |  |
+| A Certain Magical Index |  Series | S01, S02, S03 | Index, Index II, Index III |  |
 | A Certain Scientific Railgun |  Series | S01, S02, S03 | Railgun, Railgun S, Railgun T |  |
 | A Silent Voice: The Movie | Movie | Movie | A Silent Voice |  |
 | Aldnoah.Zero | Series | S01 | S01 + S02 | AniList treats this as two seasons |
