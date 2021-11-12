@@ -104,7 +104,7 @@ entries:
         anilist-id: 13145
       - season: 3
         anilist-id: 15611
-      - season: 4 
+      - season: 4
         anilist-id: 20564
       - season: 5
         anilist-id: 20921
@@ -146,6 +146,14 @@ entries:
         anilist-id: 20462
       - season: 2
         anilist-id: 20719
+  - title: "Chihayafuru"
+    seasons:
+      - season: 1
+        anilist-id: 10800
+      - season: 2
+        anilist-id: 14397
+      - season: 3
+        anilist-id: 101215
   - title: "Clannad"
     seasons:
       - season: 1
