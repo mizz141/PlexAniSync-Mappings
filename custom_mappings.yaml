@@ -630,6 +630,14 @@ entries:
       - season: 21
         anilist-id: 21
         start: -890
+  - title: "One Room"
+    seasons:
+      - season: 1
+        anilist-id: 97857
+      - season: 2
+        anilist-id: 100133
+      - season: 3
+        anilist-id: 116147
   - title: "Overlord"
     seasons:
       - season: 1
