@@ -783,6 +783,16 @@ entries:
     seasons:
       - season: 1
         anilist-id: 129898
+  - title: "The Seven Deadly Sins"
+    seasons:
+      - season: 1
+        anilist-id: 20789
+      - season: 2
+        anilist-id: 21385
+      - season: 3
+        anilist-id: 99539
+      - season: 4
+        anilist-id: 108928
   - title: "The Slime Diaries: That Time I Got Reincarnated as a Slime"
     synonyms:
       - "The Slime Diaries"
