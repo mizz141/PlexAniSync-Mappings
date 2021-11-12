@@ -587,6 +587,12 @@ entries:
         anilist-id: 20698
       - season: 3
         anilist-id: 108489
+  - title: "My Next Life as a Villainess: All Routes Lead to Doom!"
+    seasons: 
+      - season: 1
+        anilist-id: 104647
+      - season: 2
+        anilist-id: 120209
   - title: "Noragami"
     seasons:
       - season: 1
