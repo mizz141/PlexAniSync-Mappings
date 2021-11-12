@@ -190,6 +190,12 @@ entries:
         anilist-id: 2025
       - season: 2
         anilist-id: 6573
+  - title: "D.Gray-Man"
+    seasons:
+      - season: 1
+        anilist-id: 1482
+      - season: 2
+        anilist-id: 21558
   - title: "Demon Slayer: Kimetsu no Yaiba"
     synonyms:
       - "Demon Slayer"
