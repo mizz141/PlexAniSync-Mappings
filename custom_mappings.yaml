@@ -13,6 +13,14 @@ entries:
       - season: 1
         anilist-id: 131586
         start: 12
+  - title: "A Certain Magical Index"
+    seasons: 
+      - season: 1
+        anilist-id: 4654
+      - season: 2
+        anilist-id: 8937
+      - season: 3
+        anilist-id: 100185
   - title: "A Certain Scientific Railgun"
     seasons:
       - season: 1
