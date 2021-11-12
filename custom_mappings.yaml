@@ -457,6 +457,14 @@ entries:
         anilist-id: 14741
       - season: 2
         anilist-id: 18671
+  - title: "Magia Record: Puella Magi Madoka Magica Side Story"
+    seasons: 
+      - season: 1
+        anilist-id: 104051
+      - season: 2
+        anilist-id: 117002
+      - season: 3
+        anilist-id: 104273
   - title: "Magi: Adventure of Sinbad"
     seasons:
       - season: 1
