@@ -397,6 +397,8 @@ entries:
       - season: 4
         anilist-id: 129196
   - title: "JoJo's Bizarre Adventure"
+    synonyms: 
+      - "JoJo's Bizarre Adventure (2012)"
     seasons:
       - season: 1
         anilist-id: 14719
@@ -624,6 +626,15 @@ entries:
     seasons:
       - season: 1
         anilist-id: 97731
+  - title: "Majutsushi Orphen Hagure Tabi"
+    synonyms: 
+      - "Sorcerous Stabber Orphen"
+      - "Sorcerous Stabber Orphen (2020)"
+    seasons: 
+      - season: 1
+        anilist-id: 101367
+      - season: 2
+        anilist-id: 115651
   - title: "Star Blazers: Space Battleship Yamato 2199"
     synonyms:
       - "Star Blazers 2199 - Space Battleship Yamato"
