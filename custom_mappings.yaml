@@ -483,6 +483,12 @@ entries:
         anilist-id: 14513
       - season: 2
         anilist-id: 18115
+  - title: "Medaka Box"
+    seasons:
+      - season: 1
+        anilist-id: 11761
+      - season: 2
+        anilist-id: 14527
   - title: "Megalobox"
     synonyms:
       - "Megalo Box"
