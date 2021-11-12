@@ -459,6 +459,12 @@ entries:
         anilist-id: 14741
       - season: 2
         anilist-id: 18671
+  - title: "March Comes in Like a Lion"
+    seasons: 
+      - season: 1
+        anilist-id: 21366
+      - season: 2
+        anilist-id: 98478
   - title: "Magia Record: Puella Magi Madoka Magica Side Story"
     seasons: 
       - season: 1
