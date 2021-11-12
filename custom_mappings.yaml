@@ -695,6 +695,13 @@ entries:
         anilist-id: 101367
       - season: 2
         anilist-id: 115651
+  - title: "Space Brothers"
+    seasons:
+      - season: 1
+        anilist-id: 12431
+      - season: 2
+        anilist-id: 12431
+        start: 52
   - title: "Star Blazers: Space Battleship Yamato 2199"
     synonyms:
       - "Star Blazers 2199 - Space Battleship Yamato"
