@@ -96,6 +96,44 @@ entries:
     seasons:
       - season: 1
         anilist-id: 97938
+  - title: "Cardfight!! Vanguard"
+    seasons:
+      - season: 1
+        anilist-id: 9539
+      - season: 2
+        anilist-id: 13145
+      - season: 3
+        anilist-id: 15611
+      - season: 4
+        anilist-id: 20564
+      - season: 5
+        anilist-id: 20921
+      - season: 6
+        anilist-id: 21345
+      - season: 7
+        anilist-id: 21664
+      - season: 8
+        anilist-id: 87476
+      - season: 9
+        anilist-id: 99733
+      - season: 10
+        anilist-id: 101594
+      - season: 11
+        anilist-id: 109260
+      - season: 12
+        anilist-id: 111144
+      - season: 13
+        anilist-id: 115656
+  - title: "Cardfight!! Vanguard overDress"
+    seasons:
+      - season: 1
+        anilist-id: 121962
+      - season: 2
+        anilist-id: 128827
+      - season: 3
+        anilist-id: 139212
+      - season: 4
+        anilist-id: 139213
   - title: "Cells at Work!"
     seasons:
       - season: 1
@@ -108,6 +146,14 @@ entries:
         anilist-id: 20462
       - season: 2
         anilist-id: 20719
+  - title: "Chihayafuru"
+    seasons:
+      - season: 1
+        anilist-id: 10800
+      - season: 2
+        anilist-id: 14397
+      - season: 3
+        anilist-id: 101215
   - title: "Clannad"
     seasons:
       - season: 1
@@ -144,6 +190,21 @@ entries:
         anilist-id: 2025
       - season: 2
         anilist-id: 6573
+  - title: "D.Gray-Man"
+    synonyms: 
+      - "D.Gray-man"
+    seasons:
+      - season: 1
+        anilist-id: 1482
+      - season: 1
+        anilist-id: 1482
+        start: 52
+  - title: "D.Gray-man HALLOW"
+    synonyms: 
+      - "D.Gray-Man Hallow"
+    seasons:
+      - season: 1
+        anilist-id: 21558
   - title: "Demon Slayer: Kimetsu no Yaiba"
     synonyms:
       - "Demon Slayer"
@@ -287,6 +348,14 @@ entries:
         anilist-id: 11061
       - season: 3
         anilist-id: 11061
+  - title: "Is the Order a Rabbit?"
+    seasons: 
+      - season: 1
+        anilist-id: 20517
+      - season: 2
+        anilist-id: 21034
+      - season: 3
+        anilist-id: 104198
   - title: "Initial D"
     seasons: 
       - season: 1
@@ -328,6 +397,8 @@ entries:
       - season: 4
         anilist-id: 129196
   - title: "JoJo's Bizarre Adventure"
+    synonyms: 
+      - "JoJo's Bizarre Adventure (2012)"
     seasons:
       - season: 1
         anilist-id: 14719
@@ -388,6 +459,20 @@ entries:
         anilist-id: 14741
       - season: 2
         anilist-id: 18671
+  - title: "March Comes in Like a Lion"
+    seasons: 
+      - season: 1
+        anilist-id: 21366
+      - season: 2
+        anilist-id: 98478
+  - title: "Magia Record: Puella Magi Madoka Magica Side Story"
+    seasons: 
+      - season: 1
+        anilist-id: 104051
+      - season: 2
+        anilist-id: 117002
+      - season: 3
+        anilist-id: 104273
   - title: "Magi: Adventure of Sinbad"
     seasons:
       - season: 1
@@ -398,6 +483,12 @@ entries:
         anilist-id: 14513
       - season: 2
         anilist-id: 18115
+  - title: "Medaka Box"
+    seasons:
+      - season: 1
+        anilist-id: 11761
+      - season: 2
+        anilist-id: 14527
   - title: "Megalobox"
     synonyms:
       - "Megalo Box"
@@ -464,6 +555,14 @@ entries:
       - season: 1
         anilist-id: 127720
         start: 12
+  - title: "Muhyo & Roji's Bureau of Supernatural Investigation"
+    synonyms:
+      - "Muhyo to Roji no Mahouritsu Soudan Jimusho"
+    seasons: 
+      - season: 1
+        anilist-id: 101340
+      - season: 2
+        anilist-id: 110028
   - title: "Boku no Hero Academia"
     synonyms:
       - "My Hero Academia"
@@ -488,17 +587,57 @@ entries:
         anilist-id: 20698
       - season: 3
         anilist-id: 108489
+  - title: "My Next Life as a Villainess: All Routes Lead to Doom!"
+    seasons: 
+      - season: 1
+        anilist-id: 104647
+      - season: 2
+        anilist-id: 120209
+  - title: "Naruto"
+    synonyms:
+      - "Naruto (2002)"
+    seasons:
+      - season: 1
+        anilist-id: 20
+      - season: 2
+        anilist-id: 20
+        start: 136
+      - season: 3
+        anilist-id: 20
+        start: 204
+  - title: "Nisekoi"
+    seasons: 
+      - season: 1
+        anilist-id: 18897
+      - season: 2
+        anilist-id: 20876
   - title: "Noragami"
     seasons:
       - season: 1
         anilist-id: 20447
       - season: 2
         anilist-id: 21128
+  - title: "Nyaruko - Crawling with Love!"
+    synonyms:
+      - "Nyaruko: Crawling with Love!"
+    seasons:
+      - season: 1
+        anilist-id: 11785
+      - season: 2
+        anilist-id: 15699
   - title: "One Piece"
     seasons:
       - season: 21
         anilist-id: 21
         start: -890
+  - title: "One Room"
+    seasons:
+      - season: 1
+        anilist-id: 97857
+      - season: 2
+        anilist-id: 100133
+      - season: 3
+        anilist-id: 116147
   - title: "Overlord"
     seasons:
       - season: 1
@@ -508,7 +647,7 @@ entries:
       - season: 3
         anilist-id: 101474
       - season: 4
-        anilist-id: 133844      
+        anilist-id: 133844
   - title: "Psycho-Pass"
     seasons:
       - season: 1
@@ -547,6 +686,22 @@ entries:
     seasons:
       - season: 1
         anilist-id: 97731
+  - title: "Majutsushi Orphen Hagure Tabi"
+    synonyms: 
+      - "Sorcerous Stabber Orphen"
+      - "Sorcerous Stabber Orphen (2020)"
+    seasons: 
+      - season: 1
+        anilist-id: 101367
+      - season: 2
+        anilist-id: 117085
+  - title: "Space Brothers"
+    seasons:
+      - season: 1
+        anilist-id: 12431
+      - season: 2
+        anilist-id: 12431
+        start: 52
   - title: "Star Blazers: Space Battleship Yamato 2199"
     synonyms:
       - "Star Blazers 2199 - Space Battleship Yamato"
@@ -631,6 +786,20 @@ entries:
         anilist-id: 111321
       - season: 3
         anilist-id: 111322
+  - title: "The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat"
+    seasons:
+      - season: 1
+        anilist-id: 129898
+  - title: "The Seven Deadly Sins"
+    seasons:
+      - season: 1
+        anilist-id: 20789
+      - season: 2
+        anilist-id: 21385
+      - season: 3
+        anilist-id: 99539
+      - season: 4
+        anilist-id: 108928
   - title: "The Slime Diaries: That Time I Got Reincarnated as a Slime"
     synonyms:
       - "The Slime Diaries"
@@ -680,9 +849,10 @@ entries:
         anilist-id: 1889
       - season: 3
         anilist-id: 3652
-  - title: "Yamada-kun and the Seven Witches (2015)"
+  - title: "Yamada-kun and the Seven Witches"
     synonyms:
       - "Yamada-kun & the 7 Witches"
+      - "Yamada-kun and the Seven Witches (2015)"
     seasons:
       - season: 1
         anilist-id: 20966
