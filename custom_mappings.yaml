@@ -96,6 +96,44 @@ entries:
     seasons:
       - season: 1
         anilist-id: 97938
+  - title: "Cardfight!! Vanguard"
+    seasons:
+      - season: 1
+        anilist-id: 9539
+      - season: 2
+        anilist-id: 13145
+      - season: 3
+        anilist-id: 15611
+      - season: 4 
+        anilist-id: 20564
+      - season: 5
+        anilist-id: 20921
+      - season: 6
+        anilist-id: 21345
+      - season: 7
+        anilist-id: 21664
+      - season: 8
+        anilist-id: 87476
+      - season: 9
+        anilist-id: 99733
+      - season: 10
+        anilist-id: 101594
+      - season: 11
+        anilist-id: 109260
+      - season: 12
+        anilist-id: 111144
+      - season: 13
+        anilist-id: 115656
+  - title: "Cardfight!! Vanguard overDress"
+    seasons:
+      - season: 1
+        anilist-id: 121962
+      - season: 2
+        anilist-id: 128827
+      - season: 3
+        anilist-id: 139212
+      - season: 4
+        anilist-id: 139213
   - title: "Cells at Work!"
     seasons:
       - season: 1
