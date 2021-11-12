@@ -555,6 +555,14 @@ entries:
       - season: 1
         anilist-id: 127720
         start: 12
+  - title: "Muhyo & Roji's Bureau of Supernatural Investigation"
+    synonyms:
+      - "Muhyo to Roji no Mahouritsu Soudan Jimusho"
+    seasons: 
+      - season: 1
+        anilist-id: 101340
+      - season: 2
+        anilist-id: 110028
   - title: "Boku no Hero Academia"
     synonyms:
       - "My Hero Academia"
