@@ -35,6 +35,14 @@ entries:
     seasons:
       - season: 1
         anilist-id: 20954
+  - title: "Ajin"
+    synonyms:
+      - "Ajin: Demi-Human"
+    seasons:
+      - season: 1
+        anilist-id: 21341
+      - season: 2
+        anilist-id: 21799
   - title: "Aldnoah.Zero"
     seasons:
       - season: 1
@@ -246,6 +254,14 @@ entries:
       - season: 1
         anilist-id: 11741
         start: 13
+  - title: "FLCL"
+    seasons:
+      - season: 1
+        anilist-id: 227
+      - season: 2
+        anilist-id: 21746
+      - season: 3
+        anilist-id: 21748
   - title: "Food Wars! Shokugeki no Soma"
     synonyms:
       - "Food Wars!"
@@ -386,6 +402,12 @@ entries:
         anilist-id: 112124
       - season: 4
         anilist-id: 129196
+  - title: "I Tried Asking While Kowtowing"
+    synonyms: 
+      - "Dogeza de Tanondemita"
+    seasons:
+      - season: 1
+        anilist-id: 122137
   - title: "Danmachi: Is It Wrong to Try to Pick Up Girls in a Dungeon?"
     seasons:
       - season: 1
@@ -433,6 +455,12 @@ entries:
         anilist-id: 98314
       - season: 2
         anilist-id: 100876
+  - title: "Kids on the Slope"
+    synonyms:
+      - "Sakamichi no Apollon"
+    seasons:
+      - season: 1
+        anilist-id: 12531
   - title: "Kingdom"
     seasons:
       - season: 1
@@ -695,6 +723,10 @@ entries:
         anilist-id: 101367
       - season: 2
         anilist-id: 117085
+  - title: "SK8 the Infinity"
+    seasons:
+      - season: 1
+        anilist-id: 124153
   - title: "Space Brothers"
     seasons:
       - season: 1
@@ -702,6 +734,10 @@ entries:
       - season: 2
         anilist-id: 12431
         start: 52
+  - title: "Space Pirate Captain Harlock"
+    seasons:
+      - season: 1
+        anilist-id: 17269
   - title: "Star Blazers: Space Battleship Yamato 2199"
     synonyms:
       - "Star Blazers 2199 - Space Battleship Yamato"
@@ -813,6 +849,13 @@ entries:
       - season: 1
         anilist-id: 132193
         start: 6
+  - title: "Trinity Seven: Eternity Library & Alchemic Girl"
+    synonyms: 
+      - "Eternity Library & Alchemic Girl"
+      - "Trinity Seven Movie - Yuukyuu Toshokan to Renkinjutsu Shoujo"
+    seasons:
+      - season: 1
+        anilist-id: 21874
   - title: "Tokyo Ghoul"
     seasons:
       - season: 1
