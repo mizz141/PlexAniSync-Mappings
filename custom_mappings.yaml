@@ -487,6 +487,12 @@ entries:
         anilist-id: 14741
       - season: 2
         anilist-id: 18671
+  - title: "Made in Abyss"
+    seasons:
+      - season: 1
+        anilist-id: 97986
+      - season: 2
+        anilist-id: 114745
   - title: "March Comes in Like a Lion"
     seasons: 
       - season: 1

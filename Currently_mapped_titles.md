@@ -55,6 +55,7 @@
 | Kingdom | Series | S01, S02, S03, S04 | S01, S02, S03, S04 |  |
 | Log Horizon | Series | S01, S02, S03 | S01, S02, Entaku Houkai |  |
 | Love, Chunibyo & Other Delusions! | Series | S01, S02 | S01, Ren |  |
+| Made in Abyss | Series | S01, S02 | S01, The Golden City of the Scorching Sun |  |
 | Magia Record: Puella Magi Madoka Magica Side Story | Series | S01, S02, S03 | S01, S02, Final Season |  |
 | March Comes in Like a Lion | Series | S01, S02 | S01, S02 |  |
 | Magi: Adventure of Sinbad | Series | S01 | S01 |  |
