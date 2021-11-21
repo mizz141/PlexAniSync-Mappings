@@ -5,8 +5,10 @@ entries:
         anilist-id: 1689
         start: -1
   - title: "86: Eighty Six"
-    synonyms: 
+    synonyms:
       - "86: Eighty-Six"
+      - "86 - Eighty-Six"
+      - "86 EIGHTY-SIX"
     seasons:
       - season: 1
         anilist-id: 116589
@@ -14,7 +16,9 @@ entries:
         anilist-id: 131586
         start: 12
   - title: "A Certain Magical Index"
-    seasons: 
+    synonyms:
+      - "Toaru Majutsu no Index"
+    seasons:
       - season: 1
         anilist-id: 4654
       - season: 2
@@ -22,6 +26,8 @@ entries:
       - season: 3
         anilist-id: 100185
   - title: "A Certain Scientific Railgun"
+    synonyms:
+      - "Toaru Kagaku no Railgun"
     seasons:
       - season: 1
         anilist-id: 6213
@@ -44,6 +50,9 @@ entries:
       - season: 2
         anilist-id: 21799
   - title: "Aldnoah.Zero"
+    synonyms:
+      - "ALDNOAH.ZERO"
+      - "Aldnoah Zero"
     seasons:
       - season: 1
         anilist-id: 20632
@@ -51,6 +60,11 @@ entries:
         anilist-id: 20853
         start: 13
   - title: "Ascendance of a Bookworm"
+    synonyms:
+      - "Honzuki no Gekokujou : Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen"
+      - "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erande Iraremasen"
+      - "Honzuki no Gekokujou"
+      - "Ascendance of a Bookworm: I'll do anything to become a librarian"
     seasons:
       - season: 1
         anilist-id: 108268
@@ -58,6 +72,8 @@ entries:
         anilist-id: 113693
         start: 15
   - title: "Attack on Titan"
+    synonyms:
+      - "Shingeki no Kyojin"
     seasons:
       - season: 1
         anilist-id: 16498
@@ -74,12 +90,17 @@ entries:
         anilist-id: 131681
         start: 17
   - title: "BEASTARS"
+    synonyms:
+      - "Beastars"
     seasons:
       - season: 1
         anilist-id: 107660
       - season: 2
         anilist-id: 114194
   - title: "Black Butler"
+    synonyms:
+      - "Kuro Shitsuji" 
+      - "Kuroshitsuji"
     seasons:
       - season: 1
         anilist-id: 4898
@@ -95,12 +116,16 @@ entries:
         anilist-id: 1519
         start: 14
   - title: "Blood Blockade Battlefront"
+    synonyms:
+      - "Kekkai Sensen"
     seasons:
       - season: 1
         anilist-id: 20727
       - season: 2
         anilist-id: 97886
   - title: "Boruto: Naruto Next Generations"
+    synonyms:
+      - "Boruto - Naruto Next Generations"
     seasons:
       - season: 1
         anilist-id: 97938
@@ -133,6 +158,12 @@ entries:
       - season: 13
         anilist-id: 115656
   - title: "Cardfight!! Vanguard overDress"
+    synonyms:
+      - "Cardfight!! Vanguard overDress (2021)"
+      - "Cardfight!! Vanguard - OverDress"
+      - "Cardfight!! Vanguard : Over Dress"
+      - "Cardfight!! Vanguard: overDress"
+      - "CARDFIGHT!! VANGUARD overDress"
     seasons:
       - season: 1
         anilist-id: 121962
@@ -143,12 +174,18 @@ entries:
       - season: 4
         anilist-id: 139213
   - title: "Cells at Work!"
+    synonyms:
+      - "Cells at Work!!"
+      - "Hataraku Saibou"
     seasons:
       - season: 1
         anilist-id: 100977
       - season: 2
         anilist-id: 108631
   - title: "Chaika the Coffin Princess"
+    synonyms:
+      - "Chaika, die Sargprinzessin"
+      - "Hitsugi no Chaika"
     seasons:
       - season: 1
         anilist-id: 20462
@@ -163,28 +200,43 @@ entries:
       - season: 3
         anilist-id: 101215
   - title: "Clannad"
+    synonyms:
+      - "CLANNAD"
     seasons:
       - season: 1
         anilist-id: 2167
       - season: 2
         anilist-id: 4181
   - title: "Code Geass: Lelouch of the Rebellion"
+    synonyms:
+      - "Code Geass Lelouch of the Rebellion"
     seasons:
       - season: 1
         anilist-id: 1575
       - season: 2
         anilist-id: 2904
   - title: "Danganronpa"
+    synonyms:
+      - "Danganronpa Kibou no Gakuen to Zetsubou no Koukousei The Animation"
+      - "Danganronpa: The Animation"
+      - "Danganronpa The Animation"
     seasons:
       - season: 1
         anilist-id: 16592
       - season: 2
         anilist-id: 21509
   - title: "Danganronpa 3: The End of Hope’s Peak Academy - Despair Arc"
+    synonyms:
+       - "Danganronpa 3: The End of Kibougamine Gakuen - Zetsubou-hen"
+       - "Danganronpa 3: The End of Hope's Peak High School - Despair Arc"
     seasons:
        - season: 1
          anilist-id: 21825
   - title: "Danmachi: Is It Wrong to Try to Pick Up Girls in a Dungeon?"
+    synonyms:
+      - "Is It Wrong to Try to Pick Up Girls in a Dungeon?"
+      - "DanMachi: Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka"
+      - "DanMachi - Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka"
     seasons:
       - season: 1
         anilist-id: 20920
@@ -193,6 +245,9 @@ entries:
       - season: 3
         anilist-id: 112124
   - title: "Darker Than Black"
+    synonyms:
+      - "Darker than Black"
+      - "DARKER THAN BLACK"
     seasons:
       - season: 1
         anilist-id: 2025
@@ -201,6 +256,8 @@ entries:
   - title: "D.Gray-Man"
     synonyms: 
       - "D.Gray-man"
+      - "D Gray Man"
+      - "D.Gray-Man"
     seasons:
       - season: 1
         anilist-id: 1482
@@ -210,18 +267,24 @@ entries:
   - title: "D.Gray-man HALLOW"
     synonyms: 
       - "D.Gray-Man Hallow"
+      - "D.Gray-ｍan Hallow"
     seasons:
       - season: 1
         anilist-id: 21558
   - title: "Demon Slayer: Kimetsu no Yaiba"
     synonyms:
       - "Demon Slayer"
+      - "Demon Slayer - Kimetsu no Yaiba"
+      - "Kimetsu no Yaiba"
     seasons:
       - season: 1
         anilist-id: 101922
       - season: 2
         anilist-id: 129874
   - title: "Dr. Stone"
+    synonyms:
+      - "Doctor Stone"
+      - "Dr.STONE"
     seasons:
       - season: 1
         anilist-id: 105333
@@ -240,6 +303,10 @@ entries:
         anilist-id: 20880
         start: 25
   - title: "Fate/stay night: Unlimited Blade Works"
+    synonyms:
+      - "Fate/Stay Night: Unlimited Blade Works"
+      - "Fate/stay night [Unlimited Blade Works]"
+      - "Fate/Stay Night [Unlimited Blade Works]"
     seasons:
       - season: 1
         anilist-id: 19603
@@ -342,6 +409,9 @@ entries:
       - season: 4
         anilist-id: 97767
   - title: "Higurashi - When They Cry Gou"
+    synonyms:
+      - "Higurashi: When They Cry – GOU"
+      - "Higurashi: When They Cry - NEW"
     seasons:
       - season: 1
         anilist-id: 114446
