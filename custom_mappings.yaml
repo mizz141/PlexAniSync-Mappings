@@ -5,8 +5,10 @@ entries:
         anilist-id: 1689
         start: -1
   - title: "86: Eighty Six"
-    synonyms: 
+    synonyms:
       - "86: Eighty-Six"
+      - "86 - Eighty-Six"
+      - "86 EIGHTY-SIX"
     seasons:
       - season: 1
         anilist-id: 116589
@@ -14,7 +16,9 @@ entries:
         anilist-id: 131586
         start: 12
   - title: "A Certain Magical Index"
-    seasons: 
+    synonyms:
+      - "Toaru Majutsu no Index"
+    seasons:
       - season: 1
         anilist-id: 4654
       - season: 2
@@ -22,6 +26,8 @@ entries:
       - season: 3
         anilist-id: 100185
   - title: "A Certain Scientific Railgun"
+    synonyms:
+      - "Toaru Kagaku no Railgun"
     seasons:
       - season: 1
         anilist-id: 6213
@@ -44,6 +50,9 @@ entries:
       - season: 2
         anilist-id: 21799
   - title: "Aldnoah.Zero"
+    synonyms:
+      - "ALDNOAH.ZERO"
+      - "Aldnoah Zero"
     seasons:
       - season: 1
         anilist-id: 20632
@@ -51,6 +60,11 @@ entries:
         anilist-id: 20853
         start: 13
   - title: "Ascendance of a Bookworm"
+    synonyms:
+      - "Honzuki no Gekokujou : Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen"
+      - "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erande Iraremasen"
+      - "Honzuki no Gekokujou"
+      - "Ascendance of a Bookworm: I'll do anything to become a librarian"
     seasons:
       - season: 1
         anilist-id: 108268
@@ -58,6 +72,8 @@ entries:
         anilist-id: 113693
         start: 15
   - title: "Attack on Titan"
+    synonyms:
+      - "Shingeki no Kyojin"
     seasons:
       - season: 1
         anilist-id: 16498
@@ -74,12 +90,17 @@ entries:
         anilist-id: 131681
         start: 17
   - title: "BEASTARS"
+    synonyms:
+      - "Beastars"
     seasons:
       - season: 1
         anilist-id: 107660
       - season: 2
         anilist-id: 114194
   - title: "Black Butler"
+    synonyms:
+      - "Kuro Shitsuji" 
+      - "Kuroshitsuji"
     seasons:
       - season: 1
         anilist-id: 4898
@@ -95,12 +116,16 @@ entries:
         anilist-id: 1519
         start: 14
   - title: "Blood Blockade Battlefront"
+    synonyms:
+      - "Kekkai Sensen"
     seasons:
       - season: 1
         anilist-id: 20727
       - season: 2
         anilist-id: 97886
   - title: "Boruto: Naruto Next Generations"
+    synonyms:
+      - "Boruto - Naruto Next Generations"
     seasons:
       - season: 1
         anilist-id: 97938
@@ -133,6 +158,12 @@ entries:
       - season: 13
         anilist-id: 115656
   - title: "Cardfight!! Vanguard overDress"
+    synonyms:
+      - "Cardfight!! Vanguard overDress (2021)"
+      - "Cardfight!! Vanguard - OverDress"
+      - "Cardfight!! Vanguard : Over Dress"
+      - "Cardfight!! Vanguard: overDress"
+      - "CARDFIGHT!! VANGUARD overDress"
     seasons:
       - season: 1
         anilist-id: 121962
@@ -143,12 +174,18 @@ entries:
       - season: 4
         anilist-id: 139213
   - title: "Cells at Work!"
+    synonyms:
+      - "Cells at Work!!"
+      - "Hataraku Saibou"
     seasons:
       - season: 1
         anilist-id: 100977
       - season: 2
         anilist-id: 108631
   - title: "Chaika the Coffin Princess"
+    synonyms:
+      - "Chaika, die Sargprinzessin"
+      - "Hitsugi no Chaika"
     seasons:
       - season: 1
         anilist-id: 20462
@@ -163,28 +200,43 @@ entries:
       - season: 3
         anilist-id: 101215
   - title: "Clannad"
+    synonyms:
+      - "CLANNAD"
     seasons:
       - season: 1
         anilist-id: 2167
       - season: 2
         anilist-id: 4181
   - title: "Code Geass: Lelouch of the Rebellion"
+    synonyms:
+      - "Code Geass Lelouch of the Rebellion"
     seasons:
       - season: 1
         anilist-id: 1575
       - season: 2
         anilist-id: 2904
   - title: "Danganronpa"
+    synonyms:
+      - "Danganronpa Kibou no Gakuen to Zetsubou no Koukousei The Animation"
+      - "Danganronpa: The Animation"
+      - "Danganronpa The Animation"
     seasons:
       - season: 1
         anilist-id: 16592
       - season: 2
         anilist-id: 21509
   - title: "Danganronpa 3: The End of Hope’s Peak Academy - Despair Arc"
+    synonyms:
+       - "Danganronpa 3: The End of Kibougamine Gakuen - Zetsubou-hen"
+       - "Danganronpa 3: The End of Hope's Peak High School - Despair Arc"
     seasons:
        - season: 1
          anilist-id: 21825
   - title: "Danmachi: Is It Wrong to Try to Pick Up Girls in a Dungeon?"
+    synonyms:
+      - "Is It Wrong to Try to Pick Up Girls in a Dungeon?"
+      - "DanMachi: Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka"
+      - "DanMachi - Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka"
     seasons:
       - season: 1
         anilist-id: 20920
@@ -193,6 +245,9 @@ entries:
       - season: 3
         anilist-id: 112124
   - title: "Darker Than Black"
+    synonyms:
+      - "Darker than Black"
+      - "DARKER THAN BLACK"
     seasons:
       - season: 1
         anilist-id: 2025
@@ -201,6 +256,8 @@ entries:
   - title: "D.Gray-Man"
     synonyms: 
       - "D.Gray-man"
+      - "D Gray Man"
+      - "D.Gray-Man"
     seasons:
       - season: 1
         anilist-id: 1482
@@ -210,18 +267,24 @@ entries:
   - title: "D.Gray-man HALLOW"
     synonyms: 
       - "D.Gray-Man Hallow"
+      - "D.Gray-ｍan Hallow"
     seasons:
       - season: 1
         anilist-id: 21558
   - title: "Demon Slayer: Kimetsu no Yaiba"
     synonyms:
       - "Demon Slayer"
+      - "Demon Slayer - Kimetsu no Yaiba"
+      - "Kimetsu no Yaiba"
     seasons:
       - season: 1
         anilist-id: 101922
       - season: 2
         anilist-id: 129874
   - title: "Dr. Stone"
+    synonyms:
+      - "Doctor Stone"
+      - "Dr.STONE"
     seasons:
       - season: 1
         anilist-id: 105333
@@ -240,6 +303,10 @@ entries:
         anilist-id: 20880
         start: 25
   - title: "Fate/stay night: Unlimited Blade Works"
+    synonyms:
+      - "Fate/Stay Night: Unlimited Blade Works"
+      - "Fate/stay night [Unlimited Blade Works]"
+      - "Fate/Stay Night [Unlimited Blade Works]"
     seasons:
       - season: 1
         anilist-id: 19603
@@ -248,6 +315,8 @@ entries:
         anilist-id: 20792
         start: 13
   - title: "Fate/Zero"
+    synonyms:
+      - "Fate Zero"
     seasons:
       - season: 1
         anilist-id: 10087
@@ -255,6 +324,9 @@ entries:
         anilist-id: 11741
         start: 13
   - title: "FLCL"
+    synonyms:
+      - "Fooly Cooly"
+      - "Fooly Cooly (FLCL)"
     seasons:
       - season: 1
         anilist-id: 227
@@ -265,6 +337,7 @@ entries:
   - title: "Food Wars! Shokugeki no Soma"
     synonyms:
       - "Food Wars!"
+      - "Shokugeki no Souma"
     seasons:
       - season: 1
         anilist-id: 20923
@@ -280,6 +353,8 @@ entries:
       - season: 5
         anilist-id: 114043
   - title: "Fruits Basket (2019)"
+    synonyms:
+      - "Fruits Basket"
     seasons:
       - season: 1
         anilist-id: 105334
@@ -315,10 +390,13 @@ entries:
   - title: "Grimgar of Fantasy & Ash"
     synonyms:
       - "Grimgar, Ashes and Illusions"
+      - "Hai to Gensou no Grimgar"
     seasons:
       - season: 1
         anilist-id: 21428
   - title: "Haikyu!!"
+    synonyms:
+      - "Haikyuu!!"
     seasons:
       - season: 1
         anilist-id: 20464
@@ -332,6 +410,9 @@ entries:
         anilist-id: 113538
         start: 14
   - title: "Highschool DxD"
+    synonyms:
+      - "High School D×D"
+      - "HighSchool D×D"
     seasons:
       - season: 1
         anilist-id: 11617
@@ -342,12 +423,19 @@ entries:
       - season: 4
         anilist-id: 97767
   - title: "Higurashi - When They Cry Gou"
+    synonyms:
+      - "Higurashi: When They Cry – GOU"
+      - "Higurashi: When They Cry - NEW"
     seasons:
       - season: 1
         anilist-id: 114446
       - season: 2
         anilist-id: 131149
   - title: "Hozuki's Coolheadedness"
+    synonyms:
+      - "Hozuki no Reitetsu"
+      - "Cool-headed Hoozuki"
+      - "Hoozuki no Reitetsu"
     seasons:
       - season: 1
         anilist-id: 20431
@@ -357,6 +445,9 @@ entries:
         anilist-id: 100852
         start: 14
   - title: "Hunter x Hunter (2011)"
+    synonyms:
+      - "Hunter x Hunter"
+      - "Hunter x Hunter 2011"
     seasons:
       - season: 1
         anilist-id: 11061
@@ -365,7 +456,9 @@ entries:
       - season: 3
         anilist-id: 11061
   - title: "Is the Order a Rabbit?"
-    seasons: 
+    synonyms:
+      - "Gochuumon wa Usagi Desu ka?"
+    seasons:
       - season: 1
         anilist-id: 20517
       - season: 2
@@ -392,32 +485,14 @@ entries:
     seasons:
       - season: 1
         anilist-id: 11013
-  - title: "Is It Wrong to Try to Pick Up Girls in a Dungeon?"
-    seasons:
-      - season: 1
-        anilist-id: 20920
-      - season: 2
-        anilist-id: 101167
-      - season: 3
-        anilist-id: 112124
-      - season: 4
-        anilist-id: 129196
   - title: "I Tried Asking While Kowtowing"
     synonyms: 
       - "Dogeza de Tanondemita"
+      - "Dogeza"
+      - "I Tried Asking While Kowtowing."
     seasons:
       - season: 1
         anilist-id: 122137
-  - title: "Danmachi: Is It Wrong to Try to Pick Up Girls in a Dungeon?"
-    seasons:
-      - season: 1
-        anilist-id: 20920
-      - season: 2
-        anilist-id: 101167
-      - season: 3
-        anilist-id: 112124
-      - season: 4
-        anilist-id: 129196
   - title: "JoJo's Bizarre Adventure"
     synonyms: 
       - "JoJo's Bizarre Adventure (2012)"
@@ -436,6 +511,8 @@ entries:
   - title: "K"
     synonyms:
       - "K: Return of Kings"
+      - "K-Project"
+      - "K Project"
     seasons:
       - season: 1
         anilist-id: 14467
@@ -450,6 +527,9 @@ entries:
       - season: 3
         anilist-id: 125367
   - title: "Kakegurui"
+    synonyms:
+      - "Kakegurui: Das Leben ist ein Spiel"
+      - "Gambling School"
     seasons:
       - season: 1
         anilist-id: 98314
@@ -482,6 +562,9 @@ entries:
   - title: "Love, Chunibyo & Other Delusions!"
     synonyms:
       - "Love, Chunibyo & Other Delusions"
+      - "Love, Chunibyo, and Other Delusions!"
+      - "Chuunibyou demo Koi ga Shitai!"
+      - "Chuunibyou Demo Koi ga Shitai!"
     seasons:
       - season: 1
         anilist-id: 14741
@@ -494,12 +577,18 @@ entries:
       - season: 2
         anilist-id: 114745
   - title: "March Comes in Like a Lion"
+    synonyms:
+      - "Sangatsu no Lion"
+      - "3-gatsu no Lion"
     seasons: 
       - season: 1
         anilist-id: 21366
       - season: 2
         anilist-id: 98478
   - title: "Magia Record: Puella Magi Madoka Magica Side Story"
+    synonyms:
+      - "Magia Record: Mahou Shoujo Madoka Magica Gaiden"
+      - "Magia Record : Puella Magi Madoka Magica Side Story"
     seasons: 
       - season: 1
         anilist-id: 104051
@@ -508,6 +597,8 @@ entries:
       - season: 3
         anilist-id: 104273
   - title: "Magi: Adventure of Sinbad"
+    synonyms:
+      - "Magi: Sinbad no Bouken"
     seasons:
       - season: 1
         anilist-id: 21394
@@ -532,6 +623,9 @@ entries:
       - season: 2
         anilist-id: 113359
   - title: "Miss Kobayashi's Dragon Maid"
+    synonyms:
+      - "Kobayashi-san Chi no Maid Dragon"
+      - "Kobayashi's Dragon Maid"
     seasons:
       - season: 1
         anilist-id: 21776
@@ -583,6 +677,10 @@ entries:
       - season: 3
         anilist-id: 140439
   - title: "Mushoku Tensei: Jobless Reincarnation"
+    synonyms:
+      - "Mushoku Tensei: Isekai Ittara Honki Dasu"
+      - "Mushoku Tensei"
+      - "Jobless Reincarnation"
     seasons:
       - season: 1
         anilist-id: 108465
@@ -614,6 +712,8 @@ entries:
       - season: 6
         anilist-id: 139630
   - title: "My Teen Romantic Comedy SNAFU"
+    synonyms:
+      - "Yahari Ore no Seishun Love Comedy wa Machigatteiru"
     seasons:
       - season: 1
         anilist-id: 14813
@@ -622,6 +722,9 @@ entries:
       - season: 3
         anilist-id: 108489
   - title: "My Next Life as a Villainess: All Routes Lead to Doom!"
+    synonyms:
+      - "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta"
+      - "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei Shiteshimatta..."
     seasons: 
       - season: 1
         anilist-id: 104647
@@ -640,12 +743,19 @@ entries:
         anilist-id: 20
         start: 204
   - title: "Nisekoi"
+    synonyms:
+      - "False Love"
+      - "Fake Love"
+      - "Nisekoi: Liebe, Lügen & Yakuza"
+      - "Nisekoi - False Love"
     seasons: 
       - season: 1
         anilist-id: 18897
       - season: 2
         anilist-id: 20876
   - title: "Noragami"
+    synonyms:
+      - "Noragami Aragoto"
     seasons:
       - season: 1
         anilist-id: 20447
@@ -654,6 +764,7 @@ entries:
   - title: "Nyaruko - Crawling with Love!"
     synonyms:
       - "Nyaruko: Crawling with Love!"
+      - "Haiyore! Nyaruko-san"
     seasons:
       - season: 1
         anilist-id: 11785
@@ -683,6 +794,8 @@ entries:
       - season: 4
         anilist-id: 133844
   - title: "Psycho-Pass"
+    synonyms:
+      - "PSYCHO PASS"
     seasons:
       - season: 1
         anilist-id: 13601
@@ -693,6 +806,7 @@ entries:
   - title: "Rage of Bahamut"
     synonyms:
       - "Rage of Bahamut: Genesis"
+      - "Shingeki no Bahamut"
     seasons:
       - season: 1
         anilist-id: 20590
@@ -700,7 +814,9 @@ entries:
         anilist-id: 21184
   - title: "Re:ZERO -Starting Life in Another World-"
     synonyms:
-      - "Re:ZERO - Starting Life in Another World-"
+      - "Re:Zero -Starting Life in Another World-"
+      - "Re:Zero - Starting Life in Another World"
+      - "Re:Zero kara Hajimeru Isekai Seikatsu"
     seasons:
       - season: 1
         anilist-id: 21355
@@ -710,6 +826,9 @@ entries:
         anilist-id: 119661
         start: 14
   - title: "Seraph of the End"
+    synonyms:
+      - "Owari no Seraph"
+      - "Seraph of the End: Vampire Reign"
     seasons:
       - season: 1
         anilist-id: 20829
@@ -730,10 +849,14 @@ entries:
       - season: 2
         anilist-id: 117085
   - title: "SK8 the Infinity"
+    synonyms:
+      - "Sk8"
     seasons:
       - season: 1
         anilist-id: 124153
   - title: "Space Brothers"
+    synonyms:
+      - "Uchuu Kyoudai"
     seasons:
       - season: 1
         anilist-id: 12431
@@ -741,18 +864,27 @@ entries:
         anilist-id: 12431
         start: 52
   - title: "Space Pirate Captain Harlock"
+    synonyms:
+      - "Albator 78"
+      - "Capitan Harlock"
     seasons:
       - season: 1
         anilist-id: 17269
   - title: "Star Blazers: Space Battleship Yamato 2199"
     synonyms:
       - "Star Blazers 2199 - Space Battleship Yamato"
+      - "Star Blazers [Space Battleship Yamato] 2199"
+      - "Uchuu Senkan Yamato 2199"
+      - "Space Battleship Yamato 2199"
     seasons:
       - season: 1
         anilist-id: 12029
       - season: 2
         anilist-id: 21730
   - title: "Sweetness & Lightning"
+    synonyms:
+      - "Amaama to Inazuma"
+      - "Sweetness and Lightning"
     seasons:
       - season: 1
         anilist-id: 21659
@@ -770,6 +902,10 @@ entries:
         anilist-id: 114308
         start: 13
   - title: "Symphogear"
+    synonyms:
+      - "Superb Song of the Valkyries: Symphogear"
+      - "Senki Zesshou Symphogear"
+      - "Senhime Zesshou Symphogear"
     seasons:
       - season: 1
         anilist-id: 11751
@@ -782,6 +918,11 @@ entries:
       - season: 5
         anilist-id: 21673
   - title: "That Time I Got Reincarnated as a Slime"
+    synonyms:
+      - "Meine Wiedergeburt als Schleim in einer anderen Welt"
+      - "Tensei shitara Slime Datta Ken"
+      - "Tensei Shitara Slime Datta Ken"
+      - "Slime Isekai"
     seasons:
       - season: 1
         anilist-id: 101280
@@ -791,6 +932,8 @@ entries:
         anilist-id: 116742
         start: 13
   - title: "The Familiar of Zero"
+    synonyms:
+      - "Zero no Tsukaima"
     seasons:
       - season: 1
         anilist-id: 1195
@@ -801,6 +944,9 @@ entries:
       - season: 4
         anilist-id: 11319
   - title: "The Irregular at Magic High School"
+    synonyms:
+      - "Mahouka Koukou no Rettousei"
+      - "Mahouka koukou no rettousei"
     seasons:
       - season: 1
         anilist-id: 20458
@@ -809,6 +955,8 @@ entries:
   - title: "The King's Avatar"
     synonyms:
       - "The King’s Avatar: For The Glory"
+      - "Quan Zhi Gao Shou"
+      - "Quanzhi Gaoshou"
     seasons:
       - season: 1
         anilist-id: 98861
@@ -817,10 +965,17 @@ entries:
       - season: 3
         anilist-id: 137735
   - title: "The Melancholy of Haruhi Suzumiya"
+    synonyms:
+      - "Suzumiya Haruhi no Yuuutsu"
+      - "The Melancholy of Haruhi Suzumiya (2009)"
+      - "Die Melancholie der Haruhi Suzumiya"
+      - "Die Melancholie der Haruhi Suzumiya (2009)"
     seasons:
       - season: 1
         anilist-id: 4382
   - title: "The Rising of the Shield Hero"
+    synonyms:
+      - "Tate no Yuusha no Nariagari"
     seasons:
       - season: 1
         anilist-id: 99263
@@ -829,10 +984,14 @@ entries:
       - season: 3
         anilist-id: 111322
   - title: "The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat"
+    synonyms:
+      - "Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei Suru"
     seasons:
       - season: 1
         anilist-id: 129898
   - title: "The Seven Deadly Sins"
+    synonyms:
+      - "Nanatsu no Taizai"
     seasons:
       - season: 1
         anilist-id: 20789
@@ -844,11 +1003,17 @@ entries:
         anilist-id: 108928
   - title: "The Slime Diaries: That Time I Got Reincarnated as a Slime"
     synonyms:
+      - "Tensura Nikki: Tensei Shitara Slime Datta Ken"
+      - "Tensura Nikki: Tensei shitara Slime Datta Ken"
       - "The Slime Diaries"
     seasons:
       - season: 1
         anilist-id: 116741
   - title: "The Way of the Househusband"
+    synonyms:
+      - "The Way of the Househusband (2021)"
+      - "Yakuza goes Hausmann"
+      - "Gokushufudou: Tatsu Imortal"
     seasons:
       - season: 1
         anilist-id: 125426
@@ -859,6 +1024,8 @@ entries:
     synonyms: 
       - "Eternity Library & Alchemic Girl"
       - "Trinity Seven Movie - Yuukyuu Toshokan to Renkinjutsu Shoujo"
+      - "Trinity Seven : Eternity Library & Alchemic Girl"
+      - "Trinity Seven Movie: Eternity Library to Alchemic Girl 1"
     seasons:
       - season: 1
         anilist-id: 21874
@@ -874,6 +1041,8 @@ entries:
         anilist-id: 102351
         start: 13
   - title: "To Love-Ru"
+    synonyms:
+     - "To LOVE-Ru"
     seasons:
      - season: 1
        anilist-id: 3455
@@ -887,10 +1056,16 @@ entries:
        anilist-id: 21852
        start: 13
   - title: "Twin Star Exorcists"
+    synonyms:
+      - "Twin Star Exorcist"
+      - "Sousei no Onmyouji"
     seasons:
       - season: 1
         anilist-id: 21499
   - title: "Higurashi no Naku Koro ni"
+    synonyms:
+      - "When They Cry - Higurashi"
+      - "Higurashi - When They Cry"
     seasons:
       - season: 1
         anilist-id: 934
@@ -902,10 +1077,14 @@ entries:
     synonyms:
       - "Yamada-kun & the 7 Witches"
       - "Yamada-kun and the Seven Witches (2015)"
+      - "Yamada-kun and the Seven Witches"
     seasons:
       - season: 1
         anilist-id: 20966
   - title: "Yu-Gi-Oh!"
+    synonyms:
+      - "Yu-Gi-Oh! Duel Monsters"
+      - "Yu-Gi-Oh! (2000)"
     seasons:
       - season: 1
         anilist-id: 481
