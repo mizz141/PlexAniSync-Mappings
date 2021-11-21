@@ -315,6 +315,8 @@ entries:
         anilist-id: 20792
         start: 13
   - title: "Fate/Zero"
+    synonyms:
+      - "Fate Zero"
     seasons:
       - season: 1
         anilist-id: 10087
@@ -322,6 +324,9 @@ entries:
         anilist-id: 11741
         start: 13
   - title: "FLCL"
+    synonyms:
+      - "Fooly Cooly"
+      - "Fooly Cooly (FLCL)"
     seasons:
       - season: 1
         anilist-id: 227
@@ -332,6 +337,7 @@ entries:
   - title: "Food Wars! Shokugeki no Soma"
     synonyms:
       - "Food Wars!"
+      - "Shokugeki no Souma"
     seasons:
       - season: 1
         anilist-id: 20923
@@ -347,6 +353,8 @@ entries:
       - season: 5
         anilist-id: 114043
   - title: "Fruits Basket (2019)"
+    synonyms:
+      - "Fruits Basket"
     seasons:
       - season: 1
         anilist-id: 105334
