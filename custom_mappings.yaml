@@ -758,9 +758,9 @@ entries:
         anilist-id: 101340
       - season: 2
         anilist-id: 110028
-  - title: "Boku no Hero Academia"
+  - title: "My Hero Academia"
     synonyms:
-      - "My Hero Academia"
+      - "Boku no Hero Academia"
     seasons:
       - season: 1
         anilist-id: 21459
@@ -833,11 +833,6 @@ entries:
         anilist-id: 11785
       - season: 2
         anilist-id: 15699
-  - title: "One Piece"
-    seasons:
-      - season: 21
-        anilist-id: 21
-        start: -890
   - title: "One Room"
     seasons:
       - season: 1
@@ -902,21 +897,21 @@ entries:
     seasons:
       - season: 1
         anilist-id: 97731
-  - title: "Majutsushi Orphen Hagure Tabi"
-    synonyms:
-      - "Sorcerous Stabber Orphen"
-      - "Sorcerous Stabber Orphen (2020)"
-    seasons: 
-      - season: 1
-        anilist-id: 101367
-      - season: 2
-        anilist-id: 117085
   - title: "SK8 the Infinity"
     synonyms:
       - "Sk8"
     seasons:
       - season: 1
         anilist-id: 124153
+  - title: "Sorcerous Stabber Orphen (2020)"
+    synonyms:
+      - "Sorcerous Stabber Orphen"
+      - "Majutsushi Orphen Hagure Tabi"
+    seasons: 
+      - season: 1
+        anilist-id: 101367
+      - season: 2
+        anilist-id: 117085
   - title: "Space Brothers"
     synonyms:
       - "Uchuu Kyoudai"
@@ -1125,9 +1120,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 21499
-  - title: "Higurashi no Naku Koro ni"
+  - title: "When They Cry - Higurashi"
     synonyms:
-      - "When They Cry - Higurashi"
+      - "Higurashi no Naku Koro ni"
       - "Higurashi - When They Cry"
     seasons:
       - season: 1

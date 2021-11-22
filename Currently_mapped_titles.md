@@ -7,12 +7,19 @@
 | A Silent Voice: The Movie | Movie | Movie | A Silent Voice |  |
 | AJIN | Series | S01, S02 | Ajin Demi-Human, Ajin Demi-Human 2 |  |
 | Aldnoah.Zero | Series | S01 | S01 + S02 | AniList treats this as two seasons |  |
+| AOI SEKAI NO CHUUSHIN DE: World War Blue | Special | S01 | World War Blue |  |
 | Ascendance of a Bookworm | Series | S01 | S01P1 + S01P2 |  |
 | Attack on Titan | Series | S01, S02, S03, S04 | S01, S02, S03P1 + S03P2, S04P1 + S04P2 |  |
+| Back Street Girls | Series | S01 | Back Street Girls -GOKUDOLLS-|  |
+| Basilisk | Series | S01 | Basilisk: The Ouka Ninja Scrolls |  |
 | BEASTARS | Series | S01, S02 | S01, S02 |  |
+| Beelzebub | Series | S01 | Beelzebub |  |
 | Black Butler | Series | S01, S02, S03 | S01, S02, Book of Circus |  |
 | Black Lagoon | Series | S01 | S01, The Second Barrage |  |
+| Black Rock Shooter | Series | S01 | Black★Rock Shooter (TV) |  |
+| Blood+ | Series | S01 | Blood+ |  |
 | Blood Blockade Battlefront | Series | S01, S02 | S01, S02 |  |
+| Blue Exorcist | Series | S01, S02 | Blue Exorcist, Blue Exorcist: Kyoto Saga |  |
 | Boruto: Naruto Next Generations | Series | S01 | S01 |  |
 | Cardfight!! Vanguard | Series | S01-S13 | S01-S13 | Will name properly later... |
 | Cardfight!! Vanguard overDress | Series | S01, S02, S03, S04 | S01, S02, S03, S04 |  |
@@ -21,6 +28,7 @@
 | Chaika the Coffin Princess | Series | S01, S02 | S01, Avenging Battle |  |
 | Clannad | Series | S01, S02 | S01, After Story |  |
 | Code Geass: Lelouch of the Rebellion | Series | S01, S02 | R1, R2 |  |
+| Corpse Party: Tortured Souls | Series | S01 | Corpse Party |  |
 | Danganronpa | Series |  S01, S02 | Danganronpa, DR3 Future Arc | *note: It might be needed to change to TVDB Aired order to properly scan series.* |
 | Danganronpa 3: The End of Hope's Peak Academy - Despair Arc | Series |  S01 | Danganronpa 3: The End of Hope's Peak High School - Despair Arc |  |
 | Danmachi: Is It Wrong to Try to Pick Up Girls in a Dungeon? | Series |  S01, S02, S03 | S01, S02, S03 |  |
@@ -28,6 +36,7 @@
 | D.Gray-Man | Series | S01, S02 | S01, S02 | |
 | D.Gray-Man Hallow | Series | S01, S02 | S01, S02 | |
 | Demon Slayer | Series | S01 | S01 | |
+| Devilman Crybaby | ONA | S01 | Devilman Crybaby |  |
 | Dr. Stone | Series | S01, S02 | Dr. Stone, Stone Wars |  |
 | Durarara!! | Series | S01, S02 | Durarara!!, Shou+Ten+Ketsu |  |
 | Fate/stay night: Unlimited Blade Works | Series | S01 | S01 + S02 | Anilist Episode 2 mapped to Plex Episode 1 due to TVDB having 25 episodes for S01 and a Special Episode (listed as Season 0) while Anilist has Special Episode included in total episode count, that is, 26. |
@@ -74,7 +83,6 @@
 | Nisekoi | Series | S01, S02 | S01, S02 |  |
 | Noragami | Series | S01, S02 | S01, Aragoto |  |
 | Nyaruko - Crawling with Love! | Series | S01, S02 | S01, S02 |  |
-| One Piece | Series | S21 | Wano | Currently only works with Season 21, will add more |
 | One Room | Series | S01, S02, S03 | S01, S02, S03 |  |
 | Overlord | Series | S01, S02, S03, S04 | S01, S02, S03, S04 | |
 | Psycho-Pass | Series | S01, S02, S03 | S01, S02, S03 |  |
