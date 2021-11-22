@@ -265,9 +265,9 @@ entries:
         anilist-id: 1482
         start: 52
   - title: "D.Gray-man HALLOW"
-    synonyms: 
+    synonyms:
       - "D.Gray-Man Hallow"
-      - "D.Gray-ｍan Hallow"
+      - "D.Gray-man Hallow"
     seasons:
       - season: 1
         anilist-id: 21558
@@ -486,7 +486,7 @@ entries:
       - season: 1
         anilist-id: 11013
   - title: "I Tried Asking While Kowtowing"
-    synonyms: 
+    synonyms:
       - "Dogeza de Tanondemita"
       - "Dogeza"
       - "I Tried Asking While Kowtowing."
@@ -494,7 +494,7 @@ entries:
       - season: 1
         anilist-id: 122137
   - title: "JoJo's Bizarre Adventure"
-    synonyms: 
+    synonyms:
       - "JoJo's Bizarre Adventure (2012)"
     seasons:
       - season: 1
@@ -840,7 +840,7 @@ entries:
       - season: 1
         anilist-id: 97731
   - title: "Majutsushi Orphen Hagure Tabi"
-    synonyms: 
+    synonyms:
       - "Sorcerous Stabber Orphen"
       - "Sorcerous Stabber Orphen (2020)"
     seasons: 
@@ -1021,7 +1021,7 @@ entries:
         anilist-id: 132193
         start: 6
   - title: "Trinity Seven: Eternity Library & Alchemic Girl"
-    synonyms: 
+    synonyms:
       - "Eternity Library & Alchemic Girl"
       - "Trinity Seven Movie - Yuukyuu Toshokan to Renkinjutsu Shoujo"
       - "Trinity Seven : Eternity Library & Alchemic Girl"
