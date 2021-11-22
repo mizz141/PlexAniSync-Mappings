@@ -9,6 +9,10 @@ Currently Mapped Titles:
 - TVDB Specials cannot be matched with custom mappings due to [PlexAniSync not supporting Season 0/Specials](https://github.com/RickDB/PlexAniSync/issues/80#issuecomment-944931420).
 - You may need to change titles on some mappings if it changes on TheTVDB or you tweak your Plex entry.
 
+# Discord Server
+
+We have set-up a [Discord Server](https://discord.gg/8vcnkkhguf) for questions, contributions and chitchat.
+
 # Installation on unRAID
 First you need to install the PlexAniSync Docker, if you have that already, you can skip this section.
 
