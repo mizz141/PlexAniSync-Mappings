@@ -59,6 +59,13 @@ entries:
       - season: 1
         anilist-id: 20853
         start: 13
+  - title: "AOI SEKAI NO CHUUSHIN DE: World War Blue"
+    synonyms:
+      - "World War Blue"
+      - "Aoi Sekai no Chuushin de"
+    seasons:
+      - season: 1
+        anilist-id: 15133
   - title: "Ascendance of a Bookworm"
     synonyms:
       - "Honzuki no Gekokujou : Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen"
@@ -89,6 +96,24 @@ entries:
       - season: 4
         anilist-id: 131681
         start: 17
+  - title: "Back Street Girls"
+    synonyms:
+      - "Back Street Girls -GOKUDOLLS-"
+      - "Back Street Girls: Gokudolls"
+      - "Back Street Girls - Gokudolls"
+      - "Back Street Girls Gokudolls"
+    seasons:
+      - season: 1
+        anilist-id: 100665
+  - title: "Basilisk"
+    synonyms:
+      - "Basilisk: Die Chroniken der Kouga-Ninja"
+      - "Basilisk! Kouga Ninja Scrolls"
+    seasons:
+      - season: 1
+        anilist-id: 67
+      - season: 2
+        anilist-id: 99569
   - title: "BEASTARS"
     synonyms:
       - "Beastars"
@@ -97,6 +122,10 @@ entries:
         anilist-id: 107660
       - season: 2
         anilist-id: 114194
+  - title: "Beelzebub"
+    seasons:
+      - season: 1
+        anilist-id: 9513
   - title: "Black Butler"
     synonyms:
       - "Kuro Shitsuji" 
@@ -115,6 +144,18 @@ entries:
       - season: 1
         anilist-id: 1519
         start: 14
+  - title: "Black Rock Shooter"
+    seasons:
+      - season: 1
+        anilist-id: 11285
+  - title: "Blood+"
+    synonyms:
+      - "Blood +"
+      - "blood plus"
+      - "BLOOD+"
+    seasons:
+      - season: 1
+        anilist-id: 150
   - title: "Blood Blockade Battlefront"
     synonyms:
       - "Kekkai Sensen"
@@ -123,6 +164,15 @@ entries:
         anilist-id: 20727
       - season: 2
         anilist-id: 97886
+  - title: "Blue Exorcist"
+    synonyms:
+      - "Ao no Exorcist"
+      - "Ao No Exorcist"
+    seasons:
+      - season: 1
+        anilist-id: 9919
+      - season: 2
+        anilist-id: 21861
   - title: "Boruto: Naruto Next Generations"
     synonyms:
       - "Boruto - Naruto Next Generations"
@@ -215,6 +265,13 @@ entries:
         anilist-id: 1575
       - season: 2
         anilist-id: 2904
+  - title: "Corpse Party: Tortured Souls"
+    synonyms:
+      - "Corpse Party : Tortured Souls - Bougyakusareta Tamashii no Jukyou"
+      - "Corpse Party"
+    seasons:
+      - season: 1
+        anilist-id: 15037
   - title: "Danganronpa"
     synonyms:
       - "Danganronpa Kibou no Gakuen to Zetsubou no Koukousei The Animation"
@@ -281,6 +338,12 @@ entries:
         anilist-id: 101922
       - season: 2
         anilist-id: 129874
+  - title: "Devilman Crybaby"
+    synonyms:
+     - "DEVILMAN crybaby"
+    seasons:
+      - season: 1
+        anilist-id: 98460
   - title: "Dr. Stone"
     synonyms:
       - "Doctor Stone"
