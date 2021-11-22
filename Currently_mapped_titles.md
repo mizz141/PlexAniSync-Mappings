@@ -83,6 +83,7 @@
 | Nisekoi | Series | S01, S02 | S01, S02 |  |
 | Noragami | Series | S01, S02 | S01, Aragoto |  |
 | Nyaruko - Crawling with Love! | Series | S01, S02 | S01, S02 |  |
+| One piece | Series | S01-S21 | One Piece |  |
 | One Room | Series | S01, S02, S03 | S01, S02, S03 |  |
 | Overlord | Series | S01, S02, S03, S04 | S01, S02, S03, S04 | |
 | Psycho-Pass | Series | S01, S02, S03 | S01, S02, S03 |  |
