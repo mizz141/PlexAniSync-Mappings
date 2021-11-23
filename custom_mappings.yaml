@@ -1198,3 +1198,12 @@ entries:
         anilist-id: 481
       - season: 5
         anilist-id: 481
+  - title: "Zombie Land Saga"
+    synonyms:
+      - "Zombieland Saga"
+      - "ZOMBIE LAND SAGA"
+    seasons:
+      - season: 1
+        anilist-id: 103871
+      - season: 2
+        anilist-id: 110733
