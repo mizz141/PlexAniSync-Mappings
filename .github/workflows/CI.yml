@@ -1,4 +1,4 @@
-name: validator
+name: CI
 on:
   push:
     branches: [ master ]
