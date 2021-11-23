@@ -38,6 +38,11 @@
 | Demon Slayer | Series | S01 | S01 | |
 | Devilman Crybaby | ONA | S01 | Devilman Crybaby |  |
 | Dr. Stone | Series | S01, S02 | Dr. Stone, Stone Wars |  |
+| Dragon Ball | Series | S01 - S06 | S01 |  |
+| Dragon Ball GT | Series | S01 - S03 | S01 |  |
+| Dragon Ball Kai | Series | S01, S02 | S01 |  |
+| Dragon Ball Super | Series | S01 - S04 | S01 |  |
+| Dragon Ball Z | Series | S01 - S09 | S01 |  |
 | Durarara!! | Series | S01, S02 | Durarara!!, Shou+Ten+Ketsu |  |
 | Fate/stay night: Unlimited Blade Works | Series | S01 | S01 + S02 | Anilist Episode 2 mapped to Plex Episode 1 due to TVDB having 25 episodes for S01 and a Special Episode (listed as Season 0) while Anilist has Special Episode included in total episode count, that is, 26. |
 | FLCL | Series | S01, S02, S03 | FLCL, Alternative, Progressive |  |

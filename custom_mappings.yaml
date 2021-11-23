@@ -353,6 +353,81 @@ entries:
         anilist-id: 105333
       - season: 2
         anilist-id: 113936
+  - title: "Dragon Ball"
+    synonyms:
+      - "Dragonball"
+      - "Dragon Ball (1986)"
+    seasons:
+      - season: 1
+        anilist-id: 223
+      - season: 2
+        anilist-id: 223
+      - season: 3
+        anilist-id: 223
+      - season: 4
+        anilist-id: 223
+      - season: 5
+        anilist-id: 223
+      - season: 6
+        anilist-id: 223
+  - title: "Dragon Ball GT"
+    synonyms:
+      - "Dragonball GT"
+    seasons:
+      - season: 1
+        anilist-id: 225
+      - season: 2
+        anilist-id: 225
+      - season: 3
+        anilist-id: 225
+  - title: "Dragon Ball Kai"
+    synonyms:
+      - "Dragon Ball Z Kai"
+      - "Dragon Ball Kai (2009)"
+      - "Dragonball Kai"
+      - "Dragonball Z Kai"
+    seasons:
+      - season: 1
+        anilist-id: 6033
+      - season: 2
+        anilist-id: 6033
+  - title: "Dragon Ball Super"
+    synonyms:
+      - "Dragonball Super"
+      - "Dragon Ball Chou"
+      - "Dragon Ball Super (2015)"
+    seasons:
+      - season: 1
+        anilist-id: 21175
+      - season: 2
+        anilist-id: 21175
+      - season: 3
+        anilist-id: 21175
+      - season: 4
+        anilist-id: 21175
+  - title: "Dragon Ball Z"
+    synonyms:
+      - "Dragonball Z"
+      - "Dragon Ball Z (1989)"
+    seasons:
+      - season: 1
+        anilist-id: 813
+      - season: 2
+        anilist-id: 813
+      - season: 3
+        anilist-id: 813
+      - season: 4
+        anilist-id: 813
+      - season: 5
+        anilist-id: 813
+      - season: 6
+        anilist-id: 813
+      - season: 7
+        anilist-id: 813
+      - season: 8
+        anilist-id: 813
+      - season: 9
+        anilist-id: 813
   - title: "Durarara!!"
     seasons:
       - season: 1
