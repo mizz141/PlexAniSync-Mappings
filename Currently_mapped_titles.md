@@ -116,3 +116,4 @@
 | When They Cry - Higurashi | Series | S01, S02, S03 | Ni, Kai, Rei | Seperate entries for Ni, Kai, Rei and the new Gou and Sotsu. |
 | Yamada-kun and the Seven Witches (2015) | Series | S01 | S01 |  |
 | Yu-Gi-Oh! | Series | S01, S02, S03, S04, S05 | S01 |  |
+| Zombie Land Saga | Series | S01, S02 | S01, Revenge |  |
