@@ -846,8 +846,8 @@ entries:
       - "Michiko und Hatchin"
       - "Michiko e Hatchin"
     seasons:
-      season: 1
-      anilist-id: 4087
+      - season: 1
+        anilist-id: 4087
   - title: "Miss Kobayashi's Dragon Maid"
     synonyms:
       - "Kobayashi-san Chi no Maid Dragon"
