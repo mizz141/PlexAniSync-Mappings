@@ -848,6 +848,15 @@ entries:
     seasons:
       - season: 1
         anilist-id: 4087
+  - title: "Miss Morita is Taciturn"
+    synonyms:
+      - "Morita-san wa Mukuchi."
+      - "Morita-san wa Mukuchi"
+    seasons:
+      - season: 1
+        anilist-id: 10671
+      - season: 2
+        anilist-id: 11615
   - title: "Miss Kobayashi's Dragon Maid"
     synonyms:
       - "Kobayashi-san Chi no Maid Dragon"
