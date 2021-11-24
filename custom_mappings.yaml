@@ -500,6 +500,51 @@ entries:
         anilist-id: 111762
       - season: 3
         anilist-id: 124194
+  - title: "Full Metal Panic!"
+    seasons:
+      - season: 1
+        anilist-id: 71
+      - season: 2
+        anilist-id: 72
+      - season: 3
+        anilist-id: 73
+      - season: 4
+        anilist-id: 21451
+  - title: "Gantz"
+    synonyms:
+      - "GANTZ"
+    seasons:
+      - season: 1
+        anilist-id: 384
+      - season: 2
+        anilist-id: 395
+  - title: "Ghost in the Shell: Arise - Alternative Architecture"
+    synonyms:
+      - "Ghost in the Shell Arise : Alternative Architecture"
+      - "Ghost in the Shell: Arise - Alternative Architecture"
+    seasons:
+      - season: 1
+        anilist-id: 21056
+  - title: "Ghost in the Shell: Stand Alone Complex"
+    synonyms:
+      - "Ghost in the Shell: S.A.C."
+    seasons:
+      - season: 1
+        anilist-id: 467
+      - season: 2
+        anilist-id: 801
+      - season: 3
+        anilist-id: 106154
+      - season: 4
+        anilist-id: 117756
+  - title: "Gunslinger Girl"
+    synonyms:
+      - "GUNSLINGER GIRL"
+    seasons:
+      - season: 1
+        anilist-id: 134
+      - season: 2
+        anilist-id: 3231
   - title: "Gintama"
     seasons:
       - season: 1
@@ -547,6 +592,12 @@ entries:
       - season: 4
         anilist-id: 113538
         start: 14
+  - title: "Hamatora"
+    seasons:
+      - season: 1
+        anilist-id: 20521
+      - season: 2
+        anilist-id: 20711
   - title: "Highschool DxD"
     synonyms:
       - "High School D×D"
@@ -603,6 +654,18 @@ entries:
         anilist-id: 21034
       - season: 3
         anilist-id: 104198
+  - title: "Is This A Zombie?"
+    synonyms:
+      - "Kore wa Zombie Desu ka"
+      - "Kore wa Zombie Desu ka?"
+      - "Is This A Zombie"
+      - "Is.This.A.Zombie"
+      - "Kore.wa.Zombie"
+    seasons:
+      - season: 1
+        anilist-id: 8841
+      - season: 2
+        anilist-id: 10790
   - title: "Initial D"
     seasons: 
       - season: 1
@@ -631,6 +694,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 122137
+  - title: "Ixion Saga: Dimension Transfer"
+    synonyms:
+      - "Ixion Saga - Dimension Transfer"
+      - "Ixion Saga DT"
+    seasons:
+      - season: 1
+        anilist-id: 14765
   - title: "JoJo's Bizarre Adventure"
     synonyms:
       - "JoJo's Bizarre Adventure (2012)"
@@ -689,6 +759,15 @@ entries:
         anilist-id: 113108
       - season: 4
         anilist-id: 140350
+  - title: "Knights of Sidonia"
+    synonyms:
+      - "Sidonia no Kishi"
+      - "Caballeros de Sidonia"
+    seasons:
+      - season: 1
+        anilist-id: 19775
+      - season: 2
+        anilist-id: 20762
   - title: "Log Horizon"
     seasons:
       - season: 1
@@ -760,6 +839,15 @@ entries:
         anilist-id: 100298
       - season: 2
         anilist-id: 113359
+  - title: "Michiko & Hatchin"
+    synonyms:
+      - "Michiko to Hatchin"
+      - "Michiko and Hatchin"
+      - "Michiko und Hatchin"
+      - "Michiko e Hatchin"
+    seasons:
+      - season: 1
+        anilist-id: 4087
   - title: "Miss Kobayashi's Dragon Maid"
     synonyms:
       - "Kobayashi-san Chi no Maid Dragon"
@@ -814,6 +902,12 @@ entries:
         anilist-id: 101338
       - season: 3
         anilist-id: 140439
+  - title: "Mobile Suit Gundam 00"
+    seasons:
+      - season: 1
+        anilist-id: 2581
+      - season: 2
+        anilist-id: 3927
   - title: "Mushoku Tensei: Jobless Reincarnation"
     synonyms:
       - "Mushoku Tensei: Isekai Ittara Honki Dasu"
@@ -1002,6 +1096,18 @@ entries:
       - season: 2
         anilist-id: 119661
         start: 14
+  - title: "Rurouni Kenshin"
+    synonyms:
+      - "Samurai X"
+      - "Kenshin, le vagabond"
+      - "Kenshin Samurai vagabondo"
+    seasons:
+      - season: 1
+        anilist-id: 45
+      - season: 2
+        anilist-id: 45
+      - season: 3
+        anilist-id: 45
   - title: "Seraph of the End"
     synonyms:
       - "Owari no Seraph"
@@ -1094,6 +1200,14 @@ entries:
         anilist-id: 21672
       - season: 5
         anilist-id: 21673
+  - title: "Terra Formars"
+    synonyms:
+      - "TERRAFORMARS"
+    seasons:
+      - season: 1
+        anilist-id: 20629
+      - season: 2
+        anilist-id: 21300
   - title: "That Time I Got Reincarnated as a Slime"
     synonyms:
       - "Meine Wiedergeburt als Schleim in einer anderen Welt"
@@ -1120,6 +1234,14 @@ entries:
         anilist-id: 3712
       - season: 4
         anilist-id: 11319
+  - title: "The Future Diary"
+    synonyms:
+      - "Mirai Nikki"
+      - "Mirai Nikki (2011)"
+      - "Mirai Nikki (Anime)"
+    seasons:
+      - season: 1
+        anilist-id: 10620
   - title: "The Irregular at Magic High School"
     synonyms:
       - "Mahouka Koukou no Rettousei"
@@ -1186,6 +1308,14 @@ entries:
     seasons:
       - season: 1
         anilist-id: 116741
+  - title: "Thus Spoke Kishibe Rohan"
+    synonyms:
+      - "Kishibe Rohan wa Ugokanai"
+      - "Thus Spoke Kishibe Rohan (2017)"
+      - "Rohan Kishibe"
+    seasons:
+      - season: 1
+        anilist-id: 21778
   - title: "The Way of the Househusband"
     synonyms:
       - "The Way of the Househusband (2021)"
@@ -1232,6 +1362,27 @@ entries:
      - season: 4
        anilist-id: 21852
        start: 13
+  - title: "Towa no Quon"
+    synonyms:
+      - "Eternal Quon"
+    seasons:
+      - season: 1
+        anilist-id: 10294
+      - season: 1
+        anilist-id: 10713
+        start: 2
+      - season: 1
+        anilist-id: 10714
+        start: 3
+      - season: 1
+        anilist-id: 10715
+        start: 4
+      - season: 1
+        anilist-id: 10716
+        start: 5
+      - season: 1
+        anilist-id: 10717
+        start: 6
   - title: "Twin Star Exorcists"
     synonyms:
       - "Twin Star Exorcist"
@@ -1239,6 +1390,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 21499
+  - title: "Vampire Knight"
+    seasons:
+      - season: 1
+        anilist-id: 3457
+      - season: 2
+        anilist-id: 4752
   - title: "When They Cry - Higurashi"
     synonyms:
       - "Higurashi no Naku Koro ni"
@@ -1258,6 +1415,14 @@ entries:
     seasons:
       - season: 1
         anilist-id: 20966
+  - title: "Yozakura Quartet"
+    synonyms:
+      - "Yozakura Quartet: Hana no Uta"
+      - "Yozakura Quartet (2013)"
+      - "Yozakura Quartet: Hana no Uta (2013)"
+    seasons:
+      - season: 1
+        anilist-id: 4548
   - title: "Yu-Gi-Oh!"
     synonyms:
       - "Yu-Gi-Oh! Duel Monsters"
@@ -1273,6 +1438,14 @@ entries:
         anilist-id: 481
       - season: 5
         anilist-id: 481
+  - title: "YuruYuri: Happy Go Lily"
+    synonyms:
+      - "YuruYuri"
+      - "Yuru Yuri"
+      - "YRYR"
+    seasons:
+      - season: 1
+        anilist-id: 10495
   - title: "Zombie Land Saga"
     synonyms:
       - "Zombieland Saga"
