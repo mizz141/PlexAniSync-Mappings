@@ -19,7 +19,7 @@ First you need to install the PlexAniSync Docker, if you have that already, you 
 This is easiest done with the [Community Applications](https://forums.unraid.net/topic/38582-plug-in-community-applications/) plugin. (Installation from dockerHub must be enabled).
 *NOTE: The Official version isn't updated anymore, I suggest getting [this version](https://hub.docker.com/repository/docker/mizz141/plexanisync-mizz141) instead.* 
 
-Enter the Variables according to the [dockerHub](https://hub.docker.com/r/rickdb/plexanisync/)
+Enter the Variables according to the [dockerHub](https://hub.docker.com/repository/docker/mizz141/plexanisync-mizz141)
 
 Configure the Path to be in your AppData folder named `PlexAniSync-Mappings`.
 
