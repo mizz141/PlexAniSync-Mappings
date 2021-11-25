@@ -568,12 +568,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 17187
-   - title: "Ghost in the Shell Arise - Border 2: Ghost Whispers"
-     synonyms:
+  - title: "Ghost in the Shell Arise - Border 2: Ghost Whispers"
+    synonyms:
       - "Ghost in the Shell Arise - Border 2: Ghost Whisper"
       - "Ghost in the Shell Arise - border:2 Ghost Whispers"
       - "Ghost in the Shell Arise: Border 2 - Ghost Whisper"
-     seasons:
+    seasons:
       - season: 1
         anilist-id: 19191
    - title: "Ghost in the Shell Arise - Border 3: Ghost Tears"
