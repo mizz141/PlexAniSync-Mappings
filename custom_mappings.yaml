@@ -561,11 +561,11 @@ entries:
       - season: 1
         anilist-id: 21056
   - title: "Ghost in the Shell Arise - border:1 Ghost Pain"
-     synonyms:
+    synonyms:
       - "Ghost in the Shell Arise: Border 1 - Ghost Pain"
       - "ARISE border : 1 Ghost Pain"
       - "Ghost in the Shell Arise - Border 1: Ghost Pain"
-     seasons:
+    seasons:
       - season: 1
         anilist-id: 17187
    - title: "Ghost in the Shell Arise - Border 2: Ghost Whispers"
