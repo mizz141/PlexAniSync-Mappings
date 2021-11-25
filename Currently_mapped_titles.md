@@ -96,7 +96,7 @@
 | My Hero Academia | Series | S01, S02, S03, S04, S05, S06 | S01, S02, S03, S04, S05, S06 | |
 | My Teen Romantic Comedy SNAFU | Series | S01, S02, S03 | S01, Zoku, Kan |  |
 | My Next Life as a Villainess: All Routes Lead to Doom! | Series | S01, S02, S03 | S01, X |  |
-| Naruto | Series | S01, S02, S03 | S01 |  |
+| Naruto | Series | S01, S02, S03, S04, S05 | S01 |  |
 | Nisekoi | Series | S01, S02 | S01, S02 |  |
 | Noragami | Series | S01, S02 | S01, Aragoto |  |
 | Nyaruko - Crawling with Love! | Series | S01, S02 | S01, S02 |  |
