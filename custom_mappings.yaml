@@ -576,18 +576,18 @@ entries:
     seasons:
       - season: 1
         anilist-id: 19191
-   - title: "Ghost in the Shell Arise - Border 3: Ghost Tears"
-     synonyms:
+  - title: "Ghost in the Shell Arise - Border 3: Ghost Tears"
+    synonyms:
       - "ARISE border : 3 Ghost Tears"
       - "Ghost in the Shell Arise - border:3 Ghost Tears"
       - "Ghost in the Shell Arise: Border 3 - Ghost Tears"
-     seasons:
+    seasons:
       - season: 1
         anilist-id: 19193
-   - title: "Ghost in the Shell Arise - Border 4: Ghost Stands Alone"
-     synonyms:
+  - title: "Ghost in the Shell Arise - Border 4: Ghost Stands Alone"
+    synonyms:
       - "Ghost in the Shell Arise - border:4 Ghost Stands Alone"
-     seasons:
+    seasons:
       - season: 1
         anilist-id: 19195
 #  - title: "Ghost in the Shell Arise - Border 5: Pyrophoric Cult"
