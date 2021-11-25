@@ -257,6 +257,41 @@ entries:
         anilist-id: 2167
       - season: 2
         anilist-id: 4181
+  - title: "Code Geass: Akito the Exiled 1: The Wyvern Arrives"
+    synonyms:
+      - "Code Geass: Akito the Exiled 1 - The Wyvern Arrives"
+      - "Code Geass: Boukoku no Akito 1 - Yokuryuu wa Maiorita"
+      - "Code Geass: Akito the Exiled - The Wyvern Arrives"
+    seasons:
+      - season: 1
+        anilist-id: 8888
+  - title: "Code Geass: Akito the Exiled 2: The Wyvern Divided"
+    synonyms:
+      - "Code Geass: Akito the Exiled 2 - The Wyvern Divided"
+      - "Code Geass: Akito the Exiled - The Wyvern Divided"
+      - "Code Geass: Boukoku no Akito 2 - Hikisakareshi Yokuryuu"
+    seasons:
+      - season: 1
+        anilist-id: 15197
+  - title: "Code Geass: Akito the Exiled 3: The Brightness Falls"
+    seasons:
+      - season: 1
+        anilist-id: 15199
+  - title: "Code Geass: Akito the Exiled 4: Memories of Hatred"
+    synonyms:
+      - "Code Geass: Akito the Exiled 4 - From the Memories of Hatred"
+      - "Code Geass: Akito the Exiled - Memories of Hatred"
+      - "Code Geass Boukoku no Akito 4 - Nikushimi no Kioku Kara"
+    seasons:
+      - season: 1
+        anilist-id: 15201
+  - title: "Code Geass: Akito the Exiled 5: To Beloved Ones"
+    synonyms:
+      - "Code Geass: Akito the Exiled 5 - To Beloved Ones"
+      - "Code Geass: Akito the Exiled - To Beloved Ones"
+    seasons:
+      - season: 1
+        anilist-id: 21178
   - title: "Code Geass: Lelouch of the Rebellion"
     synonyms:
       - "Code Geass Lelouch of the Rebellion"
@@ -525,6 +560,44 @@ entries:
     seasons:
       - season: 1
         anilist-id: 21056
+   - title: "Ghost in the Shell Arise - border:1 Ghost Pain"
+     synonyms:
+      - "Ghost in the Shell Arise: Border 1 - Ghost Pain"
+      - "ARISE border : 1 Ghost Pain"
+      - "Ghost in the Shell Arise - Border 1: Ghost Pain"
+     seasons:
+      - season: 1
+        anilist-id: 17187
+   - title: "Ghost in the Shell Arise - Border 2: Ghost Whispers"
+     synonyms:
+      - "Ghost in the Shell Arise - Border 2: Ghost Whisper"
+      - "Ghost in the Shell Arise - border:2 Ghost Whispers"
+      - "Ghost in the Shell Arise: Border 2 - Ghost Whisper"
+     seasons:
+      - season: 1
+        anilist-id: 19191
+   - title: "Ghost in the Shell Arise - Border 3: Ghost Tears"
+     synonyms:
+      - "ARISE border : 3 Ghost Tears"
+      - "Ghost in the Shell Arise - border:3 Ghost Tears"
+      - "Ghost in the Shell Arise: Border 3 - Ghost Tears"
+     seasons:
+      - season: 1
+        anilist-id: 19193
+   - title: "Ghost in the Shell Arise - Border 4: Ghost Stands Alone"
+     synonyms:
+      - "Ghost in the Shell Arise - border:4 Ghost Stands Alone"
+     seasons:
+      - season: 1
+        anilist-id: 19195
+#  - title: "Ghost in the Shell Arise - Border 5: Pyrophoric Cult"
+#    synonyms:
+#  - "Ghost in the Shell Arise: Pyrophoric Cult"
+#      - "Ghost in the Shell Arise - border:5 Pyrophoric Cult"
+#      - "Ghost in Shell Arise Border 5"
+#    seasons:
+#      - season: 1
+#        anilist-id: 
   - title: "Ghost in the Shell: Stand Alone Complex"
     synonyms:
       - "Ghost in the Shell: S.A.C."
@@ -701,6 +774,14 @@ entries:
     seasons:
       - season: 1
         anilist-id: 14765
+  - title: "Jin-Roh: The Wolf Brigade"
+    synonyms:
+      - "Jin-Roh: Die Wolfsbrigade"
+      - "Jin-Roh - The Wolf Brigade"
+      - "Jin-Roh"
+    seasons:
+      - season: 1
+        anilist-id: 570
   - title: "JoJo's Bizarre Adventure"
     synonyms:
       - "JoJo's Bizarre Adventure (2012)"
@@ -787,6 +868,15 @@ entries:
         anilist-id: 14741
       - season: 2
         anilist-id: 18671
+  - title: "Lupin the Third: Goemon's Blood Spray"
+    synonyms:
+      - "Lupin the Third: The Blood Spray of Goemon Ishikawa"
+      - "Lupin III: The Blood Spray of Goemon Ishikawa"
+      - "Lupin the Third: Goemon Ishikawa's Spray of Blood"
+      - "Lupin III: Chikemuri no Ishikawa Goemon"
+    seasons:
+      - season: 1
+        anilist-id: 97619
   - title: "Made in Abyss"
     seasons:
       - season: 1
@@ -825,6 +915,10 @@ entries:
         anilist-id: 14513
       - season: 2
         anilist-id: 18115
+  - title: "Magic Tree House"
+    seasons:
+      - season: 1
+        anilist-id: 10690
   - title: "Medaka Box"
     seasons:
       - season: 1
@@ -1075,6 +1169,18 @@ entries:
         anilist-id: 101474
       - season: 4
         anilist-id: 133844
+  - title: "Patlabor: The Movie"
+    synonyms:
+      - "Patlabor - The Movie"
+      - "Patlabor: Der Film"
+      - "Patlabor"
+    seasons:
+      - season: 1
+        anilist-id: 1095
+  - title: "Patlabor 2: The Movie"
+    seasons:
+      - season: 1
+        anilist-id: 1096
   - title: "Psycho-Pass"
     synonyms:
       - "PSYCHO PASS"
@@ -1094,6 +1200,10 @@ entries:
         anilist-id: 20590
       - season: 2
         anilist-id: 21184
+  - title: "Redline"
+    seasons:
+      - season: 1
+        anilist-id: 6675
   - title: "Re:ZERO -Starting Life in Another World-"
     synonyms:
       - "Re:Zero -Starting Life in Another World-"
@@ -1175,6 +1285,12 @@ entries:
         anilist-id: 12029
       - season: 2
         anilist-id: 21730
+  - title: "Steins;Gate: The Movie − Load Region of Déjà Vu"
+    synonyms:
+      - "Steins;Gate: The Movie - Loading Area Of Déjà Vu"
+    seasons:
+      - season: 1
+        anilist-id: 11577
   - title: "Sweetness & Lightning"
     synonyms:
       - "Amaama to Inazuma"
@@ -1418,6 +1534,13 @@ entries:
         anilist-id: 1889
       - season: 3
         anilist-id: 3652
+  - title: "WXIII: Patlabor The Movie 3"
+    synonyms:
+      - "Patlabor 3"
+      - "Patlabor 3: WXIII"
+    seasons:
+      - season: 1
+        anilist-id: 1290
   - title: "Yamada-kun and the Seven Witches"
     synonyms:
       - "Yamada-kun & the 7 Witches"
