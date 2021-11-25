@@ -981,6 +981,10 @@ entries:
         anilist-id: 20
       - season: 3
         anilist-id: 20
+      - season: 4
+        anilist-id: 20
+      - season: 5
+        anilist-id: 20
   - title: "Nisekoi"
     synonyms:
       - "False Love"
