@@ -82,6 +82,7 @@
 | Jin-Roh: The Wolf Brigade | Movie | S01 | S01 |  |
 | JoJo's Bizarre Adventure (2012) | Series | S01, S02, S03, S04 | S01, Stardust Crusaders + Egypt Battle, Unbreakable Diamond, Golden Wind |  |
 | K | Series | S01, S02 | K, Return of Kings |  |
+| K: SEVEN STORIES R:B - BLAZE | Movie | S01 | S01 |  |
 | Kaguya-sama: Love Is War | Series | S01, S02, S03 |S01, ?, Ultra Romantic |  |
 | Kakegurui | Series | S01, S02 | S01, ×× |  |
 | Kids on the slope | Series | S01 | S01 |  |
