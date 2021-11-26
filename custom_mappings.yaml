@@ -807,6 +807,13 @@ entries:
         anilist-id: 14467
       - season: 2
         anilist-id: 20913
+  - title: "K: SEVEN STORIES R:B - BLAZE"   
+    synonyms:
+      - "K SEVEN STORIES Episode 1"
+      - "K: Seven Stories Movie 1 - RB - Blaze"
+    seasons:
+      - season: 1
+        anilist-id: 21798
   - title: "Kaguya-sama: Love is War"
     seasons:
       - season: 1
