@@ -1385,6 +1385,8 @@ entries:
         anilist-id: 20458
       - season: 2
         anilist-id: 112300
+      - season: 3
+        anilist-id: 130389
   - title: "The King's Avatar"
     synonyms:
       - "The King’s Avatar: For The Glory"

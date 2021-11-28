@@ -139,7 +139,7 @@
 | That Time I Got Reincarnated as a Slime | Series | S01, S02 | S01, S02P1 + S02P2 |  |
 | The Familiar of Zero | Series | S01, S02, S03, S04 | S01, Twin Moons, "Rondo" of Princess, F |  |
 | The Future Diary | Series | S01 | S01 |  |
-| The Irregular at Magic High School | Series | S01, S02 | S01, Visitor Arc |  |
+| The Irregular at Magic High School | Series | S01, S02, S03 | S01, Visitor Arc, Reminiscence Arc |  |
 | The King's Avatar | Series | S01, S02, S03 | S01, S02, S03 |  |
 | The Melancholy of Haruhi Suzumiya | Series | S01 | The Melancholy of Haruhi Suzumiya (2009) |  |
 | The Rising of the Shield Hero | Series | S01, S02, S03 | S01, S02, S03 |  |
