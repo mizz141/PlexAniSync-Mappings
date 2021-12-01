@@ -797,6 +797,8 @@ entries:
         anilist-id: 21450
       - season: 4
         anilist-id: 102883
+      - season: 5
+        anilist-id: 131942
   - title: "K"
     synonyms:
       - "K: Return of Kings"
