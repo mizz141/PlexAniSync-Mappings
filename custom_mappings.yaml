@@ -1336,6 +1336,17 @@ entries:
         anilist-id: 21672
       - season: 5
         anilist-id: 21673
+  - title: "Teasing Master Takagi-san"
+    synonyms:
+      - "Karakai Jouzu no Takagi-san"
+      - "Karakai Jozu no Takagi-san"
+    seasons:
+      - season: 1
+        anilist-id: 99468
+      - season: 2
+        anilist-id: 107068
+      - season: 3
+        anilist-id: 138424
   - title: "Terra Formars"
     synonyms:
       - "TERRAFORMARS"
@@ -1357,6 +1368,19 @@ entries:
         anilist-id: 108511
       - season: 2
         anilist-id: 116742
+        start: 13
+  - title: "The Case Study of Vanitas"
+    synonyms:
+      - "Vanitas no Carte"
+      - "Vanitas no Karte"
+      - "Memoir of Vanitas"
+      - "The Case Study of Vanitas (2021)"
+      - "Vanitas no Carte (2021)"
+    seasons:
+      - season: 1
+        anilist-id: 131646
+      - season: 1
+        anilist-id: 131646
         start: 13
   - title: "The Familiar of Zero"
     synonyms:
