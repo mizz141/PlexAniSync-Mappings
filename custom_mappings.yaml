@@ -759,6 +759,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 11013
+  - title: "Isekai Quartet
+    seasons:
+      - season: 1
+        anilist-id: 104454
+      - season: 2
+        anilist-id: 110178
   - title: "I Tried Asking While Kowtowing"
     synonyms:
       - "Dogeza de Tanondemita"
