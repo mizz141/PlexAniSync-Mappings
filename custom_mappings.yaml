@@ -700,6 +700,17 @@ entries:
         anilist-id: 114446
       - season: 2
         anilist-id: 131149
+  - title: "How a Realist Hero Rebuilt the Kingdom"
+    synonyms:
+      - "A Realist Hero's Kingdom Restoration Chronicle"
+      - "Re:Construction the Elfrieden Kingdom Tales of Realistic Brave"
+      - "Genjitsu Shugi Yuusha no Oukoku Saikenki"
+    seasons:
+      - season: 1
+        anilist-id: 117612
+      - season: 1
+        anilist-id: 117612
+        start: 14
   - title: "Hozuki's Coolheadedness"
     synonyms:
       - "Hozuki no Reitetsu"
