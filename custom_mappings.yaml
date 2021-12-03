@@ -545,6 +545,13 @@ entries:
         anilist-id: 73
       - season: 4
         anilist-id: 21451
+  - title: "Girl School.: St. Girls Square Academy"
+    synonyms:
+      - "Gal-gaku.: Hijiri Girls Square Gakuen"
+      - "Girl Gaku. Hijiri Girls Square Gakuin"
+    seasons:
+      - season: 1
+        anilist-id: 116248
   - title: "Gantz"
     synonyms:
       - "GANTZ"
