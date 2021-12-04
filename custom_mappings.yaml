@@ -1218,6 +1218,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 1096
+  - title: "Police in a Pod"
+    synonyms:
+      - "Police in a Pod (2022)"
+    seasons:
+      - season: 1
+        anilist-id: 137312
   - title: "Psycho-Pass"
     synonyms:
       - "PSYCHO PASS"
