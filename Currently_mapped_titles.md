@@ -38,7 +38,7 @@
 | Danganronpa 3: The End of Hope's Peak Academy - Despair Arc | Series |  S01 | Danganronpa 3: The End of Hope's Peak High School - Despair Arc |  |
 | Danmachi: Is It Wrong to Try to Pick Up Girls in a Dungeon? | Series |  S01, S02, S03 | S01, S02, S03 |  |
 | Darker Than Black | Series | S01, S02 | Darker than Black, Gemini of the Meteor |  |
-| D.Gray-Man | Series | S01, S02 | S01, S02 | |
+| D.Gray-Man | Series | S01, S02 | S01, Mugen Train Arc, Entertainment District Arc | |
 | D.Gray-Man Hallow | Series | S01, S02 | S01, S02 | |
 | Demon Slayer | Series | S01 | S01 | |
 | Devilman Crybaby | ONA | S01 | Devilman Crybaby |  |
