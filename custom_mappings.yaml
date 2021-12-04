@@ -1615,6 +1615,12 @@ entries:
         anilist-id: 1889
       - season: 3
         anilist-id: 3652
+  - title: "With a Fogie Reincarnated as a Pretty Fantasy Girl"
+    synonyms:
+      - "Fantasy Bishoujo Juniku Ojisan to"
+    seasons:
+      - season: 1
+        anilist-id: 134252
   - title: "WXIII: Patlabor The Movie 3"
     synonyms:
       - "Patlabor 3"
