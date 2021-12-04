@@ -15,6 +15,10 @@ entries:
       - season: 1
         anilist-id: 131586
         start: 12
+  - title: "Akebi's Sailor Uniform"
+    seasons:
+      - season: 1
+        anilist-id: 98305
   - title: "A Certain Magical Index"
     synonyms:
       - "Toaru Majutsu no Index"
