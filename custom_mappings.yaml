@@ -1262,6 +1262,10 @@ entries:
         anilist-id: 45
       - season: 3
         anilist-id: 45
+  - title: "Rusted Armors"
+    seasons:
+      - season: 1
+        anilist-id: 109820
   - title: "Seraph of the End"
     synonyms:
       - "Owari no Seraph"
