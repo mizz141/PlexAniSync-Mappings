@@ -1280,6 +1280,17 @@ entries:
       - season: 1
         anilist-id: 20993
         start: 13
+  - title: "Saga of Tanya the Evil"
+    synonyms:
+      - "Youjo Senki"
+      - "A Little Girl's Military Record"
+      - "The Military Chronicles of a Little Girl"
+      - "The Saga of Tanya the Evil"
+    seasons:
+      - season: 1
+        anilist-id: 21613
+      - season: 2
+        anilist-id: 135865
   - title: "Saiyuki"
     synonyms:
       - "Saiyuki: Reise nach Westen"
