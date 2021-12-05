@@ -1080,6 +1080,13 @@ entries:
         anilist-id: 101340
       - season: 2
         anilist-id: 110028
+  - title: "My Dress-Up Darling"
+    synonyms:
+      - "Sono Bisque Doll wa Koi wo Suru"
+      - "Sexy Cosplay Doll"
+    seasons:
+      - season: 1
+        anilist-id: 132405
   - title: "My Hero Academia"
     synonyms:
       - "Boku no Hero Academia"
