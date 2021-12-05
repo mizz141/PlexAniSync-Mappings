@@ -1003,6 +1003,13 @@ entries:
         anilist-id: 21776
       - season: 2
         anilist-id: 107717
+  - title: "Miss Kuroitsu From the Monster Development Department"
+    synonyms:
+      - "Kaijin Kaihatsubu no Kuroitsu-san"
+      - "Kuroitsu-san From the Monster Development Department"
+    seasons:
+      - season: 1
+        anilist-id: 136428
   - title: "Monogatari"
     seasons:
       - season: 1
