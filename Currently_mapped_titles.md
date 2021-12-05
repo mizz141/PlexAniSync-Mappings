@@ -79,7 +79,7 @@
 | Initial D | Series | S01, S02, S03, S04, S05, S06 | First, Second, Third, Fourth, Fifth, Final Stage |  |
 | Is the Order a Rabbit? | Series | S01, S02, S03 | S01, S02, BLOOM |  |
 | Is This A Zombie? | Series | S01, S02 | S01, S02 |  |
-| Isekai Quartet | TV Shorts | S01, S02 | ISEKAI QUARTET, ISEKAI QUARTET | |
+| Isekai Quartet | TV Shorts | S01, S02 | ISEKAI QUARTET, Isekai Quartet2 | |
 | Inu × Boku Secret Service | Series | S01 | S01 |  |
 | Is It Wrong to Try to Pick Up Girls in a Dungeon? | Series | S01, S02, S03, S04 | S01, S02, S03, S04 |  |
 | I tried asking while kowtowing | Series | S01 | S01 |  |
