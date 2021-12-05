@@ -1340,6 +1340,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 128400
+  - title: "Sasaki and Miyano"
+    synonyms:
+      - "Sasaki to Miyano"
+      - "Sasamiya"
+    seasons:
+      - season: 1
+        anilist-id: 126288
   - title: "Shelter"
     seasons:
       - season: 1
