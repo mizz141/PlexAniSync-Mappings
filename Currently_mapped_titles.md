@@ -106,7 +106,7 @@
 | Megalobox | Series | S01, S02 | S01, Nomad |  |
 | Michiko & Hatchin | Series | S01 | S01 |
 | Miss Morita is Taciturn | Series | S01, S02 | S01, S02 |  |
-| Miss Kobayashi's Dragon Maid | Series | S01, S02 | S01, S |  |
+| Miss Kobayashi's Dragon Maid | Series | S01, S02 | Miss Kobayashi's Dragon Maid, Miss Kobayashi's Dragon Maid S |  |
 | Miss Kuroitsu From the Monster Development Department | Series | S01 | Kaijin Kaihatsubu no Kuroitsu-san| | |
 | Monogatari | Series | S01, S02, S03, S04, S05 | Bakemonogatari, Nisemonogatari, Monogatari Series Second Season, Owarimonogatari, Owarimonogatari Second Season | Monogatari Series Second Season has 26 (includes 3 special episodes) episodes listed on Anilist while only 23 (excludes Special, lists them as Season 0 instead) episodes on TVDB, hence Anilist Episode 4 mapped to TVDB Episode 1. |
 | Mob Psycho 100 | Series | S01, S02, S03 | S01, S02, S03 | |
