@@ -6,6 +6,7 @@
 | A Certain Scientific Railgun |  Series | S01, S02, S03 | Railgun, Railgun S, Railgun T |  |
 | A Silent Voice: The Movie | Movie | Movie | A Silent Voice |  |
 | AJIN | Series | S01, S02 | Ajin Demi-Human, Ajin Demi-Human 2 |  |
+| Akebi's Sailor Uniform | Series | S01 | Akebi-chan no Serafuku | |
 | Aldnoah.Zero | Series | S01 | S01 + S02 | AniList treats this as two seasons |  |
 | AOI SEKAI NO CHUUSHIN DE: World War Blue | Special | S01 | World War Blue |  |
 | Ascendance of a Bookworm | Series | S01 | S01P1 + S01P2 |  |
@@ -56,6 +57,7 @@
 | Fruits Basket (2019) | Series | S01, S02, S03 | S01, S02, S03 |  |
 | Full Metal Panic | Series | S01, S02, S03, S04 | S01, Fumoffu, The Second Raid, Invisible Victory |  |
 | Gantz | Series | S01, S02 | S01, Zero |  |
+| Gensou Sangokushi -Tengen Reishinki- | Series | S01 | Gensou Sangokushi: Tengen Reishinki|
 | Ghost in the Shell: Arise - Alternative Architecture | Series | S01 | S01 |  |
 | Ghost in the Shell: Stand Alone Complex | Series | S01, S02, S03, S04 | S01, S02, S03, S04 |  |
 | Ghost in the Shell Arise - border:1 Ghost Pain | Movie | S01 | S01 |  |
@@ -63,6 +65,7 @@
 | Ghost in the Shell Arise - Border 3: Ghost Tears | Movie | S01 | S01 |  |
 | Ghost in the Shell Arise - Border 4: Ghost Stands Alone | Movie | S01 | S01 |  |
 | Ghost in the Shell Arise - Border 5: Pyrophoric Cult | Movie | S01 | S01 | Not on AniList, so commented out. |
+| Girl School.: St. Girls Square Academy | TV Shorts | S01 | Garugaku.: Sei Girls Square Gakuin | |
 | Gunslinger Girl | Series | S01, S02 | S01, S02 |  |
 | Gintama | Series | S01-S04, S05, S06, S07, S08, S09, S10 | S01, S02, S03, S04, S05, Slip Arc, Silver Soul Arc + Silver Soul Arc Second Half War |  |
 | Grimgar of Fantasy & Ash | Series | S01 | S01 |  |
@@ -70,11 +73,13 @@
 | Hamatora | Series | S01, S02 | S01, S02 |  |
 | Highschool DxD | Series | S01, S02, S03, S04 | S01, NEW, BorN, HERO |  |
 | Higurashi - When They Cry GOU | Series | S01, S02 | Gou, Sotsu | Seperate entries for Ni, Rei, Kai and the new Gou and Sotsu. |
+| How a Realist Hero Rebuilt the Kingdom | Series | S01 | S01P1 + S01P2 | |
 | Hozuki's Coolheadedness | Series | S01, S02 | S01, S02P1 + S02P2 |  |
 | Hunter x Hunter (2011) | Series | S01, S02, S03 | S01 |  |
 | Initial D | Series | S01, S02, S03, S04, S05, S06 | First, Second, Third, Fourth, Fifth, Final Stage |  |
 | Is the Order a Rabbit? | Series | S01, S02, S03 | S01, S02, BLOOM |  |
 | Is This A Zombie? | Series | S01, S02 | S01, S02 |  |
+| Isekai Quartet | TV Shorts | S01, S02 | ISEKAI QUARTET, ISEKAI QUARTET | |
 | Inu × Boku Secret Service | Series | S01 | S01 |  |
 | Is It Wrong to Try to Pick Up Girls in a Dungeon? | Series | S01, S02, S03, S04 | S01, S02, S03, S04 |  |
 | I tried asking while kowtowing | Series | S01 | S01 |  |
@@ -102,11 +107,13 @@
 | Michiko & Hatchin | Series | S01 | S01 |
 | Miss Morita is Taciturn | Series | S01, S02 | S01, S02 |  |
 | Miss Kobayashi's Dragon Maid | Series | S01, S02 | S01, S |  |
+| Miss Kuroitsu From the Monster Development Department | Series | S01 | Kaijin Kaihatsubu no Kuroitsu-san| | |
 | Monogatari | Series | S01, S02, S03, S04, S05 | Bakemonogatari, Nisemonogatari, Monogatari Series Second Season, Owarimonogatari, Owarimonogatari Second Season | Monogatari Series Second Season has 26 (includes 3 special episodes) episodes listed on Anilist while only 23 (excludes Special, lists them as Season 0 instead) episodes on TVDB, hence Anilist Episode 4 mapped to TVDB Episode 1. |
 | Mob Psycho 100 | Series | S01, S02, S03 | S01, S02, S03 | |
 | Mobile Suit Gundam 00 | Series | S01, S02 | S01, S02 |
 | Mushoku Tensei: Jobless Reincarnation | Series | S01 | S01P1 + S01P2 |  |
 | Muhyo & Roji's Bureau of Supernatural Investigation | Series | S01, S02 | S01, S02 |  |
+| My Dress-Up Darling | Series | S01 | Sono Bisque Doll wa Koi wo Suru | |
 | My Hero Academia | Series | S01, S02, S03, S04, S05, S06 | S01, S02, S03, S04, S05, S06 | |
 | My Teen Romantic Comedy SNAFU | Series | S01, S02, S03 | S01, Zoku, Kan |  |
 | My Next Life as a Villainess: All Routes Lead to Doom! | Series | S01, S02, S03 | S01, X |  |
@@ -119,11 +126,18 @@
 | Overlord | Series | S01, S02, S03, S04 | S01, S02, S03, S04 | |
 | Patlabor: The Movie | Movie | S01 | S01 |  |
 | Patlabor 2: The Movie | Movie | S01 | S01 |  |
+| Police in a Pod | Series | S01 | Hakozume: Koban Joshi no Gyakushuu | |
 | Psycho-Pass | Series | S01, S02, S03 | S01, S02, S03 |  |
 | Rage of Bahamut | Series | S01, S02 | Genesis, Virgin Soul |  |
 | Redline | Movie | S01 | S01 |  |
 | Rurouni Kenshin | Series | S01, S02, S03 | S01, S02, S03 |
 | Re:ZERO -Starting Life in Another World- | Series | S01, S02 | S01, S02P1 + S02P2 |  |
+| Requiem of the Rose King | Series | S01 | Baraou no Souretsu | |
+| Rusted Armors | Series | S01 | Sabiiro no Armor: Reimei | |
+| Saga of Tanya the Evil | Series | S01, S02 | S01, S02 | |
+| Saiyuki | Series | S01, S02, S03, S04 | Saiyuki, Saiyuki Reload, Saiyuki Gunlock, SAIYUKI RELOAD BLAST | |
+| Saiyuki Reload -Zeroin- | Series | S01 | Saiyuuki RELOAD: ZEROIN | |
+| Sasaki and Miyano | Series | S01 | Sasaki to Miyano | |
 | Seraph of the End | Series | S01, S02 | S01, Battle in Nagoya |  |
 | Shelter | Music | Movie |  Shelter | Music Video released as an Anime. Plex treats it as a Movie. |
 | Sorcerous Stabber Orphen | Series | S01, S02 | S01, Battle of Kimluck |  |
@@ -135,8 +149,10 @@
 | Sweetness & Lightning | Series | S01 | S01 |  |
 | Sword Art Online | Series | S01, S02, S03, S04 | I, II, Alicization, Alicization War of Underworld Part 1 + 2 |  |
 | Symphogear | Series | S01, S02, S03, S04, S05 | Symphogear, G, GX, AXZ, XV |  |
+| Teasing Master Takagi-san | Series | S01, S02, S03 | S01, S02, S03 | |
 | Terra Formars | Series | S01, S02 | S01, S02 |
 | That Time I Got Reincarnated as a Slime | Series | S01, S02 | S01, S02P1 + S02P2 |  |
+| The Case Study of Vanitas | Series | S01 | S01P1+S01P2 | |
 | The Familiar of Zero | Series | S01, S02, S03, S04 | S01, Twin Moons, "Rondo" of Princess, F |  |
 | The Future Diary | Series | S01 | S01 |  |
 | The Irregular at Magic High School | Series | S01, S02, S03 | S01, Visitor Arc, Reminiscence Arc |  |
@@ -150,11 +166,13 @@
 | The Way of the Househusband | Series | S01 | S01P1, S01P2 | |
 | Trinity Seven: Eternity Library & Alchemic Girl | Movie |  |  |  | 
 | Tokyo Ghoul | Series | S01, S02, S03 | Tokyo Ghoul, √A, re: + re:2 |  |
+| Tokyo Twenty Fourth Ward | Series | S01 | Tokyo 24th Ward | |
 | To Love-Ru | Series | S01, S02, S03, S04 + OVA | To Love-Ru, Motto, Darkness, Darkness 2nd + OVA |  |
 | Towa no Quon | Series | S01 | The Ephemeral Petala, Dancing Orchid in Chaos, The Complicity of Dreams, The Roaring Anxiety, The Return of the Invincible, Eternal Quon | The series is a movie series, every movie is another episode. |
 | Twin Star Exorcists | Series | S01 | S01 |  |
 | Vampire Knight | Series | S01 | S01 |  |
 | When They Cry - Higurashi | Series | S01, S02, S03 | Ni, Kai, Rei | Seperate entries for Ni, Kai, Rei and the new Gou and Sotsu. |
+| With a Fogie Reincarnated as a Pretty Fantasy Girl | Series | S01 | Fantasy Bishoujo Juniku Ojisan to | |
 | WXIII: Patlabor The Movie 3 | Movie | S01 | S01 |  |
 | Yamada-kun and the Seven Witches (2015) | Series | S01 | S01 |  |
 | Yozakura Quartet | Series | S01 | S01 |  |
