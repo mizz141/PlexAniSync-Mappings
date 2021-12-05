@@ -1578,6 +1578,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 21874
+  - title: "Tokyo Twenty Fourth Ward"
+    synonyms:
+      - "Tokyo 24th Ward"
+    seasons:
+      - season: 1
+        anilist-id: 140643
   - title: "Tokyo Ghoul"
     seasons:
       - season: 1
