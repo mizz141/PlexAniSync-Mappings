@@ -1273,6 +1273,12 @@ entries:
       - season: 2
         anilist-id: 119661
         start: 14
+  - title: "Requiem of the Rose King"
+    synonyms:
+      - "Bara-Ou no Souretsu"
+    seasons:
+      - season: 1
+        anilist-id: 124060
   - title: "Rurouni Kenshin"
     synonyms:
       - "Samurai X"
