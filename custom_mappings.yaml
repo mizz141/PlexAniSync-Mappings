@@ -564,6 +564,12 @@ entries:
         anilist-id: 384
       - season: 2
         anilist-id: 395
+  - title: "Gensou Sangokushi -Tengen Reishinki-"
+    synonyms:
+      - "Fantasia Sango"
+    seasons:
+      - season: 1
+        anilist-id: 137247
   - title: "Ghost in the Shell: Arise - Alternative Architecture"
     synonyms:
       - "Ghost in the Shell Arise : Alternative Architecture"
