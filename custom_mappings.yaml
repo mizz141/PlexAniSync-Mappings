@@ -1289,6 +1289,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 109820
+  - title: "Rust-Eater Bisco"
+    synonyms:
+      - "Sabikui Bisco"
+    seasons:
+      - season: 1
+        anilist-id: 130591
   - title: "Seraph of the End"
     synonyms:
       - "Owari no Seraph"
