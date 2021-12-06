@@ -9,6 +9,7 @@
 | Akebi's Sailor Uniform | Series | S01 | Akebi-chan no Serafuku | |
 | Aldnoah.Zero | Series | S01 | S01 + S02 | AniList treats this as two seasons |  |
 | AOI SEKAI NO CHUUSHIN DE: World War Blue | Special | S01 | World War Blue |  |
+| Aria | Series | S01, S02, S03 | S01, S02, S03 |  | 
 | Ascendance of a Bookworm | Series | S01 | S01P1 + S01P2 |  |
 | Attack on Titan | Series | S01, S02, S03, S04 | S01, S02, S03P1 + S03P2, S04P1 + S04P2 |  |
 | Back Street Girls | Series | S01 | Back Street Girls -GOKUDOLLS-|  |
@@ -50,6 +51,7 @@
 | Dragon Ball Super | Series | S01 - S04 | S01 |  |
 | Dragon Ball Z | Series | S01 - S09 | S01 |  |
 | Durarara!! | Series | S01, S02 | Durarara!!, Shou+Ten+Ketsu |  |
+| Encouragement of Climb | Series | S01, S02, S03, | S01, S02, S03, |  |
 | Fate/stay night: Unlimited Blade Works | Series | S01 | S01 + S02 | Anilist Episode 2 mapped to Plex Episode 1 due to TVDB having 25 episodes for S01 and a Special Episode (listed as Season 0) while Anilist has Special Episode included in total episode count, that is, 26. |
 | FLCL | Series | S01, S02, S03 | FLCL, Alternative, Progressive |  |
 | Fate/Zero | Series | S01 | S01 + S02 |  |
@@ -119,6 +121,7 @@
 | My Next Life as a Villainess: All Routes Lead to Doom! | Series | S01, S02, S03 | S01, X |  |
 | Naruto | Series | S01, S02, S03, S04, S05 | S01 |  |
 | Nisekoi | Series | S01, S02 | S01, S02 |  |
+| Non Non Biyori | Series | S01, S02, S03 | S01, S02, S03 |  |
 | Noragami | Series | S01, S02 | S01, Aragoto |  |
 | Nyaruko - Crawling with Love! | Series | S01, S02 | S01, S02 |  |
 | One piece | Series | S01-S21 | One Piece |  |
@@ -135,6 +138,8 @@
 | Requiem of the Rose King | Series | S01 | Baraou no Souretsu | |
 | Rusted Armors | Series | S01 | Sabiiro no Armor: Reimei | |
 | Saga of Tanya the Evil | Series | S01, S02 | S01, S02 | |
+| Sailor Moon | Series | S01, S02, S03, S04, S05 | S01, S02, S03, S04, S05 |  |
+| Sailor Moon Crystal | Series | S01, S02 | S01, S02 |  |
 | Saiyuki | Series | S01, S02, S03, S04 | Saiyuki, Saiyuki Reload, Saiyuki Gunlock, SAIYUKI RELOAD BLAST | |
 | Saiyuki Reload -Zeroin- | Series | S01 | Saiyuuki RELOAD: ZEROIN | |
 | Sasaki and Miyano | Series | S01 | Sasaki to Miyano | |
@@ -144,15 +149,17 @@
 | SK8 the Infinity | Series | S01 | S01 |  |
 | Space Brothers | Series | S01, S02 | S01 |  |
 | Space pirate captain harlock | Movie |  | Harlock: Space Pirate |  |
+| Spice and Wolf | Series | S01, S02 | S01, S02 |  |
 | Star Blazers: Space Battleship Yamato 2199 | Series | S01, S02 | 2199, 2202 |  |
 | Steins;Gate: The Movie − Load Region of Déjà Vu | Movie | S01 | S01 |  |
 | Sweetness & Lightning | Series | S01 | S01 |  |
 | Sword Art Online | Series | S01, S02, S03, S04 | I, II, Alicization, Alicization War of Underworld Part 1 + 2 |  |
 | Symphogear | Series | S01, S02, S03, S04, S05 | Symphogear, G, GX, AXZ, XV |  |
-| Teasing Master Takagi-san | Series | S01, S02, S03 | S01, S02, S03 | |
-| Terra Formars | Series | S01, S02 | S01, S02 |
+| Tamayura | Series | S01, S02 | S01, S02 |  |
+| Teasing Master Takagi-san | Series | S01, S02, S03 | S01, S02, S03 |  |
+| Terra Formars | Series | S01, S02 | S01, S02 |  |
 | That Time I Got Reincarnated as a Slime | Series | S01, S02 | S01, S02P1 + S02P2 |  |
-| The Case Study of Vanitas | Series | S01 | S01P1+S01P2 | |
+| The Case Study of Vanitas | Series | S01 | S01P1+S01P2 |  |
 | The Familiar of Zero | Series | S01, S02, S03, S04 | S01, Twin Moons, "Rondo" of Princess, F |  |
 | The Future Diary | Series | S01 | S01 |  |
 | The Irregular at Magic High School | Series | S01, S02, S03 | S01, Visitor Arc, Reminiscence Arc |  |
