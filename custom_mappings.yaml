@@ -9,6 +9,7 @@ entries:
       - "86: Eighty-Six"
       - "86 - Eighty-Six"
       - "86 EIGHTY-SIX"
+      - "86"
     seasons:
       - season: 1
         anilist-id: 116589
@@ -70,6 +71,14 @@ entries:
     seasons:
       - season: 1
         anilist-id: 15133
+  - title: "Aria"
+    seasons:
+      - season: 1
+        anilist-id: 477
+      - season: 2
+        anilist-id: 962
+      - season: 3
+        anilist-id: 3297
   - title: "Ascendance of a Bookworm"
     synonyms:
       - "Honzuki no Gekokujou : Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen"
@@ -481,6 +490,16 @@ entries:
       - season: 2
         anilist-id: 20880
         start: 25
+  - title: "Encouragement of Climb"
+    synonyms:
+      - "Yama no Susume"
+    seasons:
+      - season: 1
+        anilist-id: 14355
+      - season: 2
+        anilist-id: 20485
+      - season: 3
+        anilist-id: 98866
   - title: "Fate/stay night: Unlimited Blade Works"
     synonyms:
       - "Fate/Stay Night: Unlimited Blade Works"
@@ -1149,6 +1168,14 @@ entries:
         anilist-id: 18897
       - season: 2
         anilist-id: 20876
+  - title: "Non Non Biyori"
+    seasons:
+      - season: 1
+        anilist-id: 17549
+      - season: 2
+        anilist-id: 20694   
+      - season: 3
+        anilist-id: 109403
   - title: "Noragami"
     synonyms:
       - "Noragami Aragoto"
@@ -1331,6 +1358,28 @@ entries:
         anilist-id: 21613
       - season: 2
         anilist-id: 135865
+  - title: "Sailor Moon"
+    synonyms: 
+      - "Bishoujo Senshi Sailor Moon"
+    seasons:
+      - season: 1
+        anilist-id: 530
+      - season: 2
+        anilist-id: 740
+      - season: 3
+        anilist-id: 532
+      - season: 4
+        anilist-id: 1239
+      - season: 5
+        anilist-id: 996
+  - title: "Sailor Moon Crystal"
+    synonyms: 
+      - "Bishoujo Senshi Sailor Moon: Crystal"
+    seasons:
+      - season: 1
+        anilist-id: 14751
+      - season: 2
+        anilist-id: 21462
   - title: "Saiyuki"
     synonyms:
       - "Saiyuki: Reise nach Westen"
@@ -1391,6 +1440,14 @@ entries:
     seasons:
       - season: 1
         anilist-id: 17269
+  - title: "Spice and Wolf"
+    synonyms: 
+      - "Ookami to Koushinryou"
+    seasons:
+      - season: 1
+        anilist-id: 2966
+      - season: 2
+        anilist-id: 5341 
   - title: "Star Blazers: Space Battleship Yamato 2199"
     synonyms:
       - "Star Blazers 2199 - Space Battleship Yamato"
@@ -1444,6 +1501,12 @@ entries:
         anilist-id: 21672
       - season: 5
         anilist-id: 21673
+  - title: "Tamayura"
+    seasons:
+      - season: 1
+        anilist-id: 10232
+      - season: 2
+        anilist-id: 15731
   - title: "Teasing Master Takagi-san"
     synonyms:
       - "Karakai Jouzu no Takagi-san"
