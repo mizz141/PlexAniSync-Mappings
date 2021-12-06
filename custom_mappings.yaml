@@ -551,6 +551,12 @@ entries:
         anilist-id: 73
       - season: 4
         anilist-id: 21451
+  - title: "Gensou Sangokushi -Tengen Reishinki-"
+    synonyms:
+      - "Fantasia Sango"
+    seasons:
+      - season: 1
+        anilist-id: 137247        
   - title: "Girl School.: St. Girls Square Academy"
     synonyms:
       - "Gal-gaku.: Hijiri Girls Square Gakuen"
@@ -566,12 +572,6 @@ entries:
         anilist-id: 384
       - season: 2
         anilist-id: 395
-  - title: "Gensou Sangokushi -Tengen Reishinki-"
-    synonyms:
-      - "Fantasia Sango"
-    seasons:
-      - season: 1
-        anilist-id: 137247
   - title: "Ghost in the Shell: Arise - Alternative Architecture"
     synonyms:
       - "Ghost in the Shell Arise : Alternative Architecture"
@@ -721,7 +721,7 @@ entries:
       - season: 1
         anilist-id: 117612
       - season: 1
-        anilist-id: 117612
+        anilist-id: 139648
         start: 14
   - title: "Hozuki's Coolheadedness"
     synonyms:
@@ -1488,7 +1488,7 @@ entries:
       - season: 1
         anilist-id: 131646
       - season: 1
-        anilist-id: 131646
+        anilist-id: 135136
         start: 13
   - title: "The Familiar of Zero"
     synonyms:
