@@ -11,11 +11,17 @@ Tested for maximum compatibility TVDB, TMDB and the new Plex Scanner.
 - TVDB Specials cannot be matched with custom mappings due to [PlexAniSync not supporting Season 0/Specials](https://github.com/RickDB/PlexAniSync/issues/80#issuecomment-944931420).
 - You may need to change titles on some mappings if it changes on TheTVDB or you tweak your Plex entry.
 
-# [Currently Mapped Titles](https://github.com/Raventhicc/PlexAniSync-Mappings/wiki/Titles-that-have-been-mapped-so-far.)
+## [Currently Mapped Titles](https://github.com/Raventhicc/PlexAniSync-Mappings/wiki/Titles-that-have-been-mapped-so-far.)
 
-# [Installation on unRAID](https://github.com/Raventhicc/PlexAniSync-Mappings/wiki/Installation-on-unRAID)
+## [Installation on unRAID](https://github.com/Raventhicc/PlexAniSync-Mappings/wiki/Installation-on-unRAID)
 
-# Discord Server
+## How to contribute
+All contributions are welcome and appreciated and if you want to contribute, make sure to follow a few guidelines:
+- Main title should be the **English Plex** title. All the other titles should be included as synonyms.
+- Make sure to keep the [mappings](https://github.com/Raventhicc/PlexAniSync-Mappings/blob/master/custom_mappings.yaml) and the [list of mapped titles](https://github.com/Raventhicc/PlexAniSync-Mappings/wiki/Titles-that-have-been-mapped-so-far) in alphabetical order with respect to the **English Plex** title.
+- Make sure to update the [list of mapped titles](https://github.com/Raventhicc/PlexAniSync-Mappings/wiki/Titles-that-have-been-mapped-so-far) accordingly after updating the [mappings](https://github.com/Raventhicc/PlexAniSync-Mappings/blob/master/custom_mappings.yaml).
+
+## Discord Server
 <a title="Discord server" href="https://discord.gg/8vcnkkhguf"><img src="https://discordapp.com/api/guilds/912394436569362473/widget.png?style=banner2" alt="Discord Server"/></a>
 
 We have set-up a Discord Server for questions, contributions and chitchat.
