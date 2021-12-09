@@ -25,3 +25,8 @@ All contributions are welcome and appreciated and if you want to contribute, mak
 <a title="Discord server" href="https://discord.gg/8vcnkkhguf"><img src="https://discordapp.com/api/guilds/912394436569362473/widget.png?style=banner2" alt="Discord Server"/></a>
 
 We have set-up a Discord Server for questions, contributions and chitchat.
+
+## Thank you to all our contributors!
+<a href="https://github.com/mizz141/PlexAniSync-Mappings/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=mizz141/PlexAniSync-Mappings">
+</a>
