@@ -9,12 +9,17 @@ entries:
       - "86: Eighty-Six"
       - "86 - Eighty-Six"
       - "86 EIGHTY-SIX"
+      - "86"
     seasons:
       - season: 1
         anilist-id: 116589
       - season: 1
         anilist-id: 131586
         start: 12
+  - title: "Akebi's Sailor Uniform"
+    seasons:
+      - season: 1
+        anilist-id: 131548
   - title: "A Certain Magical Index"
     synonyms:
       - "Toaru Majutsu no Index"
@@ -66,6 +71,14 @@ entries:
     seasons:
       - season: 1
         anilist-id: 15133
+  - title: "Aria"
+    seasons:
+      - season: 1
+        anilist-id: 477
+      - season: 2
+        anilist-id: 962
+      - season: 3
+        anilist-id: 3297
   - title: "Ascendance of a Bookworm"
     synonyms:
       - "Honzuki no Gekokujou : Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen"
@@ -477,6 +490,16 @@ entries:
       - season: 2
         anilist-id: 20880
         start: 25
+  - title: "Encouragement of Climb"
+    synonyms:
+      - "Yama no Susume"
+    seasons:
+      - season: 1
+        anilist-id: 14355
+      - season: 2
+        anilist-id: 20485
+      - season: 3
+        anilist-id: 98866
   - title: "Fate/stay night: Unlimited Blade Works"
     synonyms:
       - "Fate/Stay Night: Unlimited Blade Works"
@@ -547,6 +570,19 @@ entries:
         anilist-id: 73
       - season: 4
         anilist-id: 21451
+  - title: "Gensou Sangokushi -Tengen Reishinki-"
+    synonyms:
+      - "Fantasia Sango"
+    seasons:
+      - season: 1
+        anilist-id: 137247        
+  - title: "Girl School.: St. Girls Square Academy"
+    synonyms:
+      - "Gal-gaku.: Hijiri Girls Square Gakuen"
+      - "Girl Gaku. Hijiri Girls Square Gakuin"
+    seasons:
+      - season: 1
+        anilist-id: 116248
   - title: "Gantz"
     synonyms:
       - "GANTZ"
@@ -695,6 +731,17 @@ entries:
         anilist-id: 114446
       - season: 2
         anilist-id: 131149
+  - title: "How a Realist Hero Rebuilt the Kingdom"
+    synonyms:
+      - "A Realist Hero's Kingdom Restoration Chronicle"
+      - "Re:Construction the Elfrieden Kingdom Tales of Realistic Brave"
+      - "Genjitsu Shugi Yuusha no Oukoku Saikenki"
+    seasons:
+      - season: 1
+        anilist-id: 117612
+      - season: 1
+        anilist-id: 139648
+        start: 14
   - title: "Hozuki's Coolheadedness"
     synonyms:
       - "Hozuki no Reitetsu"
@@ -761,6 +808,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 11013
+  - title: "Isekai Quartet"
+    seasons:
+      - season: 1
+        anilist-id: 104454
+      - season: 2
+        anilist-id: 110178
   - title: "I Tried Asking While Kowtowing"
     synonyms:
       - "Dogeza de Tanondemita"
@@ -971,6 +1024,13 @@ entries:
         anilist-id: 21776
       - season: 2
         anilist-id: 107717
+  - title: "Miss Kuroitsu From the Monster Development Department"
+    synonyms:
+      - "Kaijin Kaihatsubu no Kuroitsu-san"
+      - "Kuroitsu-san From the Monster Development Department"
+    seasons:
+      - season: 1
+        anilist-id: 136428
   - title: "Monogatari"
     seasons:
       - season: 1
@@ -1041,6 +1101,13 @@ entries:
         anilist-id: 101340
       - season: 2
         anilist-id: 110028
+  - title: "My Dress-Up Darling"
+    synonyms:
+      - "Sono Bisque Doll wa Koi wo Suru"
+      - "Sexy Cosplay Doll"
+    seasons:
+      - season: 1
+        anilist-id: 132405
   - title: "My Hero Academia"
     synonyms:
       - "Boku no Hero Academia"
@@ -1101,6 +1168,14 @@ entries:
         anilist-id: 18897
       - season: 2
         anilist-id: 20876
+  - title: "Non Non Biyori"
+    seasons:
+      - season: 1
+        anilist-id: 17549
+      - season: 2
+        anilist-id: 20694   
+      - season: 3
+        anilist-id: 109403
   - title: "Noragami"
     synonyms:
       - "Noragami Aragoto"
@@ -1192,6 +1267,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 1096
+  - title: "Police in a Pod"
+    synonyms:
+      - "Police in a Pod (2022)"
+    seasons:
+      - season: 1
+        anilist-id: 137312
   - title: "Psycho-Pass"
     synonyms:
       - "PSYCHO PASS"
@@ -1228,6 +1309,12 @@ entries:
       - season: 2
         anilist-id: 119661
         start: 14
+  - title: "Requiem of the Rose King"
+    synonyms:
+      - "Bara-Ou no Souretsu"
+    seasons:
+      - season: 1
+        anilist-id: 124060
   - title: "Rurouni Kenshin"
     synonyms:
       - "Samurai X"
@@ -1240,6 +1327,16 @@ entries:
         anilist-id: 45
       - season: 3
         anilist-id: 45
+  - title: "Rusted Armors"
+    seasons:
+      - season: 1
+        anilist-id: 109820
+  - title: "Rust-Eater Bisco"
+    synonyms:
+      - "Sabikui Bisco"
+    seasons:
+      - season: 1
+        anilist-id: 130591
   - title: "Seraph of the End"
     synonyms:
       - "Owari no Seraph"
@@ -1250,6 +1347,64 @@ entries:
       - season: 1
         anilist-id: 20993
         start: 13
+  - title: "Saga of Tanya the Evil"
+    synonyms:
+      - "Youjo Senki"
+      - "A Little Girl's Military Record"
+      - "The Military Chronicles of a Little Girl"
+      - "The Saga of Tanya the Evil"
+    seasons:
+      - season: 1
+        anilist-id: 21613
+      - season: 2
+        anilist-id: 135865
+  - title: "Sailor Moon"
+    synonyms: 
+      - "Bishoujo Senshi Sailor Moon"
+    seasons:
+      - season: 1
+        anilist-id: 530
+      - season: 2
+        anilist-id: 740
+      - season: 3
+        anilist-id: 532
+      - season: 4
+        anilist-id: 1239
+      - season: 5
+        anilist-id: 996
+  - title: "Sailor Moon Crystal"
+    synonyms: 
+      - "Bishoujo Senshi Sailor Moon: Crystal"
+    seasons:
+      - season: 1
+        anilist-id: 14751
+      - season: 2
+        anilist-id: 21462
+  - title: "Saiyuki"
+    synonyms:
+      - "Saiyuki: Reise nach Westen"
+    seasons:
+      - season: 1
+        anilist-id: 129
+      - season: 2
+        anilist-id: 130
+      - season: 3
+        anilist-id: 131
+      - season: 4
+        anilist-id: 87498
+  - title: "Saiyuki Reload -Zeroin-"
+    synonyms:
+      - "Saiyuuki RELOAD: ZEROI"
+    seasons:
+      - season: 1
+        anilist-id: 128400
+  - title: "Sasaki and Miyano"
+    synonyms:
+      - "Sasaki to Miyano"
+      - "Sasamiya"
+    seasons:
+      - season: 1
+        anilist-id: 126288
   - title: "Shelter"
     seasons:
       - season: 1
@@ -1285,6 +1440,14 @@ entries:
     seasons:
       - season: 1
         anilist-id: 17269
+  - title: "Spice and Wolf"
+    synonyms: 
+      - "Ookami to Koushinryou"
+    seasons:
+      - season: 1
+        anilist-id: 2966
+      - season: 2
+        anilist-id: 5341 
   - title: "Star Blazers: Space Battleship Yamato 2199"
     synonyms:
       - "Star Blazers 2199 - Space Battleship Yamato"
@@ -1338,6 +1501,23 @@ entries:
         anilist-id: 21672
       - season: 5
         anilist-id: 21673
+  - title: "Tamayura"
+    seasons:
+      - season: 1
+        anilist-id: 10232
+      - season: 2
+        anilist-id: 15731
+  - title: "Teasing Master Takagi-san"
+    synonyms:
+      - "Karakai Jouzu no Takagi-san"
+      - "Karakai Jozu no Takagi-san"
+    seasons:
+      - season: 1
+        anilist-id: 99468
+      - season: 2
+        anilist-id: 107068
+      - season: 3
+        anilist-id: 138424
   - title: "Terra Formars"
     synonyms:
       - "TERRAFORMARS"
@@ -1359,6 +1539,19 @@ entries:
         anilist-id: 108511
       - season: 2
         anilist-id: 116742
+        start: 13
+  - title: "The Case Study of Vanitas"
+    synonyms:
+      - "Vanitas no Carte"
+      - "Vanitas no Karte"
+      - "Memoir of Vanitas"
+      - "The Case Study of Vanitas (2021)"
+      - "Vanitas no Carte (2021)"
+    seasons:
+      - season: 1
+        anilist-id: 131646
+      - season: 1
+        anilist-id: 135136
         start: 13
   - title: "The Familiar of Zero"
     synonyms:
@@ -1476,6 +1669,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 21874
+  - title: "Tokyo Twenty Fourth Ward"
+    synonyms:
+      - "Tokyo 24th Ward"
+    seasons:
+      - season: 1
+        anilist-id: 140643
   - title: "Tokyo Ghoul"
     seasons:
       - season: 1
@@ -1547,6 +1746,12 @@ entries:
         anilist-id: 1889
       - season: 3
         anilist-id: 3652
+  - title: "With a Fogie Reincarnated as a Pretty Fantasy Girl"
+    synonyms:
+      - "Fantasy Bishoujo Juniku Ojisan to"
+    seasons:
+      - season: 1
+        anilist-id: 134252
   - title: "WXIII: Patlabor The Movie 3"
     synonyms:
       - "Patlabor 3"
