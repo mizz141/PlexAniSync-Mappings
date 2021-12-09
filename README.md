@@ -16,6 +16,6 @@ Tested for maximum compatibility TVDB, TMDB and the new Plex Scanner.
 # [Installation on unRAID](https://github.com/Raventhicc/PlexAniSync-Mappings/wiki/Installation-on-unRAID)
 
 # Discord Server
-<a title="Discord server" href="https://discord.gg/8vcnkkhguf"><img src="https://discordapp.com/api/guilds/912394436569362473/widget.png?style=banner2" alt="Discord Banner 2"/></a>
+<a title="Discord server" href="https://discord.gg/8vcnkkhguf"><img src="https://discordapp.com/api/guilds/912394436569362473/widget.png?style=banner2" alt="Discord Server"/></a>
 
 We have set-up a Discord Server for questions, contributions and chitchat.
