@@ -46,6 +46,14 @@ entries:
     seasons:
       - season: 1
         anilist-id: 20954
+  - title: "Ah! My goddess"
+    synonyms:
+      - "Oh! My Goddess"
+    seasons:
+      - season: 1
+        anilist-id: 50
+      - season: 2
+        anilist-id: 880
   - title: "Ajin"
     synonyms:
       - "Ajin: Demi-Human"
