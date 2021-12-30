@@ -143,6 +143,12 @@ entries:
         anilist-id: 107660
       - season: 2
         anilist-id: 114194
+  - title: "Because I Don't Like My Big Brother at All!"
+    synonyms:
+      - "I don't like my big brother at all!!"
+    seasons:
+      - season: 1
+        anilist-id: 9587
   - title: "Beelzebub"
     seasons:
       - season: 1
