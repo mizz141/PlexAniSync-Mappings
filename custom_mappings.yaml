@@ -605,28 +605,6 @@ entries:
     seasons:
       - season: 1
         anilist-id: 137247
-  - title: "Girl School.: St. Girls Square Academy"
-    synonyms:
-      - "Gal-gaku.: Hijiri Girls Square Gakuen"
-      - "Girl Gaku. Hijiri Girls Square Gakuin"
-    seasons:
-      - season: 1
-        anilist-id: 116248
-  - title: "Girls' Frontline"
-    synonyms:
-      - "Dollfro: Iyashi Hen"
-      - "DoruFuro: Iyashi-hen"
-    seasons:
-      - season: 1
-        anilist-id: 110521
-      - season: 2
-        anilist-id: 124230
-  - title: "Girls' Frontline (2022)"
-    synonyms:
-      - "Dolls' Frontline"
-    seasons:
-      - season: 1
-        anilist-id: 128828
   - title: "Ghost in the Shell: Arise - Alternative Architecture"
     synonyms:
       - "Ghost in the Shell Arise : Alternative Architecture"
@@ -684,14 +662,28 @@ entries:
         anilist-id: 106154
       - season: 4
         anilist-id: 117756
-  - title: "Gunslinger Girl"
+  - title: "Girl School.: St. Girls Square Academy"
     synonyms:
-      - "GUNSLINGER GIRL"
+      - "Gal-gaku.: Hijiri Girls Square Gakuen"
+      - "Girl Gaku. Hijiri Girls Square Gakuin"
     seasons:
       - season: 1
-        anilist-id: 134
+        anilist-id: 116248
+  - title: "Girls' Frontline"
+    synonyms:
+      - "Dollfro: Iyashi Hen"
+      - "DoruFuro: Iyashi-hen"
+    seasons:
+      - season: 1
+        anilist-id: 110521
       - season: 2
-        anilist-id: 3231
+        anilist-id: 124230
+  - title: "Girls' Frontline (2022)"
+    synonyms:
+      - "Dolls' Frontline"
+    seasons:
+      - season: 1
+        anilist-id: 128828
   - title: "Gintama"
     seasons:
       - season: 1
@@ -724,6 +716,14 @@ entries:
     seasons:
       - season: 1
         anilist-id: 21428
+  - title: "Gunslinger Girl"
+    synonyms:
+      - "GUNSLINGER GIRL"
+    seasons:
+      - season: 1
+        anilist-id: 134
+      - season: 2
+        anilist-id: 3231
   - title: "Haikyu!!"
     synonyms:
       - "Haikyuu!!"
