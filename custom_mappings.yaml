@@ -591,19 +591,6 @@ entries:
         anilist-id: 73
       - season: 4
         anilist-id: 21451
-  - title: "Gensou Sangokushi -Tengen Reishinki-"
-    synonyms:
-      - "Fantasia Sango"
-    seasons:
-      - season: 1
-        anilist-id: 137247        
-  - title: "Girl School.: St. Girls Square Academy"
-    synonyms:
-      - "Gal-gaku.: Hijiri Girls Square Gakuen"
-      - "Girl Gaku. Hijiri Girls Square Gakuin"
-    seasons:
-      - season: 1
-        anilist-id: 116248
   - title: "Gantz"
     synonyms:
       - "GANTZ"
@@ -612,6 +599,34 @@ entries:
         anilist-id: 384
       - season: 2
         anilist-id: 395
+  - title: "Gensou Sangokushi -Tengen Reishinki-"
+    synonyms:
+      - "Fantasia Sango"
+    seasons:
+      - season: 1
+        anilist-id: 137247
+  - title: "Girl School.: St. Girls Square Academy"
+    synonyms:
+      - "Gal-gaku.: Hijiri Girls Square Gakuen"
+      - "Girl Gaku. Hijiri Girls Square Gakuin"
+    seasons:
+      - season: 1
+        anilist-id: 116248
+  - title: "Girls' Frontline"
+    synonyms:
+      - "Dollfro: Iyashi Hen"
+      - "DoruFuro: Iyashi-hen"
+    seasons:
+      - season: 1
+        anilist-id: 110521
+      - season: 2
+        anilist-id: 124230
+  - title: "Girls' Frontline (2022)"
+    synonyms:
+      - "Dolls' Frontline"
+    seasons:
+      - season: 1
+        anilist-id: 128828
   - title: "Ghost in the Shell: Arise - Alternative Architecture"
     synonyms:
       - "Ghost in the Shell Arise : Alternative Architecture"
