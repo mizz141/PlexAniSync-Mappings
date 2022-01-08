@@ -1788,6 +1788,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 134252
+  - title: "World’s End Harem"
+    synonyms:
+      - "World's End Harem"
+      - "Shuumatsu no Harem"
+    seasons:
+      - season: 1
+        anilist-id: 118465
   - title: "WXIII: Patlabor The Movie 3"
     synonyms:
       - "Patlabor 3"
