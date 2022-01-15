@@ -351,7 +351,7 @@ entries:
         anilist-id: 16592
       - season: 2
         anilist-id: 21509
-  - title: "Danganronpa 3: The End of Hope’s Peak Academy - Despair Arc"
+  - title: "Danganronpa 3: The End of Hope's Peak Academy - Despair Arc"
     synonyms:
        - "Danganronpa 3: The End of Kibougamine Gakuen - Zetsubou-hen"
        - "Danganronpa 3: The End of Hope's Peak High School - Despair Arc"
@@ -747,8 +747,8 @@ entries:
         anilist-id: 20711
   - title: "Highschool DxD"
     synonyms:
-      - "High School D×D"
-      - "HighSchool D×D"
+      - "High School DxD"
+      - "HighSchool DxD"
     seasons:
       - season: 1
         anilist-id: 11617
@@ -760,7 +760,7 @@ entries:
         anilist-id: 97767
   - title: "Higurashi - When They Cry Gou"
     synonyms:
-      - "Higurashi: When They Cry – GOU"
+      - "Higurashi: When They Cry - GOU"
       - "Higurashi: When They Cry - NEW"
     seasons:
       - season: 1
@@ -838,7 +838,7 @@ entries:
         anilist-id: 15059
       - season: 6
         anilist-id: 19613
-  - title: "Inu × Boku Secret Service"
+  - title: "Inu x Boku Secret Service"
     synonyms:
       - "Inu x Boku SS"
     seasons:
@@ -1495,7 +1495,7 @@ entries:
         anilist-id: 12029
       - season: 2
         anilist-id: 21730
-  - title: "Steins;Gate: The Movie − Load Region of Déjà Vu"
+  - title: "Steins;Gate: The Movie - Load Region of Déjà Vu"
     synonyms:
       - "Steins;Gate: The Movie - Loading Area Of Déjà Vu"
     seasons:
@@ -1622,7 +1622,7 @@ entries:
         anilist-id: 130389
   - title: "The King's Avatar"
     synonyms:
-      - "The King’s Avatar: For The Glory"
+      - "The King's Avatar: For The Glory"
       - "Quan Zhi Gao Shou"
       - "Quanzhi Gaoshou"
     seasons:
@@ -1788,7 +1788,7 @@ entries:
     seasons:
       - season: 1
         anilist-id: 134252
-  - title: "World’s End Harem"
+  - title: "World's End Harem"
     synonyms:
       - "World's End Harem"
       - "Shuumatsu no Harem"
