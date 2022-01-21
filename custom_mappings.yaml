@@ -356,9 +356,14 @@ entries:
        - "Danganronpa 3: The End of Kibougamine Gakuen - Zetsubou-hen"
        - "Danganronpa 3: The End of Hope’s Peak Academy - Despair Arc"
        - "Danganronpa 3: The End of Hope's Peak Academy - Despair Arc"
+       - "Danganronpa 3: The End of Hope's Peak High School" #TMDB
     seasons:
        - season: 1
          anilist-id: 21825
+  - title: "Danganronpa 3: The End of Kibougamine Gakuen - Mirai-hen" #TMDB again
+    seasons:
+       - season: 1
+         anilist-id: 21509
   - title: "Danmachi: Is It Wrong to Try to Pick Up Girls in a Dungeon?"
     synonyms:
       - "Is It Wrong to Try to Pick Up Girls in a Dungeon?"
