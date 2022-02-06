@@ -730,6 +730,12 @@ entries:
         anilist-id: 134
       - season: 2
         anilist-id: 3231
+  - title: "Haganai: I Don't Have Many Friends"
+    seasons:
+      - season: 1
+        anilist-id: 10719
+      - season: 2
+        anilist-id: 14967
   - title: "Haikyu!!"
     synonyms:
       - "Haikyuu!!"
@@ -751,6 +757,12 @@ entries:
         anilist-id: 20521
       - season: 2
         anilist-id: 20711
+  - title: "Heaven's Lost Property"
+    seasons:
+      - season: 1
+        anilist-id: 5958
+      - season: 2
+        anilist-id: 8407
   - title: "High School DxD"
     synonyms:
       - "HighSchool DxD"
@@ -882,6 +894,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 570
+  - title: "Jormungand"
+    seasons:
+      - season: 1
+        anilist-id: 12413
+      - season: 2
+        anilist-id: 13331
   - title: "JoJo's Bizarre Adventure"
     synonyms:
       - "JoJo's Bizarre Adventure (2012)"
@@ -1218,7 +1236,7 @@ entries:
       - season: 1
         anilist-id: 17549
       - season: 2
-        anilist-id: 20694   
+        anilist-id: 20694
       - season: 3
         anilist-id: 109403
   - title: "Noragami"
@@ -1328,6 +1346,12 @@ entries:
         anilist-id: 20513
       - season: 3
         anilist-id: 108307
+  - title: "Queen's Blade"
+    seasons:
+      - season: 1
+        anilist-id: 4719
+      - season: 2
+        anilist-id: 6633
   - title: "Rage of Bahamut"
     synonyms:
       - "Rage of Bahamut: Genesis"
@@ -1382,6 +1406,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 130591
+  - title: "Rosario + Vampire"
+    seasons:
+      - season: 1
+        anilist-id: 2993
+      - season: 2
+        anilist-id: 4214
   - title: "Seraph of the End"
     synonyms:
       - "Owari no Seraph"
@@ -1392,6 +1422,12 @@ entries:
       - season: 1
         anilist-id: 20993
         start: 13
+  - title: "Saekano: How to Raise a Boring Girlfriend"
+    seasons:
+      - season: 1
+        anilist-id: 20657
+      - season: 2
+        anilist-id: 21180
   - title: "Saga of Tanya the Evil"
     synonyms:
       - "Youjo Senki"
@@ -1450,6 +1486,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 126288
+  - title: "School Rumble"
+    seasons:
+      - season: 1
+        anilist-id: 24
+      - season: 2
+        anilist-id: 846
   - title: "Shelter"
     seasons:
       - season: 1
@@ -1696,6 +1738,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 21778
+  - title: "The Testament of Sister New Devil"
+    seasons:
+      - season: 1
+        anilist-id: 20678
+      - season: 2
+        anilist-id: 21110
   - title: "The Way of the Househusband"
     synonyms:
       - "The Way of the Househusband (2021)"
@@ -1782,6 +1830,12 @@ entries:
         anilist-id: 3457
       - season: 2
         anilist-id: 4752
+  - title: "VanDread"
+    seasons:
+      - season: 1
+        anilist-id: 180
+      - season: 2
+        anilist-id: 181
   - title: "When They Cry - Higurashi"
     synonyms:
       - "Higurashi no Naku Koro ni"
