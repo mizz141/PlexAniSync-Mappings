@@ -1140,11 +1140,547 @@ entries:
       - season: 3
         anilist-id: 140439
   - title: "Mobile Suit Gundam 00"
+    synonyms:
+      - "Kidou Senshi Gundam 00"
     seasons:
       - season: 1
         anilist-id: 2581
       - season: 2
         anilist-id: 3927
+  - title: "Mobile Suit Gundam The Origin"
+    synonyms: 
+      - "Kidou Senshi Gundam THE ORIGIN"
+    seasons:
+      - season: 1
+        anilist-id: 10937
+  - title: "Mobile Suit Gundam The Origin - Advent of the Red Comet"
+    synonyms:
+      - "Kidou Senshi Gundam The Origin - Zenya Akai Suisei"
+    seasons: 
+      -season: 1
+      anilist-id: 108039
+  - title: "Mobile Suit Gundam"
+    synonyms: 
+      - "Kidou Senshi Gundam"
+    seasons:  
+      - season: 1 
+        anilist-id: 80
+  - title: "Mobile Suit Gundam I"
+    synonyms: 
+      - "Kidou Senshi Gundam I"
+    seasons:
+      - season: 1
+        anilist-id: 1090
+  - title: "Mobile Suit Gundam II: Soldiers of Sorrow"
+    synonyms:
+      - "Kidou Senshi Gundam II: Ai Senshi-hen"
+    seasons:
+      - season: 1 
+        anilist-id: 1091
+  - title: "Mobile Suit Gundam III: Encounters in Space"
+    synonyms:
+      - "Kidou Senshi Gundam III: Meguriai Sora-hen"
+    seasons:
+      - season: 1 
+        anilist-id: 1092
+  - title: "Mobile Suit Gundam Thunderbolt"
+    synonyms:
+      - "Kidou Senshi Gundam Thunderbolt"
+    seasons: 
+      - season: 1
+        anilist-id: 21458
+  - title: "Mobile Suit Gundam Thunderbolt 2"
+    synonyms:
+      - "Kidou Senshi Gundam Thunderbolt 2"
+    seasons:
+      - season: 1
+        anilist-id: 97853  
+  - title: "Mobile Suit Gundam Thunderbolt: December Sky"
+    synonyms: 
+      - "Kidou Senshi Gundam Thunderbolt: December Sky"
+    seasons: 
+      - season: 1
+        anilist-id: 21893
+  - title: "Mobile Suit Gundam Thunderbolt: Bandit Flower"
+    synonyms:
+      - "Kidou Senshi Gundam Thunderbolt: Bandit Flower"
+    seasons:
+      - season: 1
+        anilist-id: 99547
+  - title: "Mobile Suit Gundam: The 08th MS Team"
+    synonyms: 
+      - "Kidou Senshi Gundam: Dai 08 MS Shotai"
+    seasons:
+      - season: 1
+        anilist-id: 81
+  - title: "Mobile Suit Gundam: The 08th MS Team - Miller's Report"
+    synonyms:
+      - "Kidou Senshi Gundam: Dai 08 MS SHotai - Miller's Report"
+    seasons:
+      - season: 1
+        anilist-id: 83
+  - title: "Mobile Suit Gundam: The 08th MS Team - Battle in Three Dimensions"
+    synyoms: 
+      - "Kidou Senshi Gundam: Dai 08 MS Shotai - Sanjigen to no Tatakai"
+    seasons:
+      - season: 1
+        anilist-id: 17717
+  - title: "Mobile Suit Gundam: More Information on the Universal Century"
+    synyoms: 
+      - "Uchuu Seiki Yowa"
+    seasons: 
+      - season: 1
+        anilist-id: 5723
+  - title: "30th GUNDAM PERFECT MISSION"
+    seasons:
+      - season: 1
+        anilist-id: 7113
+  - title: "Mobile Suit Gundam MS IGLOO: The Hidden One Year War"
+    synyoms: 
+      - "Kidou Senshi Gundam MS IGLOO: Ichinen Sensou Hiwa"
+    seasons:
+      - season: 1
+        anilist-id: 1917
+  - title: "Mobile Suit Gundam MS IGLOO: Apocalypse 0079"
+    synyonms:
+      - "Kidou Senshi Gundam MS IGLOO: Mokushiroku 0079"
+    seasons:
+      - season: 1
+        anilist-id: 1916
+  - title: "Mobile Suit Gundam MS IGLOO 2: Gravity of the Battlefront"
+    synonyms:
+      - "Kidou Senshi Gundam MS IGLOO 2: Juuryoku Sensen"
+    seasons:
+      - season: 1
+        anilist-id: 4232
+  - title: "Mobile Suit Gundam 0080: War in the Pocket"
+    synyoms:
+      - "Kidou Senshi Gundam 0080: Pocket no Naka no Sensou"
+    seasons:
+      - season: 1
+        anilist-id: 82
+  - title: "ALL THAT GUNDAM"
+    seasons:
+      - season: 1
+        anilist-id: 5270
+  - title: "Kidou Senshi Gundam Battlefield Record: Avant-Title"
+    synonyms: 
+      - "Kidou Senshi Gundam Senki: Avant Title"
+    seasons:
+      - season: 1
+        anilist-id: 18449
+  - title: "Gundam EVOLVE"
+    synonyms:
+      - "Mobile Suit Gundam Evolve"
+    seasons:
+      - season: 1
+        anilist-id: 3288
+  - title: "Gundam: Mission To The Rise"
+    seasons:
+      - season: 1
+        anilist-id: 4540
+  - title: "Kidou Senshi Gundam G40"
+    seasons:
+      - season: 1
+        anilist-id: 114841
+  - title: "Ring of Gundam"
+    seasons:
+      - season: 1
+        anilist-id: 7060
+  - title: "Kidou Senshi Gundam: Cucuruz Doan no Shima"
+    synonyms:
+      - "MOBILE SUIT GUNDAM Cucuruz Doan's Island"
+    seasons:
+      - season: 1
+        anilist-id: 139273
+  - title: "Mobile Suit Gundam 0083: Stardust Memory"
+    synonyms:
+      - "Kidou Senshi Gundam 0083: Stardust Memory"
+    seasons:
+      - season: 1
+        anilist-id: 84
+  - title: "Mobile Suit Gundam 0083: The Afterglow Of Zeon"
+    synonyms:
+      - "Kidou Senshi Gundam 0083 - Zeon no Zankou -"
+    seasons:
+      - season: 1
+        anilist-id: 2695
+  - title: "Mobile Suit Gundam 0083: Stardust Memory - Mayfly of Space"
+    synonyms: 
+      - "Kidou Senshi Gundam 0083: Stardust Memory - Uchuu no Kagerou"
+    seasons:
+      - season: 1
+        anilist-id: 10581
+  - title: "Mobile Suit Gundam 0083: Stardust Memory - Mayfly of Space 2"
+    synonyms:
+      - "Kidou Senshi Gundam 0083: Stardust Memory - Uchuu no Kagerou 2"
+    seasons:
+      - season: 1
+        anilist-id: 110332
+  - title: "Mobile Suit Zeta Gundam"
+    synonyms:
+      - "Kidou Senshi Zeta Gundam"
+    seasons:
+      - season: 1
+        anilist-id: 85
+  - title: "Mobile Suit Zeta Gundam: A New Translation I - Heir to the Stars"
+    synonyms:
+      - "Kidou Senshi Z Gundam: A New Translation - Hoshi wo Tsugu Mono"
+    seasons:
+      - season: 1
+        anilist-id: 1967
+  - title: "Mobile Suit Zeta Gundam: A New Translation II - Lovers"
+    synonyms:
+      - "Kidou Senshi Z Gundam: A New Translation II - Koibito-tachi"
+      - "Kidou Senshi Z Gundam II: Koibito-tachi"
+      - "Kido Senshi Z Gundam II - Koibito Tachi"
+    seasons:
+      - season: 1
+        anilist-id: 1968
+  - title: "Mobile Suit Zeta Gundam: A New Translation III - Love Is the Pulse of the Stars"
+    synonyms:
+      - "Kidou Senshi Z Gundam: A New Translation III - Hoshi no Kodou wa Ai"
+    seasons:
+      - season: 1
+        anilist-id: 1969
+  - title: "Gundam Neo Experience 0087: Green Divers"
+    synonyms:
+      - "Gundam Neo Experience 0087: Green Divers"
+    seasons:
+      - season: 1
+        anilist-id: 8839
+  - title: "Mobile Suit Gundam ZZ"
+    synonyms:
+      - "Kidou Senshi Gundam ZZ"
+    seasons:
+      - season: 1
+        anilist-id: 86
+  - title: "Mobile Suit Gundam ZZ: GUNDAM FRAG"
+    synonyms:
+      - "Kidou Senshi Gundam ZZ: GUNDAM FRAG"
+    seasons:
+      - season: 1
+        anilist-id: 9708
+  - title: "Mobile Suit Gundam: Char's Counterattack"
+    synonyms:
+      - "Kidou Senshi Gundam: Gyakushuu no Char"
+    seasons:
+      - season: 1
+        anilist-id: 87
+  - title: "Akai Shouzou: Char, Soshite Frontal e"
+    seasons:
+      - season: 1
+        anilist-id: 14007
+  - title: "Mobile Suit Gundam UC"
+    synonyms:
+      - "Mobile Suit Gundam Unicorn"
+      - "Kidou Senshi Gundam UC"
+      - "Kidou Senshi Gundam Unicorn"
+    seasons:
+      - season: 1
+        anilist-id: 6336
+  - title: "MOBILE SUIT GUNDAM UNICORN RE:0096"
+    synonyms:
+      - "Kidou Senshi Gundam Unicorn RE: 0096"
+    seasons:
+      - season: 1
+        anilist-id: 21658
+  - title: "MOBILE SUIT GUNDAM: Twilight AXIS"
+    synonyms:
+      - "Kidou Senshi Gundam: Twilight Axis"
+    seasons:
+      - season: 1
+        anilist-id: 98504
+  - title: "Mobile Suit Gundam: Twilight Axis - Red Blur"
+    synonyms:
+      - "Kidou Senshi Gundam: Twilight Axis - Akaki Zanei"
+    seasons:
+      - season: 1
+        anilist-id: 104557
+  - title: "Mobile Suit Gundam Narrative"
+    synonyms:
+      - "Kidou Senshi Gundam NT"
+    seasons:
+      - season: 1
+        anilist-id: 101554
+  - title: "Mobile Suit Gundam: Hathaway's Flash"
+    synonyms:
+      - "Mobile Suit Gundam Hathaway"
+      - "Kidou Senshi Gundam: Senkou no Hathaway"
+    seasons:
+      - season: 1
+        anilist-id: 105595
+  - title: "Mobile Suit Gundam F91"
+    synonyms:
+      - "Kidou Senshi Gundam F91"
+    seasons:
+      - season: 1
+        anilist-id: 88
+  - title: "Mobile Suit Victory Gundam"
+    synonyms:
+      - "Kidou Senshi Victory Gundam"
+    seasons:
+      - season: 1
+        anilist-id: 89
+  - title: "Kidou Senshi Gundam UC Perfectibility"
+    seasons:
+      - season: 1
+        anilist-id: 112451
+  - title: "Mobile Suit Gundam UC: One of Seventy Two"
+    synonyms:
+      - "Kidou Senshi Gundam UC: One of Seventy Two"
+    seasons:
+      - season: 1
+        anilist-id: 20707
+  - title: "Mobile Suit Gundam Iron Blooded Orphans"
+    synonyms:
+      - "Gundam IBO"
+      - "G-Tekketsu"
+      - "Kidou Senshi Gundam: Tekketsu no Orphans"
+    seasons:
+      - season: 1
+        anilist-id: 21268
+      - season: 2
+        anilist-id: 21749
+  - title: "Mobile Suit Gundam Seed"
+    synonyms:
+      - "Kidou Senshi Gundam SEED"
+    seasons:
+      - season: 1
+        anilist-id: 93
+      - season: 2
+        anilist-id: 94
+  - title: "Mobile Suit Gundam Seed: After-Phase Between the Stars"
+    synonyms:
+      - "Kidou Senshi Gundam SEED: Hoshi no Hazama de"
+    seasons:
+      - season: 1
+        anilist-id: 2298
+  - title: "Mobile Suit Gundam Seed Destiny Final Plus: The Chosen Future"
+    synonyms:
+      - "Kidou Senshi Gundam SEED Destiny Final Plus: Eraba Reta Mirai"
+    seasons:
+      - season: 1
+        anilist-id: 1241
+  - title: "Mobile Suit Gundam Seed C.E.73: Stargazer"
+    synonyms:
+      - "Kidou Senshi Gundam SEED C.E.73: Stargazer"
+    seasons:
+      - season: 1
+        anilist-id: 1215
+  - title: "Mobile Suit Gundam Seed MSV Astray"
+    synonyms:
+      - "Kidou Senshi Gundam SEED MSV ASTRAY"
+    seasons:
+      - season: 1
+        anilist-id: 864
+  - title: "Mobile Suit Gundam Seed Special Edition"
+    synonyms:
+      - "Kidou Senshi Gundam SEED Special Edition"
+    seasons:
+      - season: 1
+        anilist-id: 2269
+  - title: "Mobile Suit Gundam Mini Seed Gundam Seed Character Theater"
+    synonyms:
+      - "Kidou Senshi Gundam SEED: Seed Supernova - Tanekyara Gekijo"
+    seasons:
+      - season: 1
+        anilist-id: 2743
+  - title: "Mobile Suit Gundam Seed Destiny Special Edition"
+    synonyms:
+      - "Kidou Senshi Gundam SEED Destiny Special Edition"
+    seasons:
+      - season: 1
+        anilist-id: 2294
+  - title: "Mobile Suit Gundam Seed Destiny Final Plus: The Chosen Future"
+    synonyms:
+      - "Kidou Senshi Gundam SEED Destiny Final Plus: Eraba Reta Mirai"
+    seasons:
+     - season: 1
+      anilist-id: 1241
+  - title: "Mobile Suit Gundam Wing"
+    synonyms:
+      - "Shin Kidou Senki Gundam W"
+      - "New Mobile Report Gundam Wing"
+    seasons: 
+      - season: 1
+        anilist-id: 90
+      - season: 2
+        anilist-id: 91
+  - title: "Mobile Suit Gundam Wing: Endless Waltz"
+    synonyms:
+      - "Shin Kidou Senki Gundam W: Endless Waltz Special Edition"
+    seasons:
+      - season: 1
+        anilist-id: 2273
+  - title: "Mobile Suit Gundam Wing: Operation Meteor"
+    synonyms:
+      - "Shin Kidou Senki Gundam Wing: Operation Meteor"
+      - "Gundam Wing: Odd & Even Numbers"
+      - "Gundam Wing: Operation Meteor"
+      - "New Mobile Report Gundam Wing: Operation Meteor"
+    seasons:
+      - season: 1
+        anilist-id: 3626
+  - title: "Shin Kidou Senki Gundam W: Frozen Teardrop Picture Drama - Tsuginaru Tatakai"
+    synonyms:
+      - "Shin Kidou Senki Gundam Wing: Frozen Teardrop Picture Drama - Tsuginaru Tatakai"
+    seasons:
+      - season: 1
+        anilist-id: 107188
+  - title: "After War Gundam X"
+    synonyms:
+      - "Kidou Senshi Seiki Gundam X"
+    seasons:
+      - season: 1
+        anilist-id: 92
+  - title: "Mobile Fighter G Gundam"
+    synonyms:
+      - "Kidou Butouden G Gundam"
+    seasons:
+      - season: 1
+        anilist-id: 96
+  - title: "Mobile Suit Gundam AGE"
+    synonyms:
+      - "Kidou Senshi Gundam AGE"
+    seasons:
+      - season: 1
+        anilist-id: 10808
+  - title: "Kidou Senshi Gundam AGE: Memory of Eden"
+    seasons:
+      - season: 1
+        anilist-id: 17655
+  - title: "Mobile Suit Gundam Turn A"
+    synonyms:
+      - "Turn A Gundam"
+      - "∀ Gundam"
+    seasons:
+      - season: 1
+        anilist-id: 95
+  - title: "Turn A Gundam I: Earth Light"
+    synonyms:
+      - "∀ Gundam I: Earth Light"
+    seasons:
+      - season: 1
+        anilist-id: 3963
+  - title: "Turn A Gundam II: Moonlight Butterfly"
+    synonyms:
+      - "∀ Gundam II: Moonlight Butterfly"
+      - "∀ Gundam II: Gekkou Chou"
+    seasons:
+      - season: 1
+        anilist-id: 3964
+  - title: "Gundam: Reconguista in G"
+    synonyms:
+      - "Gundam: G no Reconguista"
+      - "G-Reco"
+    seasons:
+      - season: 1
+        anilist-id: 20658
+  - title: "Reconguista in G the Movie I Go! Core Fighter"
+    synonyms:
+      - "Gundam: G no Reconguista I - Ike! Core Fighter"
+      - "Gekijouban Gundam G no Reconguista"
+    seasons:
+      - season: 1
+        anilist-id: 105596
+  - title: "Reconguista in G the Movie II Bellri's Fierce Charge"
+    synonyms:
+      - "Gundam: G no Reconguista II - Bellri Gekishin"
+      - "Gundam Reconguista in G II"
+      - "Gekijouban Gundam G no Reconguista 2"
+      - "Gundam: G no Reconguista Movie 2 - Bellri Advances"
+    seasons:
+      - season: 1
+        anilist-id: 114334
+  - title: "Gundam: G no Reconguista III - Uchuu kara no Isan"
+    synonyms:
+      - "G-Reco Movie 3"
+      - "Gundam Reconguista in G 3"
+      - "Gundam Reconguista in G III: Heritage from space"
+    seasons:
+      - season: 1
+        anilist-id: 132324
+  - title: "Gundam: G no Reconguista - From the Past to the Future"
+    seasons:
+      - season: 1
+        anilist-id: 102525
+  - title: "Mobile Suit Gakuen: G-Reco Koushien"
+    seasons: 
+      - season: 1
+        anilist-id: 112449
+      - season: 2
+        anilist-id: 114760
+  - title: "Gundam Build Fighters"
+    seasons: 
+      - season: 1
+        anilist-id: 19319
+  - title: "Gundam Build Fighters: GM's Counterattack"
+    synonyms:
+      - "Gundam Build Fighters: GM no Gyakushuu"
+    seasons:
+      - season: 1
+        anilist-id: 99732
+  - title: "Gundam Build Fighters: Battlogue"
+    seasons:
+      - season: 1
+        anilist-id: 99731
+  - title: "Gundam Build Fighters Try"
+    seasons:
+      - season: 1
+        anilist-id: 20739
+  - title: "GUNDAM BUILD FIGHTERS TRY: Island Wars"
+    synonyms: 
+      - "GUNDAM BUILD FIGHTERS TRY OVA"
+    seasons: 
+      - season: 1
+        anilist-id: 21814
+  - title: "Gundam Build Divers Prologue"
+    seasons:
+      - season: 1
+        anilist-id: 102622
+  - title: "Gundam Build Divers"
+    seasons:
+      - season: 1
+        anilist-id: 101036
+  - title: "Gundam Build Divers Re:RISE"
+    seasons:
+      - season: 1
+        anilist-id: 110786
+      - season: 2
+        anilist-id: 114233
+  - title: "Gundam Build Divers Battlogue"
+    seasons:
+      - season: 1
+        anilist-id: 126662
+  - title: "Gundam Breaker Battlogue"
+    seasons:
+      - season: 1
+        anilist-id: 135645
+  - title: "Gundam vs Hello Kitty"
+    seasons:
+      - season: 1
+        anilist-id: 110419
+  - title: "Mobile Suit Gundam: The Light of Life Chronicle U.C."
+    synonyms:
+      - "Kidou Senshi Gundam: Hikaru Inochi Chronicle U.C. "
+    seasons:
+      - season: 1
+        anilist-id: 113138
+  - title: "The Impression of First GUNDAM"
+    seasons:
+      - season: 1
+        anilist-id: 19977
+  - title: "Mobile Suit Gundam: THE WITCH FROM MERCURY"
+    synonyms:
+      - "Kidou Senshi Gundam: Suisei no Majo"
+    seasons:
+      - season: 1
+        anilist-id: 139274
+  - title: "Mobile Suit Gundam UC: Episode EX - Hyakunen no Kodoku"
+    seasons:
+      - season: 1
+        anilist-id: 112450
   - title: "Mushoku Tensei: Jobless Reincarnation"
     synonyms:
       - "Mushoku Tensei: Isekai Ittara Honki Dasu"
