@@ -1189,12 +1189,8 @@ entries:
     seasons: 
       - season: 1
         anilist-id: 21458
-  - title: "Mobile Suit Gundam Thunderbolt 2"
-    synonyms:
-      - "Kidou Senshi Gundam Thunderbolt 2"
-    seasons:
-      - season: 1
-        anilist-id: 97853  
+      - season: 2
+        anilist-id: 97853
   - title: "Mobile Suit Gundam Thunderbolt: December Sky"
     synonyms: 
       - "Kidou Senshi Gundam Thunderbolt: December Sky"
