@@ -1216,13 +1216,13 @@ entries:
       - season: 1
         anilist-id: 83
   - title: "Mobile Suit Gundam: The 08th MS Team - Battle in Three Dimensions"
-    synyoms: 
+    synonyms: 
       - "Kidou Senshi Gundam: Dai 08 MS Shotai - Sanjigen to no Tatakai"
     seasons:
       - season: 1
         anilist-id: 17717
   - title: "Mobile Suit Gundam: More Information on the Universal Century"
-    synyoms: 
+    synonyms: 
       - "Uchuu Seiki Yowa"
     seasons: 
       - season: 1
@@ -1232,7 +1232,7 @@ entries:
       - season: 1
         anilist-id: 7113
   - title: "Mobile Suit Gundam MS IGLOO: The Hidden One Year War"
-    synyoms: 
+    synonyms: 
       - "Kidou Senshi Gundam MS IGLOO: Ichinen Sensou Hiwa"
     seasons:
       - season: 1
@@ -1250,7 +1250,7 @@ entries:
       - season: 1
         anilist-id: 4232
   - title: "Mobile Suit Gundam 0080: War in the Pocket"
-    synyoms:
+    synonyms:
       - "Kidou Senshi Gundam 0080: Pocket no Naka no Sensou"
     seasons:
       - season: 1
