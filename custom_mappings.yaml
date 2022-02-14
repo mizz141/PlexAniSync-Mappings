@@ -1157,8 +1157,8 @@ entries:
     synonyms:
       - "Kidou Senshi Gundam The Origin - Zenya Akai Suisei"
     seasons: 
-      -season: 1
-      anilist-id: 108039
+      - season: 1
+        anilist-id: 108039
   - title: "Mobile Suit Gundam"
     synonyms: 
       - "Kidou Senshi Gundam"
