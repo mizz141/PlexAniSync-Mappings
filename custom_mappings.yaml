@@ -1497,7 +1497,7 @@ entries:
       - "Kidou Senshi Gundam SEED Destiny Final Plus: Eraba Reta Mirai"
     seasons:
      - season: 1
-      anilist-id: 1241
+       anilist-id: 1241
   - title: "Mobile Suit Gundam Wing"
     synonyms:
       - "Shin Kidou Senki Gundam W"
