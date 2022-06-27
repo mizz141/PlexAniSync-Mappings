@@ -162,7 +162,7 @@ entries:
         anilist-id: 9513
   - title: "Black Butler"
     synonyms:
-      - "Kuro Shitsuji" 
+      - "Kuro Shitsuji"
       - "Kuroshitsuji"
     seasons:
       - season: 1
@@ -946,7 +946,7 @@ entries:
         anilist-id: 14467
       - season: 2
         anilist-id: 20913
-  - title: "K: SEVEN STORIES R:B - BLAZE"   
+  - title: "K: SEVEN STORIES R:B - BLAZE"
     synonyms:
       - "K SEVEN STORIES Episode 1"
       - "K: Seven Stories Movie 1 - RB - Blaze"
@@ -1182,7 +1182,7 @@ entries:
     synonyms: 
       - "Kidou Senshi Gundam"
     seasons:  
-      - season: 1 
+      - season: 1
         anilist-id: 80
   - title: "Mobile Suit Gundam I"
     synonyms: 
@@ -1194,13 +1194,13 @@ entries:
     synonyms:
       - "Kidou Senshi Gundam II: Ai Senshi-hen"
     seasons:
-      - season: 1 
+      - season: 1
         anilist-id: 1091
   - title: "Mobile Suit Gundam III: Encounters in Space"
     synonyms:
       - "Kidou Senshi Gundam III: Meguriai Sora-hen"
     seasons:
-      - season: 1 
+      - season: 
         anilist-id: 1092
   - title: "Mobile Suit Gundam Thunderbolt"
     synonyms:
@@ -2079,13 +2079,23 @@ entries:
       - season: 1
         anilist-id: 17269
   - title: "Spice and Wolf"
-    synonyms: 
+    synonyms:
       - "Ookami to Koushinryou"
     seasons:
       - season: 1
         anilist-id: 2966
       - season: 2
-        anilist-id: 5341 
+        anilist-id: 5341
+  - title: "Spy x Family"
+    synonyms:
+      - "SPY x FAMILY"
+      - "Spy X Family"
+     seasons:
+      - season: 1
+        anilist-id: 140960
+      - season: 2
+        anilist-id: 142838
+        start: 13
   - title: "Star Blazers: Space Battleship Yamato 2199"
     synonyms:
       - "Star Blazers 2199 - Space Battleship Yamato"
