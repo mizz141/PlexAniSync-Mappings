@@ -11,7 +11,7 @@ entries:
       - "86 EIGHTY-SIX"
       - "86"
     seasons:
-      - season: 12093
+      - season: 1
         anilist-id: 116589
       - season: 1
         anilist-id: 131586
@@ -2090,7 +2090,7 @@ entries:
     synonyms:
       - "SPY x FAMILY"
       - "Spy X Family"
-     seasons:
+    seasons:
       - season: 1
         anilist-id: 140960
       - season: 2
