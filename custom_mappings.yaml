@@ -961,6 +961,15 @@ entries:
         anilist-id: 112641
       - season: 3
         anilist-id: 125367
+  - title: "Kaiji"
+    synonyms:
+      - "Gyakkyou Burai Kaiji"
+      - "kaiji"
+    seasons:
+      - season: 1
+        anilist-id: 3002
+      - season: 2
+        anilist-id: 10271
   - title: "Kakegurui"
     synonyms:
       - "Kakegurui: Das Leben ist ein Spiel"
