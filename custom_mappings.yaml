@@ -421,6 +421,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 98460
+  - title: "Disgaea"
+    seasons:
+      - season: 1
+        anilist-id: 860
   - title: "Dr. Stone"
     synonyms:
       - "Doctor Stone"
@@ -970,6 +974,13 @@ entries:
         anilist-id: 3002
       - season: 2
         anilist-id: 10271
+  - title: "Kaiju Girls"
+    seasons:
+      - season: 1
+        anilist-id: 21760
+      - season: 2
+        anilist-id: 99888
+        start: 13
   - title: "Kakegurui"
     synonyms:
       - "Kakegurui: Das Leben ist ein Spiel"
@@ -1695,6 +1706,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 19977
+  - title: "Inazma Delivery"
+    seasons:
+     - season: 1
+       anilist-id: 102940
+     - season: 2
+       anilist-id: 102941
+       start: 11
   - title: "Mobile Suit Gundam: THE WITCH FROM MERCURY"
     synonyms:
       - "Kidou Senshi Gundam: Suisei no Majo"
@@ -2123,6 +2141,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 11577
+  - title: "Suvival Game Club"
+    seasons:
+      - season: 1
+        anilist-id: 20475
   - title: "Sweetness & Lightning"
     synonyms:
       - "Amaama to Inazuma"
