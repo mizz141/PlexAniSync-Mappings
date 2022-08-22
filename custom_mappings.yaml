@@ -791,6 +791,12 @@ entries:
         anilist-id: 114446
       - season: 2
         anilist-id: 131149
+        
+  - title: "Himouto! Umaru-chan"
+      - season: 1
+        anilist-id: 20987
+      - season: 2
+        anilist-id: 98572
   - title: "How a Realist Hero Rebuilt the Kingdom"
     synonyms:
       - "A Realist Hero's Kingdom Restoration Chronicle"
