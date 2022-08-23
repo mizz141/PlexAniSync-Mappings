@@ -792,7 +792,7 @@ entries:
       - season: 2
         anilist-id: 131149
   - title: "Himouto! Umaru-chan"
-     seasons:
+    seasons:
       - season: 1
         anilist-id: 20987
       - season: 2
