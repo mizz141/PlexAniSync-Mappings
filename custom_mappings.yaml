@@ -65,6 +65,12 @@ entries:
         anilist-id: 21341
       - season: 2
         anilist-id: 21799
+  - title: "Akashic Records of Bastard Magical Instructor"
+    synonyms:
+      - "Akashic Records of Bastard Magical Instructor"
+    seasons:
+      - season: 1
+        anilist-id: 21700
   - title: "Aldnoah.Zero"
     synonyms:
       - "ALDNOAH.ZERO"
@@ -341,6 +347,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 15037
+  - title: "D-Frag!"
+    seasons:
+      - season: 1
+        anilist-id: 20031
   - title: "Danganronpa"
     synonyms:
       - "Danganronpa Kibou no Gakuen to Zetsubou no Koukousei The Animation"
@@ -509,6 +519,19 @@ entries:
         anilist-id: 813
       - season: 9
         anilist-id: 813
+  - title: "Dropkick on my Devil!"
+    synonyms:
+      - "Dropkick on My Devil!!"
+      - "Dropkick on My Devil!!'"
+      - "Dropkick on My Devil!! Dash"
+      - "Dropkick on My Devil!! X"
+    seasons:
+      - season: 1
+        anilist-id: 100714
+      - season: 2
+        anilist-id: 107294
+      - season: 3
+        anilist-id: 124641
   - title: "Durarara!!"
     seasons:
       - season: 1
@@ -832,6 +855,14 @@ entries:
         anilist-id: 11061
       - season: 3
         anilist-id: 11061
+  - title: "If Her Flag Breaks"
+    synonyms:
+      - "Kanojo ga Flag wo Oraretara"
+      - "Kanojo ga Flag o Oraretara"
+      - "Gaworare"
+    seasons:
+      - season: 1
+        anilist-id: 19685
   - title: "Is the Order a Rabbit?"
     synonyms:
       - "Gochuumon wa Usagi Desu ka?"
@@ -1078,6 +1109,21 @@ entries:
         anilist-id: 117002
       - season: 3
         anilist-id: 104273
+  - title: "Magical Girl Lyrical Nanoha"
+    synonyms:
+      - "Zaubermädchen Nanoha"
+      - "Mahou Shoujo Lyrical Nanoha"
+    seasons:
+      - season: 1
+        anilist-id: 76
+      - season: 2
+        anilist-id: 77
+      - season: 3
+        anilist-id: 1915
+      - season: 4
+        anilist-id: 20820
+      - season: 5
+        anilist-id: 21871
   - title: "Magi: Adventure of Sinbad"
     synonyms:
       - "Magi: Sinbad no Bouken"
@@ -1895,6 +1941,17 @@ entries:
         anilist-id: 100133
       - season: 3
         anilist-id: 116147
+  - title: "Ore no Imouto ga Konnani Kawaii Wake ga Nai"
+    synonyms:
+      - "My Little Sister Can't Be This Cute"
+      - "Ore no Imouto ga Konna ni Kawaii Wake ga Nai"
+      - "Ore no Imouto ga Konnani Kawaii Wake ga Nai"
+      - "Oreimo"
+    seasons:
+      - season: 1
+        anilist-id: 8769
+      - season: 2
+        anilist-id: 13659
   - title: "Overlord"
     seasons:
       - season: 1
@@ -1965,6 +2022,10 @@ entries:
       - season: 2
         anilist-id: 119661
         start: 14
+  - title: "Redo of Healer"
+    seasons:
+      - season: 1
+        anilist-id: 113425
   - title: "Requiem of the Rose King"
     synonyms:
       - "Bara-Ou no Souretsu"
@@ -2207,6 +2268,13 @@ entries:
         anilist-id: 107068
       - season: 3
         anilist-id: 138424
+  - title: "Tenjo Tenge"
+    synonyms:
+      - "Tenjho Tenge"
+      - "Tenjou Tenge"
+    seasons:
+      - season: 1
+        anilist-id: 174
   - title: "Terra Formars"
     synonyms:
       - "TERRAFORMARS"
@@ -2262,6 +2330,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 10620
+  - title: "The Maid I Recently Hired Is Mysterious"
+    synonyms:
+      - "Saikin Yatotta Maid ga Ayashii"
+    seasons:
+      - season: 1
+        anilist-id: 149326
   - title: "The Irregular at Magic High School"
     synonyms:
       - "Mahouka Koukou no Rettousei"
@@ -2293,6 +2367,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 4382
+      - season: 2
+        anilist-id: 4382
+        start: 15
   - title: "The Rising of the Shield Hero"
     synonyms:
       - "Tate no Yuusha no Nariagari"
@@ -2354,6 +2431,21 @@ entries:
       - season: 1
         anilist-id: 132193
         start: 6
+  - title: "The World God Only Knows"
+    synonyms:
+      - "The World God Only Knows II"
+      - "Kami nomi zo Shiru Sekai"
+      - "The World God Only Knows III"
+      - "The World God Only Knows - Goddesses Arc"
+      - "Kami nomi zo Shiru Sekai: Megami Hen"
+      - "The World That Only God Knows"
+    seasons:
+      - season: 1
+        anilist-id: 8525
+      - season: 2
+        anilist-id: 10080
+      - season: 3
+        anilist-id: 16706
   - title: "Trinity Seven: Eternity Library & Alchemic Girl"
     synonyms:
       - "Eternity Library & Alchemic Girl"
@@ -2435,6 +2527,18 @@ entries:
         anilist-id: 180
       - season: 2
         anilist-id: 181
+  - title: "We Never Learn"
+    synonyms:
+      - "We Never Learn: BOKUBEN"
+      - "Boku-tachi wa Benkyou ga Dekinai"
+      - "BokuBen Bokutachi wa Benkyou ga Dekinai"
+      - "We Can’t Study"
+      - "We Never Learn"
+    seasons:
+      - season: 1
+        anilist-id: 103900
+      - season: 2
+        anilist-id: 110229
   - title: "When They Cry - Higurashi"
     synonyms:
       - "Higurashi no Naku Koro ni"
