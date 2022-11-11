@@ -2565,6 +2565,16 @@ entries:
         anilist-id: 3457
       - season: 2
         anilist-id: 4752
+  - title: "Urusei Yatsura"
+    seasons:
+      - season: 1
+        anilist-id: 1293
+  - title: "Urusei Yatsura (2022)"
+    seasons:
+      - season: 1
+        anilist-id: 143277
+      - season: 2
+        anilist-id: 155645
   - title: "VanDread"
     seasons:
       - season: 1
