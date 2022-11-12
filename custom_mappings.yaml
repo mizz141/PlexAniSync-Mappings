@@ -2565,9 +2565,17 @@ entries:
         anilist-id: 3457
       - season: 2
         anilist-id: 4752
-  - title: "Urusei Yatsura"
+  - title: "Urusei Yatsura (1981)"
     seasons:
       - season: 1
+        anilist-id: 1293
+      - season: 2
+        anilist-id: 1293
+      - season: 3
+        anilist-id: 1293
+      - season: 4
+        anilist-id: 1293
+      - season: 5
         anilist-id: 1293
   - title: "Urusei Yatsura (2022)"
     seasons:
