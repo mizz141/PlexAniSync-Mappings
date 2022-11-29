@@ -96,6 +96,15 @@ entries:
         anilist-id: 962
       - season: 3
         anilist-id: 3297
+  - title: "Arslan Senki (TV)"
+    synonyms:
+      - "The Heroic Legend of Arslan"
+      - "Arslan Senki (2015)"
+    seasons:
+      - season: 1
+        anilist-id: 20935
+      - season: 2
+        anilist-id: 21424
   - title: "Ascendance of a Bookworm"
     synonyms:
       - "Honzuki no Gekokujou : Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen"
@@ -126,6 +135,12 @@ entries:
       - season: 4
         anilist-id: 131681
         start: 17
+  - title: "B: The Beginning"
+    seasons:
+      - season: 1
+        anilist-id: 21665
+      - season: 2
+        anilist-id: 102498
   - title: "Back Street Girls"
     synonyms:
       - "Back Street Girls -GOKUDOLLS-"
@@ -718,7 +733,7 @@ entries:
 #      - "Ghost in Shell Arise Border 5"
 #    seasons:
 #      - season: 1
-#        anilist-id: 
+#        anilist-id:
   - title: "Ghost in the Shell: Stand Alone Complex"
     synonyms:
       - "Ghost in the Shell: S.A.C."
@@ -922,7 +937,7 @@ entries:
       - season: 2
         anilist-id: 10790
   - title: "Initial D"
-    seasons: 
+    seasons:
       - season: 1
         anilist-id: 185
       - season: 2
@@ -1082,6 +1097,14 @@ entries:
         anilist-id: 113108
       - season: 4
         anilist-id: 140350
+  - title: "Kiniro Mosaic"
+    synonyms:
+      - "KINMOZA!"
+    seasons:
+      - season: 1
+        anilist-id: 16732
+      - season: 2
+        anilist-id: 20654
   - title: "Knights of Sidonia"
     synonyms:
       - "Sidonia no Kishi"
@@ -1129,7 +1152,7 @@ entries:
     synonyms:
       - "Sangatsu no Lion"
       - "3-gatsu no Lion"
-    seasons: 
+    seasons:
       - season: 1
         anilist-id: 21366
       - season: 2
@@ -1138,7 +1161,7 @@ entries:
     synonyms:
       - "Magia Record: Mahou Shoujo Madoka Magica Gaiden"
       - "Magia Record : Puella Magi Madoka Magica Side Story"
-    seasons: 
+    seasons:
       - season: 1
         anilist-id: 104051
       - season: 2
@@ -1278,7 +1301,7 @@ entries:
       - season: 2
         anilist-id: 3927
   - title: "Mobile Suit Gundam The Origin"
-    synonyms: 
+    synonyms:
       - "Kidou Senshi Gundam THE ORIGIN"
     seasons:
       - season: 1
@@ -1286,17 +1309,17 @@ entries:
   - title: "Mobile Suit Gundam The Origin - Advent of the Red Comet"
     synonyms:
       - "Kidou Senshi Gundam The Origin - Zenya Akai Suisei"
-    seasons: 
+    seasons:
       - season: 1
         anilist-id: 108039
   - title: "Mobile Suit Gundam"
-    synonyms: 
+    synonyms:
       - "Kidou Senshi Gundam"
-    seasons:  
+    seasons:
       - season: 1
         anilist-id: 80
   - title: "Mobile Suit Gundam I"
-    synonyms: 
+    synonyms:
       - "Kidou Senshi Gundam I"
     seasons:
       - season: 1
@@ -1316,15 +1339,15 @@ entries:
   - title: "Mobile Suit Gundam Thunderbolt"
     synonyms:
       - "Kidou Senshi Gundam Thunderbolt"
-    seasons: 
+    seasons:
       - season: 1
         anilist-id: 21458
       - season: 2
         anilist-id: 97853
   - title: "Mobile Suit Gundam Thunderbolt: December Sky"
-    synonyms: 
+    synonyms:
       - "Kidou Senshi Gundam Thunderbolt: December Sky"
-    seasons: 
+    seasons:
       - season: 1
         anilist-id: 21893
   - title: "Mobile Suit Gundam Thunderbolt: Bandit Flower"
@@ -1334,7 +1357,7 @@ entries:
       - season: 1
         anilist-id: 99547
   - title: "Mobile Suit Gundam: The 08th MS Team"
-    synonyms: 
+    synonyms:
       - "Kidou Senshi Gundam: Dai 08 MS Shotai"
     seasons:
       - season: 1
@@ -1346,15 +1369,15 @@ entries:
       - season: 1
         anilist-id: 83
   - title: "Mobile Suit Gundam: The 08th MS Team - Battle in Three Dimensions"
-    synonyms: 
+    synonyms:
       - "Kidou Senshi Gundam: Dai 08 MS Shotai - Sanjigen to no Tatakai"
     seasons:
       - season: 1
         anilist-id: 17717
   - title: "Mobile Suit Gundam: More Information on the Universal Century"
-    synonyms: 
+    synonyms:
       - "Uchuu Seiki Yowa"
-    seasons: 
+    seasons:
       - season: 1
         anilist-id: 5723
   - title: "30th GUNDAM PERFECT MISSION"
@@ -1362,7 +1385,7 @@ entries:
       - season: 1
         anilist-id: 7113
   - title: "Mobile Suit Gundam MS IGLOO: The Hidden One Year War"
-    synonyms: 
+    synonyms:
       - "Kidou Senshi Gundam MS IGLOO: Ichinen Sensou Hiwa"
     seasons:
       - season: 1
@@ -1390,7 +1413,7 @@ entries:
       - season: 1
         anilist-id: 5270
   - title: "Kidou Senshi Gundam Battlefield Record: Avant-Title"
-    synonyms: 
+    synonyms:
       - "Kidou Senshi Gundam Senki: Avant Title"
     seasons:
       - season: 1
@@ -1432,7 +1455,7 @@ entries:
       - season: 1
         anilist-id: 2695
   - title: "Mobile Suit Gundam 0083: Stardust Memory - Mayfly of Space"
-    synonyms: 
+    synonyms:
       - "Kidou Senshi Gundam 0083: Stardust Memory - Uchuu no Kagerou"
     seasons:
       - season: 1
@@ -1628,7 +1651,7 @@ entries:
     synonyms:
       - "Shin Kidou Senki Gundam W"
       - "New Mobile Report Gundam Wing"
-    seasons: 
+    seasons:
       - season: 1
         anilist-id: 90
       - season: 2
@@ -1732,13 +1755,13 @@ entries:
       - season: 1
         anilist-id: 102525
   - title: "Mobile Suit Gakuen: G-Reco Koushien"
-    seasons: 
+    seasons:
       - season: 1
         anilist-id: 112449
       - season: 2
         anilist-id: 114760
   - title: "Gundam Build Fighters"
-    seasons: 
+    seasons:
       - season: 1
         anilist-id: 19319
   - title: "Gundam Build Fighters: GM's Counterattack"
@@ -1756,9 +1779,9 @@ entries:
       - season: 1
         anilist-id: 20739
   - title: "GUNDAM BUILD FIGHTERS TRY: Island Wars"
-    synonyms: 
+    synonyms:
       - "GUNDAM BUILD FIGHTERS TRY OVA"
-    seasons: 
+    seasons:
       - season: 1
         anilist-id: 21814
   - title: "Gundam Build Divers Prologue"
@@ -1828,7 +1851,7 @@ entries:
   - title: "Muhyo & Roji's Bureau of Supernatural Investigation"
     synonyms:
       - "Muhyo to Roji no Mahouritsu Soudan Jimusho"
-    seasons: 
+    seasons:
       - season: 1
         anilist-id: 101340
       - season: 2
@@ -1857,7 +1880,7 @@ entries:
       - season: 6
         anilist-id: 139630
   - title: "My Isekai Life"
-    synonyms: 
+    synonyms:
       - "The Reincarnated Sage's Alternate World Life: I Got a Second Profession, and Became the Most Powerful in the World"
       - "My Isekai Life: I Gained a Second Character Class and Became the Strongest Sage in the World!"
       - "Tensei Kenja no Isekai Life: Daini no Shokugyou wo Ete, Sekai Saikyou ni Narimashita"
@@ -1878,7 +1901,7 @@ entries:
     synonyms:
       - "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta"
       - "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei Shiteshimatta..."
-    seasons: 
+    seasons:
       - season: 1
         anilist-id: 104647
       - season: 2
@@ -1897,13 +1920,19 @@ entries:
         anilist-id: 20
       - season: 5
         anilist-id: 20
+  - title: "New Game!"
+    seasons:
+      - season: 1
+        anilist-id: 21455
+      - season: 2
+        anilist-id: 98292
   - title: "Nisekoi"
     synonyms:
       - "False Love"
       - "Fake Love"
       - "Nisekoi: Liebe, Lügen & Yakuza"
       - "Nisekoi - False Love"
-    seasons: 
+    seasons:
       - season: 1
         anilist-id: 18897
       - season: 2
@@ -2111,9 +2140,8 @@ entries:
     seasons:
       - season: 1
         anilist-id: 20829
-      - season: 1
+      - season: 2
         anilist-id: 20993
-        start: 13
   - title: "Saekano: How to Raise a Boring Girlfriend"
     seasons:
       - season: 1
@@ -2132,7 +2160,7 @@ entries:
       - season: 2
         anilist-id: 135865
   - title: "Sailor Moon"
-    synonyms: 
+    synonyms:
       - "Bishoujo Senshi Sailor Moon"
     seasons:
       - season: 1
@@ -2146,7 +2174,7 @@ entries:
       - season: 5
         anilist-id: 996
   - title: "Sailor Moon Crystal"
-    synonyms: 
+    synonyms:
       - "Bishoujo Senshi Sailor Moon: Crystal"
     seasons:
       - season: 1
@@ -2198,7 +2226,7 @@ entries:
     synonyms:
       - "Sorcerous Stabber Orphen"
       - "Majutsushi Orphen Hagure Tabi"
-    seasons: 
+    seasons:
       - season: 1
         anilist-id: 101367
       - season: 2
