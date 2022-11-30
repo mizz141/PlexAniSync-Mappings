@@ -99,6 +99,7 @@ entries:
   - title: "Arslan Senki (TV)"
     synonyms:
       - "The Heroic Legend of Arslan"
+      - "The Heroic Legend of Arslan (2015)"
       - "Arslan Senki (2015)"
     seasons:
       - season: 1
@@ -841,6 +842,12 @@ entries:
         anilist-id: 5958
       - season: 2
         anilist-id: 8407
+  - title: "Hellsing Ultimate"
+    synonyms:
+      - "Hellsing OVA"
+    seasons:
+      - season: 1
+        anilist-id: 777
   - title: "High School DxD"
     synonyms:
       - "HighSchool DxD"
@@ -2140,8 +2147,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 20829
-      - season: 2
+      - season: 1
         anilist-id: 20993
+        start: 13
   - title: "Saekano: How to Raise a Boring Girlfriend"
     seasons:
       - season: 1
