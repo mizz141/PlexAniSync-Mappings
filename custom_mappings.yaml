@@ -1,4 +1,13 @@
 entries:
+  - title: "100万の命の上に俺は立っている"
+    synonyms:
+      - "100-man no Inochi no Ue ni Ore wa Tatteiru"
+      - "I'm Standing on a Million Lives"
+    seasons:
+      - season: 1
+        anilist-id: 116242
+      - season: 2
+        anilist-id: 127366
   - title: "5 Centimeters per Second"
     seasons:
       - season: 1
@@ -96,6 +105,15 @@ entries:
         anilist-id: 962
       - season: 3
         anilist-id: 3297
+  - title: "ありふれた職業で世界最強"
+    synonyms:
+      - "Arifureta Shokugyou de Sekai Saikyou"
+      - "Arifureta: From Commonplace to World's Strongest"
+    seasons:
+      - season: 1
+        anilist-id: 100668
+      - season: 2
+        anilist-id: 112323
   - title: "Arslan Senki (TV)"
     synonyms:
       - "The Heroic Legend of Arslan"
@@ -151,6 +169,16 @@ entries:
     seasons:
       - season: 1
         anilist-id: 100665
+  - title: "Bakuman"
+    synonyms:
+      - "バクマン"
+    seasons:
+      - season: 1
+        anilist-id: 7674
+      - season: 2
+        anilist-id: 10030
+      - season: 3
+        anilist-id: 12365
   - title: "Basilisk"
     synonyms:
       - "Basilisk: Die Chroniken der Kouga-Ninja"
@@ -387,6 +415,7 @@ entries:
   - title: "Code Geass: Lelouch of the Rebellion"
     synonyms:
       - "Code Geass Lelouch of the Rebellion"
+      - "コードギアス 反逆のルルーシュ"
     seasons:
       - season: 1
         anilist-id: 1575
@@ -431,6 +460,7 @@ entries:
       - "Is It Wrong to Try to Pick Up Girls in a Dungeon?"
       - "DanMachi: Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka"
       - "DanMachi - Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka"
+      - "ダンジョンに出会いを求めるのは間違っているだろうか"
     seasons:
       - season: 1
         anilist-id: 20920
@@ -889,6 +919,16 @@ entries:
       - season: 1
         anilist-id: 139648
         start: 14
+  - title: "How NOT To Summon A Demon Lord"
+    synonyms:
+      - "異世界魔王と召喚少女の奴隷魔術"
+      - "Isekai Maou to Shoukan Shoujo no Dorei Majutsu"
+    seasons:
+      - season: 1
+        anilist-id: 101004
+      - season: 2
+        anilist-id: 117448
+      
   - title: "Hozuki's Coolheadedness"
     synonyms:
       - "Hozuki no Reitetsu"
@@ -1121,6 +1161,14 @@ entries:
         anilist-id: 19775
       - season: 2
         anilist-id: 20762
+  - title: "Komi Can't Communicate"
+    synonyms:
+      - "古見さんは、コミュ症です"
+    seasons:
+      - season: 1
+        anilist-id: 133965
+      - season: 2
+        anilist-id: 142984
   - title: "Log Horizon"
     seasons:
       - season: 1
@@ -1443,6 +1491,15 @@ entries:
     seasons:
       - season: 1
         anilist-id: 7060
+  - title: "Rent A Girlfriend":
+    synonyms:
+      - "Kanojo, Okarishimasu"
+      - "彼女、お借りします"
+    seasons:
+      - season: 1
+        anilist-id: 113813
+      - season: 2
+        anilist-id: 124410
   - title: "Kidou Senshi Gundam: Cucuruz Doan no Shima"
     synonyms:
       - "MOBILE SUIT GUNDAM Cucuruz Doan's Island"
@@ -1908,6 +1965,7 @@ entries:
     synonyms:
       - "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta"
       - "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei Shiteshimatta..."
+      - "乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…"
     seasons:
       - season: 1
         anilist-id: 104647
@@ -2369,6 +2427,7 @@ entries:
       - "Tensei shitara Slime Datta Ken"
       - "Tensei Shitara Slime Datta Ken"
       - "Slime Isekai"
+      -  "転生したらスライムだった件"
     seasons:
       - season: 1
         anilist-id: 101280
@@ -2535,6 +2594,14 @@ entries:
     seasons:
       - season: 1
         anilist-id: 21874
+  - title: "To Your Eternity"
+    synonyms:
+      - "不滅のあなたへ"
+    seasons:
+      - season: 1
+        anilist-id: 114535
+      - season: 2
+        anilist-id: 138565
   - title: "Tokyo Twenty Fourth Ward"
     synonyms:
       - "Tokyo 24th Ward"
@@ -2637,6 +2704,17 @@ entries:
         anilist-id: 103900
       - season: 2
         anilist-id: 110229
+  - title: "Welcome to Demon School! Iruma-kun"
+    synonyms:
+      - "魔入りました！入間くん"
+      - "Mairimashita! Iruma-kun"
+    seasons:
+      - season: 1
+        anilist-id: 107693
+      - season: 2
+        anilist-id: 116338
+      - season: 3
+        anilist-id: 139092
   - title: "When They Cry - Higurashi"
     synonyms:
       - "Higurashi no Naku Koro ni"
@@ -2699,6 +2777,12 @@ entries:
         anilist-id: 481
       - season: 5
         anilist-id: 481
+  - title: "ユーリ!!! on ICE"
+    synonyms:
+      - "Yuri!!! on ICE"
+    season:
+      - season: 1
+        anilist-id: 21709
   - title: "YuruYuri: Happy Go Lily"
     synonyms:
       - "YuruYuri"
