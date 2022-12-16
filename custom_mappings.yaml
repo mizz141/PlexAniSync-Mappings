@@ -1,13 +1,4 @@
 entries:
-  - title: "100万の命の上に俺は立っている"
-    synonyms:
-      - "100-man no Inochi no Ue ni Ore wa Tatteiru"
-      - "I'm Standing on a Million Lives"
-    seasons:
-      - season: 1
-        anilist-id: 116242
-      - season: 2
-        anilist-id: 127366
   - title: "5 Centimeters per Second"
     seasons:
       - season: 1
@@ -105,10 +96,10 @@ entries:
         anilist-id: 962
       - season: 3
         anilist-id: 3297
-  - title: "ありふれた職業で世界最強"
+  - title: "Arifureta: From Commonplace to World's Strongest"
     synonyms:
       - "Arifureta Shokugyou de Sekai Saikyou"
-      - "Arifureta: From Commonplace to World's Strongest"
+      - "ありふれた職業で世界最強"
     seasons:
       - season: 1
         anilist-id: 100668
@@ -961,6 +952,15 @@ entries:
     seasons:
       - season: 1
         anilist-id: 19685
+  - title: "I'm Standing on a Million Lives"
+    synonyms:
+      - "100-man no Inochi no Ue ni Ore wa Tatteiru"
+      - "100万の命の上に俺は立っている"
+    seasons:
+      - season: 1
+        anilist-id: 116242
+      - season: 2
+        anilist-id: 127366
   - title: "Is the Order a Rabbit?"
     synonyms:
       - "Gochuumon wa Usagi Desu ka?"
@@ -2777,9 +2777,9 @@ entries:
         anilist-id: 481
       - season: 5
         anilist-id: 481
-  - title: "ユーリ!!! on ICE"
+  - title: "Yuri!!! on ICE"
     synonyms:
-      - "Yuri!!! on ICE"
+      - "ユーリ!!! on ICE"
     seasons:
       - season: 1
         anilist-id: 21709
