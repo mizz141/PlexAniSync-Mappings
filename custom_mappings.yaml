@@ -185,6 +185,15 @@ entries:
     seasons:
       - season: 1
         anilist-id: 100665
+  - title: "Baki"
+    synonyms:
+      - "BAKI"
+      - "Baki (2018)"
+    seasons:
+      - season: 1
+        anilist-id: 97888
+      - season: 2
+        anilist-id: 108522
   - title: "Bakuman"
     synonyms:
       - "バクマン"
@@ -372,6 +381,7 @@ entries:
     synonyms:
       - "Chaika, die Sargprinzessin"
       - "Hitsugi no Chaika"
+      - "Chaika - The Coffin Princess"
     seasons:
       - season: 1
         anilist-id: 20462
@@ -1118,13 +1128,58 @@ entries:
         anilist-id: 14467
       - season: 2
         anilist-id: 20913
-  - title: "K: SEVEN STORIES R:B - BLAZE"
-    synonyms:
+  - title: "K: Seven Stories Movie 1 - R:B - Blaze"
+    synonyms: 
       - "K SEVEN STORIES Episode 1"
       - "K: Seven Stories Movie 1 - RB - Blaze"
+      - "K: SEVEN STORIES R:B - BLAZE"
+      - "K: Seven Stories Movie 1 - R:B - Blaze (2018)"
     seasons:
       - season: 1
         anilist-id: 21798
+  - title: "K: Seven Stories Movie 2 - Side:Blue - Like Sirius"
+    synonyms: 
+      - "K Seven Stories SIDE:BLUE ~天狼の如く~"
+      - "K SEVEN STORIES Episode 2"
+      - "K: Seven Stories Movie 2 - Side:Blue - Like Sirius (2018)"
+    seasons:
+      - season: 1
+        anilist-id: 102346
+  - title: "K: Seven Stories Movie 3 - Side:Green - The Overwritten World"
+    synonyms: 
+      - "K SEVEN STORIES Episode 3"
+      - "K: Seven Stories Movie 3: Side: Green"
+      - "K Seven Stories SIDE:GREEN ~上書き世界~"
+      - "K: Seven Stories Movie 3 - Side:Green - The Overwritten World (2018)"
+    seasons:
+      - season: 1
+        anilist-id: 102347
+  - title: "K: Seven Stories Movie 4 - Lost Small World - To the Other Side of the Cage"
+    synonyms: 
+      - "K SEVEN STORIES Episode 4"
+      - "K: Seven Stories Movie 4: Lost Small World"
+      - "K Seven Stories Lost Small World ~檻の向こうに~"
+      - "K: Seven Stories Movie 4 - Lost Small World - To the Other Side of the Cage (2018)"
+    seasons:
+      - season: 1
+        anilist-id: 102348
+  - title: "K: Seven Stories Movie 5 - Memory of Red - Burn"
+    synonyms: 
+      - "K SEVEN STORIES Episode 5"
+      - "K Seven Stories メモリー・オブ・レッド ~BURN~"
+      - "K: Seven Stories Movie 5 - Memory of Red - Burn (2018)"
+    seasons:
+      - season: 1
+        anilist-id: 102349
+  - title: "K: Seven Stories Movie 6 - Circle Vision - Nameless Song"
+    synonyms: 
+      - "K SEVEN STORIES Episode 6"
+      - "K Seven Stories Circle Vision ~Nameless Song~"
+      - "K: Seven Stories Movie 6: Circle Vision"
+      - "K: Seven Stories Movie 6 - Circle Vision - Nameless Song (2018)"
+    seasons:
+      - season: 1
+        anilist-id: 102350
   - title: "Kaguya-sama: Love is War"
     seasons:
       - season: 1
@@ -1921,6 +1976,14 @@ entries:
      - season: 2
        anilist-id: 102941
        start: 11
+  - title: "Listen to Me, Girls. I'm Your Father!"
+    synonyms:
+      - "Papa no Iukoto wo Kikinasai!"
+      - "Listen to Me, Girls, I'm Your Father!"
+      - "Papakiki, Listen to Me, Girls, I'm Your Father!"
+    seasons:
+      - season: 1
+        anilist-id: 11179 
   - title: "Mobile Suit Gundam: THE WITCH FROM MERCURY"
     synonyms:
       - "Kidou Senshi Gundam: Suisei no Majo"
@@ -2168,9 +2231,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 104382
-  - title: "Psycho-Pass: Sinners of the System - Case.3 In the Realm Beyond Is ____"
+  - title: "Psycho-Pass: Sinners of the System - Case.3 Beyond Love and Hatred"
     synonyms:
       - "PSYCHO-PASS Sinners of the System1v3: Case.3 - In the Realm Beyond Is ____"
+      - "Psycho-Pass: Sinners of the System - Case.3 In the Realm Beyond Is ____"
+      - "PSYCHO-PASS サイコパス Sinners of the System Case.3「恩讐の彼方に＿＿」"
+      - "Psycho-Pass: Sinners of the System - Case.3 Beyond Love and Hatred (2019)"
     seasons:
       - season: 1
         anilist-id: 104990
