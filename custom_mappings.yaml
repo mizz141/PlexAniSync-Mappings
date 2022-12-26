@@ -105,6 +105,28 @@ entries:
         anilist-id: 100668
       - season: 2
         anilist-id: 112323
+  - title: "Arpeggio of Blue Steel -Ars Nova-"
+    synonyms:
+      - "Aoki Hagane no Arpeggio"
+      - "Aoki Hagane no Arpeggio : Ars Nova"
+      - "Arpeggio of Blue Steel"
+    seasons:
+      - season: 1
+        anilist-id: 18893
+  - title: "Arpeggio of Blue Steel -Ars Nova Cadenza"
+    synonyms:
+      - "Arpeggio of Blue Steel: Ars Nova - Cadenza"
+      - "Aoki Hagane no Arpeggio: Ars Nova Cadenza"
+    seasons:
+      - season: 1
+        anilist-id: 20764
+  - title: "Arpeggio of Blue Steel: Ars Nova Movie 1"
+    synonyms:
+      - "Aoki Hagane no Arpeggio: Ars Nova DC"
+      - "Arpeggio of Blue Steel: Ars Nova - DC"
+    seasons:
+      - season: 1
+        anilist-id: 20763
   - title: "Arslan Senki (TV)"
     synonyms:
       - "The Heroic Legend of Arslan"
@@ -863,6 +885,12 @@ entries:
         anilist-id: 5958
       - season: 2
         anilist-id: 8407
+  - title: "Hero Mask"
+    seasons:
+      - season: 1
+        anilist-id: 105096
+      - season: 2
+        anilist-id: 110686
   - title: "Hellsing Ultimate"
     synonyms:
       - "Hellsing OVA"
@@ -2127,6 +2155,22 @@ entries:
         anilist-id: 20513
       - season: 3
         anilist-id: 108307
+  - title: "Psycho-Pass: Sinners of the System - Case.1 Crime and Punishment"
+    synonyms:
+      - "PSYCHO-PASS Sinners of the System1v3: Case.1 - Crime and Punishment"
+    seasons:
+     - season: 1
+       anilist-id: 102649
+  - title: "Psycho-Pass: Sinners of the System - Case.2 First Guardian"
+    seasons:
+      - season: 1
+        anilist-id: 104382
+  - title: "Psycho-Pass: Sinners of the System - Case.3 In the Realm Beyond Is ____"
+    synonyms:
+      - "PSYCHO-PASS Sinners of the System1v3: Case.3 - In the Realm Beyond Is ____"
+    seasons:
+      - season: 1
+        anilist-id: 104990
   - title: "Queen's Blade"
     seasons:
       - season: 1
@@ -2790,6 +2834,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 10495
+      - season: 2
+        anilist-id: 12403
+      - season: 3
+        anilist-id: 21088
   - title: "Zombie Land Saga"
     synonyms:
       - "Zombieland Saga"
