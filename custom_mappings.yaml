@@ -2682,6 +2682,8 @@ entries:
       - season: 1
         anilist-id: 132193
         start: 6
+      - season: 2
+        anilist-id: 154982
   - title: "The World God Only Knows"
     synonyms:
       - "The World God Only Knows II"
