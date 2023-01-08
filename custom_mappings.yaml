@@ -543,6 +543,14 @@ entries:
     seasons:
       - season: 1
         anilist-id: 860
+  - title: "Don't Toy With Me, Miss Nagatoro"
+    synonyms:
+      - "Ijiranaide, Nagatoro-san"
+    seasons:
+      - season: 1
+        anilist-id: 120697
+      - season: 2
+        anilist-id: 140596
   - title: "Dr. Stone"
     synonyms:
       - "Doctor Stone"
