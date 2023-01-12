@@ -323,6 +323,10 @@ entries:
     synonyms:
       - "痛いのは嫌なので防御力に極振りしたいと思います"
       - "痛いのは嫌なので防御力に極振りしたいと思います。"
+      - "I Hate Being in Pain, So I Think I'll Make a Full Defense Build"
+      - "I Hate Getting Hurt, So I Put All My Skill Points Into Defense"
+      - "I do not want pain, so I would like to focus on Defense"
+      - "Bofuri"
     seasons:
       - season: 1
         anilist-id: 106479
@@ -337,6 +341,7 @@ entries:
   - title: "By the Grace of the Gods"
     synonyms:
       - "神達に拾われた男"
+      - "The Man Picked Up by the Gods"
     seasons:
       - season: 1
         anilist-id: 115740
@@ -416,6 +421,7 @@ entries:
   - title: "Chillin' in My 30s after Getting Fired from the Demon King's Army"
     synonyms:
       - "解雇された暗黒兵士（30代）のスローなセカンドライフ"
+      - "The Slow Second Life of the Retired Dark Soldier in His 30s"
     seasons:
       - season: 1
         anilist-id: 152523
@@ -573,6 +579,10 @@ entries:
     synonyms:
       - "Ijiranaide, Nagatoro-san"
       - "イジらないで、長瀞さん"
+      - "Please don't bully me, Nagatoro"
+      - "Please don't bully me, Nagatoro-san"
+      - "Senpai is a bit..."
+      - "Senpai, don't you ever get angry?" 
     seasons:
       - season: 1
         anilist-id: 120697
@@ -2103,6 +2113,12 @@ entries:
   - title: "My Wife is the Student Council President!"
     synonyms:
       - "おくさまが生徒会長！"
+      - "Oku-sama ga Seito Kaichou!"
+      - "Okusama ga Seito Kaichō!
+      - "Okusama ga Seito Kaichou!"
+      - "Okusama ga Seitokaichô! 
+      - "Okusama ga Seitokaichō!"
+      - "My Wife is the Student Council President"
     seasons:
       - season: 1
         anilist-id: 20984
@@ -2831,6 +2847,8 @@ entries:
   - title: "Tsurune"
     synonyms:
       - "Tsurune: Kazemai High School Kyudo Club"
+      - "Tsurune: Kazemai Koukou Kyuudou-bu"
+      - "Tsurune: Kazemai Koukou Kyuudoubu"
       - "ツルネ ―風舞高校弓道部―"
     seasons:
       - season: 1
