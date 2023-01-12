@@ -197,6 +197,7 @@ entries:
   - title: "Bakuman"
     synonyms:
       - "バクマン"
+      - "バクマン。"
     seasons:
       - season: 1
         anilist-id: 7674
@@ -318,12 +319,29 @@ entries:
         anilist-id: 9919
       - season: 2
         anilist-id: 21861
+  - title: "BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense."
+    synonyms:
+      - "痛いのは嫌なので防御力に極振りしたいと思います"
+      - "痛いのは嫌なので防御力に極振りしたいと思います。"
+    seasons:
+      - season: 1
+        anilist-id: 106479
+      - season: 2
+        anilist-id: 116867
   - title: "Boruto: Naruto Next Generations"
     synonyms:
       - "Boruto - Naruto Next Generations"
     seasons:
       - season: 1
         anilist-id: 97938
+  - title: "By the Grace of the Gods"
+    synonyms:
+      - "神達に拾われた男"
+    seasons:
+      - season: 1
+        anilist-id: 115740
+      - season: 2
+        anilist-id: 135102
   - title: "Cardfight!! Vanguard"
     seasons:
       - season: 1
@@ -395,6 +413,12 @@ entries:
         anilist-id: 14397
       - season: 3
         anilist-id: 101215
+  - title: "Chillin' in My 30s after Getting Fired from the Demon King's Army"
+    synonyms:
+      - "解雇された暗黒兵士（30代）のスローなセカンドライフ"
+    seasons:
+      - season: 1
+        anilist-id: 152523
   - title: "Clannad"
     synonyms:
       - "CLANNAD"
@@ -494,6 +518,8 @@ entries:
         anilist-id: 101167
       - season: 3
         anilist-id: 112124
+      - season: 4
+        anilist-id: 129196
   - title: "Darker Than Black"
     synonyms:
       - "Darker than Black"
@@ -546,6 +572,7 @@ entries:
   - title: "Don't Toy With Me, Miss Nagatoro"
     synonyms:
       - "Ijiranaide, Nagatoro-san"
+      - "イジらないで、長瀞さん"
     seasons:
       - season: 1
         anilist-id: 120697
@@ -1257,6 +1284,7 @@ entries:
   - title: "Komi Can't Communicate"
     synonyms:
       - "古見さんは、コミュ症です"
+      - "古見さんは、コミュ症です。"
     seasons:
       - season: 1
         anilist-id: 133965
@@ -2072,6 +2100,14 @@ entries:
         anilist-id: 104647
       - season: 2
         anilist-id: 120209
+  - title: "My Wife is the Student Council President!"
+    synonyms:
+      - "おくさまが生徒会長！"
+    seasons:
+      - season: 1
+        anilist-id: 20984
+      - season: 2
+        anilist-id: 21490
   - title: "Naruto"
     synonyms:
       - "Naruto (2002)"
@@ -2636,6 +2672,8 @@ entries:
       - "The Misfit of Demon King Academy: History's Strongest Demon King Reincarnates and Goes to School with His Descendants"
       - "The Unqualified Student at the Demon Lord Academy ~ The Strongest Demon Lord in History, the Founder, Reincarnates and Attends a School With His Descendants ~"
       - "The Unqualified Student of Demon Lord Academy ~The Strongest Demon Lord in History, the Founder, Attends the School of his Descendants After Reincarnation~"
+      - "魔王学院の不適合者 ～史上最強の魔王の始祖、転生して子孫たちの学校へ通う"
+      - "魔王学院の不適合者 ～史上最強の魔王の始祖、転生して子孫たちの学校へ通う～"
     seasons:
       - season: 1
         anilist-id: 112301
@@ -2696,6 +2734,7 @@ entries:
       - "The Way of the Househusband (2021)"
       - "Yakuza goes Hausmann"
       - "Gokushufudou: Tatsu Imortal"
+      - "極主夫道"
     seasons:
       - season: 1
         anilist-id: 125426
@@ -2719,15 +2758,6 @@ entries:
         anilist-id: 10080
       - season: 3
         anilist-id: 16706
-  - title: "Trinity Seven: Eternity Library & Alchemic Girl"
-    synonyms:
-      - "Eternity Library & Alchemic Girl"
-      - "Trinity Seven Movie - Yuukyuu Toshokan to Renkinjutsu Shoujo"
-      - "Trinity Seven : Eternity Library & Alchemic Girl"
-      - "Trinity Seven Movie: Eternity Library to Alchemic Girl 1"
-    seasons:
-      - season: 1
-        anilist-id: 21874
   - title: "To Your Eternity"
     synonyms:
       - "不滅のあなたへ"
@@ -2789,6 +2819,24 @@ entries:
       - season: 1
         anilist-id: 10717
         start: 6
+  - title: "Trinity Seven: Eternity Library & Alchemic Girl"
+    synonyms:
+      - "Eternity Library & Alchemic Girl"
+      - "Trinity Seven Movie - Yuukyuu Toshokan to Renkinjutsu Shoujo"
+      - "Trinity Seven : Eternity Library & Alchemic Girl"
+      - "Trinity Seven Movie: Eternity Library to Alchemic Girl 1"
+    seasons:
+      - season: 1
+        anilist-id: 21874
+  - title: "Tsurune"
+    synonyms:
+      - "Tsurune: Kazemai High School Kyudo Club"
+      - "ツルネ ―風舞高校弓道部―"
+    seasons:
+      - season: 1
+        anilist-id: 100402
+      - season: 2
+        anilist-id: 153841
   - title: "Twin Star Exorcists"
     synonyms:
       - "Twin Star Exorcist"
