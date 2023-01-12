@@ -526,6 +526,9 @@ entries:
         anilist-id: 112124
       - season: 4
         anilist-id: 129196
+      - season: 4
+        anilist-id: 155211
+        start: 12
   - title: "Darker Than Black"
     synonyms:
       - "Darker than Black"
