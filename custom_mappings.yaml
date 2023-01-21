@@ -338,6 +338,21 @@ entries:
     seasons:
       - season: 1
         anilist-id: 97938
+  - title: Bungo Stray Dogs
+    synonyms:
+      - "Bungou Stray Dogs"
+      - "文豪ストレイドッグス"
+    seasons:
+      - season: 1
+        anilist-id: 21311
+        start: 1
+      - season: 2
+        anilist-id: 21679
+        start: 13
+      - season: 3
+        anilist-id: 103223
+      - season: 4
+        anilist-id: 141249
   - title: "By the Grace of the Gods"
     synonyms:
       - "神達に拾われた男"
