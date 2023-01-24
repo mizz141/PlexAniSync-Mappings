@@ -499,6 +499,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 15037
+  - title: "Cross Ange: Rondo of Angel and Dragon"
+    synonyms:
+      - "Cross Ange: Rondo of Angels and Dragons"
+    seasons:
+      - season: 1
+        anilist-id: 20806
   - title: "D-Frag!"
     seasons:
       - season: 1
@@ -866,6 +872,12 @@ entries:
         anilist-id: 106154
       - season: 4
         anilist-id: 117756
+  - title: "Girls Bravo"
+    seasons:
+      - season: 1
+        anilist-id: 241
+      - season: 2
+        anilist-id: 487
   - title: "Girl School.: St. Girls Square Academy"
     synonyms:
       - "Gal-gaku.: Hijiri Girls Square Gakuen"
@@ -1276,6 +1288,14 @@ entries:
         anilist-id: 98314
       - season: 2
         anilist-id: 100876
+  - title: "KanColle"
+    synonyms:
+      - "KanColle: Kantai Collection"
+    seasons:
+      - season: 1
+        anilist-id: 20553
+      - season: 2
+        anilist-id: 21294
   - title: "Kids on the Slope"
     synonyms:
       - "Sakamichi no Apollon"
@@ -2040,6 +2060,12 @@ entries:
      - season: 2
        anilist-id: 102941
        start: 11
+  - title: "Juden Chan"
+    synonyms:
+      - "Charger Girl Juden Chan"
+    seasons:
+      - season: 1
+        anilist-id: 5973
   - title: "Listen to Me, Girls. I'm Your Father!"
     synonyms:
       - "Papa no Iukoto wo Kikinasai!"
@@ -2048,6 +2074,14 @@ entries:
     seasons:
       - season: 1
         anilist-id: 11179 
+  - title: "Million Arthur"
+    synonyms:
+      - "Operation Han-Gyaku-Sei Million Arthur"
+    seasons:
+      - season: 1
+        anilist-id: 101359
+      - season: 2
+        anilist-id: 104071
   - title: "Mobile Suit Gundam: THE WITCH FROM MERCURY"
     synonyms:
       - "Kidou Senshi Gundam: Suisei no Majo"
