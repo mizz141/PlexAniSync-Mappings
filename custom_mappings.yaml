@@ -1292,6 +1292,9 @@ entries:
   - title: "KanColle"
     synonyms:
       - "KanColle: Kantai Collection"
+      - "KanColle: Let's Meet at Sea"
+      - "KanColle - Fleet Girls Collection"
+      - "Kantai Collection: KanColle"
     seasons:
       - season: 1
         anilist-id: 20553
