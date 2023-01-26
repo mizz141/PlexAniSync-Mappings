@@ -1060,6 +1060,15 @@ entries:
         anilist-id: 11061
       - season: 3
         anilist-id: 11061
+  - title: "Hybrid x Heart Magias Academy Ataraxia"
+    synonyms:
+      - "魔装学園H×H"
+      - "Masou Gakuen HxH"
+      - "Masou Gakuen Hybrid x Heart"
+      - "Magias Academy Ataraxia Hybrid × Heart"
+    seasons:
+      - season: 1
+        anilist-id: 21378
   - title: "If Her Flag Breaks"
     synonyms:
       - "Kanojo ga Flag wo Oraretara"
