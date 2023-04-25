@@ -2331,7 +2331,8 @@ entries:
       - season: 2
         anilist-id: 13659
   - title: "Oshi No Ko"
-    synonyms: "[Oshi No Ko] - [Mein*Star]"
+    synonyms: 
+      - "[Oshi No Ko] - [Mein*Star]"
     seasons:
       - season: 1
         anilist-id: 150672
