@@ -2330,7 +2330,8 @@ entries:
         anilist-id: 8769
       - season: 2
         anilist-id: 13659
-  - title: " Oshi No Ko"
+  - title: "Oshi No Ko"
+    synonyms: "[Oshi No Ko] - [Mein*Star]"
     seasons:
       - season: 1
         anilist-id: 150672
@@ -3008,6 +3009,7 @@ entries:
         anilist-id: 139092
   - title: "When They Cry - Higurashi"
     synonyms:
+      - "Higurashi"
       - "Higurashi no Naku Koro ni"
       - "Higurashi - When They Cry"
     seasons:
