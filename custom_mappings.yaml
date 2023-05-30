@@ -1119,6 +1119,15 @@ entries:
         anilist-id: 8841
       - season: 2
         anilist-id: 10790
+  - title: "In Another World With My Smartphone"
+    synonyms:
+      - "Isekai wa Smartphone to Tomo ni."
+      - "異世界はスマートフォンとともに。"
+    seasons:
+      - season: 1
+        anilist-id: 98491
+      - season: 2
+        anilist-id: 147571
   - title: "Initial D"
     seasons:
       - season: 1
@@ -1368,6 +1377,15 @@ entries:
     seasons:
       - season: 1
         anilist-id: 150075
+  - title: "Kuma Kuma Kuma Bear"
+    synonyms:
+      - "くまクマ熊ベアー"
+      - "くま クマ 熊 ベアー"
+    seasons:
+      - season: 1
+        anilist-id: 114340
+      - season: 2
+        anilist-id: 127550
   - title: "Log Horizon"
     seasons:
       - season: 1
@@ -2879,6 +2897,14 @@ entries:
         anilist-id: 114535
       - season: 2
         anilist-id: 138565
+  - title: "TONIKAWA: Over The Moon For You"
+    synonyms:
+      - "トニカクカワイイ"
+    seasons:
+      - season: 1
+        anilist-id: 116267
+      - season: 2
+        anilist-id: 141208
   - title: "Tokyo Twenty Fourth Ward"
     synonyms:
       - "Tokyo 24th Ward"
@@ -2959,6 +2985,15 @@ entries:
     seasons:
       - season: 1
         anilist-id: 21499
+  - title: "Uzaki-chan Wants to Hang Out!"
+    synonyms:
+      - "Uzaki-chan wa Asobitai!"
+      - "宇崎ちゃんは遊びたい！"
+    seasons:
+      - season: 1
+        anilist-id: 115113
+      - season: 2
+        anilist-id: 124395
   - title: "Vampire Knight"
     seasons:
       - season: 1
