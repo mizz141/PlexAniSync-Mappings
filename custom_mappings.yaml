@@ -2430,6 +2430,12 @@ entries:
         anilist-id: 20590
       - season: 2
         anilist-id: 21184
+  - title: "Ranking of Kings: The Treasure Chest of Courage"
+    synonyms:
+      - "Ousama Ranking: Yuuki no Takarabako"
+    seasons:
+      - season: 1
+        anilist-id: 153452
   - title: "Redline"
     seasons:
       - season: 1
