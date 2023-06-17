@@ -2430,6 +2430,12 @@ entries:
         anilist-id: 20590
       - season: 2
         anilist-id: 21184
+  - title: "Ranking of Kings: The Treasure Chest of Courage"
+    synonyms:
+      - "Ousama Ranking: Yuuki no Takarabako"
+    seasons:
+      - season: 1
+        anilist-id: 153452
   - title: "Redline"
     seasons:
       - season: 1
@@ -2447,6 +2453,19 @@ entries:
       - season: 2
         anilist-id: 119661
         start: 14
+  - title: "Record of Ragnarok"
+    synonyms:
+      - "Shuumatsu no Walkure"
+      - "Shuumatsu no Valkyrie"
+      - "Record of Ragnarock"
+    seasons:
+      - season: 1
+        anilist-id: 127399
+      - season: 2
+        anilist-id: 138056
+      - season: 2
+        anilist-id: 165356
+        start: 11
   - title: "Redo of Healer"
     seasons:
       - season: 1
