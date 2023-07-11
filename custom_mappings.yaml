@@ -1,4 +1,4 @@
-entries:
+Fentries:
   - title: "5 Centimeters per Second"
     seasons:
       - season: 1
@@ -2176,6 +2176,9 @@ entries:
         start: 12
       - season: 2
         anilist-id: 146065
+      - season: 2
+        anilist-id: 166873
+        start: 14
   - title: "Muhyo & Roji's Bureau of Supernatural Investigation"
     synonyms:
       - "Muhyo to Roji no Mahouritsu Soudan Jimusho"
