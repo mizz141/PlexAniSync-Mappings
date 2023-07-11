@@ -1,4 +1,14 @@
 entries:
+  - title: " KONOSUBA -An Explosion on This Wonderful World!"
+    synonyms:
+      - "Kono Subarashii Sekai ni Bakuen wo!"
+    seasons:
+      - season: 1
+        anilist-id: 150075
+  - title: "30th GUNDAM PERFECT MISSION"
+    seasons:
+      - season: 1
+        anilist-id: 7113
   - title: "5 Centimeters per Second"
     seasons:
       - season: 1
@@ -16,10 +26,6 @@ entries:
       - season: 1
         anilist-id: 131586
         start: 12
-  - title: "Akebi's Sailor Uniform"
-    seasons:
-      - season: 1
-        anilist-id: 131548
   - title: "A Certain Magical Index"
     synonyms:
       - "Toaru Majutsu no Index"
@@ -46,6 +52,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 20954
+  - title: "After War Gundam X"
+    synonyms:
+      - "Kidou Senshi Seiki Gundam X"
+    seasons:
+      - season: 1
+        anilist-id: 92
   - title: "Ah! My goddess"
     synonyms:
       - "Oh! My Goddess"
@@ -65,12 +77,20 @@ entries:
         anilist-id: 21341
       - season: 2
         anilist-id: 21799
+  - title: "Akai Shouzou: Char, Soshite Frontal e"
+    seasons:
+      - season: 1
+        anilist-id: 14007
   - title: "Akashic Records of Bastard Magical Instructor"
     synonyms:
       - "Akashic Records of Bastard Magical Instructor"
     seasons:
       - season: 1
         anilist-id: 21700
+  - title: "Akebi's Sailor Uniform"
+    seasons:
+      - season: 1
+        anilist-id: 131548
   - title: "Aldnoah.Zero"
     synonyms:
       - "ALDNOAH.ZERO"
@@ -81,6 +101,10 @@ entries:
       - season: 1
         anilist-id: 20853
         start: 13
+  - title: "ALL THAT GUNDAM"
+    seasons:
+      - season: 1
+        anilist-id: 5270
   - title: "AOI SEKAI NO CHUUSHIN DE: World War Blue"
     synonyms:
       - "World War Blue"
@@ -105,6 +129,14 @@ entries:
         anilist-id: 100668
       - season: 2
         anilist-id: 112323
+  - title: "Arpeggio of Blue Steel -Ars Nova Cadenza"
+    synonyms:
+      - "Arpeggio of Blue Steel: Ars Nova - Cadenza"
+      - "Aoki Hagane no Arpeggio: Ars Nova Cadenza"
+      - "Arpeggio of Blue Steel -Ars Nova Cadenza-"
+    seasons:
+      - season: 1
+        anilist-id: 20764
   - title: "Arpeggio of Blue Steel -Ars Nova-"
     synonyms:
       - "Aoki Hagane no Arpeggio"
@@ -114,14 +146,6 @@ entries:
     seasons:
       - season: 1
         anilist-id: 18893
-  - title: "Arpeggio of Blue Steel -Ars Nova Cadenza"
-    synonyms:
-      - "Arpeggio of Blue Steel: Ars Nova - Cadenza"
-      - "Aoki Hagane no Arpeggio: Ars Nova Cadenza"
-      - "Arpeggio of Blue Steel -Ars Nova Cadenza-"
-    seasons:
-      - season: 1
-        anilist-id: 20764
   - title: "Arpeggio of Blue Steel: Ars Nova Movie 1"
     synonyms:
       - "Aoki Hagane no Arpeggio: Ars Nova DC"
@@ -261,14 +285,6 @@ entries:
     seasons:
       - season: 1
         anilist-id: 11285
-  - title: "Blood+"
-    synonyms:
-      - "Blood +"
-      - "blood plus"
-      - "BLOOD+"
-    seasons:
-      - season: 1
-        anilist-id: 150
   - title: "Bleach"
     seasons:
       - season: 1
@@ -316,6 +332,14 @@ entries:
         anilist-id: 20727
       - season: 2
         anilist-id: 97886
+  - title: "Blood+"
+    synonyms:
+      - "Blood +"
+      - "blood plus"
+      - "BLOOD+"
+    seasons:
+      - season: 1
+        anilist-id: 150
   - title: "Blue Exorcist"
     synonyms:
       - "Ao no Exorcist"
@@ -516,6 +540,24 @@ entries:
     seasons:
       - season: 1
         anilist-id: 20031
+  - title: "D.Gray-Man"
+    synonyms:
+      - "D.Gray-man"
+      - "D Gray Man"
+      - "D.Gray-Man"
+    seasons:
+      - season: 1
+        anilist-id: 1482
+      - season: 1
+        anilist-id: 1482
+        start: 52
+  - title: "D.Gray-man HALLOW"
+    synonyms:
+      - "D.Gray-Man Hallow"
+      - "D.Gray-man Hallow"
+    seasons:
+      - season: 1
+        anilist-id: 21558
   - title: "Danganronpa"
     synonyms:
       - "Danganronpa Kibou no Gakuen to Zetsubou no Koukousei The Animation"
@@ -528,17 +570,17 @@ entries:
         anilist-id: 21509
   - title: "Danganronpa 3: The End of Hope's Peak High School - Despair Arc"
     synonyms:
-       - "Danganronpa 3: The End of Kibougamine Gakuen - Zetsubou-hen"
-       - "Danganronpa 3: The End of Hope’s Peak Academy - Despair Arc"
-       - "Danganronpa 3: The End of Hope's Peak Academy - Despair Arc"
-       - "Danganronpa 3: The End of Hope's Peak High School" #TMDB
+      - "Danganronpa 3: The End of Kibougamine Gakuen - Zetsubou-hen"
+      - "Danganronpa 3: The End of Hope’s Peak Academy - Despair Arc"
+      - "Danganronpa 3: The End of Hope's Peak Academy - Despair Arc"
+      - "Danganronpa 3: The End of Hope's Peak High School"  #TMDB
     seasons:
-       - season: 1
-         anilist-id: 21825
+      - season: 1
+        anilist-id: 21825
   - title: "Danganronpa 3: The End of Kibougamine Gakuen - Mirai-hen" #TMDB again
     seasons:
-       - season: 1
-         anilist-id: 21509
+      - season: 1
+        anilist-id: 21509
   - title: "Danmachi: Is It Wrong to Try to Pick Up Girls in a Dungeon?"
     synonyms:
       - "Is It Wrong to Try to Pick Up Girls in a Dungeon?"
@@ -566,24 +608,6 @@ entries:
         anilist-id: 2025
       - season: 2
         anilist-id: 6573
-  - title: "D.Gray-Man"
-    synonyms:
-      - "D.Gray-man"
-      - "D Gray Man"
-      - "D.Gray-Man"
-    seasons:
-      - season: 1
-        anilist-id: 1482
-      - season: 1
-        anilist-id: 1482
-        start: 52
-  - title: "D.Gray-man HALLOW"
-    synonyms:
-      - "D.Gray-Man Hallow"
-      - "D.Gray-man Hallow"
-    seasons:
-      - season: 1
-        anilist-id: 21558
   - title: "Demon Slayer: Kimetsu no Yaiba"
     synonyms:
       - "Demon Slayer"
@@ -600,7 +624,7 @@ entries:
         anilist-id: 145139
   - title: "Devilman Crybaby"
     synonyms:
-     - "DEVILMAN crybaby"
+      - "DEVILMAN crybaby"
     seasons:
       - season: 1
         anilist-id: 98460
@@ -615,7 +639,7 @@ entries:
       - "Please don't bully me, Nagatoro"
       - "Please don't bully me, Nagatoro-san"
       - "Senpai is a bit..."
-      - "Senpai, don't you ever get angry?" 
+      - "Senpai, don't you ever get angry?"
     seasons:
       - season: 1
         anilist-id: 120697
@@ -826,21 +850,6 @@ entries:
     seasons:
       - season: 1
         anilist-id: 137247
-  - title: "Ghost in the Shell: Arise - Alternative Architecture"
-    synonyms:
-      - "Ghost in the Shell Arise : Alternative Architecture"
-      - "Ghost in the Shell: Arise - Alternative Architecture"
-    seasons:
-      - season: 1
-        anilist-id: 21056
-  - title: "Ghost in the Shell Arise - border:1 Ghost Pain"
-    synonyms:
-      - "Ghost in the Shell Arise: Border 1 - Ghost Pain"
-      - "ARISE border : 1 Ghost Pain"
-      - "Ghost in the Shell Arise - Border 1: Ghost Pain"
-    seasons:
-      - season: 1
-        anilist-id: 17187
   - title: "Ghost in the Shell Arise - Border 2: Ghost Whispers"
     synonyms:
       - "Ghost in the Shell Arise - Border 2: Ghost Whisper"
@@ -871,6 +880,21 @@ entries:
 #    seasons:
 #      - season: 1
 #        anilist-id:
+  - title: "Ghost in the Shell Arise - border:1 Ghost Pain"
+    synonyms:
+      - "Ghost in the Shell Arise: Border 1 - Ghost Pain"
+      - "ARISE border : 1 Ghost Pain"
+      - "Ghost in the Shell Arise - Border 1: Ghost Pain"
+    seasons:
+      - season: 1
+        anilist-id: 17187
+  - title: "Ghost in the Shell: Arise - Alternative Architecture"
+    synonyms:
+      - "Ghost in the Shell Arise : Alternative Architecture"
+      - "Ghost in the Shell: Arise - Alternative Architecture"
+    seasons:
+      - season: 1
+        anilist-id: 21056
   - title: "Ghost in the Shell: Stand Alone Complex"
     synonyms:
       - "Ghost in the Shell: S.A.C."
@@ -883,34 +907,6 @@ entries:
         anilist-id: 106154
       - season: 4
         anilist-id: 117756
-  - title: "Girls Bravo"
-    seasons:
-      - season: 1
-        anilist-id: 241
-      - season: 2
-        anilist-id: 487
-  - title: "Girl School.: St. Girls Square Academy"
-    synonyms:
-      - "Gal-gaku.: Hijiri Girls Square Gakuen"
-      - "Girl Gaku. Hijiri Girls Square Gakuin"
-    seasons:
-      - season: 1
-        anilist-id: 116248
-  - title: "Girls' Frontline"
-    synonyms:
-      - "Dollfro: Iyashi Hen"
-      - "DoruFuro: Iyashi-hen"
-    seasons:
-      - season: 1
-        anilist-id: 110521
-      - season: 2
-        anilist-id: 124230
-  - title: "Girls' Frontline (2022)"
-    synonyms:
-      - "Dolls' Frontline"
-    seasons:
-      - season: 1
-        anilist-id: 128828
   - title: "Gintama"
     seasons:
       - season: 1
@@ -936,6 +932,34 @@ entries:
       - season: 10
         anilist-id: 101925
         start: 13
+  - title: "Girl School.: St. Girls Square Academy"
+    synonyms:
+      - "Gal-gaku.: Hijiri Girls Square Gakuen"
+      - "Girl Gaku. Hijiri Girls Square Gakuin"
+    seasons:
+      - season: 1
+        anilist-id: 116248
+  - title: "Girls Bravo"
+    seasons:
+      - season: 1
+        anilist-id: 241
+      - season: 2
+        anilist-id: 487
+  - title: "Girls' Frontline"
+    synonyms:
+      - "Dollfro: Iyashi Hen"
+      - "DoruFuro: Iyashi-hen"
+    seasons:
+      - season: 1
+        anilist-id: 110521
+      - season: 2
+        anilist-id: 124230
+  - title: "Girls' Frontline (2022)"
+    synonyms:
+      - "Dolls' Frontline"
+    seasons:
+      - season: 1
+        anilist-id: 128828
   - title: "Grimgar of Fantasy & Ash"
     synonyms:
       - "Grimgar, Ashes and Illusions"
@@ -943,6 +967,91 @@ entries:
     seasons:
       - season: 1
         anilist-id: 21428
+  - title: "Gundam Breaker Battlogue"
+    seasons:
+      - season: 1
+        anilist-id: 135645
+  - title: "Gundam Build Divers"
+    seasons:
+      - season: 1
+        anilist-id: 101036
+  - title: "Gundam Build Divers Battlogue"
+    seasons:
+      - season: 1
+        anilist-id: 126662
+  - title: "Gundam Build Divers Prologue"
+    seasons:
+      - season: 1
+        anilist-id: 102622
+  - title: "Gundam Build Divers Re:RISE"
+    seasons:
+      - season: 1
+        anilist-id: 110786
+      - season: 2
+        anilist-id: 114233
+  - title: "Gundam Build Fighters"
+    seasons:
+      - season: 1
+        anilist-id: 19319
+  - title: "Gundam Build Fighters Try"
+    seasons:
+      - season: 1
+        anilist-id: 20739
+  - title: "GUNDAM BUILD FIGHTERS TRY: Island Wars"
+    synonyms:
+      - "GUNDAM BUILD FIGHTERS TRY OVA"
+    seasons:
+      - season: 1
+        anilist-id: 21814
+  - title: "Gundam Build Fighters: Battlogue"
+    seasons:
+      - season: 1
+        anilist-id: 99731
+  - title: "Gundam Build Fighters: GM's Counterattack"
+    synonyms:
+      - "Gundam Build Fighters: GM no Gyakushuu"
+    seasons:
+      - season: 1
+        anilist-id: 99732
+  - title: "Gundam EVOLVE"
+    synonyms:
+      - "Mobile Suit Gundam Evolve"
+    seasons:
+      - season: 1
+        anilist-id: 3288
+  - title: "Gundam Neo Experience 0087: Green Divers"
+    synonyms:
+      - "Gundam Neo Experience 0087: Green Divers"
+    seasons:
+      - season: 1
+        anilist-id: 8839
+  - title: "Gundam vs Hello Kitty"
+    seasons:
+      - season: 1
+        anilist-id: 110419
+  - title: "Gundam: G no Reconguista - From the Past to the Future"
+    seasons:
+      - season: 1
+        anilist-id: 102525
+  - title: "Gundam: G no Reconguista III - Uchuu kara no Isan"
+    synonyms:
+      - "G-Reco Movie 3"
+      - "Gundam Reconguista in G 3"
+      - "Gundam Reconguista in G III: Heritage from space"
+    seasons:
+      - season: 1
+        anilist-id: 132324
+  - title: "Gundam: Mission To The Rise"
+    seasons:
+      - season: 1
+        anilist-id: 4540
+  - title: "Gundam: Reconguista in G"
+    synonyms:
+      - "Gundam: G no Reconguista"
+      - "G-Reco"
+    seasons:
+      - season: 1
+        anilist-id: 20658
   - title: "Gunslinger Girl"
     synonyms:
       - "GUNSLINGER GIRL"
@@ -951,10 +1060,6 @@ entries:
         anilist-id: 134
       - season: 2
         anilist-id: 3231
-  - title: "Handyman Saitou in Another World"
-    seasons:
-      - season: 1
-        anilist-id: 144092
   - title: "Haganai: I Don't Have Many Friends"
     seasons:
       - season: 1
@@ -982,24 +1087,28 @@ entries:
         anilist-id: 20521
       - season: 2
         anilist-id: 20711
+  - title: "Handyman Saitou in Another World"
+    seasons:
+      - season: 1
+        anilist-id: 144092
   - title: "Heaven's Lost Property"
     seasons:
       - season: 1
         anilist-id: 5958
       - season: 2
         anilist-id: 8407
-  - title: "Hero Mask"
-    seasons:
-      - season: 1
-        anilist-id: 105096
-      - season: 2
-        anilist-id: 110686
   - title: "Hellsing Ultimate"
     synonyms:
       - "Hellsing OVA"
     seasons:
       - season: 1
         anilist-id: 777
+  - title: "Hero Mask"
+    seasons:
+      - season: 1
+        anilist-id: 105096
+      - season: 2
+        anilist-id: 110686
   - title: "High School DxD"
     synonyms:
       - "HighSchool DxD"
@@ -1083,14 +1192,14 @@ entries:
     seasons:
       - season: 1
         anilist-id: 21378
-  - title: "If Her Flag Breaks"
+  - title: "I Tried Asking While Kowtowing"
     synonyms:
-      - "Kanojo ga Flag wo Oraretara"
-      - "Kanojo ga Flag o Oraretara"
-      - "Gaworare"
+      - "Dogeza de Tanondemita"
+      - "Dogeza"
+      - "I Tried Asking While Kowtowing."
     seasons:
       - season: 1
-        anilist-id: 19685
+        anilist-id: 122137
   - title: "I'm Standing on a Million Lives"
     synonyms:
       - "100-man no Inochi no Ue ni Ore wa Tatteiru"
@@ -1100,28 +1209,14 @@ entries:
         anilist-id: 116242
       - season: 2
         anilist-id: 127366
-  - title: "Is the Order a Rabbit?"
+  - title: "If Her Flag Breaks"
     synonyms:
-      - "Gochuumon wa Usagi Desu ka?"
+      - "Kanojo ga Flag wo Oraretara"
+      - "Kanojo ga Flag o Oraretara"
+      - "Gaworare"
     seasons:
       - season: 1
-        anilist-id: 20517
-      - season: 2
-        anilist-id: 21034
-      - season: 3
-        anilist-id: 104198
-  - title: "Is This A Zombie?"
-    synonyms:
-      - "Kore wa Zombie Desu ka"
-      - "Kore wa Zombie Desu ka?"
-      - "Is This A Zombie"
-      - "Is.This.A.Zombie"
-      - "Kore.wa.Zombie"
-    seasons:
-      - season: 1
-        anilist-id: 8841
-      - season: 2
-        anilist-id: 10790
+        anilist-id: 19685
   - title: "In Another World With My Smartphone"
     synonyms:
       - "Isekai wa Smartphone to Tomo ni."
@@ -1131,6 +1226,13 @@ entries:
         anilist-id: 98491
       - season: 2
         anilist-id: 147571
+  - title: "Inazma Delivery"
+    seasons:
+      - season: 1
+        anilist-id: 102940
+      - season: 2
+        anilist-id: 102941
+        start: 11
   - title: "Initial D"
     seasons:
       - season: 1
@@ -1171,20 +1273,34 @@ entries:
         anilist-id: 249
       - season: 7
         anilist-id: 6811
+  - title: "Is the Order a Rabbit?"
+    synonyms:
+      - "Gochuumon wa Usagi Desu ka?"
+    seasons:
+      - season: 1
+        anilist-id: 20517
+      - season: 2
+        anilist-id: 21034
+      - season: 3
+        anilist-id: 104198
+  - title: "Is This A Zombie?"
+    synonyms:
+      - "Kore wa Zombie Desu ka"
+      - "Kore wa Zombie Desu ka?"
+      - "Is This A Zombie"
+      - "Is.This.A.Zombie"
+      - "Kore.wa.Zombie"
+    seasons:
+      - season: 1
+        anilist-id: 8841
+      - season: 2
+        anilist-id: 10790
   - title: "Isekai Quartet"
     seasons:
       - season: 1
         anilist-id: 104454
       - season: 2
         anilist-id: 110178
-  - title: "I Tried Asking While Kowtowing"
-    synonyms:
-      - "Dogeza de Tanondemita"
-      - "Dogeza"
-      - "I Tried Asking While Kowtowing."
-    seasons:
-      - season: 1
-        anilist-id: 122137
   - title: "Ixion Saga: Dimension Transfer"
     synonyms:
       - "Ixion Saga - Dimension Transfer"
@@ -1200,12 +1316,6 @@ entries:
     seasons:
       - season: 1
         anilist-id: 570
-  - title: "Jormungand"
-    seasons:
-      - season: 1
-        anilist-id: 12413
-      - season: 2
-        anilist-id: 13331
   - title: "JoJo's Bizarre Adventure"
     synonyms:
       - "JoJo's Bizarre Adventure (2012)"
@@ -1226,6 +1336,22 @@ entries:
       - season: 5
         anilist-id: 146722
         start: 13
+  - title: "Jormungand"
+    seasons:
+      - season: 1
+        anilist-id: 12413
+      - season: 2
+        anilist-id: 13331
+  - title: "Juden Chan"
+    synonyms:
+      - "Charger Girl Juden Chan"
+      - "Fight Ippatsu! Juuden-chan!!"
+      - "Fight Ippatsu! Jūden-chan!!"
+      - "Fight, One Shot! Charger Girls!!"
+      - "Charger Girl Ju-den Chan"
+    seasons:
+      - season: 1
+        anilist-id: 5973
   - title: "Jujutsu Kaisen"
     synonyms:
       - "Sorcery Fight"
@@ -1246,7 +1372,7 @@ entries:
       - season: 2
         anilist-id: 20913
   - title: "K: Seven Stories Movie 1 - R:B - Blaze"
-    synonyms: 
+    synonyms:
       - "K SEVEN STORIES Episode 1"
       - "K: Seven Stories Movie 1 - RB - Blaze"
       - "K: SEVEN STORIES R:B - BLAZE"
@@ -1255,7 +1381,7 @@ entries:
       - season: 1
         anilist-id: 21798
   - title: "K: Seven Stories Movie 2 - Side:Blue - Like Sirius"
-    synonyms: 
+    synonyms:
       - "K Seven Stories SIDE:BLUE ~天狼の如く~"
       - "K SEVEN STORIES Episode 2"
       - "K: Seven Stories Movie 2 - Side:Blue - Like Sirius (2018)"
@@ -1263,7 +1389,7 @@ entries:
       - season: 1
         anilist-id: 102346
   - title: "K: Seven Stories Movie 3 - Side:Green - The Overwritten World"
-    synonyms: 
+    synonyms:
       - "K SEVEN STORIES Episode 3"
       - "K: Seven Stories Movie 3: Side: Green"
       - "K Seven Stories SIDE:GREEN ~上書き世界~"
@@ -1272,7 +1398,7 @@ entries:
       - season: 1
         anilist-id: 102347
   - title: "K: Seven Stories Movie 4 - Lost Small World - To the Other Side of the Cage"
-    synonyms: 
+    synonyms:
       - "K SEVEN STORIES Episode 4"
       - "K: Seven Stories Movie 4: Lost Small World"
       - "K Seven Stories Lost Small World ~檻の向こうに~"
@@ -1281,7 +1407,7 @@ entries:
       - season: 1
         anilist-id: 102348
   - title: "K: Seven Stories Movie 5 - Memory of Red - Burn"
-    synonyms: 
+    synonyms:
       - "K SEVEN STORIES Episode 5"
       - "K Seven Stories メモリー・オブ・レッド ~BURN~"
       - "K: Seven Stories Movie 5 - Memory of Red - Burn (2018)"
@@ -1289,7 +1415,7 @@ entries:
       - season: 1
         anilist-id: 102349
   - title: "K: Seven Stories Movie 6 - Circle Vision - Nameless Song"
-    synonyms: 
+    synonyms:
       - "K SEVEN STORIES Episode 6"
       - "K Seven Stories Circle Vision ~Nameless Song~"
       - "K: Seven Stories Movie 6: Circle Vision"
@@ -1341,6 +1467,30 @@ entries:
         anilist-id: 20553
       - season: 2
         anilist-id: 21294
+  - title: "Kidou Senshi Gundam AGE: Memory of Eden"
+    seasons:
+      - season: 1
+        anilist-id: 17655
+  - title: "Kidou Senshi Gundam Battlefield Record: Avant-Title"
+    synonyms:
+      - "Kidou Senshi Gundam Senki: Avant Title"
+    seasons:
+      - season: 1
+        anilist-id: 18449
+  - title: "Kidou Senshi Gundam G40"
+    seasons:
+      - season: 1
+        anilist-id: 114841
+  - title: "Kidou Senshi Gundam UC Perfectibility"
+    seasons:
+      - season: 1
+        anilist-id: 112451
+  - title: "Kidou Senshi Gundam: Cucuruz Doan no Shima"
+    synonyms:
+      - "MOBILE SUIT GUNDAM Cucuruz Doan's Island"
+    seasons:
+      - season: 1
+        anilist-id: 139273
   - title: "Kids on the Slope"
     synonyms:
       - "Sakamichi no Apollon"
@@ -1383,12 +1533,6 @@ entries:
         anilist-id: 133965
       - season: 2
         anilist-id: 142984
-  - title: " KONOSUBA -An Explosion on This Wonderful World!"
-    synonyms:
-      - "Kono Subarashii Sekai ni Bakuen wo!"
-    seasons:
-      - season: 1
-        anilist-id: 150075
   - title: "Kuma Kuma Kuma Bear"
     synonyms:
       - "くまクマ熊ベアー"
@@ -1398,6 +1542,14 @@ entries:
         anilist-id: 114340
       - season: 2
         anilist-id: 127550
+  - title: "Listen to Me, Girls. I'm Your Father!"
+    synonyms:
+      - "Papa no Iukoto wo Kikinasai!"
+      - "Listen to Me, Girls, I'm Your Father!"
+      - "Papakiki, Listen to Me, Girls, I'm Your Father!"
+    seasons:
+      - season: 1
+        anilist-id: 11179
   - title: "Log Horizon"
     seasons:
       - season: 1
@@ -1432,15 +1584,18 @@ entries:
         anilist-id: 97986
       - season: 2
         anilist-id: 114745
-  - title: "March Comes in Like a Lion"
+  - title: "Magi: Adventure of Sinbad"
     synonyms:
-      - "Sangatsu no Lion"
-      - "3-gatsu no Lion"
+      - "Magi: Sinbad no Bouken"
     seasons:
       - season: 1
-        anilist-id: 21366
+        anilist-id: 21394
+  - title: "Magi: The Labyrinth of Magic"
+    seasons:
+      - season: 1
+        anilist-id: 14513
       - season: 2
-        anilist-id: 98478
+        anilist-id: 18115
   - title: "Magia Record: Puella Magi Madoka Magica Side Story"
     synonyms:
       - "Magia Record: Mahou Shoujo Madoka Magica Gaiden"
@@ -1452,6 +1607,10 @@ entries:
         anilist-id: 117002
       - season: 3
         anilist-id: 136080
+  - title: "Magic Tree House"
+    seasons:
+      - season: 1
+        anilist-id: 10690
   - title: "Magical Girl Lyrical Nanoha"
     synonyms:
       - "Zaubermädchen Nanoha"
@@ -1467,22 +1626,15 @@ entries:
         anilist-id: 20820
       - season: 5
         anilist-id: 21871
-  - title: "Magi: Adventure of Sinbad"
+  - title: "March Comes in Like a Lion"
     synonyms:
-      - "Magi: Sinbad no Bouken"
+      - "Sangatsu no Lion"
+      - "3-gatsu no Lion"
     seasons:
       - season: 1
-        anilist-id: 21394
-  - title: "Magi: The Labyrinth of Magic"
-    seasons:
-      - season: 1
-        anilist-id: 14513
+        anilist-id: 21366
       - season: 2
-        anilist-id: 18115
-  - title: "Magic Tree House"
-    seasons:
-      - season: 1
-        anilist-id: 10690
+        anilist-id: 98478
   - title: "Medaka Box"
     seasons:
       - season: 1
@@ -1506,15 +1658,16 @@ entries:
     seasons:
       - season: 1
         anilist-id: 4087
-  - title: "Miss Morita is Taciturn"
+  - title: "Million Arthur"
     synonyms:
-      - "Morita-san wa Mukuchi."
-      - "Morita-san wa Mukuchi"
+      - "Operation Han-Gyaku-Sei Million Arthur"
+      - "Han-Gyaku-Sei Million Arthur"
+      - "Hangyakusei Million Arthur"
     seasons:
       - season: 1
-        anilist-id: 10671
+        anilist-id: 101359
       - season: 2
-        anilist-id: 11615
+        anilist-id: 104071
   - title: "Miss Kobayashi's Dragon Maid"
     synonyms:
       - "Kobayashi-san Chi no Maid Dragon"
@@ -1531,6 +1684,394 @@ entries:
     seasons:
       - season: 1
         anilist-id: 136428
+  - title: "Miss Morita is Taciturn"
+    synonyms:
+      - "Morita-san wa Mukuchi."
+      - "Morita-san wa Mukuchi"
+    seasons:
+      - season: 1
+        anilist-id: 10671
+      - season: 2
+        anilist-id: 11615
+  - title: "Mob Psycho 100"
+    seasons:
+      - season: 1
+        anilist-id: 21507
+      - season: 2
+        anilist-id: 101338
+      - season: 3
+        anilist-id: 140439
+  - title: "Mobile Fighter G Gundam"
+    synonyms:
+      - "Kidou Butouden G Gundam"
+    seasons:
+      - season: 1
+        anilist-id: 96
+  - title: "Mobile Suit Gakuen: G-Reco Koushien"
+    seasons:
+      - season: 1
+        anilist-id: 112449
+      - season: 2
+        anilist-id: 114760
+  - title: "Mobile Suit Gundam"
+    synonyms:
+      - "Kidou Senshi Gundam"
+    seasons:
+      - season: 1
+        anilist-id: 80
+  - title: "Mobile Suit Gundam 00"
+    synonyms:
+      - "Kidou Senshi Gundam 00"
+    seasons:
+      - season: 1
+        anilist-id: 2581
+      - season: 2
+        anilist-id: 3927
+  - title: "Mobile Suit Gundam 0080: War in the Pocket"
+    synonyms:
+      - "Kidou Senshi Gundam 0080: Pocket no Naka no Sensou"
+    seasons:
+      - season: 1
+        anilist-id: 82
+  - title: "Mobile Suit Gundam 0083: Stardust Memory"
+    synonyms:
+      - "Kidou Senshi Gundam 0083: Stardust Memory"
+    seasons:
+      - season: 1
+        anilist-id: 84
+  - title: "Mobile Suit Gundam 0083: Stardust Memory - Mayfly of Space"
+    synonyms:
+      - "Kidou Senshi Gundam 0083: Stardust Memory - Uchuu no Kagerou"
+    seasons:
+      - season: 1
+        anilist-id: 10581
+  - title: "Mobile Suit Gundam 0083: Stardust Memory - Mayfly of Space 2"
+    synonyms:
+      - "Kidou Senshi Gundam 0083: Stardust Memory - Uchuu no Kagerou 2"
+    seasons:
+      - season: 1
+        anilist-id: 110332
+  - title: "Mobile Suit Gundam 0083: The Afterglow Of Zeon"
+    synonyms:
+      - "Kidou Senshi Gundam 0083 - Zeon no Zankou -"
+    seasons:
+      - season: 1
+        anilist-id: 2695
+  - title: "Mobile Suit Gundam AGE"
+    synonyms:
+      - "Kidou Senshi Gundam AGE"
+    seasons:
+      - season: 1
+        anilist-id: 10808
+  - title: "Mobile Suit Gundam F91"
+    synonyms:
+      - "Kidou Senshi Gundam F91"
+    seasons:
+      - season: 1
+        anilist-id: 88
+  - title: "Mobile Suit Gundam I"
+    synonyms:
+      - "Kidou Senshi Gundam I"
+    seasons:
+      - season: 1
+        anilist-id: 1090
+  - title: "Mobile Suit Gundam II: Soldiers of Sorrow"
+    synonyms:
+      - "Kidou Senshi Gundam II: Ai Senshi-hen"
+    seasons:
+      - season: 1
+        anilist-id: 1091
+  - title: "Mobile Suit Gundam III: Encounters in Space"
+    synonyms:
+      - "Kidou Senshi Gundam III: Meguriai Sora-hen"
+    seasons:
+      - season: 1
+        anilist-id: 1092
+  - title: "Mobile Suit Gundam Iron Blooded Orphans"
+    synonyms:
+      - "Gundam IBO"
+      - "G-Tekketsu"
+      - "Kidou Senshi Gundam: Tekketsu no Orphans"
+    seasons:
+      - season: 1
+        anilist-id: 21268
+      - season: 2
+        anilist-id: 21749
+  - title: "Mobile Suit Gundam Mini Seed Gundam Seed Character Theater"
+    synonyms:
+      - "Kidou Senshi Gundam SEED: Seed Supernova - Tanekyara Gekijo"
+    seasons:
+      - season: 1
+        anilist-id: 2743
+  - title: "Mobile Suit Gundam MS IGLOO 2: Gravity of the Battlefront"
+    synonyms:
+      - "Kidou Senshi Gundam MS IGLOO 2: Juuryoku Sensen"
+    seasons:
+      - season: 1
+        anilist-id: 4232
+  - title: "Mobile Suit Gundam MS IGLOO: Apocalypse 0079"
+    synonyms:
+      - "Kidou Senshi Gundam MS IGLOO: Mokushiroku 0079"
+    seasons:
+      - season: 1
+        anilist-id: 1916
+  - title: "Mobile Suit Gundam MS IGLOO: The Hidden One Year War"
+    synonyms:
+      - "Kidou Senshi Gundam MS IGLOO: Ichinen Sensou Hiwa"
+    seasons:
+      - season: 1
+        anilist-id: 1917
+  - title: "Mobile Suit Gundam Narrative"
+    synonyms:
+      - "Kidou Senshi Gundam NT"
+    seasons:
+      - season: 1
+        anilist-id: 101554
+  - title: "Mobile Suit Gundam Seed"
+    synonyms:
+      - "Kidou Senshi Gundam SEED"
+    seasons:
+      - season: 1
+        anilist-id: 93
+      - season: 2
+        anilist-id: 94
+  - title: "Mobile Suit Gundam Seed C.E.73: Stargazer"
+    synonyms:
+      - "Kidou Senshi Gundam SEED C.E.73: Stargazer"
+    seasons:
+      - season: 1
+        anilist-id: 1215
+  - title: "Mobile Suit Gundam Seed Destiny Final Plus: The Chosen Future"
+    synonyms:
+      - "Kidou Senshi Gundam SEED Destiny Final Plus: Eraba Reta Mirai"
+    seasons:
+      - season: 1
+        anilist-id: 1241
+  - title: "Mobile Suit Gundam Seed Destiny Final Plus: The Chosen Future"
+    synonyms:
+      - "Kidou Senshi Gundam SEED Destiny Final Plus: Eraba Reta Mirai"
+    seasons:
+      - season: 1
+        anilist-id: 1241
+  - title: "Mobile Suit Gundam Seed Destiny Special Edition"
+    synonyms:
+      - "Kidou Senshi Gundam SEED Destiny Special Edition"
+    seasons:
+      - season: 1
+        anilist-id: 2294
+  - title: "Mobile Suit Gundam Seed MSV Astray"
+    synonyms:
+      - "Kidou Senshi Gundam SEED MSV ASTRAY"
+    seasons:
+      - season: 1
+        anilist-id: 864
+  - title: "Mobile Suit Gundam Seed Special Edition"
+    synonyms:
+      - "Kidou Senshi Gundam SEED Special Edition"
+    seasons:
+      - season: 1
+        anilist-id: 2269
+  - title: "Mobile Suit Gundam Seed: After-Phase Between the Stars"
+    synonyms:
+      - "Kidou Senshi Gundam SEED: Hoshi no Hazama de"
+    seasons:
+      - season: 1
+        anilist-id: 2298
+  - title: "Mobile Suit Gundam The Origin"
+    synonyms:
+      - "Kidou Senshi Gundam THE ORIGIN"
+    seasons:
+      - season: 1
+        anilist-id: 10937
+  - title: "Mobile Suit Gundam The Origin - Advent of the Red Comet"
+    synonyms:
+      - "Kidou Senshi Gundam The Origin - Zenya Akai Suisei"
+    seasons:
+      - season: 1
+        anilist-id: 108039
+  - title: "Mobile Suit Gundam Thunderbolt"
+    synonyms:
+      - "Kidou Senshi Gundam Thunderbolt"
+    seasons:
+      - season: 1
+        anilist-id: 21458
+      - season: 2
+        anilist-id: 97853
+  - title: "Mobile Suit Gundam Thunderbolt: Bandit Flower"
+    synonyms:
+      - "Kidou Senshi Gundam Thunderbolt: Bandit Flower"
+    seasons:
+      - season: 1
+        anilist-id: 99547
+  - title: "Mobile Suit Gundam Thunderbolt: December Sky"
+    synonyms:
+      - "Kidou Senshi Gundam Thunderbolt: December Sky"
+    seasons:
+      - season: 1
+        anilist-id: 21893
+  - title: "Mobile Suit Gundam Turn A"
+    synonyms:
+      - "Turn A Gundam"
+      - "∀ Gundam"
+    seasons:
+      - season: 1
+        anilist-id: 95
+  - title: "Mobile Suit Gundam UC"
+    synonyms:
+      - "Mobile Suit Gundam Unicorn"
+      - "Kidou Senshi Gundam UC"
+      - "Kidou Senshi Gundam Unicorn"
+    seasons:
+      - season: 1
+        anilist-id: 6336
+  - title: "Mobile Suit Gundam UC: Episode EX - Hyakunen no Kodoku"
+    seasons:
+      - season: 1
+        anilist-id: 112450
+  - title: "Mobile Suit Gundam UC: One of Seventy Two"
+    synonyms:
+      - "Kidou Senshi Gundam UC: One of Seventy Two"
+    seasons:
+      - season: 1
+        anilist-id: 20707
+  - title: "MOBILE SUIT GUNDAM UNICORN RE:0096"
+    synonyms:
+      - "Kidou Senshi Gundam Unicorn RE: 0096"
+    seasons:
+      - season: 1
+        anilist-id: 21658
+  - title: "Mobile Suit Gundam Wing"
+    synonyms:
+      - "Shin Kidou Senki Gundam W"
+      - "New Mobile Report Gundam Wing"
+    seasons:
+      - season: 1
+        anilist-id: 90
+      - season: 2
+        anilist-id: 91
+  - title: "Mobile Suit Gundam Wing: Endless Waltz"
+    synonyms:
+      - "Shin Kidou Senki Gundam W: Endless Waltz Special Edition"
+    seasons:
+      - season: 1
+        anilist-id: 2273
+  - title: "Mobile Suit Gundam Wing: Operation Meteor"
+    synonyms:
+      - "Shin Kidou Senki Gundam Wing: Operation Meteor"
+      - "Gundam Wing: Odd & Even Numbers"
+      - "Gundam Wing: Operation Meteor"
+      - "New Mobile Report Gundam Wing: Operation Meteor"
+    seasons:
+      - season: 1
+        anilist-id: 3626
+  - title: "Mobile Suit Gundam ZZ"
+    synonyms:
+      - "Kidou Senshi Gundam ZZ"
+    seasons:
+      - season: 1
+        anilist-id: 86
+  - title: "Mobile Suit Gundam ZZ: GUNDAM FRAG"
+    synonyms:
+      - "Kidou Senshi Gundam ZZ: GUNDAM FRAG"
+    seasons:
+      - season: 1
+        anilist-id: 9708
+  - title: "Mobile Suit Gundam: Char's Counterattack"
+    synonyms:
+      - "Kidou Senshi Gundam: Gyakushuu no Char"
+    seasons:
+      - season: 1
+        anilist-id: 87
+  - title: "Mobile Suit Gundam: Hathaway's Flash"
+    synonyms:
+      - "Mobile Suit Gundam Hathaway"
+      - "Kidou Senshi Gundam: Senkou no Hathaway"
+    seasons:
+      - season: 1
+        anilist-id: 105595
+  - title: "Mobile Suit Gundam: More Information on the Universal Century"
+    synonyms:
+      - "Uchuu Seiki Yowa"
+    seasons:
+      - season: 1
+        anilist-id: 5723
+  - title: "Mobile Suit Gundam: The 08th MS Team"
+    synonyms:
+      - "Kidou Senshi Gundam: Dai 08 MS Shotai"
+    seasons:
+      - season: 1
+        anilist-id: 81
+  - title: "Mobile Suit Gundam: The 08th MS Team - Battle in Three Dimensions"
+    synonyms:
+      - "Kidou Senshi Gundam: Dai 08 MS Shotai - Sanjigen to no Tatakai"
+    seasons:
+      - season: 1
+        anilist-id: 17717
+  - title: "Mobile Suit Gundam: The 08th MS Team - Miller's Report"
+    synonyms:
+      - "Kidou Senshi Gundam: Dai 08 MS SHotai - Miller's Report"
+    seasons:
+      - season: 1
+        anilist-id: 83
+  - title: "Mobile Suit Gundam: The Light of Life Chronicle U.C."
+    synonyms:
+      - "Kidou Senshi Gundam: Hikaru Inochi Chronicle U.C. "
+    seasons:
+      - season: 1
+        anilist-id: 113138
+  - title: "Mobile Suit Gundam: THE WITCH FROM MERCURY"
+    synonyms:
+      - "Kidou Senshi Gundam: Suisei no Majo"
+    seasons:
+      - season: 1
+        anilist-id: 139274
+      - season: 1
+        anilist-id: 155158
+        start: 13
+  - title: "MOBILE SUIT GUNDAM: Twilight AXIS"
+    synonyms:
+      - "Kidou Senshi Gundam: Twilight Axis"
+    seasons:
+      - season: 1
+        anilist-id: 98504
+  - title: "Mobile Suit Gundam: Twilight Axis - Red Blur"
+    synonyms:
+      - "Kidou Senshi Gundam: Twilight Axis - Akaki Zanei"
+    seasons:
+      - season: 1
+        anilist-id: 104557
+  - title: "Mobile Suit Victory Gundam"
+    synonyms:
+      - "Kidou Senshi Victory Gundam"
+    seasons:
+      - season: 1
+        anilist-id: 89
+  - title: "Mobile Suit Zeta Gundam"
+    synonyms:
+      - "Kidou Senshi Zeta Gundam"
+    seasons:
+      - season: 1
+        anilist-id: 85
+  - title: "Mobile Suit Zeta Gundam: A New Translation I - Heir to the Stars"
+    synonyms:
+      - "Kidou Senshi Z Gundam: A New Translation - Hoshi wo Tsugu Mono"
+    seasons:
+      - season: 1
+        anilist-id: 1967
+  - title: "Mobile Suit Zeta Gundam: A New Translation II - Lovers"
+    synonyms:
+      - "Kidou Senshi Z Gundam: A New Translation II - Koibito-tachi"
+      - "Kidou Senshi Z Gundam II: Koibito-tachi"
+      - "Kido Senshi Z Gundam II - Koibito Tachi"
+    seasons:
+      - season: 1
+        anilist-id: 1968
+  - title: "Mobile Suit Zeta Gundam: A New Translation III - Love Is the Pulse of the Stars"
+    synonyms:
+      - "Kidou Senshi Z Gundam: A New Translation III - Hoshi no Kodou wa Ai"
+    seasons:
+      - season: 1
+        anilist-id: 1969
   - title: "Monogatari"
     seasons:
       - season: 1
@@ -1568,601 +2109,14 @@ entries:
 #      - season: 0
 #        anilist-id: 100815
 #        start: 33
-  - title: "Mob Psycho 100"
+  - title: "Muhyo & Roji's Bureau of Supernatural Investigation"
+    synonyms:
+      - "Muhyo to Roji no Mahouritsu Soudan Jimusho"
     seasons:
       - season: 1
-        anilist-id: 21507
+        anilist-id: 101340
       - season: 2
-        anilist-id: 101338
-      - season: 3
-        anilist-id: 140439
-  - title: "Mobile Suit Gundam 00"
-    synonyms:
-      - "Kidou Senshi Gundam 00"
-    seasons:
-      - season: 1
-        anilist-id: 2581
-      - season: 2
-        anilist-id: 3927
-  - title: "Mobile Suit Gundam The Origin"
-    synonyms:
-      - "Kidou Senshi Gundam THE ORIGIN"
-    seasons:
-      - season: 1
-        anilist-id: 10937
-  - title: "Mobile Suit Gundam The Origin - Advent of the Red Comet"
-    synonyms:
-      - "Kidou Senshi Gundam The Origin - Zenya Akai Suisei"
-    seasons:
-      - season: 1
-        anilist-id: 108039
-  - title: "Mobile Suit Gundam"
-    synonyms:
-      - "Kidou Senshi Gundam"
-    seasons:
-      - season: 1
-        anilist-id: 80
-  - title: "Mobile Suit Gundam I"
-    synonyms:
-      - "Kidou Senshi Gundam I"
-    seasons:
-      - season: 1
-        anilist-id: 1090
-  - title: "Mobile Suit Gundam II: Soldiers of Sorrow"
-    synonyms:
-      - "Kidou Senshi Gundam II: Ai Senshi-hen"
-    seasons:
-      - season: 1
-        anilist-id: 1091
-  - title: "Mobile Suit Gundam III: Encounters in Space"
-    synonyms:
-      - "Kidou Senshi Gundam III: Meguriai Sora-hen"
-    seasons:
-      - season: 1
-        anilist-id: 1092
-  - title: "Mobile Suit Gundam Thunderbolt"
-    synonyms:
-      - "Kidou Senshi Gundam Thunderbolt"
-    seasons:
-      - season: 1
-        anilist-id: 21458
-      - season: 2
-        anilist-id: 97853
-  - title: "Mobile Suit Gundam Thunderbolt: December Sky"
-    synonyms:
-      - "Kidou Senshi Gundam Thunderbolt: December Sky"
-    seasons:
-      - season: 1
-        anilist-id: 21893
-  - title: "Mobile Suit Gundam Thunderbolt: Bandit Flower"
-    synonyms:
-      - "Kidou Senshi Gundam Thunderbolt: Bandit Flower"
-    seasons:
-      - season: 1
-        anilist-id: 99547
-  - title: "Mobile Suit Gundam: The 08th MS Team"
-    synonyms:
-      - "Kidou Senshi Gundam: Dai 08 MS Shotai"
-    seasons:
-      - season: 1
-        anilist-id: 81
-  - title: "Mobile Suit Gundam: The 08th MS Team - Miller's Report"
-    synonyms:
-      - "Kidou Senshi Gundam: Dai 08 MS SHotai - Miller's Report"
-    seasons:
-      - season: 1
-        anilist-id: 83
-  - title: "Mobile Suit Gundam: The 08th MS Team - Battle in Three Dimensions"
-    synonyms:
-      - "Kidou Senshi Gundam: Dai 08 MS Shotai - Sanjigen to no Tatakai"
-    seasons:
-      - season: 1
-        anilist-id: 17717
-  - title: "Mobile Suit Gundam: More Information on the Universal Century"
-    synonyms:
-      - "Uchuu Seiki Yowa"
-    seasons:
-      - season: 1
-        anilist-id: 5723
-  - title: "30th GUNDAM PERFECT MISSION"
-    seasons:
-      - season: 1
-        anilist-id: 7113
-  - title: "Mobile Suit Gundam MS IGLOO: The Hidden One Year War"
-    synonyms:
-      - "Kidou Senshi Gundam MS IGLOO: Ichinen Sensou Hiwa"
-    seasons:
-      - season: 1
-        anilist-id: 1917
-  - title: "Mobile Suit Gundam MS IGLOO: Apocalypse 0079"
-    synonyms:
-      - "Kidou Senshi Gundam MS IGLOO: Mokushiroku 0079"
-    seasons:
-      - season: 1
-        anilist-id: 1916
-  - title: "Mobile Suit Gundam MS IGLOO 2: Gravity of the Battlefront"
-    synonyms:
-      - "Kidou Senshi Gundam MS IGLOO 2: Juuryoku Sensen"
-    seasons:
-      - season: 1
-        anilist-id: 4232
-  - title: "Mobile Suit Gundam 0080: War in the Pocket"
-    synonyms:
-      - "Kidou Senshi Gundam 0080: Pocket no Naka no Sensou"
-    seasons:
-      - season: 1
-        anilist-id: 82
-  - title: "ALL THAT GUNDAM"
-    seasons:
-      - season: 1
-        anilist-id: 5270
-  - title: "Kidou Senshi Gundam Battlefield Record: Avant-Title"
-    synonyms:
-      - "Kidou Senshi Gundam Senki: Avant Title"
-    seasons:
-      - season: 1
-        anilist-id: 18449
-  - title: "Gundam EVOLVE"
-    synonyms:
-      - "Mobile Suit Gundam Evolve"
-    seasons:
-      - season: 1
-        anilist-id: 3288
-  - title: "Gundam: Mission To The Rise"
-    seasons:
-      - season: 1
-        anilist-id: 4540
-  - title: "Kidou Senshi Gundam G40"
-    seasons:
-      - season: 1
-        anilist-id: 114841
-  - title: "Ring of Gundam"
-    seasons:
-      - season: 1
-        anilist-id: 7060
-  - title: "Rent A Girlfriend"
-    synonyms:
-      - "Kanojo, Okarishimasu"
-      - "彼女、お借りします"
-    seasons:
-      - season: 1
-        anilist-id: 113813
-      - season: 2
-        anilist-id: 124410
-      - season: 3
-        anilist-id: 154745
-  - title: "Kidou Senshi Gundam: Cucuruz Doan no Shima"
-    synonyms:
-      - "MOBILE SUIT GUNDAM Cucuruz Doan's Island"
-    seasons:
-      - season: 1
-        anilist-id: 139273
-  - title: "Mobile Suit Gundam 0083: Stardust Memory"
-    synonyms:
-      - "Kidou Senshi Gundam 0083: Stardust Memory"
-    seasons:
-      - season: 1
-        anilist-id: 84
-  - title: "Mobile Suit Gundam 0083: The Afterglow Of Zeon"
-    synonyms:
-      - "Kidou Senshi Gundam 0083 - Zeon no Zankou -"
-    seasons:
-      - season: 1
-        anilist-id: 2695
-  - title: "Mobile Suit Gundam 0083: Stardust Memory - Mayfly of Space"
-    synonyms:
-      - "Kidou Senshi Gundam 0083: Stardust Memory - Uchuu no Kagerou"
-    seasons:
-      - season: 1
-        anilist-id: 10581
-  - title: "Mobile Suit Gundam 0083: Stardust Memory - Mayfly of Space 2"
-    synonyms:
-      - "Kidou Senshi Gundam 0083: Stardust Memory - Uchuu no Kagerou 2"
-    seasons:
-      - season: 1
-        anilist-id: 110332
-  - title: "Mobile Suit Zeta Gundam"
-    synonyms:
-      - "Kidou Senshi Zeta Gundam"
-    seasons:
-      - season: 1
-        anilist-id: 85
-  - title: "Mobile Suit Zeta Gundam: A New Translation I - Heir to the Stars"
-    synonyms:
-      - "Kidou Senshi Z Gundam: A New Translation - Hoshi wo Tsugu Mono"
-    seasons:
-      - season: 1
-        anilist-id: 1967
-  - title: "Mobile Suit Zeta Gundam: A New Translation II - Lovers"
-    synonyms:
-      - "Kidou Senshi Z Gundam: A New Translation II - Koibito-tachi"
-      - "Kidou Senshi Z Gundam II: Koibito-tachi"
-      - "Kido Senshi Z Gundam II - Koibito Tachi"
-    seasons:
-      - season: 1
-        anilist-id: 1968
-  - title: "Mobile Suit Zeta Gundam: A New Translation III - Love Is the Pulse of the Stars"
-    synonyms:
-      - "Kidou Senshi Z Gundam: A New Translation III - Hoshi no Kodou wa Ai"
-    seasons:
-      - season: 1
-        anilist-id: 1969
-  - title: "Gundam Neo Experience 0087: Green Divers"
-    synonyms:
-      - "Gundam Neo Experience 0087: Green Divers"
-    seasons:
-      - season: 1
-        anilist-id: 8839
-  - title: "Mobile Suit Gundam ZZ"
-    synonyms:
-      - "Kidou Senshi Gundam ZZ"
-    seasons:
-      - season: 1
-        anilist-id: 86
-  - title: "Mobile Suit Gundam ZZ: GUNDAM FRAG"
-    synonyms:
-      - "Kidou Senshi Gundam ZZ: GUNDAM FRAG"
-    seasons:
-      - season: 1
-        anilist-id: 9708
-  - title: "Mobile Suit Gundam: Char's Counterattack"
-    synonyms:
-      - "Kidou Senshi Gundam: Gyakushuu no Char"
-    seasons:
-      - season: 1
-        anilist-id: 87
-  - title: "Akai Shouzou: Char, Soshite Frontal e"
-    seasons:
-      - season: 1
-        anilist-id: 14007
-  - title: "Mobile Suit Gundam UC"
-    synonyms:
-      - "Mobile Suit Gundam Unicorn"
-      - "Kidou Senshi Gundam UC"
-      - "Kidou Senshi Gundam Unicorn"
-    seasons:
-      - season: 1
-        anilist-id: 6336
-  - title: "MOBILE SUIT GUNDAM UNICORN RE:0096"
-    synonyms:
-      - "Kidou Senshi Gundam Unicorn RE: 0096"
-    seasons:
-      - season: 1
-        anilist-id: 21658
-  - title: "MOBILE SUIT GUNDAM: Twilight AXIS"
-    synonyms:
-      - "Kidou Senshi Gundam: Twilight Axis"
-    seasons:
-      - season: 1
-        anilist-id: 98504
-  - title: "Mobile Suit Gundam: Twilight Axis - Red Blur"
-    synonyms:
-      - "Kidou Senshi Gundam: Twilight Axis - Akaki Zanei"
-    seasons:
-      - season: 1
-        anilist-id: 104557
-  - title: "Mobile Suit Gundam Narrative"
-    synonyms:
-      - "Kidou Senshi Gundam NT"
-    seasons:
-      - season: 1
-        anilist-id: 101554
-  - title: "Mobile Suit Gundam: Hathaway's Flash"
-    synonyms:
-      - "Mobile Suit Gundam Hathaway"
-      - "Kidou Senshi Gundam: Senkou no Hathaway"
-    seasons:
-      - season: 1
-        anilist-id: 105595
-  - title: "Mobile Suit Gundam F91"
-    synonyms:
-      - "Kidou Senshi Gundam F91"
-    seasons:
-      - season: 1
-        anilist-id: 88
-  - title: "Mobile Suit Victory Gundam"
-    synonyms:
-      - "Kidou Senshi Victory Gundam"
-    seasons:
-      - season: 1
-        anilist-id: 89
-  - title: "Kidou Senshi Gundam UC Perfectibility"
-    seasons:
-      - season: 1
-        anilist-id: 112451
-  - title: "Mobile Suit Gundam UC: One of Seventy Two"
-    synonyms:
-      - "Kidou Senshi Gundam UC: One of Seventy Two"
-    seasons:
-      - season: 1
-        anilist-id: 20707
-  - title: "Mobile Suit Gundam Iron Blooded Orphans"
-    synonyms:
-      - "Gundam IBO"
-      - "G-Tekketsu"
-      - "Kidou Senshi Gundam: Tekketsu no Orphans"
-    seasons:
-      - season: 1
-        anilist-id: 21268
-      - season: 2
-        anilist-id: 21749
-  - title: "Mobile Suit Gundam Seed"
-    synonyms:
-      - "Kidou Senshi Gundam SEED"
-    seasons:
-      - season: 1
-        anilist-id: 93
-      - season: 2
-        anilist-id: 94
-  - title: "Mobile Suit Gundam Seed: After-Phase Between the Stars"
-    synonyms:
-      - "Kidou Senshi Gundam SEED: Hoshi no Hazama de"
-    seasons:
-      - season: 1
-        anilist-id: 2298
-  - title: "Mobile Suit Gundam Seed Destiny Final Plus: The Chosen Future"
-    synonyms:
-      - "Kidou Senshi Gundam SEED Destiny Final Plus: Eraba Reta Mirai"
-    seasons:
-      - season: 1
-        anilist-id: 1241
-  - title: "Mobile Suit Gundam Seed C.E.73: Stargazer"
-    synonyms:
-      - "Kidou Senshi Gundam SEED C.E.73: Stargazer"
-    seasons:
-      - season: 1
-        anilist-id: 1215
-  - title: "Mobile Suit Gundam Seed MSV Astray"
-    synonyms:
-      - "Kidou Senshi Gundam SEED MSV ASTRAY"
-    seasons:
-      - season: 1
-        anilist-id: 864
-  - title: "Mobile Suit Gundam Seed Special Edition"
-    synonyms:
-      - "Kidou Senshi Gundam SEED Special Edition"
-    seasons:
-      - season: 1
-        anilist-id: 2269
-  - title: "Mobile Suit Gundam Mini Seed Gundam Seed Character Theater"
-    synonyms:
-      - "Kidou Senshi Gundam SEED: Seed Supernova - Tanekyara Gekijo"
-    seasons:
-      - season: 1
-        anilist-id: 2743
-  - title: "Mobile Suit Gundam Seed Destiny Special Edition"
-    synonyms:
-      - "Kidou Senshi Gundam SEED Destiny Special Edition"
-    seasons:
-      - season: 1
-        anilist-id: 2294
-  - title: "Mobile Suit Gundam Seed Destiny Final Plus: The Chosen Future"
-    synonyms:
-      - "Kidou Senshi Gundam SEED Destiny Final Plus: Eraba Reta Mirai"
-    seasons:
-     - season: 1
-       anilist-id: 1241
-  - title: "Mobile Suit Gundam Wing"
-    synonyms:
-      - "Shin Kidou Senki Gundam W"
-      - "New Mobile Report Gundam Wing"
-    seasons:
-      - season: 1
-        anilist-id: 90
-      - season: 2
-        anilist-id: 91
-  - title: "Mobile Suit Gundam Wing: Endless Waltz"
-    synonyms:
-      - "Shin Kidou Senki Gundam W: Endless Waltz Special Edition"
-    seasons:
-      - season: 1
-        anilist-id: 2273
-  - title: "Mobile Suit Gundam Wing: Operation Meteor"
-    synonyms:
-      - "Shin Kidou Senki Gundam Wing: Operation Meteor"
-      - "Gundam Wing: Odd & Even Numbers"
-      - "Gundam Wing: Operation Meteor"
-      - "New Mobile Report Gundam Wing: Operation Meteor"
-    seasons:
-      - season: 1
-        anilist-id: 3626
-  - title: "Shin Kidou Senki Gundam W: Frozen Teardrop Picture Drama - Tsuginaru Tatakai"
-    synonyms:
-      - "Shin Kidou Senki Gundam Wing: Frozen Teardrop Picture Drama - Tsuginaru Tatakai"
-    seasons:
-      - season: 1
-        anilist-id: 107188
-  - title: "After War Gundam X"
-    synonyms:
-      - "Kidou Senshi Seiki Gundam X"
-    seasons:
-      - season: 1
-        anilist-id: 92
-  - title: "Mobile Fighter G Gundam"
-    synonyms:
-      - "Kidou Butouden G Gundam"
-    seasons:
-      - season: 1
-        anilist-id: 96
-  - title: "Mobile Suit Gundam AGE"
-    synonyms:
-      - "Kidou Senshi Gundam AGE"
-    seasons:
-      - season: 1
-        anilist-id: 10808
-  - title: "Kidou Senshi Gundam AGE: Memory of Eden"
-    seasons:
-      - season: 1
-        anilist-id: 17655
-  - title: "Mobile Suit Gundam Turn A"
-    synonyms:
-      - "Turn A Gundam"
-      - "∀ Gundam"
-    seasons:
-      - season: 1
-        anilist-id: 95
-  - title: "Turn A Gundam I: Earth Light"
-    synonyms:
-      - "∀ Gundam I: Earth Light"
-    seasons:
-      - season: 1
-        anilist-id: 3963
-  - title: "Turn A Gundam II: Moonlight Butterfly"
-    synonyms:
-      - "∀ Gundam II: Moonlight Butterfly"
-      - "∀ Gundam II: Gekkou Chou"
-    seasons:
-      - season: 1
-        anilist-id: 3964
-  - title: "Gundam: Reconguista in G"
-    synonyms:
-      - "Gundam: G no Reconguista"
-      - "G-Reco"
-    seasons:
-      - season: 1
-        anilist-id: 20658
-  - title: "Reconguista in G the Movie I Go! Core Fighter"
-    synonyms:
-      - "Gundam: G no Reconguista I - Ike! Core Fighter"
-      - "Gekijouban Gundam G no Reconguista"
-    seasons:
-      - season: 1
-        anilist-id: 105596
-  - title: "Reconguista in G the Movie II Bellri's Fierce Charge"
-    synonyms:
-      - "Gundam: G no Reconguista II - Bellri Gekishin"
-      - "Gundam Reconguista in G II"
-      - "Gekijouban Gundam G no Reconguista 2"
-      - "Gundam: G no Reconguista Movie 2 - Bellri Advances"
-    seasons:
-      - season: 1
-        anilist-id: 114334
-  - title: "Gundam: G no Reconguista III - Uchuu kara no Isan"
-    synonyms:
-      - "G-Reco Movie 3"
-      - "Gundam Reconguista in G 3"
-      - "Gundam Reconguista in G III: Heritage from space"
-    seasons:
-      - season: 1
-        anilist-id: 132324
-  - title: "Gundam: G no Reconguista - From the Past to the Future"
-    seasons:
-      - season: 1
-        anilist-id: 102525
-  - title: "Mobile Suit Gakuen: G-Reco Koushien"
-    seasons:
-      - season: 1
-        anilist-id: 112449
-      - season: 2
-        anilist-id: 114760
-  - title: "Gundam Build Fighters"
-    seasons:
-      - season: 1
-        anilist-id: 19319
-  - title: "Gundam Build Fighters: GM's Counterattack"
-    synonyms:
-      - "Gundam Build Fighters: GM no Gyakushuu"
-    seasons:
-      - season: 1
-        anilist-id: 99732
-  - title: "Gundam Build Fighters: Battlogue"
-    seasons:
-      - season: 1
-        anilist-id: 99731
-  - title: "Gundam Build Fighters Try"
-    seasons:
-      - season: 1
-        anilist-id: 20739
-  - title: "GUNDAM BUILD FIGHTERS TRY: Island Wars"
-    synonyms:
-      - "GUNDAM BUILD FIGHTERS TRY OVA"
-    seasons:
-      - season: 1
-        anilist-id: 21814
-  - title: "Gundam Build Divers Prologue"
-    seasons:
-      - season: 1
-        anilist-id: 102622
-  - title: "Gundam Build Divers"
-    seasons:
-      - season: 1
-        anilist-id: 101036
-  - title: "Gundam Build Divers Re:RISE"
-    seasons:
-      - season: 1
-        anilist-id: 110786
-      - season: 2
-        anilist-id: 114233
-  - title: "Gundam Build Divers Battlogue"
-    seasons:
-      - season: 1
-        anilist-id: 126662
-  - title: "Gundam Breaker Battlogue"
-    seasons:
-      - season: 1
-        anilist-id: 135645
-  - title: "Gundam vs Hello Kitty"
-    seasons:
-      - season: 1
-        anilist-id: 110419
-  - title: "Mobile Suit Gundam: The Light of Life Chronicle U.C."
-    synonyms:
-      - "Kidou Senshi Gundam: Hikaru Inochi Chronicle U.C. "
-    seasons:
-      - season: 1
-        anilist-id: 113138
-  - title: "The Impression of First GUNDAM"
-    seasons:
-      - season: 1
-        anilist-id: 19977
-  - title: "Inazma Delivery"
-    seasons:
-     - season: 1
-       anilist-id: 102940
-     - season: 2
-       anilist-id: 102941
-       start: 11
-  - title: "Juden Chan"
-    synonyms:
-      - "Charger Girl Juden Chan"
-      - "Fight Ippatsu! Juuden-chan!!"
-      - "Fight Ippatsu! Jūden-chan!!"
-      - "Fight, One Shot! Charger Girls!!"
-      - "Charger Girl Ju-den Chan"
-    seasons:
-      - season: 1
-        anilist-id: 5973
-  - title: "Listen to Me, Girls. I'm Your Father!"
-    synonyms:
-      - "Papa no Iukoto wo Kikinasai!"
-      - "Listen to Me, Girls, I'm Your Father!"
-      - "Papakiki, Listen to Me, Girls, I'm Your Father!"
-    seasons:
-      - season: 1
-        anilist-id: 11179 
-  - title: "Million Arthur"
-    synonyms:
-      - "Operation Han-Gyaku-Sei Million Arthur"
-      - "Han-Gyaku-Sei Million Arthur"
-      - "Hangyakusei Million Arthur"
-    seasons:
-      - season: 1
-        anilist-id: 101359
-      - season: 2
-        anilist-id: 104071
-  - title: "Mobile Suit Gundam: THE WITCH FROM MERCURY"
-    synonyms:
-      - "Kidou Senshi Gundam: Suisei no Majo"
-    seasons:
-      - season: 1
-        anilist-id: 139274
-      - season: 1
-        anilist-id: 155158
-        start: 13
-  - title: "Mobile Suit Gundam UC: Episode EX - Hyakunen no Kodoku"
-    seasons:
-      - season: 1
-        anilist-id: 112450
+        anilist-id: 110028
   - title: "Mushoku Tensei: Jobless Reincarnation"
     synonyms:
       - "Mushoku Tensei: Isekai Ittara Honki Dasu"
@@ -2176,14 +2130,6 @@ entries:
         start: 12
       - season: 2
         anilist-id: 146065
-  - title: "Muhyo & Roji's Bureau of Supernatural Investigation"
-    synonyms:
-      - "Muhyo to Roji no Mahouritsu Soudan Jimusho"
-    seasons:
-      - season: 1
-        anilist-id: 101340
-      - season: 2
-        anilist-id: 110028
   - title: "My Dress-Up Darling"
     synonyms:
       - "Sono Bisque Doll wa Koi wo Suru"
@@ -2215,16 +2161,6 @@ entries:
     seasons:
       - season: 1
         anilist-id: 129192
-  - title: "My Teen Romantic Comedy SNAFU"
-    synonyms:
-      - "Yahari Ore no Seishun Love Comedy wa Machigatteiru"
-    seasons:
-      - season: 1
-        anilist-id: 14813
-      - season: 2
-        anilist-id: 20698
-      - season: 3
-        anilist-id: 108489
   - title: "My Next Life as a Villainess: All Routes Lead to Doom!"
     synonyms:
       - "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta"
@@ -2235,6 +2171,16 @@ entries:
         anilist-id: 104647
       - season: 2
         anilist-id: 120209
+  - title: "My Teen Romantic Comedy SNAFU"
+    synonyms:
+      - "Yahari Ore no Seishun Love Comedy wa Machigatteiru"
+    seasons:
+      - season: 1
+        anilist-id: 14813
+      - season: 2
+        anilist-id: 20698
+      - season: 3
+        anilist-id: 108489
   - title: "My Wife is the Student Council President!"
     synonyms:
       - "おくさまが生徒会長！"
@@ -2369,7 +2315,7 @@ entries:
       - season: 2
         anilist-id: 13659
   - title: "Oshi No Ko"
-    synonyms: 
+    synonyms:
       - "[Oshi No Ko] - [Mein*Star]"
     seasons:
       - season: 1
@@ -2384,6 +2330,10 @@ entries:
         anilist-id: 101474
       - season: 4
         anilist-id: 133844
+  - title: "Patlabor 2: The Movie"
+    seasons:
+      - season: 1
+        anilist-id: 1096
   - title: "Patlabor: The Movie"
     synonyms:
       - "Patlabor - The Movie"
@@ -2392,10 +2342,6 @@ entries:
     seasons:
       - season: 1
         anilist-id: 1095
-  - title: "Patlabor 2: The Movie"
-    seasons:
-      - season: 1
-        anilist-id: 1096
   - title: "Police in a Pod"
     synonyms:
       - "Police in a Pod (2022)"
@@ -2416,8 +2362,8 @@ entries:
     synonyms:
       - "PSYCHO-PASS Sinners of the System1v3: Case.1 - Crime and Punishment"
     seasons:
-     - season: 1
-       anilist-id: 102649
+      - season: 1
+        anilist-id: 102649
   - title: "Psycho-Pass: Sinners of the System - Case.2 First Guardian"
     seasons:
       - season: 1
@@ -2452,10 +2398,6 @@ entries:
     seasons:
       - season: 1
         anilist-id: 153452
-  - title: "Redline"
-    seasons:
-      - season: 1
-        anilist-id: 6675
   - title: "Re:ZERO -Starting Life in Another World-"
     synonyms:
       - "Re:Zero -Starting Life in Another World-"
@@ -2469,6 +2411,22 @@ entries:
       - season: 2
         anilist-id: 119661
         start: 14
+  - title: "Reconguista in G the Movie I Go! Core Fighter"
+    synonyms:
+      - "Gundam: G no Reconguista I - Ike! Core Fighter"
+      - "Gekijouban Gundam G no Reconguista"
+    seasons:
+      - season: 1
+        anilist-id: 105596
+  - title: "Reconguista in G the Movie II Bellri's Fierce Charge"
+    synonyms:
+      - "Gundam: G no Reconguista II - Bellri Gekishin"
+      - "Gundam Reconguista in G II"
+      - "Gekijouban Gundam G no Reconguista 2"
+      - "Gundam: G no Reconguista Movie 2 - Bellri Advances"
+    seasons:
+      - season: 1
+        anilist-id: 114334
   - title: "Record of Ragnarok"
     synonyms:
       - "Shuumatsu no Walkure"
@@ -2482,16 +2440,41 @@ entries:
       - season: 2
         anilist-id: 165356
         start: 11
+  - title: "Redline"
+    seasons:
+      - season: 1
+        anilist-id: 6675
   - title: "Redo of Healer"
     seasons:
       - season: 1
         anilist-id: 113425
+  - title: "Rent A Girlfriend"
+    synonyms:
+      - "Kanojo, Okarishimasu"
+      - "彼女、お借りします"
+    seasons:
+      - season: 1
+        anilist-id: 113813
+      - season: 2
+        anilist-id: 124410
+      - season: 3
+        anilist-id: 154745
   - title: "Requiem of the Rose King"
     synonyms:
       - "Bara-Ou no Souretsu"
     seasons:
       - season: 1
         anilist-id: 124060
+  - title: "Ring of Gundam"
+    seasons:
+      - season: 1
+        anilist-id: 7060
+  - title: "Rosario + Vampire"
+    seasons:
+      - season: 1
+        anilist-id: 2993
+      - season: 2
+        anilist-id: 4214
   - title: "Rurouni Kenshin"
     synonyms:
       - "Samurai X"
@@ -2504,32 +2487,16 @@ entries:
         anilist-id: 45
       - season: 3
         anilist-id: 45
-  - title: "Rusted Armors"
-    seasons:
-      - season: 1
-        anilist-id: 109820
   - title: "Rust-Eater Bisco"
     synonyms:
       - "Sabikui Bisco"
     seasons:
       - season: 1
         anilist-id: 130591
-  - title: "Rosario + Vampire"
+  - title: "Rusted Armors"
     seasons:
       - season: 1
-        anilist-id: 2993
-      - season: 2
-        anilist-id: 4214
-  - title: "Seraph of the End"
-    synonyms:
-      - "Owari no Seraph"
-      - "Seraph of the End: Vampire Reign"
-    seasons:
-      - season: 1
-        anilist-id: 20829
-      - season: 1
-        anilist-id: 20993
-        start: 13
+        anilist-id: 109820
   - title: "Saekano: How to Raise a Boring Girlfriend"
     seasons:
       - season: 1
@@ -2600,10 +2567,26 @@ entries:
         anilist-id: 24
       - season: 2
         anilist-id: 846
+  - title: "Seraph of the End"
+    synonyms:
+      - "Owari no Seraph"
+      - "Seraph of the End: Vampire Reign"
+    seasons:
+      - season: 1
+        anilist-id: 20829
+      - season: 1
+        anilist-id: 20993
+        start: 13
   - title: "Shelter"
     seasons:
       - season: 1
         anilist-id: 97731
+  - title: "Shin Kidou Senki Gundam W: Frozen Teardrop Picture Drama - Tsuginaru Tatakai"
+    synonyms:
+      - "Shin Kidou Senki Gundam Wing: Frozen Teardrop Picture Drama - Tsuginaru Tatakai"
+    seasons:
+      - season: 1
+        anilist-id: 107188
   - title: "SK8 the Infinity"
     synonyms:
       - "Sk8"
@@ -2749,7 +2732,7 @@ entries:
       - "Tensei shitara Slime Datta Ken"
       - "Tensei Shitara Slime Datta Ken"
       - "Slime Isekai"
-      -  "転生したらスライムだった件"
+      - "転生したらスライムだった件"
     seasons:
       - season: 1
         anilist-id: 101280
@@ -2772,7 +2755,7 @@ entries:
         anilist-id: 135136
         start: 13
   - title: "The Devil is a Part-Timer!"
-    synonyms: 
+    synonyms:
       - "Hataraku Maou-sama!"
     seasons:
       - season: 1
@@ -2801,12 +2784,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 10620
-  - title: "The Maid I Recently Hired Is Mysterious"
-    synonyms:
-      - "Saikin Yatotta Maid ga Ayashii"
+  - title: "The Impression of First GUNDAM"
     seasons:
       - season: 1
-        anilist-id: 149326
+        anilist-id: 19977
   - title: "The Irregular at Magic High School"
     synonyms:
       - "Mahouka Koukou no Rettousei"
@@ -2829,6 +2810,12 @@ entries:
         anilist-id: 102997
       - season: 3
         anilist-id: 137735
+  - title: "The Maid I Recently Hired Is Mysterious"
+    synonyms:
+      - "Saikin Yatotta Maid ga Ayashii"
+    seasons:
+      - season: 1
+        anilist-id: 149326
   - title: "The Melancholy of Haruhi Suzumiya"
     synonyms:
       - "Suzumiya Haruhi no Yuuutsu"
@@ -2865,12 +2852,6 @@ entries:
         anilist-id: 111321
       - season: 3
         anilist-id: 111322
-  - title: "The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat"
-    synonyms:
-      - "Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei Suru"
-    seasons:
-      - season: 1
-        anilist-id: 129898
   - title: "The Seven Deadly Sins"
     synonyms:
       - "Nanatsu no Taizai"
@@ -2891,14 +2872,6 @@ entries:
     seasons:
       - season: 1
         anilist-id: 116741
-  - title: "Thus Spoke Kishibe Rohan"
-    synonyms:
-      - "Kishibe Rohan wa Ugokanai"
-      - "Thus Spoke Kishibe Rohan (2017)"
-      - "Rohan Kishibe"
-    seasons:
-      - season: 1
-        anilist-id: 21778
   - title: "The Testament of Sister New Devil"
     seasons:
       - season: 1
@@ -2934,6 +2907,35 @@ entries:
         anilist-id: 10080
       - season: 3
         anilist-id: 16706
+  - title: "The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat"
+    synonyms:
+      - "Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei Suru"
+    seasons:
+      - season: 1
+        anilist-id: 129898
+  - title: "Thus Spoke Kishibe Rohan"
+    synonyms:
+      - "Kishibe Rohan wa Ugokanai"
+      - "Thus Spoke Kishibe Rohan (2017)"
+      - "Rohan Kishibe"
+    seasons:
+      - season: 1
+        anilist-id: 21778
+  - title: "To Love-Ru"
+    synonyms:
+      - "To LOVE-Ru"
+    seasons:
+      - season: 1
+        anilist-id: 3455
+      - season: 2
+        anilist-id: 9181
+      - season: 3
+        anilist-id: 13663
+      - season: 4
+        anilist-id: 20995
+      - season: 4
+        anilist-id: 21852
+        start: 13
   - title: "To Your Eternity"
     synonyms:
       - "不滅のあなたへ"
@@ -2942,20 +2944,6 @@ entries:
         anilist-id: 114535
       - season: 2
         anilist-id: 138565
-  - title: "TONIKAWA: Over The Moon For You"
-    synonyms:
-      - "トニカクカワイイ"
-    seasons:
-      - season: 1
-        anilist-id: 116267
-      - season: 2
-        anilist-id: 141208
-  - title: "Tokyo Twenty Fourth Ward"
-    synonyms:
-      - "Tokyo 24th Ward"
-    seasons:
-      - season: 1
-        anilist-id: 140643
   - title: "Tokyo Ghoul"
     seasons:
       - season: 1
@@ -2967,21 +2955,20 @@ entries:
       - season: 3
         anilist-id: 102351
         start: 13
-  - title: "To Love-Ru"
+  - title: "Tokyo Twenty Fourth Ward"
     synonyms:
-     - "To LOVE-Ru"
+      - "Tokyo 24th Ward"
     seasons:
-     - season: 1
-       anilist-id: 3455
-     - season: 2
-       anilist-id: 9181
-     - season: 3
-       anilist-id: 13663
-     - season: 4
-       anilist-id: 20995
-     - season: 4
-       anilist-id: 21852
-       start: 13
+      - season: 1
+        anilist-id: 140643
+  - title: "TONIKAWA: Over The Moon For You"
+    synonyms:
+      - "トニカクカワイイ"
+    seasons:
+      - season: 1
+        anilist-id: 116267
+      - season: 2
+        anilist-id: 141208
   - title: "Towa no Quon"
     synonyms:
       - "Eternal Quon"
@@ -3023,6 +3010,19 @@ entries:
         anilist-id: 100402
       - season: 2
         anilist-id: 153841
+  - title: "Turn A Gundam I: Earth Light"
+    synonyms:
+      - "∀ Gundam I: Earth Light"
+    seasons:
+      - season: 1
+        anilist-id: 3963
+  - title: "Turn A Gundam II: Moonlight Butterfly"
+    synonyms:
+      - "∀ Gundam II: Moonlight Butterfly"
+      - "∀ Gundam II: Gekkou Chou"
+    seasons:
+      - season: 1
+        anilist-id: 3964
   - title: "Twin Star Exorcists"
     synonyms:
       - "Twin Star Exorcist"
@@ -3030,21 +3030,6 @@ entries:
     seasons:
       - season: 1
         anilist-id: 21499
-  - title: "Uzaki-chan Wants to Hang Out!"
-    synonyms:
-      - "Uzaki-chan wa Asobitai!"
-      - "宇崎ちゃんは遊びたい！"
-    seasons:
-      - season: 1
-        anilist-id: 115113
-      - season: 2
-        anilist-id: 124395
-  - title: "Vampire Knight"
-    seasons:
-      - season: 1
-        anilist-id: 3457
-      - season: 2
-        anilist-id: 4752
   - title: "Urusei Yatsura (1981)"
     seasons:
       - season: 1
@@ -3063,6 +3048,21 @@ entries:
         anilist-id: 143277
       - season: 2
         anilist-id: 155645
+  - title: "Uzaki-chan Wants to Hang Out!"
+    synonyms:
+      - "Uzaki-chan wa Asobitai!"
+      - "宇崎ちゃんは遊びたい！"
+    seasons:
+      - season: 1
+        anilist-id: 115113
+      - season: 2
+        anilist-id: 124395
+  - title: "Vampire Knight"
+    seasons:
+      - season: 1
+        anilist-id: 3457
+      - season: 2
+        anilist-id: 4752
   - title: "VanDread"
     seasons:
       - season: 1
