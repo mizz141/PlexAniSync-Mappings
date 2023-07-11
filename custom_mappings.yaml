@@ -3,6 +3,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 7113
+  - title: "5 Centimeters per Second"
+    seasons:
+      - season: 1
+        anilist-id: 1689
+        start: -1
+
   - title: "86: Eighty Six"
     synonyms:
       - "86: Eighty-Six"
@@ -14,13 +20,7 @@ entries:
         anilist-id: 116589
       - season: 1
         anilist-id: 131586
-        start: 12        
-  - title: "5 Centimeters per Second"
-    seasons:
-      - season: 1
-        anilist-id: 1689
-        start: -1
-
+        start: 12
   - title: "A Certain Magical Index"
     synonyms:
       - "Toaru Majutsu no Index"
