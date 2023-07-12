@@ -16,10 +16,8 @@ Tested for maximum compatibility TVDB, TMDB and the new Plex Scanner.
 ## [Installation on unRAID](https://github.com/mizz141/PlexAniSync-Mappings/wiki/Installation-on-unRAID)
 
 ## How to contribute
-All contributions are welcome and appreciated and if you want to contribute, make sure to follow a few guidelines:
+All contributions are welcome and appreciated and if you want to contribute, make sure to follow this simple guideline:
 - Main title should be the **English Plex** title. All the other titles should be included as synonyms.
-- Make sure to keep the [mappings](https://github.com/mizz141/PlexAniSync-Mappings/blob/master/custom_mappings.yaml) and the [list of mapped titles](https://github.com/mizz141/PlexAniSync-Mappings/wiki/Titles-that-have-been-mapped-so-far) in alphabetical order with respect to the **English Plex** title.
-- Make sure to update the [list of mapped titles](https://github.com/mizz141/PlexAniSync-Mappings/wiki/Titles-that-have-been-mapped-so-far) accordingly after updating the [mappings](https://github.com/mizz141/PlexAniSync-Mappings/blob/master/custom_mappings.yaml).
 
 ## Discord Server
 <a title="Discord server" href="https://discord.gg/8vcnkkhguf"><img src="https://discordapp.com/api/guilds/912394436569362473/widget.png?style=banner2" alt="Discord Server"/></a>
