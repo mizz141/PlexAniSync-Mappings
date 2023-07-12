@@ -46,6 +46,15 @@ entries:
     seasons:
       - season: 1
         anilist-id: 20954
+  - title: "Ace Attorney"
+    synonyms:
+      - "逆転裁判 その『真実』、異議あり！"
+      - "Gyakuten Saiban: Sono \"Shinjitsu\", Igi Ari!"
+    seasons:
+      - season: 1
+        anilist-id: 21360
+      - season: 2
+        anilist-id: 101313
   - title: "After War Gundam X"
     synonyms:
       - "Kidou Senshi Seiki Gundam X"
@@ -99,6 +108,14 @@ entries:
     seasons:
       - season: 1
         anilist-id: 5270
+  - title: "Amagami SS"
+    synonyms:
+      - "アマガミSS"
+    seasons:
+      - season: 1
+        anilist-id: 8676
+      - season: 2
+        anilist-id: 11235
   - title: "AOI SEKAI NO CHUUSHIN DE: World War Blue"
     synonyms:
       - "World War Blue"
@@ -106,6 +123,14 @@ entries:
     seasons:
       - season: 1
         anilist-id: 15133
+  - title: "Arakawa Under the Bridge"
+    synonyms:
+      - "荒川アンダー ザ ブリッジ"
+    seasons:
+      - season: 1
+        anilist-id: 7647
+      - season: 2
+        anilist-id: 9074
   - title: "Aria"
     seasons:
       - season: 1
@@ -123,6 +148,14 @@ entries:
         anilist-id: 100668
       - season: 2
         anilist-id: 112323
+  - title: "Armor Shop for Ladies & Gentlemen"
+    synonyms:
+      - "Otona no Bouguya-san"
+    seasons:
+      - season: 1
+        anilist-id: 104308
+      - season: 2
+        anilist-id: 124136
   - title: "Arpeggio of Blue Steel -Ars Nova Cadenza"
     synonyms:
       - "Arpeggio of Blue Steel: Ars Nova - Cadenza"
@@ -173,6 +206,15 @@ entries:
       - season: 1
         anilist-id: 121176
         start: 27
+  - title: "Assassination Classroom"
+    synonyms:
+      - "Ansatsu Kyoushitsu"
+      - "暗殺教室"
+    seasons:
+      - season: 1
+        anilist-id: 20755
+      - season: 2
+        anilist-id: 21170
   - title: "Attack on Titan"
     synonyms:
       - "Shingeki no Kyojin"
@@ -197,6 +239,12 @@ entries:
         anilist-id: 21665
       - season: 2
         anilist-id: 102498
+  - title: "Baby Steps"
+    seasons:
+      - season: 1
+        anilist-id: 20510
+      - season: 2
+        anilist-id: 20854
   - title: "Back Street Girls"
     synonyms:
       - "Back Street Girls -GOKUDOLLS-"
@@ -593,6 +641,15 @@ entries:
       - season: 4
         anilist-id: 155211
         start: 12
+  - title: "Danmachi: Is It Wrong to Try to Pick Up Girls in a Dungeon? On the Side: Sword Oratoria"
+    synonyms:
+      - "Is It Wrong to Try to Pick Up Girls in a Dungeon? On the Side: Sword Oratoria"
+      - "Sword Oratoria: Is it Wrong to Try to Pick Up Girls in a Dungeon? On the Side"
+      - "ダンジョンに出会いを求めるのは間違っているだろうか外伝 ソード・オラトリア"
+      - "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria"
+    seasons:
+      - season: 1
+        anilist-id: 21676
   - title: "Darker Than Black"
     synonyms:
       - "Darker than Black"
@@ -760,6 +817,26 @@ entries:
         anilist-id: 20485
       - season: 3
         anilist-id: 98866
+  - title: "Fairy Tail"
+    synonyms:
+      - "フェアリーテイル"
+    seasons:
+      - season: 1
+        anilist-id: 6702
+      - season: 2
+        anilist-id: 6702
+      - season: 3
+        anilist-id: 6702
+      - season: 4
+        anilist-id: 6702
+      - season: 5
+        anilist-id: 20626
+      - season: 6
+        anilist-id: 20626
+      - season: 7
+        anilist-id: 20626
+      - season: 8
+        anilist-id: 99749
   - title: "Fate/stay night: Unlimited Blade Works"
     synonyms:
       - "Fate/Stay Night: Unlimited Blade Works"
@@ -781,6 +858,15 @@ entries:
       - season: 1
         anilist-id: 11741
         start: 13
+  - title: "Fire Force"
+    synonyms:
+      - "Enen no Shouboutai"
+      - "炎炎ノ消防隊"
+    seasons:
+      - season: 1
+        anilist-id: 114236
+      - season: 2
+        anilist-id: 149118
   - title: "FLCL"
     synonyms:
       - "Fooly Cooly"
@@ -810,6 +896,14 @@ entries:
         anilist-id: 109963
       - season: 5
         anilist-id: 114043
+  - title: "Freezing"
+    synonyms:
+      - "フリージング"
+    seasons:
+      - season: 1
+        anilist-id: 9367
+      - season: 2
+        anilist-id: 18001
   - title: "Fruits Basket (2019)"
     synonyms:
       - "Fruits Basket"
@@ -954,6 +1048,22 @@ entries:
     seasons:
       - season: 1
         anilist-id: 128828
+  - title: "Great Pretender"
+    synonyms:
+      - "グレートプリテンダー"
+    seasons:
+      # 1 season on Plex but 2 on AniList
+      - season: 1
+        anilist-id: 110349
+      - season: 2
+        anilist-id: 110349
+  - title: "Great Teacher Onizuka"
+    synonyms:
+      - "GTO"
+      - "GTO: Great Teacher Onizuka"
+    seasons:
+      - season: 1
+        anilist-id: 245
   - title: "Grimgar of Fantasy & Ash"
     synonyms:
       - "Grimgar, Ashes and Illusions"
@@ -1310,15 +1420,6 @@ entries:
     seasons:
       - season: 1
         anilist-id: 570
-  - title: "JoJo's Bizarre Adventure (1993)"
-    synonyms:
-      - "JoJo no Kimyou na Bouken (1993)"
-    seasons:
-      - season: 1
-        anilist-id: 666
-      - season: 2
-        anilist-id: 665
-
   - title: "JoJo's Bizarre Adventure"
     synonyms:
       - "JoJo's Bizarre Adventure (2012)"
@@ -1339,6 +1440,15 @@ entries:
       - season: 5
         anilist-id: 146722
         start: 13
+  - title: "JoJo's Bizarre Adventure (1993)"
+    synonyms:
+      - "JoJo no Kimyou na Bouken (1993)"
+    seasons:
+      - season: 1
+        anilist-id: 666
+      - season: 2
+        anilist-id: 665
+
   - title: "Jormungand"
     seasons:
       - season: 1
@@ -2571,12 +2681,27 @@ entries:
     seasons:
       - season: 1
         anilist-id: 126288
+  - title: "School Days"
+    synonyms:
+      - "School Days (TV)"
+      - "スクールデイズ (TV)"
+    seasons:
+      - season: 1
+        anilist-id: 2476
   - title: "School Rumble"
     seasons:
       - season: 1
         anilist-id: 24
       - season: 2
         anilist-id: 846
+  - title: "Sekirei"
+    synonyms:
+      - "セキレイ"
+    seasons:
+      - season: 1
+        anilist-id: 4063
+      - season: 2
+        anilist-id: 5277
   - title: "Seraph of the End"
     synonyms:
       - "Owari no Seraph"
@@ -2664,6 +2789,16 @@ entries:
     seasons:
       - season: 1
         anilist-id: 11577
+  - title: "Strike Witches"
+    synonyms:
+      - "ストライクウィッチーズ"
+    seasons:
+      - season: 1
+        anilist-id: 3667
+      - season: 2
+        anilist-id: 6381
+      - season: 3
+        anilist-id: 103119
   - title: "Suvival Game Club"
     seasons:
       - season: 1
@@ -2751,6 +2886,15 @@ entries:
       - season: 2
         anilist-id: 116742
         start: 13
+  - title: "The Ancient Magus' Bride"
+    synonyms:
+      - "Mahoutsukai no Yome"
+      - "魔法使いの嫁"
+    seasons:
+      - season: 1
+        anilist-id: 98436
+      - season: 2
+        anilist-id: 154364
   - title: "The Case Study of Vanitas"
     synonyms:
       - "Vanitas no Carte"
@@ -2965,6 +3109,14 @@ entries:
       - season: 3
         anilist-id: 102351
         start: 13
+  - title: "Tokyo Revengers"
+    synonyms:
+      - "東京リベンジャーズ"
+    seasons:
+      - season: 1
+        anilist-id: 120120
+      - season: 2
+        anilist-id: 142853
   - title: "Tokyo Twenty Fourth Ward"
     synonyms:
       - "Tokyo 24th Ward"
@@ -3192,155 +3344,3 @@ entries:
         anilist-id: 103871
       - season: 2
         anilist-id: 110733
-  - title: "Great Teacher Onizuka"
-    synonyms:
-      - "GTO"
-      - "GTO: Great Teacher Onizuka"
-    seasons:
-      - season: 1
-        anilist-id: 245
-  - title: "School Days"
-    synonyms:
-      - "School Days (TV)"
-      - "スクールデイズ (TV)"
-    seasons:
-      - season: 1
-        anilist-id: 2476
-  - title: "Sekirei"
-    synonyms:
-      - "セキレイ"
-    seasons:
-      - season: 1
-        anilist-id: 4063
-      - season: 2
-        anilist-id: 5277
-  - title: "Strike Witches"
-    synonyms:
-      - "ストライクウィッチーズ"
-    seasons:
-      - season: 1
-        anilist-id: 3667
-      - season: 2
-        anilist-id: 6381
-      - season: 3
-        anilist-id: 103119
-  - title: "Amagami SS"
-    synonyms:
-      - "アマガミSS"
-    seasons:
-      - season: 1
-        anilist-id: 8676
-      - season: 2
-        anilist-id: 11235
-  - title: "Great Pretender"
-    synonyms:
-      - "グレートプリテンダー"
-    seasons:
-      # 1 season on Plex but 2 on AniList
-      - season: 1
-        anilist-id: 110349
-      - season: 2
-        anilist-id: 110349
-  - title: "Freezing"
-    synonyms:
-      - "フリージング"
-    seasons:
-      - season: 1
-        anilist-id: 9367
-      - season: 2
-        anilist-id: 18001
-  - title: "Fairy Tail"
-    synonyms:
-      - "フェアリーテイル"
-    seasons:
-      - season: 1
-        anilist-id: 6702
-      - season: 2
-        anilist-id: 6702
-      - season: 3
-        anilist-id: 6702
-      - season: 4
-        anilist-id: 6702
-      - season: 5
-        anilist-id: 20626
-      - season: 6
-        anilist-id: 20626
-      - season: 7
-        anilist-id: 20626
-      - season: 8
-        anilist-id: 99749
-  - title: "Danmachi: Is It Wrong to Try to Pick Up Girls in a Dungeon? On the Side: Sword Oratoria"
-    synonyms:
-      - "Is It Wrong to Try to Pick Up Girls in a Dungeon? On the Side: Sword Oratoria"
-      - "Sword Oratoria: Is it Wrong to Try to Pick Up Girls in a Dungeon? On the Side"
-      - "ダンジョンに出会いを求めるのは間違っているだろうか外伝 ソード・オラトリア"
-      - "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria"
-    seasons:
-      - season: 1
-        anilist-id: 21676
-  - title: "Tokyo Revengers"
-    synonyms:
-      - "東京リベンジャーズ"
-    seasons:
-      - season: 1
-        anilist-id: 120120
-      - season: 2
-        anilist-id: 142853
-  - title: "Ace Attorney"
-    synonyms:
-      - "逆転裁判 その『真実』、異議あり！"
-      - "Gyakuten Saiban: Sono \"Shinjitsu\", Igi Ari!"
-    seasons:
-      - season: 1
-        anilist-id: 21360
-      - season: 2
-        anilist-id: 101313
-  - title: "The Ancient Magus' Bride"
-    synonyms:
-      - "Mahoutsukai no Yome"
-      - "魔法使いの嫁"
-    seasons:
-      - season: 1
-        anilist-id: 98436
-      - season: 2
-        anilist-id: 154364
-  - title: "Arakawa Under the Bridge"
-    synonyms:
-      - "荒川アンダー ザ ブリッジ"
-    seasons:
-      - season: 1
-        anilist-id: 7647
-      - season: 2
-        anilist-id: 9074
-  - title: "Armor Shop for Ladies & Gentlemen"
-    synonyms:
-      - "Otona no Bouguya-san"
-    seasons:  
-      - season: 1
-        anilist-id: 104308
-      - season: 2
-        anilist-id: 124136
-  - title: "Assassination Classroom"
-    synonyms:
-      - "Ansatsu Kyoushitsu"
-      - "暗殺教室"
-    seasons:  
-      - season: 1
-        anilist-id: 20755
-      - season: 2
-        anilist-id: 21170
-  - title: "Baby Steps"
-    seasons:  
-      - season: 1
-        anilist-id: 20510
-      - season: 2
-        anilist-id: 20854
-  - title: "Fire Force"
-    synonyms:
-      - "Enen no Shouboutai"
-      - "炎炎ノ消防隊"
-    seasons:  
-      - season: 1
-        anilist-id: 114236
-      - season: 2
-        anilist-id: 149118
