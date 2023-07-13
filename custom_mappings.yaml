@@ -483,6 +483,7 @@ entries:
       - season: 1
         anilist-id: 115740
       - season: 2
+        anilist-id: 135102
   - title: "Cardfight!! Vanguard"
     seasons:
       - season: 1
@@ -672,11 +673,11 @@ entries:
       - "Danganronpa 3: The End of Kibougamine Gakuen - Zetsubou-hen"
       - "Danganronpa 3: The End of Hope’s Peak Academy - Despair Arc"
       - "Danganronpa 3: The End of Hope's Peak Academy - Despair Arc"
-      - "Danganronpa 3: The End of Hope's Peak High School#TMDB
+      - "Danganronpa 3: The End of Hope's Peak High School" #TMDB
     seasons:
       - season: 1
         anilist-id: 21825
-  - title: "Danganronpa 3: The End of Kibougamine Gakuen - Mirai-hen#TMDB again
+  - title: "Danganronpa 3: The End of Kibougamine Gakuen - Mirai-hen" #TMDB again
     seasons:
       - season: 1
         anilist-id: 21509
