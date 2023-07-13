@@ -1,4 +1,11 @@
 entries:
+  - title: "22/7 (nanabun no nijyuuni)"
+    synonyms:
+      - "Nanabun no Nijyuuni"
+      - "22/7"
+    seasons:
+      - season: 1
+        anilist-id: 99807
   - title: "30th GUNDAM PERFECT MISSION"
     seasons:
       - season: 1
@@ -20,6 +27,16 @@ entries:
       - season: 1
         anilist-id: 131586
         start: 12
+  - title: "A3! Season Spring & Summer"
+    synonyms:
+      - "A3!"
+      - "Act! Addict! Actors!"
+      - "A3! Act! Addict! Actors!"
+      - "A3! SEASON SPRING ＆ SUMMER"
+      - "Act! Addict! Actors!"
+    seasons:
+      - season: 1
+        anilist-id: 107651
   - title: "A Certain Magical Index"
     synonyms:
       - "Toaru Majutsu no Index"
@@ -33,6 +50,7 @@ entries:
   - title: "A Certain Scientific Railgun"
     synonyms:
       - "Toaru Kagaku no Railgun"
+      - "Toaru Kagaku no Choudenjihou"
     seasons:
       - season: 1
         anilist-id: 6213
@@ -40,6 +58,17 @@ entries:
         anilist-id: 16049
       - season: 3
         anilist-id: 104462
+  - title: "A Destructive God Sits Next to Me"
+    synonyms:
+      - "Boku no Tonari ni Ankoku Hakaishin ga Imasu."
+      - "Boku no Tonari ni Ankoku Hakai Kami ga Imasu"
+      - "Boku no Tonari ni Ankoku Hakai shin ga Imasu"
+      - "Boku no Tonari ni Ankoku Hakaishin ga Imasu"
+      - "Bokuhaka"
+      - "There is a Dark God of Destruction Next to Me"
+    seasons:
+      - season: 1
+        anilist-id: 104936
   - title: "A Silent Voice: The Movie"
     synonyms:
       - "A Silent Voice"
@@ -191,6 +220,10 @@ entries:
         anilist-id: 20935
       - season: 2
         anilist-id: 21424
+  - title: "ARP Backstage Pass"
+    seasons:
+      - season: 1
+        anilist-id: 110615
   - title: "Ascendance of a Bookworm"
     synonyms:
       - "Honzuki no Gekokujou : Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen"
@@ -215,6 +248,13 @@ entries:
         anilist-id: 20755
       - season: 2
         anilist-id: 21170
+  - title: "Asteroid in Love"
+    synonyms:
+      - "Koisuru Shouwakusei"
+      - "Koisuru Asteroid"
+    seasons:
+      - season: 1
+        anilist-id: 108092
   - title: "Attack on Titan"
     synonyms:
       - "Shingeki no Kyojin"
@@ -410,7 +450,17 @@ entries:
     seasons:
       - season: 1
         anilist-id: 97938
-  - title: Bungo Stray Dogs
+  - title: "BanG Dream!"
+    synonyms:
+      - "Bandori"
+    seasons:
+      - season: 1
+        anilist-id: 87435
+      - season: 2
+        anilist-id: 101633
+      - season: 3
+        anilist-id: 101634
+  - title: "Bungo Stray Dogs"
     synonyms:
       - "Bungou Stray Dogs"
       - "文豪ストレイドッグス"
@@ -578,6 +628,14 @@ entries:
     seasons:
       - season: 1
         anilist-id: 20806
+  - title: "Darwin's Game"
+    seasons:
+      - season: 1
+        anilist-id: 105190
+  - title: "Dorohedoro"
+    seasons:
+      - season: 1
+        anilist-id: 105228
   - title: "D-Frag!"
     seasons:
       - season: 1
@@ -1185,6 +1243,10 @@ entries:
       - season: 4
         anilist-id: 113538
         start: 14
+  - title: "Hatena Illusion"
+    seasons:
+      - season: 1
+        anilist-id: 98515
   - title: "Hamatora"
     seasons:
       - season: 1
@@ -1195,6 +1257,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 144092
+  - title: "Healin' Good Pretty Cure"
+    seasons:
+      - season: 1
+        anilist-id: 112748
   - title: "Heaven's Lost Property"
     seasons:
       - season: 1
@@ -1296,6 +1362,37 @@ entries:
     seasons:
       - season: 1
         anilist-id: 21378
+  - title: "ID: INVADED"
+    seasons:
+      - season: 1
+        anilist-id: 110350
+  - title: "If My Favorite Pop Idol Made It to the Budokan, I Would Die"
+    synonyms:
+      - "OshiBudo"
+      - "Oshi ga Budoukan Ittekuretara Shinu"
+      - "If the Fan Goes to Budoukan, She’ll Die"
+      - "Oshi ga Budoukan Ittekuretara Shinu"
+    seasons:
+      - season: 1
+        anilist-id: 104391
+  - title: "In/Spectre"
+    synonyms:
+      - "Kyokou Suiri"
+      - "Inspectre"
+      - "Invented Inference"
+    seasons:
+      - season: 1
+        anilist-id: 107201
+  - title: "Infinite Dendrogram"
+    seasons:
+      - season: 1
+        anilist-id: 107420
+  - title: "Interspecies Reviewers"
+    synonyms:
+      - "Ishuzoku Reviewers"
+    seasons:
+      - season: 1
+        anilist-id: 110270
   - title: "I Tried Asking While Kowtowing"
     synonyms:
       - "Dogeza de Tanondemita"
@@ -1536,6 +1633,14 @@ entries:
     seasons:
       - season: 1
         anilist-id: 102350
+  - title: "Keep Your Hands Off Eizouken!"
+    synonyms:
+      - "Don't mess with the Motion Picture Club!"
+      - "Hands off the Motion Picture Club!"
+      - "Eizouken ni wa Te wo Dasu na!"
+    seasons:
+      - season: 1
+        anilist-id: 109298
   - title: "Kaguya-sama: Love is War"
     seasons:
       - season: 1
@@ -2362,6 +2467,16 @@ entries:
         anilist-id: 20447
       - season: 2
         anilist-id: 21128
+  - title: "Nekopara"
+    seasons:
+      - season: 1
+        anilist-id: 106863
+  - title: "Number 24"
+    synonyms:
+      - "number 24"
+    seasons:
+      - season: 1
+        anilist-id: 108628
   - title: "Nyaruko - Crawling with Love!"
     synonyms:
       - "Nyaruko: Crawling with Love!"
@@ -2450,6 +2565,14 @@ entries:
         anilist-id: 101474
       - season: 4
         anilist-id: 133844
+  - title: "Oda Cinnamon Nobunaga"
+    seasons:
+      - season: 1
+        anilist-id: 110613
+  - title: "Plunderer"
+    seasons:
+      - season: 1
+        anilist-id: 101168
   - title: "Patlabor 2: The Movie"
     seasons:
       - season: 1
@@ -2462,6 +2585,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 1095
+  - title: "Pet"
+    synonyms: 
+      - "pet"
+    seasons:
+      - season: 1
+        anilist-id: 101350
   - title: "Police in a Pod"
     synonyms:
       - "Police in a Pod (2022)"
@@ -2716,6 +2845,23 @@ entries:
     seasons:
       - season: 1
         anilist-id: 97731
+  - title: "Seton Academy: Join the Pack!"
+    synonyms:
+      - "Murenase! Shiiton Gakuen"
+      - "Murenase! Seton Gakuen"
+    seasons:
+      - season: 1
+        anilist-id: 112293
+  - title: "Show By Rock!!"
+    synonyms:
+      - "SHOW BY ROCK!!"
+    seasons:
+      - season: 1
+        anilist-id: 20843
+      - season: 2
+        anilist-id: 21476
+      - season: 3
+        anilist-id: 113470
   - title: "Shin Kidou Senki Gundam W: Frozen Teardrop Picture Drama - Tsuginaru Tatakai"
     synonyms:
       - "Shin Kidou Senki Gundam Wing: Frozen Teardrop Picture Drama - Tsuginaru Tatakai"
@@ -2728,6 +2874,20 @@ entries:
     seasons:
       - season: 1
         anilist-id: 124153
+  - title: "Smile Down the Runway"
+    synonyms:
+      - "Smile at the Runway"
+      - "Runway de Waratte"
+    seasons:
+      - season: 1
+        anilist-id: 111501
+  - title: "Somali and the Forest Spirit"
+    synonyms:
+      - "Somari and the Guardian of the Forest"
+      - "Somali to Mori no Kamisama"
+    seasons:
+      - season: 1
+        anilist-id: 108617
   - title: "Sorcerous Stabber Orphen (2020)"
     synonyms:
       - "Sorcerous Stabber Orphen"
@@ -2908,6 +3068,12 @@ entries:
       - season: 1
         anilist-id: 135136
         start: 13
+  - title: "The Case Files of Jeweler Richard"
+    synonyms:
+      - "Housekishou Richard-shi no Nazo Kantei"
+    seasons:
+      - season: 1
+        anilist-id: 111951
   - title: "The Devil is a Part-Timer!"
     synonyms:
       - "Hataraku Maou-sama!"
@@ -3090,6 +3256,12 @@ entries:
       - season: 4
         anilist-id: 21852
         start: 13
+  - title: "Toilet-bound Hanako-kun"
+    synonyms:
+      - "Jibaku Shounen Hanako-kun"
+    seasons:
+      - season: 1
+        anilist-id: 108463
   - title: "To Your Eternity"
     synonyms:
       - "不滅のあなたへ"
@@ -3192,6 +3364,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 21499
+  - title: "Uchitama?! Have you seen my Tama?"
+    synonyms:
+      - "Uchitama?! Uchi no Tama Shirimasenka?"
+    seasons:
+      - season: 1
+        anilist-id: 109964
   - title: "Urusei Yatsura (1981)"
     seasons:
       - season: 1
@@ -3294,6 +3472,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 20966
+  - title: "Youkai Watch Jam: Youkai Gakuen Y - N to no Souguu"
+    synonyms:
+      - "Yo-kai Gakuen Y: Encounter With N"
+    seasons:
+      - season: 1
+        anilist-id: 113472
   - title: "Yozakura Quartet"
     synonyms:
       - "Yozakura Quartet: Hana no Uta"
