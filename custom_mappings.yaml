@@ -2860,8 +2860,14 @@ entries:
         anilist-id: 20843
       - season: 2
         anilist-id: 21476
-      - season: 3
+  - title: "Show by Rock!! Mashumairesh!!"
+    seasons:
+      - season: 1
         anilist-id: 113470
+  - title: "Show By Rock!! Stars!!"
+    seasons:
+      - season: 1
+        anilist-id: 113476
   - title: "Shin Kidou Senki Gundam W: Frozen Teardrop Picture Drama - Tsuginaru Tatakai"
     synonyms:
       - "Shin Kidou Senki Gundam Wing: Frozen Teardrop Picture Drama - Tsuginaru Tatakai"
