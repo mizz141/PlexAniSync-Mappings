@@ -1,8 +1,8 @@
 entries:
-  - title: "22/7 (nanabun no nijyuuni)"
+  - title: "22/7"
     synonyms:
+      - "22/7 (nanabun no nijyuuni)"
       - "Nanabun no Nijyuuni"
-      - "22/7"
     seasons:
       - season: 1
         anilist-id: 99807
@@ -27,11 +27,10 @@ entries:
       - season: 1
         anilist-id: 131586
         start: 12
-  - title: "A3! Season Spring & Summer"
+  - title: "A3!"
     synonyms:
-      - "A3!"
-      - "Act! Addict! Actors!"
       - "A3! Act! Addict! Actors!"
+      - "A3! Season Spring & Summer"
       - "A3! SEASON SPRING ＆ SUMMER"
       - "Act! Addict! Actors!"
     seasons:
@@ -3262,9 +3261,10 @@ entries:
       - season: 4
         anilist-id: 21852
         start: 13
-  - title: "Toilet-bound Hanako-kun"
+  - title: "Toilet-Bound Hanako-kun"
     synonyms:
       - "Jibaku Shounen Hanako-kun"
+      - "Toilet-Bound Hanako-kun"
     seasons:
       - season: 1
         anilist-id: 108463
