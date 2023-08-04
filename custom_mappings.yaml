@@ -27,15 +27,6 @@ entries:
       - season: 1
         anilist-id: 131586
         start: 12
-  - title: "A3!"
-    synonyms:
-      - "A3! Act! Addict! Actors!"
-      - "A3! Season Spring & Summer"
-      - "A3! SEASON SPRING ＆ SUMMER"
-      - "Act! Addict! Actors!"
-    seasons:
-      - season: 1
-        anilist-id: 107651
   - title: "A Certain Magical Index"
     synonyms:
       - "Toaru Majutsu no Index"
@@ -74,6 +65,15 @@ entries:
     seasons:
       - season: 1
         anilist-id: 20954
+  - title: "A3!"
+    synonyms:
+      - "A3! Act! Addict! Actors!"
+      - "A3! Season Spring & Summer"
+      - "A3! SEASON SPRING ＆ SUMMER"
+      - "Act! Addict! Actors!"
+    seasons:
+      - season: 1
+        anilist-id: 107651
   - title: "Ace Attorney"
     synonyms:
       - "逆転裁判 その『真実』、異議あり！"
@@ -184,6 +184,10 @@ entries:
         anilist-id: 104308
       - season: 2
         anilist-id: 124136
+  - title: "ARP Backstage Pass"
+    seasons:
+      - season: 1
+        anilist-id: 110615
   - title: "Arpeggio of Blue Steel -Ars Nova Cadenza"
     synonyms:
       - "Arpeggio of Blue Steel: Ars Nova - Cadenza"
@@ -219,10 +223,6 @@ entries:
         anilist-id: 20935
       - season: 2
         anilist-id: 21424
-  - title: "ARP Backstage Pass"
-    seasons:
-      - season: 1
-        anilist-id: 110615
   - title: "Ascendance of a Bookworm"
     synonyms:
       - "Honzuki no Gekokujou : Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen"
@@ -313,6 +313,16 @@ entries:
         anilist-id: 10030
       - season: 3
         anilist-id: 12365
+  - title: "BanG Dream!"
+    synonyms:
+      - "Bandori"
+    seasons:
+      - season: 1
+        anilist-id: 87435
+      - season: 2
+        anilist-id: 101633
+      - season: 3
+        anilist-id: 101634
   - title: "Basilisk"
     synonyms:
       - "Basilisk: Die Chroniken der Kouga-Ninja"
@@ -449,16 +459,6 @@ entries:
     seasons:
       - season: 1
         anilist-id: 97938
-  - title: "BanG Dream!"
-    synonyms:
-      - "Bandori"
-    seasons:
-      - season: 1
-        anilist-id: 87435
-      - season: 2
-        anilist-id: 101633
-      - season: 3
-        anilist-id: 101634
   - title: "Bungo Stray Dogs"
     synonyms:
       - "Bungou Stray Dogs"
@@ -627,14 +627,6 @@ entries:
     seasons:
       - season: 1
         anilist-id: 20806
-  - title: "Darwin's Game"
-    seasons:
-      - season: 1
-        anilist-id: 105190
-  - title: "Dorohedoro"
-    seasons:
-      - season: 1
-        anilist-id: 105228
   - title: "D-Frag!"
     seasons:
       - season: 1
@@ -716,6 +708,10 @@ entries:
         anilist-id: 2025
       - season: 2
         anilist-id: 6573
+  - title: "Darwin's Game"
+    seasons:
+      - season: 1
+        anilist-id: 105190
   - title: "Demon Slayer: Kimetsu no Yaiba"
     synonyms:
       - "Demon Slayer"
@@ -753,6 +749,10 @@ entries:
         anilist-id: 120697
       - season: 2
         anilist-id: 140596
+  - title: "Dorohedoro"
+    seasons:
+      - season: 1
+        anilist-id: 105228
   - title: "Dr. Stone"
     synonyms:
       - "Doctor Stone"
@@ -1242,10 +1242,6 @@ entries:
       - season: 4
         anilist-id: 113538
         start: 14
-  - title: "Hatena Illusion"
-    seasons:
-      - season: 1
-        anilist-id: 98515
   - title: "Hamatora"
     seasons:
       - season: 1
@@ -1256,6 +1252,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 144092
+  - title: "Hatena Illusion"
+    seasons:
+      - season: 1
+        anilist-id: 98515
   - title: "Healin' Good Pretty Cure"
     seasons:
       - season: 1
@@ -1361,37 +1361,6 @@ entries:
     seasons:
       - season: 1
         anilist-id: 21378
-  - title: "ID: INVADED"
-    seasons:
-      - season: 1
-        anilist-id: 110350
-  - title: "If My Favorite Pop Idol Made It to the Budokan, I Would Die"
-    synonyms:
-      - "OshiBudo"
-      - "Oshi ga Budoukan Ittekuretara Shinu"
-      - "If the Fan Goes to Budoukan, She’ll Die"
-      - "Oshi ga Budoukan Ittekuretara Shinu"
-    seasons:
-      - season: 1
-        anilist-id: 104391
-  - title: "In/Spectre"
-    synonyms:
-      - "Kyokou Suiri"
-      - "Inspectre"
-      - "Invented Inference"
-    seasons:
-      - season: 1
-        anilist-id: 107201
-  - title: "Infinite Dendrogram"
-    seasons:
-      - season: 1
-        anilist-id: 107420
-  - title: "Interspecies Reviewers"
-    synonyms:
-      - "Ishuzoku Reviewers"
-    seasons:
-      - season: 1
-        anilist-id: 110270
   - title: "I Tried Asking While Kowtowing"
     synonyms:
       - "Dogeza de Tanondemita"
@@ -1409,6 +1378,10 @@ entries:
         anilist-id: 116242
       - season: 2
         anilist-id: 127366
+  - title: "ID: INVADED"
+    seasons:
+      - season: 1
+        anilist-id: 110350
   - title: "If Her Flag Breaks"
     synonyms:
       - "Kanojo ga Flag wo Oraretara"
@@ -1417,6 +1390,15 @@ entries:
     seasons:
       - season: 1
         anilist-id: 19685
+  - title: "If My Favorite Pop Idol Made It to the Budokan, I Would Die"
+    synonyms:
+      - "OshiBudo"
+      - "Oshi ga Budoukan Ittekuretara Shinu"
+      - "If the Fan Goes to Budoukan, She’ll Die"
+      - "Oshi ga Budoukan Ittekuretara Shinu"
+    seasons:
+      - season: 1
+        anilist-id: 104391
   - title: "In Another World With My Smartphone"
     synonyms:
       - "Isekai wa Smartphone to Tomo ni."
@@ -1426,6 +1408,14 @@ entries:
         anilist-id: 98491
       - season: 2
         anilist-id: 147571
+  - title: "In/Spectre"
+    synonyms:
+      - "Kyokou Suiri"
+      - "Inspectre"
+      - "Invented Inference"
+    seasons:
+      - season: 1
+        anilist-id: 107201
   - title: "Inazma Delivery"
     seasons:
       - season: 1
@@ -1433,6 +1423,10 @@ entries:
       - season: 2
         anilist-id: 102941
         start: 11
+  - title: "Infinite Dendrogram"
+    seasons:
+      - season: 1
+        anilist-id: 107420
   - title: "Initial D"
     seasons:
       - season: 1
@@ -1447,6 +1441,12 @@ entries:
         anilist-id: 15059
       - season: 6
         anilist-id: 19613
+  - title: "Interspecies Reviewers"
+    synonyms:
+      - "Ishuzoku Reviewers"
+    seasons:
+      - season: 1
+        anilist-id: 110270
   - title: "Inu x Boku Secret Service"
     synonyms:
       - "Inu × Boku Secret Service"
@@ -1632,14 +1632,6 @@ entries:
     seasons:
       - season: 1
         anilist-id: 102350
-  - title: "Keep Your Hands Off Eizouken!"
-    synonyms:
-      - "Don't mess with the Motion Picture Club!"
-      - "Hands off the Motion Picture Club!"
-      - "Eizouken ni wa Te wo Dasu na!"
-    seasons:
-      - season: 1
-        anilist-id: 109298
   - title: "Kaguya-sama: Love is War"
     seasons:
       - season: 1
@@ -1684,6 +1676,14 @@ entries:
         anilist-id: 20553
       - season: 2
         anilist-id: 21294
+  - title: "Keep Your Hands Off Eizouken!"
+    synonyms:
+      - "Don't mess with the Motion Picture Club!"
+      - "Hands off the Motion Picture Club!"
+      - "Eizouken ni wa Te wo Dasu na!"
+    seasons:
+      - season: 1
+        anilist-id: 109298
   - title: "Kidou Senshi Gundam AGE: Memory of Eden"
     seasons:
       - season: 1
@@ -2433,6 +2433,10 @@ entries:
         anilist-id: 20
       - season: 5
         anilist-id: 20
+  - title: "Nekopara"
+    seasons:
+      - season: 1
+        anilist-id: 106863
   - title: "New Game!"
     seasons:
       - season: 1
@@ -2466,10 +2470,6 @@ entries:
         anilist-id: 20447
       - season: 2
         anilist-id: 21128
-  - title: "Nekopara"
-    seasons:
-      - season: 1
-        anilist-id: 106863
   - title: "Number 24"
     synonyms:
       - "number 24"
@@ -2485,6 +2485,10 @@ entries:
         anilist-id: 11785
       - season: 2
         anilist-id: 15699
+  - title: "Oda Cinnamon Nobunaga"
+    seasons:
+      - season: 1
+        anilist-id: 110613
   - title: "One Piece"
     seasons:
       - season: 1
@@ -2564,14 +2568,6 @@ entries:
         anilist-id: 101474
       - season: 4
         anilist-id: 133844
-  - title: "Oda Cinnamon Nobunaga"
-    seasons:
-      - season: 1
-        anilist-id: 110613
-  - title: "Plunderer"
-    seasons:
-      - season: 1
-        anilist-id: 101168
   - title: "Patlabor 2: The Movie"
     seasons:
       - season: 1
@@ -2585,11 +2581,15 @@ entries:
       - season: 1
         anilist-id: 1095
   - title: "Pet"
-    synonyms: 
+    synonyms:
       - "pet"
     seasons:
       - season: 1
         anilist-id: 101350
+  - title: "Plunderer"
+    seasons:
+      - season: 1
+        anilist-id: 101168
   - title: "Police in a Pod"
     synonyms:
       - "Police in a Pod (2022)"
@@ -2840,10 +2840,6 @@ entries:
       - season: 1
         anilist-id: 20993
         start: 13
-  - title: "Shelter"
-    seasons:
-      - season: 1
-        anilist-id: 97731
   - title: "Seton Academy: Join the Pack!"
     synonyms:
       - "Murenase! Shiiton Gakuen"
@@ -2851,6 +2847,16 @@ entries:
     seasons:
       - season: 1
         anilist-id: 112293
+  - title: "Shelter"
+    seasons:
+      - season: 1
+        anilist-id: 97731
+  - title: "Shin Kidou Senki Gundam W: Frozen Teardrop Picture Drama - Tsuginaru Tatakai"
+    synonyms:
+      - "Shin Kidou Senki Gundam Wing: Frozen Teardrop Picture Drama - Tsuginaru Tatakai"
+    seasons:
+      - season: 1
+        anilist-id: 107188
   - title: "Show By Rock!!"
     synonyms:
       - "SHOW BY ROCK!!"
@@ -2867,12 +2873,6 @@ entries:
     seasons:
       - season: 1
         anilist-id: 113476
-  - title: "Shin Kidou Senki Gundam W: Frozen Teardrop Picture Drama - Tsuginaru Tatakai"
-    synonyms:
-      - "Shin Kidou Senki Gundam Wing: Frozen Teardrop Picture Drama - Tsuginaru Tatakai"
-    seasons:
-      - season: 1
-        anilist-id: 107188
   - title: "SK8 the Infinity"
     synonyms:
       - "Sk8"
@@ -3060,6 +3060,12 @@ entries:
         anilist-id: 98436
       - season: 2
         anilist-id: 154364
+  - title: "The Case Files of Jeweler Richard"
+    synonyms:
+      - "Housekishou Richard-shi no Nazo Kantei"
+    seasons:
+      - season: 1
+        anilist-id: 111951
   - title: "The Case Study of Vanitas"
     synonyms:
       - "Vanitas no Carte"
@@ -3073,12 +3079,6 @@ entries:
       - season: 1
         anilist-id: 135136
         start: 13
-  - title: "The Case Files of Jeweler Richard"
-    synonyms:
-      - "Housekishou Richard-shi no Nazo Kantei"
-    seasons:
-      - season: 1
-        anilist-id: 111951
   - title: "The Devil is a Part-Timer!"
     synonyms:
       - "Hataraku Maou-sama!"
@@ -3261,13 +3261,6 @@ entries:
       - season: 4
         anilist-id: 21852
         start: 13
-  - title: "Toilet-Bound Hanako-kun"
-    synonyms:
-      - "Jibaku Shounen Hanako-kun"
-      - "Toilet-Bound Hanako-kun"
-    seasons:
-      - season: 1
-        anilist-id: 108463
   - title: "To Your Eternity"
     synonyms:
       - "不滅のあなたへ"
@@ -3276,6 +3269,13 @@ entries:
         anilist-id: 114535
       - season: 2
         anilist-id: 138565
+  - title: "Toilet-Bound Hanako-kun"
+    synonyms:
+      - "Jibaku Shounen Hanako-kun"
+      - "Toilet-Bound Hanako-kun"
+    seasons:
+      - season: 1
+        anilist-id: 108463
   - title: "Tokyo Ghoul"
     seasons:
       - season: 1
@@ -3470,6 +3470,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 1290
+  - title: "Y School Heroes"
+    synonyms:
+      - "Yo-kai Gakuen Y: Encounter With N"
+      - "Youkai Watch Jam: Youkai Gakuen Y - N to no Souguu"
+    seasons:
+      - season: 1
+        anilist-id: 113472
   - title: "Yamada-kun and the Seven Witches"
     synonyms:
       - "Yamada-kun & the 7 Witches"
@@ -3478,13 +3485,6 @@ entries:
     seasons:
       - season: 1
         anilist-id: 20966
-  - title: "Y School Heroes"
-    synonyms:
-      - "Yo-kai Gakuen Y: Encounter With N"
-      - "Youkai Watch Jam: Youkai Gakuen Y - N to no Souguu"
-    seasons:
-      - season: 1
-        anilist-id: 113472
   - title: "Yozakura Quartet"
     synonyms:
       - "Yozakura Quartet: Hana no Uta"
