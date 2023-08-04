@@ -77,7 +77,7 @@ entries:
   - title: "Ace Attorney"
     synonyms:
       - "逆転裁判 その『真実』、異議あり！"
-      - "Gyakuten Saiban: Sono \"Shinjitsu\", Igi Ari!"
+      - 'Gyakuten Saiban: Sono "Shinjitsu", Igi Ari!'
     seasons:
       - season: 1
         anilist-id: 21360
@@ -639,9 +639,8 @@ entries:
     seasons:
       - season: 1
         anilist-id: 1482
-      - season: 1
+      - season: 2
         anilist-id: 1482
-        start: 52
   - title: "D.Gray-man HALLOW"
     synonyms:
       - "D.Gray-Man Hallow"
@@ -3535,3 +3534,99 @@ entries:
         anilist-id: 103871
       - season: 2
         anilist-id: 110733
+  - title: "Natsume's Book of Friends"
+    synonyms:
+      - "Natsume Yujin-cho"
+      - "Natsume Yuujinchou"
+    seasons:
+      - season: 1
+        anilist-id: 4081
+      - season: 2
+        anilist-id: 5300
+      - season: 3
+        anilist-id: 10379
+      - season: 4
+        anilist-id: 11665
+      - season: 5
+        anilist-id: 21710
+      - season: 6
+        anilist-id: 97983
+  - title: "NARUTO: Shippuuden"
+    synonyms:
+      - "Naruto: Shippuden"
+      - "Naruto Shippuden"
+      - "Naruto Shippūden"
+      - "Naruto Shippûden"
+    seasons:
+      - season: 1
+        anilist-id: 1735
+      - season: 2
+        anilist-id: 1735
+      - season: 3
+        anilist-id: 1735
+      - season: 4
+        anilist-id: 1735
+      - season: 5
+        anilist-id: 1735
+      - season: 6
+        anilist-id: 1735
+      - season: 7
+        anilist-id: 1735
+      - season: 8
+        anilist-id: 1735
+      - season: 9
+        anilist-id: 1735
+      - season: 10
+        anilist-id: 1735
+      - season: 11
+        anilist-id: 1735
+      - season: 12
+        anilist-id: 1735
+      - season: 13
+        anilist-id: 1735
+      - season: 14
+        anilist-id: 1735
+      - season: 15
+        anilist-id: 1735
+      - season: 16
+        anilist-id: 1735
+      - season: 17
+        anilist-id: 1735
+      - season: 18
+        anilist-id: 1735
+      - season: 19
+        anilist-id: 1735
+      - season: 20
+        anilist-id: 1735
+  - title: "Lupin the Third"
+    synonyms:
+      - "Lupin III"
+      - "Lupin Sansei"
+      - "Lupin the 3rd"
+      - "ルパン三世"
+    seasons:
+      - season: 1
+        anilist-id: 1412
+      - season: 2
+        anilist-id: 1425
+      - season: 3
+        anilist-id: 1426
+      - season: 4
+        anilist-id: 20906
+      - season: 5
+        anilist-id: 100957
+      - season: 6
+        anilist-id: 134623
+        start: 0
+
+  - title: "Little Busters"
+    synonyms:
+      - "Little Busters!"
+      - "リトルバスターズ!"
+    seasons:
+      - season: 0
+        anilist-id: 20481
+      - season: 1
+        anilist-id: 13655
+      - season: 2
+        anilist-id: 18195
