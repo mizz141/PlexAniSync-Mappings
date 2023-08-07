@@ -1777,8 +1777,6 @@ entries:
       - "Little Busters!"
       - "リトルバスターズ!"
     seasons:
-      - season: 0
-        anilist-id: 20481
       - season: 1
         anilist-id: 13655
       - season: 2
