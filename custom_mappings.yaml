@@ -1764,14 +1764,6 @@ entries:
         anilist-id: 114340
       - season: 2
         anilist-id: 127550
-  - title: "Listen to Me, Girls. I'm Your Father!"
-    synonyms:
-      - "Papa no Iukoto wo Kikinasai!"
-      - "Listen to Me, Girls, I'm Your Father!"
-      - "Papakiki, Listen to Me, Girls, I'm Your Father!"
-    seasons:
-      - season: 1
-        anilist-id: 11179
   - title: "Little Busters"
     synonyms:
       - "Little Busters!"
@@ -1781,6 +1773,14 @@ entries:
         anilist-id: 13655
       - season: 2
         anilist-id: 18195
+  - title: "Listen to Me, Girls. I'm Your Father!"
+    synonyms:
+      - "Papa no Iukoto wo Kikinasai!"
+      - "Listen to Me, Girls, I'm Your Father!"
+      - "Papakiki, Listen to Me, Girls, I'm Your Father!"
+    seasons:
+      - season: 1
+        anilist-id: 11179
   - title: "Log Horizon"
     seasons:
       - season: 1
