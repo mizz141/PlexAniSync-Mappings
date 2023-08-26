@@ -11,8 +11,6 @@ Tested for maximum compatibility TVDB, TMDB and the new Plex Scanner.
 - TVDB Specials cannot be matched with custom mappings due to [PlexAniSync not supporting Season 0/Specials](https://github.com/RickDB/PlexAniSync/issues/80#issuecomment-944931420).
 - You may need to change titles on some mappings if it changes on TheTVDB or you tweak your Plex entry.
 
-## [Currently Mapped Titles](https://github.com/mizz141/PlexAniSync-Mappings/wiki/Titles-that-have-been-mapped-so-far)
-
 ## [Installation on unRAID](https://github.com/mizz141/PlexAniSync-Mappings/wiki/Installation-on-unRAID)
 
 ## How to contribute
