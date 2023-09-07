@@ -2929,6 +2929,15 @@ entries:
         anilist-id: 24
       - season: 2
         anilist-id: 846
+  - title: "Science Fell in Love, So I Tried to Prove It"
+    synonyms:
+      - "RikeKoi"
+      - "理科生坠入情网，故尝试证明。"
+    seasons:
+      - season: 1
+        anilist-id: 107067
+      - season: 2
+        anilist-id: 125124
   - title: "Sekirei"
     synonyms:
       - "セキレイ"
