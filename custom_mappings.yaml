@@ -467,7 +467,7 @@ entries:
       - season: 1
         anilist-id: 21311
         start: 1
-      - season: 2
+      - season: 1
         anilist-id: 21679
         start: 13
       - season: 3
@@ -1752,6 +1752,8 @@ entries:
   - title: "KONOSUBA -An Explosion on This Wonderful World!"
     synonyms:
       - "Kono Subarashii Sekai ni Bakuen wo!"
+      - "Kono Subarashii Sekai ni Bakuen o!"
+      - "この素晴らしい世界に爆焔を！"
     seasons:
       - season: 1
         anilist-id: 150075
