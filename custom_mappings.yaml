@@ -467,13 +467,17 @@ entries:
       - season: 1
         anilist-id: 21311
         start: 1
-      - season: 2
+      - season: 1
         anilist-id: 21679
         start: 13
-      - season: 3
+      - season: 2
         anilist-id: 103223
-      - season: 4
+      - season: 3
         anilist-id: 141249
+        start: 1
+      - season: 3
+        anilist-id: 163263
+        start: 14
   - title: "By the Grace of the Gods"
     synonyms:
       - "神達に拾われた男"
@@ -1752,6 +1756,9 @@ entries:
   - title: "KONOSUBA -An Explosion on This Wonderful World!"
     synonyms:
       - "Kono Subarashii Sekai ni Bakuen wo!"
+      - "Kono Subarashii Sekai ni Bakuen o!"
+      - "KonoSuba – An Explosion on This Wonderful World!"
+      - "この素晴らしい世界に爆焔を！"
     seasons:
       - season: 1
         anilist-id: 150075
