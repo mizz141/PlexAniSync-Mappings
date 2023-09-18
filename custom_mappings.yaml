@@ -715,6 +715,16 @@ entries:
     seasons:
       - season: 1
         anilist-id: 105190
+  - title: "Dead Mount Death Play"
+    synonyms:
+      - "デッドマウント・デスプレイ"
+    seasons:
+      - season: 1
+        anilist-id: 157198
+        start: 1
+      - season: 1
+        anilist-id: 162803
+        start: 13
   - title: "Demon Slayer: Kimetsu no Yaiba"
     synonyms:
       - "Demon Slayer"
@@ -938,6 +948,10 @@ entries:
         anilist-id: 21746
       - season: 3
         anilist-id: 21748
+      - season: 4
+        anilist-id: 146472
+      - season: 5
+        anilist-id: 146473
   - title: "Food Wars! Shokugeki no Soma"
     synonyms:
       - "Food Wars!"
