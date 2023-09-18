@@ -1122,6 +1122,14 @@ entries:
     seasons:
       - season: 1
         anilist-id: 128828
+  - title: "Goblin Slayer"
+    synonyms:
+      - "ゴブリンスレイヤー"
+    seasons:
+      - season: 1
+        anilist-id: 101165
+      - season: 2
+        anilist-id: 129188
   - title: "Great Pretender"
     synonyms:
       - "グレートプリテンダー"
