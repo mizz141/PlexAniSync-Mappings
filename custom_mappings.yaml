@@ -3617,6 +3617,19 @@ entries:
     seasons:
       - season: 1
         anilist-id: 118465
+  - title: "Wotaku ni Koi wa Muzukashii"
+    synonyms:
+      - "Wotakoi: Love is Hard for Otaku"
+      - "Otaku ni Koi wa Muzukashii"
+      - "WotaKoi"
+      - "It’s Difficult to Love an Otaku"
+      - "Love is Hard for an Otaku"
+      - "Love is Hard for Nerds"
+    seasons:
+      - season: 1
+        anilist-id: 99578
+      # - season: 0
+      #   anilist-id: 104217
   - title: "WXIII: Patlabor The Movie 3"
     synonyms:
       - "Patlabor 3"
