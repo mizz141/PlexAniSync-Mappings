@@ -928,6 +928,17 @@ entries:
       - season: 1
         anilist-id: 11741
         start: 13
+  - title: "Fighting Spirit"
+    synonyms:
+      - "Hajime no Ippo"
+      - "Hajime no Ippo: The Fighting!"
+    seasons:
+      - season: 1
+        anilist-id: 263
+      - season: 2
+        anilist-id: 5258
+      - season: 3
+        anilist-id: 19647
   - title: "Fire Force"
     synonyms:
       - "Enen no Shouboutai"
