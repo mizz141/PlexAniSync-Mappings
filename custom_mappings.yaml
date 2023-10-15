@@ -89,6 +89,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 92
+  - title: "After-school Hanako-kun"
+    synonyms:
+      - "Mein Schulgeist Hanako - After School"
+    seasons:
+      - season: 1
+        anilist-id: 159074
   - title: "Ah! My goddess"
     synonyms:
       - "Oh! My Goddess"
@@ -2659,7 +2665,7 @@ entries:
         anilist-id: 110613
   - title: "Okami-san and Her Seven Companions"
     synonyms:
-      - "Okamisan Wolf and the Seven Friends" 
+      - "Okamisan Wolf and the Seven Friends"
       - "Okamisan to Shichinin no Nakamatachi"
       - "Ookami-san to Shichinin no Nakama-tachi"
     seasons:
@@ -3056,6 +3062,14 @@ entries:
     seasons:
       - season: 1
         anilist-id: 107188
+  - title: "Shojo-Mangaka Nozaki-kun"
+    synonyms:
+      - "Monthly Girls' Nozaki-kun"
+      - "Gekkan Shoujo Nozaki-kun"
+      - "Shojo Mangaka Nozaki-kun"
+    seasons:
+      - season: 1
+        anilist-id: 20668
   - title: "Show By Rock!!"
     synonyms:
       - "SHOW BY ROCK!!"
@@ -3072,14 +3086,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 113476
-  - title: "Shojo-Mangaka Nozaki-kun"
+  - title: "SK8 the Infinity"
     synonyms:
-      - "Monthly Girls' Nozaki-kun"
-      - "Gekkan Shoujo Nozaki-kun"
-      - "Shojo Mangaka Nozaki-kun"
+      - "Sk8"
     seasons:
       - season: 1
-        anilist-id: 20668
+        anilist-id: 124153
   - title: "Slayers"
     synonyms:
       - "Slayers Evolution-R"
@@ -3097,12 +3109,6 @@ entries:
         anilist-id: 4028
       - season: 5
         anilist-id: 5233
-  - title: "SK8 the Infinity"
-    synonyms:
-      - "Sk8"
-    seasons:
-      - season: 1
-        anilist-id: 124153
   - title: "Smile Down the Runway"
     synonyms:
       - "Smile at the Runway"
@@ -3516,12 +3522,6 @@ entries:
     seasons:
       - season: 1
         anilist-id: 108463
-  - title: "After-school Hanako-kun"
-    synonyms:
-      - "Mein Schulgeist Hanako - After School"
-    seasons:
-      - season: 1
-        anilist-id: 159074
   - title: "Tokyo Ghoul"
     seasons:
       - season: 1
