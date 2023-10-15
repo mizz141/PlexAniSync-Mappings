@@ -1012,6 +1012,15 @@ entries:
         anilist-id: 111762
       - season: 3
         anilist-id: 124194
+  - title: "Full Dive: This Ultimate Next-Gen Full Dive RPG Is Even S. than Real Life!"
+    synonyms:
+      - "New Game Was Born. It Was Accepted With Shock and Enthusiasm. But No One Can Clear it."
+      - "What If the Ultimately Evolved Full Dive RPG Was a Crappier Game Than Reality"
+      - "Fulldive RPG"
+      - "Full Dive: This Ultimate Next-Gen Full Dive RPG Is Even Shittier Than Real Life!"
+    seasons:
+      - season: 1
+        anilist-id: 126791
   - title: "Full Metal Panic!"
     seasons:
       - season: 1
@@ -3200,10 +3209,6 @@ entries:
         anilist-id: 6381
       - season: 3
         anilist-id: 103119
-  - title: "Suvival Game Club"
-    seasons:
-      - season: 1
-        anilist-id: 20475
   - title: "Summer Time Rendering"
     synonyms:
       - "Summertime Rendering"
@@ -3212,6 +3217,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 129201
+  - title: "Suvival Game Club"
+    seasons:
+      - season: 1
+        anilist-id: 20475
   - title: "Sweetness & Lightning"
     synonyms:
       - "Amaama to Inazuma"
@@ -3497,15 +3506,6 @@ entries:
     seasons:
       - season: 1
         anilist-id: 129898
-  - title: "Full Dive: This Ultimate Next-Gen Full Dive RPG Is Even S. than Real Life!"
-    synonyms:
-      - "New Game Was Born. It Was Accepted With Shock and Enthusiasm. But No One Can Clear it."
-      - "What If the Ultimately Evolved Full Dive RPG Was a Crappier Game Than Reality"
-      - "Fulldive RPG"
-      - "Full Dive: This Ultimate Next-Gen Full Dive RPG Is Even Shittier Than Real Life!"
-    seasons:
-      - season: 1
-        anilist-id: 126791
   - title: "Thus Spoke Kishibe Rohan"
     synonyms:
       - "Kishibe Rohan wa Ugokanai"
