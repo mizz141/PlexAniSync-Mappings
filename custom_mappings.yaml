@@ -1960,6 +1960,14 @@ entries:
     seasons:
       - season: 1
         anilist-id: 4087
+  - title: "Migi and Dali"
+    synonyms:
+      - "Migi to Dali"
+      - "Migi&Dali"
+      - "ミギとダリ"
+    seasons:
+      - season: 1
+        anilist-id: 142666
   - title: "Million Arthur"
     synonyms:
       - "Operation Han-Gyaku-Sei Million Arthur"
