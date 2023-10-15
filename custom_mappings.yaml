@@ -763,6 +763,7 @@ entries:
       - "Please don't bully me, Nagatoro-san"
       - "Senpai is a bit..."
       - "Senpai, don't you ever get angry?"
+      - "Don’t Toy With Me, Miss Nagatoro"
     seasons:
       - season: 1
         anilist-id: 120697
@@ -2668,6 +2669,7 @@ entries:
       - "Okamisan Wolf and the Seven Friends"
       - "Okamisan to Shichinin no Nakamatachi"
       - "Ookami-san to Shichinin no Nakama-tachi"
+      - "Okami-san & Her Seven Companions"
     seasons:
       - season: 1
         anilist-id: 121797
@@ -3201,6 +3203,14 @@ entries:
     seasons:
       - season: 1
         anilist-id: 20475
+  - title: "Summer Time Rendering"
+    synonyms:
+      - "Summertime Rendering"
+      - "Bright Sun Dark Shadows"
+      - "Bright Sun - Dark Shadows"
+    seasons:
+      - season: 1
+        anilist-id: 129201
   - title: "Sweetness & Lightning"
     synonyms:
       - "Amaama to Inazuma"
@@ -3297,6 +3307,14 @@ entries:
       - season: 2
         anilist-id: 166452
         start: 13
+  - title: "The Café Terrace and Its Goddesses"
+    synonyms:
+      - "Goddess Café Terrace"
+      - "Megami no Kafe Terasu"
+      - "Megami no Café Terrace"
+      - "Megami no Cafe Terrace"
+    seasons:
+      - season
   - title: "The Case Files of Jeweler Richard"
     synonyms:
       - "Housekishou Richard-shi no Nazo Kantei"
@@ -3475,11 +3493,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 129898
-  - title: "This Ultimate Next-Gen Full Dive RPG Is Even S. than Real Life!"
+  - title: "Full Dive: This Ultimate Next-Gen Full Dive RPG Is Even S. than Real Life!"
     synonyms:
       - "New Game Was Born. It Was Accepted With Shock and Enthusiasm. But No One Can Clear it."
       - "What If the Ultimately Evolved Full Dive RPG Was a Crappier Game Than Reality"
       - "Fulldive RPG"
+      - "Full Dive: This Ultimate Next-Gen Full Dive RPG Is Even Shittier Than Real Life!"
     seasons:
       - season: 1
         anilist-id: 126791
@@ -3522,6 +3541,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 108463
+  - title: "After-school Hanako-kun"
+    synonyms:
+      - "Mein Schulgeist Hanako: After School"
+    seasons:
+      - season: 1
+        anilist-id: 159074
   - title: "Tokyo Ghoul"
     seasons:
       - season: 1
