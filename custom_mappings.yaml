@@ -92,6 +92,7 @@ entries:
   - title: "After-school Hanako-kun"
     synonyms:
       - "Mein Schulgeist Hanako - After School"
+      - "Mein Schulgeist Hanako: After School"
     seasons:
       - season: 1
         anilist-id: 159074
@@ -3544,12 +3545,6 @@ entries:
     seasons:
       - season: 1
         anilist-id: 108463
-  - title: "After-school Hanako-kun"
-    synonyms:
-      - "Mein Schulgeist Hanako: After School"
-    seasons:
-      - season: 1
-        anilist-id: 159074
   - title: "Tokyo Ghoul"
     seasons:
       - season: 1
