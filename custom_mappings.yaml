@@ -3314,7 +3314,10 @@ entries:
       - "Megami no Café Terrace"
       - "Megami no Cafe Terrace"
     seasons:
-      - season
+      - season: 1
+        anilist-id: 154412
+      - season: 2
+        anilist-id: 166477
   - title: "The Case Files of Jeweler Richard"
     synonyms:
       - "Housekishou Richard-shi no Nazo Kantei"
