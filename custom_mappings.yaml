@@ -1920,6 +1920,14 @@ entries:
         anilist-id: 20820
       - season: 5
         anilist-id: 21871
+  - title: "Maken-Ki!"
+    synonyms:
+      - "Maken-Ki! Battling Venus"
+    seasons:
+      - season: 1
+        anilist-id: 9936
+      - season: 2
+        anilist-id: 15565
   - title: "March Comes in Like a Lion"
     synonyms:
       - "Sangatsu no Lion"
@@ -2472,6 +2480,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 129192
+  - title: "My New Boss Is Goofy"
+    synonyms:
+      - "Mein neuer Boss ist Goofy"
+    seasons:
+      - season: 1
+        anilist-id: 165070
   - title: "My Next Life as a Villainess: All Routes Lead to Doom!"
     synonyms:
       - "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta"
@@ -2640,6 +2654,14 @@ entries:
     seasons:
       - season: 1
         anilist-id: 110613
+  - title: "Okami-san and Her Seven Companions"
+    synonyms:
+      - "Okamisan Wolf and the Seven Friends" 
+      - "Okamisan to Shichinin no Nakamatachi"
+      - "Ookami-san to Shichinin no Nakama-tachi"
+    seasons:
+      - season: 1
+        anilist-id: 121797
   - title: "One Piece"
     seasons:
       - season: 1
@@ -2698,6 +2720,7 @@ entries:
       - "Ore no Imouto ga Konna ni Kawaii Wake ga Nai"
       - "Ore no Imouto ga Konnani Kawaii Wake ga Nai"
       - "Oreimo"
+      - "Meine kleine Schwester kann gar nicht so niedlich sein"
     seasons:
       - season: 1
         anilist-id: 8769
@@ -2737,6 +2760,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 101350
+  - title: "Phoenix: Eden17"
+    synonyms:
+      - "Phönix: Eden17"
+      - "Phoenix: Eden's Space"
+    seasons:
+      - season: 1
+        anilist-id: 157957
   - title: "Plunderer"
     seasons:
       - season: 1
@@ -3039,6 +3069,31 @@ entries:
     seasons:
       - season: 1
         anilist-id: 113476
+  - title: "Shojo-Mangaka Nozaki-kun"
+    synonyms:
+      - "Monthly Girls' Nozaki-kun"
+      - "Gekkan Shoujo Nozaki-kun"
+      - "Shojo Mangaka Nozaki-kun"
+    seasons:
+      - season: 1
+        anilist-id: 20668
+  - title: "Slayers"
+    synonyms:
+      - "Slayers Evolution-R"
+      - "Slayers Next"
+      - "Slayers Revolution"
+      - "Slayers Try Slayers: Book of Spells"
+    seasons:
+      - season: 1
+        anilist-id: 534
+      - season: 2
+        anilist-id: 535
+      - season: 3
+        anilist-id: 1172
+      - season: 4
+        anilist-id: 4028
+      - season: 5
+        anilist-id: 5233
   - title: "SK8 the Infinity"
     synonyms:
       - "Sk8"
@@ -3411,6 +3466,14 @@ entries:
     seasons:
       - season: 1
         anilist-id: 129898
+  - title: "This Ultimate Next-Gen Full Dive RPG Is Even S. than Real Life!"
+    synonyms:
+      - "New Game Was Born. It Was Accepted With Shock and Enthusiasm. But No One Can Clear it."
+      - "What If the Ultimately Evolved Full Dive RPG Was a Crappier Game Than Reality"
+      - "Fulldive RPG"
+    seasons:
+      - season: 1
+        anilist-id: 126791
   - title: "Thus Spoke Kishibe Rohan"
     synonyms:
       - "Kishibe Rohan wa Ugokanai"
@@ -3446,9 +3509,16 @@ entries:
     synonyms:
       - "Jibaku Shounen Hanako-kun"
       - "Toilet-Bound Hanako-kun"
+      - "Mein Schulgeist Hanako"
     seasons:
       - season: 1
         anilist-id: 108463
+  - title: "After-school Hanako-kun"
+    synonyms:
+      - "Mein Schulgeist Hanako - After School"
+    seasons:
+      - season: 1
+        anilist-id: 159074
   - title: "Tokyo Ghoul"
     seasons:
       - season: 1
@@ -3564,6 +3634,8 @@ entries:
       - season: 5
         anilist-id: 1293
   - title: "Urusei Yatsura (2022)"
+    synonyms:
+      - "Urusei Yatsura" #Plex naming is wonky on this, setting 2022 as default for now. PLUGIN DEVS: ADD ABILITY TO SET RELEASE-YEAR
     seasons:
       - season: 1
         anilist-id: 143277
@@ -3658,6 +3730,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 1290
+  - title: "xxxHOLiC"
+    seasons:
+      - season: 1
+        anilist-id: 861
+      - season: 2
+        anilist-id: 3091
   - title: "Y School Heroes"
     synonyms:
       - "Yo-kai Gakuen Y: Encounter With N"
