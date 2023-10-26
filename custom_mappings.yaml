@@ -3217,7 +3217,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 129201
-  - title: "Suvival Game Club"
+  - title: "Survival Game Club"
+    synonyms:
+      - "Sabagebu! - Survival Game Club!"
+      - "Sabagebu!"
     seasons:
       - season: 1
         anilist-id: 20475
