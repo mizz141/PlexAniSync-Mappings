@@ -1287,6 +1287,15 @@ entries:
     seasons:
       - season: 1
         anilist-id: 112748
+  - title: "Heaven Official's Blessing"
+    synonyms:
+      - "Tian Guan Ci Fu"
+      - "天官赐福"
+    seasons:
+      - season: 1
+        anilist-id: 113260
+      - season: 2
+        anilist-id: 127976
   - title: "Heaven's Lost Property"
     seasons:
       - season: 1
