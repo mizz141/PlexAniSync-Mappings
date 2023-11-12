@@ -3477,6 +3477,19 @@ entries:
     seasons:
       - season: 1
         anilist-id: 116741
+  - title: "The Tatami Galaxy"
+    synonyms:
+      - "Yojouhan Shinwa Taikei"
+      - "Yojo-Han Shinwa Taikei"
+      - "Yojou-Han Shinwa Taikei"
+      - "Yojohan Shinwa Taikei"
+      - "四叠半神话大系"
+      - "4½ Tatami Mythological Chronicles"
+    seasons:
+      - season: 1
+        anilist-id: 7785
+      - season: 2
+        anilist-id: 137819
   - title: "The Testament of Sister New Devil"
     seasons:
       - season: 1
