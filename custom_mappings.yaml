@@ -279,6 +279,12 @@ entries:
       - season: 4
         anilist-id: 131681
         start: 17
+      - season: 4
+        anilist-id: 146984
+        start: 29
+      - season: 4
+        anilist-id: 162314
+        start: 30
   - title: "B: The Beginning"
     seasons:
       - season: 1
