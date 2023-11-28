@@ -3065,6 +3065,7 @@ entries:
   - title: "Seraph of the End"
     synonyms:
       - "Owari no Seraph"
+      - "OwaSera"
       - "Seraph of the End: Vampire Reign"
     seasons:
       - season: 1
@@ -3373,8 +3374,9 @@ entries:
         anilist-id: 15809
       - season: 2
         anilist-id: 130592
-      - season: 3
+      - season: 2
         anilist-id: 155168
+        start: 13
   - title: "The Familiar of Zero"
     synonyms:
       - "Zero no Tsukaima"
