@@ -746,6 +746,12 @@ entries:
       - season: 1
         anilist-id: 162803
         start: 13
+  - title: "Delicious in Dungeon"
+    synonyms:
+      - "Dungeon Meshi"
+    seasons:
+      - season: 1
+        anilist-id: 153518
   - title: "Demon Slayer: Kimetsu no Yaiba"
     synonyms:
       - "Demon Slayer"
