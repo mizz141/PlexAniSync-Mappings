@@ -493,13 +493,12 @@ entries:
         start: 14
   - title: "Bottom-Tier Character Tomozaki"
     synonyms:
-      - 弱キャラ友崎くん
+      - "弱キャラ友崎くん"
     seasons:
       - season: 1
         anilist-id: 112443
       - season: 2
         anilist-id: 143866
-
   - title: "By the Grace of the Gods"
     synonyms:
       - "神達に拾われた男"
