@@ -1,4 +1,4 @@
-
+![YAML Badge](https://img.shields.io/badge/dynamic/yaml?color=informational&label=Mappings&query=$.entries.length&url=https%3A%2F%2Fraw.githubusercontent.com%2Fmizz141%2FPlexAniSync-Mappings%2Fmaster%2Fcustom_mappings.yaml)
 
 # PlexAniSync-Mappings
 This is a collection of [custom-mappings](https://github.com/RickDB/PlexAniSync#custom-anime-mapping "custom-mappings") for the [PlexAniSync](https://github.com/RickDB/PlexAniSync "PlexAniSync") plex addon.
