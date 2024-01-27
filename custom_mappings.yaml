@@ -3138,6 +3138,16 @@ entries:
     seasons:
       - season: 1
         anilist-id: 124153
+  - title: "Slam Dunk"
+    seasons:
+      - season: 1
+        anilist-id: 170
+      - season: 2
+        anilist-id: 170
+      - season: 3
+        anilist-id: 170
+      - season: 4
+        anilist-id: 170
   - title: "Slayers"
     synonyms:
       - "Slayers Evolution-R"
