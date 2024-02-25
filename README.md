@@ -1,4 +1,4 @@
-
+![YAML Badge](https://img.shields.io/badge/dynamic/yaml?color=informational&label=Mappings&query=$.entries.length&url=https%3A%2F%2Fraw.githubusercontent.com%2Fmizz141%2FPlexAniSync-Mappings%2Fmaster%2Fcustom_mappings.yaml)
 
 # PlexAniSync-Mappings
 This is a collection of [custom-mappings](https://github.com/RickDB/PlexAniSync#custom-anime-mapping "custom-mappings") for the [PlexAniSync](https://github.com/RickDB/PlexAniSync "PlexAniSync") plex addon.
@@ -10,8 +10,6 @@ Tested for maximum compatibility TVDB, TMDB and the new Plex Scanner.
 - Plus (+) sign indicates that two Anilist entries have been mapped to a single Plex Season respectively.
 - TVDB Specials cannot be matched with custom mappings due to [PlexAniSync not supporting Season 0/Specials](https://github.com/RickDB/PlexAniSync/issues/80#issuecomment-944931420).
 - You may need to change titles on some mappings if it changes on TheTVDB or you tweak your Plex entry.
-
-## [Currently Mapped Titles](https://github.com/mizz141/PlexAniSync-Mappings/wiki/Titles-that-have-been-mapped-so-far)
 
 ## [Installation on unRAID](https://github.com/mizz141/PlexAniSync-Mappings/wiki/Installation-on-unRAID)
 

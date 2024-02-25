@@ -89,6 +89,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 92
+  - title: "After-school Hanako-kun"
+    synonyms:
+      - "Mein Schulgeist Hanako - After School"
+      - "Mein Schulgeist Hanako: After School"
+    seasons:
+      - season: 1
+        anilist-id: 159074
   - title: "Ah! My goddess"
     synonyms:
       - "Oh! My Goddess"
@@ -272,6 +279,12 @@ entries:
       - season: 4
         anilist-id: 131681
         start: 17
+      - season: 4
+        anilist-id: 146984
+        start: 29
+      - season: 4
+        anilist-id: 162314
+        start: 30
   - title: "B: The Beginning"
     seasons:
       - season: 1
@@ -440,6 +453,8 @@ entries:
         anilist-id: 9919
       - season: 2
         anilist-id: 21861
+      - season: 3
+        anilist-id: 158931
   - title: "BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense."
     synonyms:
       - "痛いのは嫌なので防御力に極振りしたいと思います"
@@ -459,6 +474,14 @@ entries:
     seasons:
       - season: 1
         anilist-id: 97938
+  - title: "Bottom-Tier Character Tomozaki"
+    synonyms:
+      - "弱キャラ友崎くん"
+    seasons:
+      - season: 1
+        anilist-id: 112443
+      - season: 2
+        anilist-id: 143866
   - title: "Bungo Stray Dogs"
     synonyms:
       - "Bungou Stray Dogs"
@@ -467,13 +490,17 @@ entries:
       - season: 1
         anilist-id: 21311
         start: 1
-      - season: 2
+      - season: 1
         anilist-id: 21679
         start: 13
-      - season: 3
+      - season: 2
         anilist-id: 103223
-      - season: 4
+      - season: 3
         anilist-id: 141249
+        start: 1
+      - season: 3
+        anilist-id: 163263
+        start: 14
   - title: "By the Grace of the Gods"
     synonyms:
       - "神達に拾われた男"
@@ -711,6 +738,22 @@ entries:
     seasons:
       - season: 1
         anilist-id: 105190
+  - title: "Dead Mount Death Play"
+    synonyms:
+      - "デッドマウント・デスプレイ"
+    seasons:
+      - season: 1
+        anilist-id: 157198
+        start: 1
+      - season: 1
+        anilist-id: 162803
+        start: 13
+  - title: "Delicious in Dungeon"
+    synonyms:
+      - "Dungeon Meshi"
+    seasons:
+      - season: 1
+        anilist-id: 153518
   - title: "Demon Slayer: Kimetsu no Yaiba"
     synonyms:
       - "Demon Slayer"
@@ -743,6 +786,7 @@ entries:
       - "Please don't bully me, Nagatoro-san"
       - "Senpai is a bit..."
       - "Senpai, don't you ever get angry?"
+      - "Don’t Toy With Me, Miss Nagatoro"
     seasons:
       - season: 1
         anilist-id: 120697
@@ -763,6 +807,9 @@ entries:
         anilist-id: 113936
       - season: 3
         anilist-id: 131518
+      - season: 3
+        anilist-id: 162670
+        start: 12
   - title: "Dragon Ball"
     synonyms:
       - "Dragonball"
@@ -914,14 +961,27 @@ entries:
       - season: 1
         anilist-id: 11741
         start: 13
+  - title: "Fighting Spirit"
+    synonyms:
+      - "Hajime no Ippo"
+      - "Hajime no Ippo: The Fighting!"
+    seasons:
+      - season: 1
+        anilist-id: 263
+      - season: 2
+        anilist-id: 5258
+      - season: 3
+        anilist-id: 19647
   - title: "Fire Force"
     synonyms:
       - "Enen no Shouboutai"
       - "炎炎ノ消防隊"
     seasons:
       - season: 1
-        anilist-id: 114236
+        anilist-id: 105310
       - season: 2
+        anilist-id: 114236
+      - season: 3
         anilist-id: 149118
   - title: "FLCL"
     synonyms:
@@ -934,6 +994,10 @@ entries:
         anilist-id: 21746
       - season: 3
         anilist-id: 21748
+      - season: 4
+        anilist-id: 146472
+      - season: 5
+        anilist-id: 146473
   - title: "Food Wars! Shokugeki no Soma"
     synonyms:
       - "Food Wars!"
@@ -970,6 +1034,15 @@ entries:
         anilist-id: 111762
       - season: 3
         anilist-id: 124194
+  - title: "Full Dive: This Ultimate Next-Gen Full Dive RPG Is Even S. than Real Life!"
+    synonyms:
+      - "New Game Was Born. It Was Accepted With Shock and Enthusiasm. But No One Can Clear it."
+      - "What If the Ultimately Evolved Full Dive RPG Was a Crappier Game Than Reality"
+      - "Fulldive RPG"
+      - "Full Dive: This Ultimate Next-Gen Full Dive RPG Is Even Shittier Than Real Life!"
+    seasons:
+      - season: 1
+        anilist-id: 126791
   - title: "Full Metal Panic!"
     seasons:
       - season: 1
@@ -1104,6 +1177,14 @@ entries:
     seasons:
       - season: 1
         anilist-id: 128828
+  - title: "Goblin Slayer"
+    synonyms:
+      - "ゴブリンスレイヤー"
+    seasons:
+      - season: 1
+        anilist-id: 101165
+      - season: 2
+        anilist-id: 129188
   - title: "Great Pretender"
     synonyms:
       - "グレートプリテンダー"
@@ -1259,6 +1340,15 @@ entries:
     seasons:
       - season: 1
         anilist-id: 112748
+  - title: "Heaven Official's Blessing"
+    synonyms:
+      - "Tian Guan Ci Fu"
+      - "天官赐福"
+    seasons:
+      - season: 1
+        anilist-id: 113260
+      - season: 2
+        anilist-id: 127976
   - title: "Heaven's Lost Property"
     seasons:
       - season: 1
@@ -1752,6 +1842,9 @@ entries:
   - title: "KONOSUBA -An Explosion on This Wonderful World!"
     synonyms:
       - "Kono Subarashii Sekai ni Bakuen wo!"
+      - "Kono Subarashii Sekai ni Bakuen o!"
+      - "KonoSuba – An Explosion on This Wonderful World!"
+      - "この素晴らしい世界に爆焔を！"
     seasons:
       - season: 1
         anilist-id: 150075
@@ -1878,6 +1971,14 @@ entries:
         anilist-id: 20820
       - season: 5
         anilist-id: 21871
+  - title: "Maken-Ki!"
+    synonyms:
+      - "Maken-Ki! Battling Venus"
+    seasons:
+      - season: 1
+        anilist-id: 9936
+      - season: 2
+        anilist-id: 15565
   - title: "March Comes in Like a Lion"
     synonyms:
       - "Sangatsu no Lion"
@@ -1887,6 +1988,14 @@ entries:
         anilist-id: 21366
       - season: 2
         anilist-id: 98478
+  - title: "Masamune-kun's Revenge"
+    synonyms:
+      - "Masamune-kun no Revenge"
+    seasons:
+      - season: 1
+        anilist-id: 21857
+      - season: 2
+        anilist-id: 146953
   - title: "Medaka Box"
     seasons:
       - season: 1
@@ -1910,6 +2019,14 @@ entries:
     seasons:
       - season: 1
         anilist-id: 4087
+  - title: "Migi and Dali"
+    synonyms:
+      - "Migi to Dali"
+      - "Migi&Dali"
+      - "ミギとダリ"
+    seasons:
+      - season: 1
+        anilist-id: 142666
   - title: "Million Arthur"
     synonyms:
       - "Operation Han-Gyaku-Sei Million Arthur"
@@ -2414,6 +2531,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 129192
+  - title: "My New Boss Is Goofy"
+    synonyms:
+      - "Mein neuer Boss ist Goofy"
+    seasons:
+      - season: 1
+        anilist-id: 165070
   - title: "My Next Life as a Villainess: All Routes Lead to Doom!"
     synonyms:
       - "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta"
@@ -2582,6 +2705,15 @@ entries:
     seasons:
       - season: 1
         anilist-id: 110613
+  - title: "Okami-san and Her Seven Companions"
+    synonyms:
+      - "Okamisan Wolf and the Seven Friends"
+      - "Okamisan to Shichinin no Nakamatachi"
+      - "Ookami-san to Shichinin no Nakama-tachi"
+      - "Okami-san & Her Seven Companions"
+    seasons:
+      - season: 1
+        anilist-id: 121797
   - title: "One Piece"
     seasons:
       - season: 1
@@ -2626,6 +2758,8 @@ entries:
         anilist-id: 21
       - season: 21
         anilist-id: 21
+      - season: 22
+        anilist-id: 21
   - title: "One Room"
     seasons:
       - season: 1
@@ -2640,6 +2774,7 @@ entries:
       - "Ore no Imouto ga Konna ni Kawaii Wake ga Nai"
       - "Ore no Imouto ga Konnani Kawaii Wake ga Nai"
       - "Oreimo"
+      - "Meine kleine Schwester kann gar nicht so niedlich sein"
     seasons:
       - season: 1
         anilist-id: 8769
@@ -2679,6 +2814,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 101350
+  - title: "Phoenix: Eden17"
+    synonyms:
+      - "Phönix: Eden17"
+      - "Phoenix: Eden's Space"
+    seasons:
+      - season: 1
+        anilist-id: 157957
   - title: "Plunderer"
     seasons:
       - season: 1
@@ -2877,6 +3019,12 @@ entries:
         anilist-id: 14751
       - season: 2
         anilist-id: 21462
+  - title: "Saint Cecilia and Pastor Lawrence"
+    synonyms:
+      - "Shiro Seijo to Kuro Bokushi"
+    seasons:
+      - season: 1
+        anilist-id: 150972
   - title: "Saiyuki"
     synonyms:
       - "Saiyuki: Reise nach Westen"
@@ -2915,6 +3063,15 @@ entries:
         anilist-id: 24
       - season: 2
         anilist-id: 846
+  - title: "Science Fell in Love, So I Tried to Prove It"
+    synonyms:
+      - "RikeKoi"
+      - "理科生坠入情网，故尝试证明。"
+    seasons:
+      - season: 1
+        anilist-id: 107067
+      - season: 2
+        anilist-id: 125124
   - title: "Sekirei"
     synonyms:
       - "セキレイ"
@@ -2926,6 +3083,7 @@ entries:
   - title: "Seraph of the End"
     synonyms:
       - "Owari no Seraph"
+      - "OwaSera"
       - "Seraph of the End: Vampire Reign"
     seasons:
       - season: 1
@@ -2950,6 +3108,14 @@ entries:
     seasons:
       - season: 1
         anilist-id: 107188
+  - title: "Shojo-Mangaka Nozaki-kun"
+    synonyms:
+      - "Monthly Girls' Nozaki-kun"
+      - "Gekkan Shoujo Nozaki-kun"
+      - "Shojo Mangaka Nozaki-kun"
+    seasons:
+      - season: 1
+        anilist-id: 20668
   - title: "Show By Rock!!"
     synonyms:
       - "SHOW BY ROCK!!"
@@ -2972,6 +3138,23 @@ entries:
     seasons:
       - season: 1
         anilist-id: 124153
+  - title: "Slayers"
+    synonyms:
+      - "Slayers Evolution-R"
+      - "Slayers Next"
+      - "Slayers Revolution"
+      - "Slayers Try Slayers: Book of Spells"
+    seasons:
+      - season: 1
+        anilist-id: 534
+      - season: 2
+        anilist-id: 535
+      - season: 3
+        anilist-id: 1172
+      - season: 4
+        anilist-id: 4028
+      - season: 5
+        anilist-id: 5233
   - title: "Smile Down the Runway"
     synonyms:
       - "Smile at the Runway"
@@ -3023,12 +3206,15 @@ entries:
     synonyms:
       - "SPY x FAMILY"
       - "Spy X Family"
+      - "SPY×FAMILY"
     seasons:
       - season: 1
         anilist-id: 140960
       - season: 1
         anilist-id: 142838
         start: 13
+      - season: 2
+        anilist-id: 158927
   - title: "Star Blazers: Space Battleship Yamato 2199"
     synonyms:
       - "Star Blazers 2199 - Space Battleship Yamato"
@@ -3057,7 +3243,18 @@ entries:
         anilist-id: 6381
       - season: 3
         anilist-id: 103119
-  - title: "Suvival Game Club"
+  - title: "Summer Time Rendering"
+    synonyms:
+      - "Summertime Rendering"
+      - "Bright Sun Dark Shadows"
+      - "Bright Sun - Dark Shadows"
+    seasons:
+      - season: 1
+        anilist-id: 129201
+  - title: "Survival Game Club"
+    synonyms:
+      - "Sabagebu! - Survival Game Club!"
+      - "Sabagebu!"
     seasons:
       - season: 1
         anilist-id: 20475
@@ -3153,6 +3350,21 @@ entries:
         anilist-id: 98436
       - season: 2
         anilist-id: 154364
+        start: 1
+      - season: 2
+        anilist-id: 166452
+        start: 13
+  - title: "The Café Terrace and Its Goddesses"
+    synonyms:
+      - "Goddess Café Terrace"
+      - "Megami no Kafe Terasu"
+      - "Megami no Café Terrace"
+      - "Megami no Cafe Terrace"
+    seasons:
+      - season: 1
+        anilist-id: 154412
+      - season: 2
+        anilist-id: 166477
   - title: "The Case Files of Jeweler Richard"
     synonyms:
       - "Housekishou Richard-shi no Nazo Kantei"
@@ -3180,8 +3392,9 @@ entries:
         anilist-id: 15809
       - season: 2
         anilist-id: 130592
-      - season: 3
+      - season: 2
         anilist-id: 155168
+        start: 13
   - title: "The Familiar of Zero"
     synonyms:
       - "Zero no Tsukaima"
@@ -3290,6 +3503,19 @@ entries:
     seasons:
       - season: 1
         anilist-id: 116741
+  - title: "The Tatami Galaxy"
+    synonyms:
+      - "Yojouhan Shinwa Taikei"
+      - "Yojo-Han Shinwa Taikei"
+      - "Yojou-Han Shinwa Taikei"
+      - "Yojohan Shinwa Taikei"
+      - "四叠半神话大系"
+      - "4½ Tatami Mythological Chronicles"
+    seasons:
+      - season: 1
+        anilist-id: 7785
+      - season: 2
+        anilist-id: 137819
   - title: "The Testament of Sister New Devil"
     seasons:
       - season: 1
@@ -3366,6 +3592,7 @@ entries:
     synonyms:
       - "Jibaku Shounen Hanako-kun"
       - "Toilet-Bound Hanako-kun"
+      - "Mein Schulgeist Hanako"
     seasons:
       - season: 1
         anilist-id: 108463
@@ -3388,6 +3615,8 @@ entries:
         anilist-id: 120120
       - season: 2
         anilist-id: 142853
+      - season: 3
+        anilist-id: 163329
   - title: "Tokyo Twenty Fourth Ward"
     synonyms:
       - "Tokyo 24th Ward"
@@ -3482,6 +3711,8 @@ entries:
       - season: 5
         anilist-id: 1293
   - title: "Urusei Yatsura (2022)"
+    synonyms:
+      - "Urusei Yatsura" #Plex naming is wonky on this, setting 2022 as default for now. PLUGIN DEVS: ADD ABILITY TO SET RELEASE-YEAR
     seasons:
       - season: 1
         anilist-id: 143277
@@ -3556,6 +3787,19 @@ entries:
     seasons:
       - season: 1
         anilist-id: 118465
+  - title: "Wotaku ni Koi wa Muzukashii"
+    synonyms:
+      - "Wotakoi: Love is Hard for Otaku"
+      - "Otaku ni Koi wa Muzukashii"
+      - "WotaKoi"
+      - "It’s Difficult to Love an Otaku"
+      - "Love is Hard for an Otaku"
+      - "Love is Hard for Nerds"
+    seasons:
+      - season: 1
+        anilist-id: 99578
+      # - season: 0
+      #   anilist-id: 104217
   - title: "WXIII: Patlabor The Movie 3"
     synonyms:
       - "Patlabor 3"
@@ -3563,6 +3807,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 1290
+  - title: "xxxHOLiC"
+    seasons:
+      - season: 1
+        anilist-id: 861
+      - season: 2
+        anilist-id: 3091
   - title: "Y School Heroes"
     synonyms:
       - "Yo-kai Gakuen Y: Encounter With N"
@@ -3628,3 +3878,4 @@ entries:
         anilist-id: 103871
       - season: 2
         anilist-id: 110733
+
