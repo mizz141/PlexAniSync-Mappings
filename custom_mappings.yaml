@@ -3878,4 +3878,17 @@ entries:
         anilist-id: 103871
       - season: 2
         anilist-id: 110733
+  - title: "Kawaii dake ja Nai Shikimori-san"
+    synonyms:
+      - "Miss Shikimori Is Not Just Cute"
+    seasons:
+      - season: 1
+        anilist-id: 127911
+  - title: "Gekijo-ban Sword Art Online: Ordinal Scale"
+    synonyms:
+      - "Sword Art Online The Movie: Ordinal Scale"
+      - "Sword Art Online: Ordinal Scale"
+    seasons:
+      - season: 1
+        anilist-id: 21403
 
