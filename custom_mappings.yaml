@@ -1061,6 +1061,14 @@ entries:
         anilist-id: 384
       - season: 2
         anilist-id: 395
+  - title: "Gekijo-ban Sword Art Online: Ordinal Scale"
+    synonyms:
+      - "Sword Art Online The Movie: Ordinal Scale"
+      - "Sword Art Online: Ordinal Scale"
+    seasons:
+      - season: 1
+        anilist-id: 21403
+
   - title: "Gensou Sangokushi -Tengen Reishinki-"
     synonyms:
       - "Fantasia Sango"
@@ -1765,6 +1773,12 @@ entries:
         anilist-id: 20553
       - season: 2
         anilist-id: 21294
+  - title: "Kawaii dake ja Nai Shikimori-san"
+    synonyms:
+      - "Miss Shikimori Is Not Just Cute"
+    seasons:
+      - season: 1
+        anilist-id: 127911
   - title: "Keep Your Hands Off Eizouken!"
     synonyms:
       - "Don't mess with the Motion Picture Club!"
@@ -3878,4 +3892,3 @@ entries:
         anilist-id: 103871
       - season: 2
         anilist-id: 110733
-

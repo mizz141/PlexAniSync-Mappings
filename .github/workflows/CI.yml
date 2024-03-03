@@ -52,3 +52,5 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Sort entries
+          branch: ci/sort-${{ github.sha }}
+          create_branch: true
