@@ -2514,6 +2514,9 @@ entries:
       - season: 2
         anilist-id: 146065
         start: 0 #Fuck anilist
+      - season: 2
+        anilist-id: 166873
+        start: 13
   - title: "My Dress-Up Darling"
     synonyms:
       - "Sono Bisque Doll wa Koi wo Suru"
