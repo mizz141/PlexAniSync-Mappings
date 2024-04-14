@@ -3368,6 +3368,8 @@ entries:
       - season: 2
         anilist-id: 116742
         start: 13
+      - season: 3
+        anilist-id: 156822
   - title: "The Ancient Magus' Bride"
     synonyms:
       - "Mahoutsukai no Yome"
@@ -3456,7 +3458,10 @@ entries:
       - season: 2
         anilist-id: 112300
       - season: 3
-        anilist-id: 130389
+        anilist-id: 143271
+      # - season: 0
+      #   anilist-id: 130389
+      #   start: 9
   - title: "The King's Avatar"
     synonyms:
       - "Quan Zhi Gao Shou"
