@@ -378,6 +378,8 @@ entries:
         anilist-id: 6707
       - season: 3
         anilist-id: 20606
+      - season: 4
+        anilist-id: 166715
   - title: "Black Lagoon"
     seasons:
       - season: 1
@@ -738,6 +740,20 @@ entries:
     seasons:
       - season: 1
         anilist-id: 105190
+  - title: "Date A Live"
+    synonyms:
+      - "デート・ア・ライブ"
+    seasons:
+      - season: 1
+        anilist-id: 15583
+      - season: 2
+        anilist-id: 19163
+      - season: 3
+        anilist-id: 100722
+      - season: 4
+        anilist-id: 116605
+      - season: 5
+        anilist-id: 151380
   - title: "Dead Mount Death Play"
     synonyms:
       - "デッドマウント・デスプレイ"
@@ -768,6 +784,8 @@ entries:
         anilist-id: 142329
       - season: 4
         anilist-id: 145139
+      - season: 5
+        anilist-id: 166240
   - title: "Devilman Crybaby"
     synonyms:
       - "DEVILMAN crybaby"
@@ -1862,6 +1880,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 150075
+      - season: 2
+        anilist-id: 21699
+      - season: 3
+        anilist-id: 136804
   - title: "Kuma Kuma Kuma Bear"
     synonyms:
       - "くまクマ熊ベアー"
@@ -1871,6 +1893,17 @@ entries:
         anilist-id: 114340
       - season: 2
         anilist-id: 127550
+  - title: "Laid-Back Camp"
+    synonyms:
+      - "Yuru Camp"
+      - "ゆるキャン"
+    seasons:
+      - season: 1
+        anilist-id: 98444
+      - season: 2
+        anilist-id: 104459
+      - season: 3
+        anilist-id: 155908
   - title: "Listen to Me, Girls. I'm Your Father!"
     synonyms:
       - "Papa no Iukoto wo Kikinasai!"
@@ -2540,6 +2573,8 @@ entries:
         anilist-id: 117193
       - season: 6
         anilist-id: 139630
+      - season: 7
+        anilist-id: 163139
   - title: "My Isekai Life"
     synonyms:
       - "The Reincarnated Sage's Alternate World Life: I Got a Second Profession, and Became the Most Powerful in the World"
@@ -3424,6 +3459,17 @@ entries:
       - season: 2
         anilist-id: 155168
         start: 13
+  - title: "The Duke of Death and His Maid"
+    synonyms:
+      - "Shinigami Bocchan to Kuro Maid"
+      - "死神坊ちゃんと黒メイド"
+    seasons:
+      - season: 1
+        anilist-id: 129277
+      - season: 2
+        anilist-id: 139435
+      - season: 3
+        anilist-id: 169584
   - title: "The Familiar of Zero"
     synonyms:
       - "Zero no Tsukaima"
@@ -3505,6 +3551,9 @@ entries:
         anilist-id: 112301
       - season: 2
         anilist-id: 130588
+      - season: 2
+        anilist-id: 130590
+        start: 13
   - title: "The Rising of the Shield Hero"
     synonyms:
       - "Tate no Yuusha no Nariagari"
