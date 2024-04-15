@@ -3912,3 +3912,14 @@ entries:
         anilist-id: 103871
       - season: 2
         anilist-id: 110733
+  - title: "Laid-Back Camp"
+    synonyms:
+      - "Yuru Camp"
+      - "ゆるキャン"
+    seasons:
+      - season: 1
+        anilist-id: 98444
+      - season: 2
+        anilist-id: 104459
+      - season: 3
+        anilist-id: 155908
