@@ -740,6 +740,20 @@ entries:
     seasons:
       - season: 1
         anilist-id: 105190
+  - title: "Date A Live"
+    synonyms:
+      - "デート・ア・ライブ"
+    seasons:
+      - season: 1
+        anilist-id: 15583
+      - season: 2
+        anilist-id: 19163
+      - season: 3
+        anilist-id: 100722
+      - season: 4
+        anilist-id: 116605
+      - season: 5
+        anilist-id: 151380
   - title: "Dead Mount Death Play"
     synonyms:
       - "デッドマウント・デスプレイ"
@@ -1877,6 +1891,17 @@ entries:
         anilist-id: 114340
       - season: 2
         anilist-id: 127550
+  - title: "Laid-Back Camp"
+    synonyms:
+      - "Yuru Camp"
+      - "ゆるキャン"
+    seasons:
+      - season: 1
+        anilist-id: 98444
+      - season: 2
+        anilist-id: 104459
+      - season: 3
+        anilist-id: 155908
   - title: "Listen to Me, Girls. I'm Your Father!"
     synonyms:
       - "Papa no Iukoto wo Kikinasai!"
@@ -3511,6 +3536,9 @@ entries:
         anilist-id: 112301
       - season: 2
         anilist-id: 130588
+      - season: 2
+        anilist-id: 130590
+        start: 13
   - title: "The Rising of the Shield Hero"
     synonyms:
       - "Tate no Yuusha no Nariagari"
@@ -3916,28 +3944,3 @@ entries:
         anilist-id: 103871
       - season: 2
         anilist-id: 110733
-  - title: "Laid-Back Camp"
-    synonyms:
-      - "Yuru Camp"
-      - "ゆるキャン"
-    seasons:
-      - season: 1
-        anilist-id: 98444
-      - season: 2
-        anilist-id: 104459
-      - season: 3
-        anilist-id: 155908
-  - title: "Date A Live"
-    synonyms:
-      - "デート・ア・ライブ"
-    seasons:
-      - season: 1
-        anilist-id: 15583
-      - season: 2
-        anilist-id: 19163
-      - season: 3
-        anilist-id: 100722
-      - season: 4
-        anilist-id: 116605
-      - season: 5
-        anilist-id: 151380
