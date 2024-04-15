@@ -3455,6 +3455,17 @@ entries:
       - season: 2
         anilist-id: 155168
         start: 13
+  - title: "The Duke of Death and His Maid"
+    synonyms:
+      - "Shinigami Bocchan to Kuro Maid"
+      - "死神坊ちゃんと黒メイド"
+    seasons:
+      - season: 1
+        anilist-id: 129277
+      - season: 2
+        anilist-id: 139435
+      - season: 3
+        anilist-id: 169584
   - title: "The Familiar of Zero"
     synonyms:
       - "Zero no Tsukaima"
