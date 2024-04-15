@@ -1864,6 +1864,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 150075
+      - season: 2
+        anilist-id: 21699
+      - season: 3
+        anilist-id: 136804
   - title: "Kuma Kuma Kuma Bear"
     synonyms:
       - "くまクマ熊ベアー"
