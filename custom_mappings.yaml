@@ -3927,3 +3927,17 @@ entries:
         anilist-id: 104459
       - season: 3
         anilist-id: 155908
+  - title: "Date A Live"
+    synonyms:
+      - "デート・ア・ライブ"
+    seasons:
+      - season: 1
+        anilist-id: 15583
+      - season: 2
+        anilist-id: 19163
+      - season: 3
+        anilist-id: 100722
+      - season: 4
+        anilist-id: 116605
+      - season: 5
+        anilist-id: 151380
