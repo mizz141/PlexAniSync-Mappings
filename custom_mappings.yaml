@@ -2845,7 +2845,7 @@ entries:
     seasons:
       - season: 1
         anilist-id: 112667
-       season: 2
+      - season: 2
         anilist-id: 139825
   - title: "Oshi No Ko"
     synonyms:
@@ -2853,7 +2853,7 @@ entries:
     seasons:
       - season: 1
         anilist-id: 150672
-       season: 2
+      - season: 2
         anilist-id: 166531
   - title: "Overlord"
     seasons:
