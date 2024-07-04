@@ -2711,6 +2711,12 @@ entries:
         anilist-id: 21455
       - season: 2
         anilist-id: 98292
+  - title: "NieR:Automata Ver1.1a"
+    seasons:
+      - season: 1
+        anilist-id: 145665
+      - season: 2
+        anilist-id: 167420
   - title: "Nisekoi"
     synonyms:
       - "False Love"
