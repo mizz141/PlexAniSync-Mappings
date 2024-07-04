@@ -3741,6 +3741,15 @@ entries:
       - season: 1
         anilist-id: 10717
         start: 6
+  - title: "Tower of God"
+    synonyms:
+      - "Kami no Tou: Tower of God"
+      - "神之塔 -Tower of God-"
+    seasons:
+      - season: 1
+        anilist-id: 115230
+      - season: 2
+        anilist-id: 153406
   - title: "Trinity Seven: Eternity Library & Alchemic Girl"
     synonyms:
       - "Eternity Library & Alchemic Girl"
