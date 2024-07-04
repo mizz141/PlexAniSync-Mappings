@@ -3149,6 +3149,15 @@ entries:
         anilist-id: 4063
       - season: 2
         anilist-id: 5277
+  - title: "Sengoku Youko"
+    synonyms:
+      - "戦国妖狐"
+    seasons:
+      - season: 1
+        anilist-id: 168194
+      - season: 1
+        anilist-id: 176660
+        start: 14
   - title: "Seraph of the End"
     synonyms:
       - "Owari no Seraph"
