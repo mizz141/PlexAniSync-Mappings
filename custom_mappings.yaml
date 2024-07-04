@@ -3186,6 +3186,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 113476
+  - title: "SHY"
+    seasons:
+      - season: 1
+        anilist-id: 155389
+      - season: 2
+        anilist-id: 171748
   - title: "SK8 the Infinity"
     synonyms:
       - "Sk8"
