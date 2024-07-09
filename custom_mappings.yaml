@@ -2711,6 +2711,12 @@ entries:
         anilist-id: 21455
       - season: 2
         anilist-id: 98292
+  - title: "NieR:Automata Ver1.1a"
+    seasons:
+      - season: 1
+        anilist-id: 145665
+      - season: 2
+        anilist-id: 167420
   - title: "Nisekoi"
     synonyms:
       - "False Love"
@@ -2832,12 +2838,23 @@ entries:
         anilist-id: 8769
       - season: 2
         anilist-id: 13659
+  - title: "Our Last Crusade or the Rise of a New World"
+    synonyms:
+      - "キミと僕の最後の戦場、あるいは世界が始まる聖戦"
+      - "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen"
+    seasons:
+      - season: 1
+        anilist-id: 112667
+      - season: 2
+        anilist-id: 139825
   - title: "Oshi No Ko"
     synonyms:
       - "[Oshi No Ko] - [Mein*Star]"
     seasons:
       - season: 1
         anilist-id: 150672
+      - season: 2
+        anilist-id: 166531
   - title: "Overlord"
     seasons:
       - season: 1
@@ -3132,6 +3149,15 @@ entries:
         anilist-id: 4063
       - season: 2
         anilist-id: 5277
+  - title: "Sengoku Youko"
+    synonyms:
+      - "戦国妖狐"
+    seasons:
+      - season: 1
+        anilist-id: 168194
+      - season: 1
+        anilist-id: 176660
+        start: 14
   - title: "Seraph of the End"
     synonyms:
       - "Owari no Seraph"
@@ -3184,6 +3210,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 113476
+  - title: "SHY"
+    seasons:
+      - season: 1
+        anilist-id: 155389
+      - season: 2
+        anilist-id: 171748
   - title: "SK8 the Infinity"
     synonyms:
       - "Sk8"
@@ -3733,6 +3765,15 @@ entries:
       - season: 1
         anilist-id: 10717
         start: 6
+  - title: "Tower of God"
+    synonyms:
+      - "Kami no Tou: Tower of God"
+      - "神之塔 -Tower of God-"
+    seasons:
+      - season: 1
+        anilist-id: 115230
+      - season: 2
+        anilist-id: 153406
   - title: "Trinity Seven: Eternity Library & Alchemic Girl"
     synonyms:
       - "Eternity Library & Alchemic Girl"
@@ -3909,6 +3950,37 @@ entries:
     seasons:
       - season: 1
         anilist-id: 20966
+  - title: "Yamishibai: Japanese Ghost Stories"
+    synonyms:
+      - "Theatre of Darkness: Yamishibai"
+      - "闇芝居 十三期"
+    seasons:
+      - season: 1
+        anilist-id: 19383
+      - season: 2
+        anilist-id: 20669
+      - season: 3
+        anilist-id: 21473
+      - season: 4
+        anilist-id: 97890
+      - season: 5
+        anilist-id: 98978
+      - season: 6
+        anilist-id: 101743
+      - season: 7
+        anilist-id: 109603
+      - season: 8
+        anilist-id: 126678
+      - season: 9
+        anilist-id: 135108
+      - season: 10
+        anilist-id: 142826
+      - season: 11
+        anilist-id: 166829
+      - season: 12
+        anilist-id: 170953
+      - season: 13
+        anilist-id: 177922
   - title: "Yozakura Quartet"
     synonyms:
       - "Yozakura Quartet: Hana no Uta"
