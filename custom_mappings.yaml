@@ -642,6 +642,14 @@ entries:
         anilist-id: 1575
       - season: 2
         anilist-id: 2904
+  - title: "Code Geass: Rozé of the Recapture"
+    synonyms:
+      - "Code Geass Dakkan no Rozé"
+      - "Code Geass: Dakkan no Rozé"
+      - "コードギアス 奪還のロゼ"
+    seasons:
+      - season: 1
+        anilist-id: 126830
   - title: "Corpse Party: Tortured Souls"
     synonyms:
       - "Corpse Party : Tortured Souls - Bougyakusareta Tamashii no Jukyou"
