@@ -2847,6 +2847,14 @@ entries:
         anilist-id: 8769
       - season: 2
         anilist-id: 13659
+  - title: "Oshi No Ko"
+    synonyms:
+      - "[Oshi No Ko] - [Mein*Star]"
+    seasons:
+      - season: 1
+        anilist-id: 150672
+      - season: 2
+        anilist-id: 166531
   - title: "Our Last Crusade or the Rise of a New World"
     synonyms:
       - "キミと僕の最後の戦場、あるいは世界が始まる聖戦"
@@ -2856,14 +2864,6 @@ entries:
         anilist-id: 112667
       - season: 2
         anilist-id: 139825
-  - title: "Oshi No Ko"
-    synonyms:
-      - "[Oshi No Ko] - [Mein*Star]"
-    seasons:
-      - season: 1
-        anilist-id: 150672
-      - season: 2
-        anilist-id: 166531
   - title: "Overlord"
     seasons:
       - season: 1
