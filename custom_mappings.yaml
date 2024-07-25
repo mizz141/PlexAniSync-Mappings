@@ -2725,6 +2725,7 @@ entries:
         anilist-id: 145665
       - season: 2
         anilist-id: 167420
+        start: 13
   - title: "Nisekoi"
     synonyms:
       - "False Love"
