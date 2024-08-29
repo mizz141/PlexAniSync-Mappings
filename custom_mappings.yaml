@@ -1464,10 +1464,9 @@ entries:
       - season: 2
         anilist-id: 100852
         start: 14
-  - title: "Hunter x Hunter"
+  - title: "Hunter × Hunter"
     synonyms:
       - "Hunter x Hunter (1999)"
-      - "HUNTER×HUNTER"
     seasons:
       - season: 1
         anilist-id: 136
