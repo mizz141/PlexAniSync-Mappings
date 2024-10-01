@@ -3872,6 +3872,13 @@ entries:
         anilist-id: 115113
       - season: 2
         anilist-id: 124395
+  - title: "Uzumaki: Spiral Into Horror"
+    synonyms:
+      - "Uzumaki"
+      - "The Spiral"
+    seasons:
+      - season: 1
+        anilist-id: 111314
   - title: "Vampire Knight"
     seasons:
       - season: 1
