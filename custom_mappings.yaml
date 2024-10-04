@@ -1,4 +1,13 @@
 entries:
+  - title: "Seirei Gensouki: Spirit Chronicles"
+    synonyms:
+      - "Seirei Gensouki"
+      - "精霊幻想記"
+    seasons:
+      - season: 1
+        anilist-id: 126546
+      - season: 2
+        anilist-id: 141182
   - title: "Rurouni Kenshin (2023)"
     synonyms:
       - "Rurouni Kenshin: Meiji Kenkaku Romantan (2023)"
