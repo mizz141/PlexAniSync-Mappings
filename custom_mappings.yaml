@@ -1,4 +1,12 @@
 entries:
+  - title: "Blue Lock"
+    synonyms:
+      - "ブルーロック"
+    seasons:
+      - season: 1
+        anilist-id: 137822
+      - season: 2
+        anilist-id: 163146
   - title: "KamiErabi GOD.app"
     synonyms:
       - "カミエラビ GOD.app"
