@@ -475,7 +475,7 @@ entries:
   - title: "Blue Exorcist"
     synonyms:
       - "Ao no Exorcist"
-      - "Ao No Exorcist"
+      - "青の祓"
     seasons:
       - season: 1
         anilist-id: 9919
@@ -483,6 +483,8 @@ entries:
         anilist-id: 21861
       - season: 3
         anilist-id: 158931
+      - season: 4
+        anilist-id: 176311
   - title: "BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense."
     synonyms:
       - "痛いのは嫌なので防御力に極振りしたいと思います"
