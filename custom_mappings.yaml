@@ -1,4 +1,14 @@
 entries:
+  - title: "Love Live! Superstar!!"
+    synonyms:
+      - "ラブライブ!スーパースター!!"
+    seasons:
+      - season: 1
+        anilist-id: 114979
+      - season: 2
+        anilist-id: 140642
+      - season: 3
+        anilist-id: 155502
   - title: "Ron Kamonohashi's Forbidden Deductions"
     synonyms:
       - "Kamonohashi Ron no Kindan Suiri"
