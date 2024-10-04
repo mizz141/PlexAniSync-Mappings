@@ -1,4 +1,12 @@
 entries:
+  - title: "Sword Art Online Alternative: Gun Gale Online"
+    synonyms:
+      - "ソードアート・オンライン オルタナティブ ガンゲイル・オンライン"
+    seasons:
+      - season: 1
+        anilist-id: 100183
+      - season: 2
+        anilist-id: 167141
   - title: "The New Prince of Tennis"
     synonyms:
       - "Shin Tennis no Ouji-sama"
