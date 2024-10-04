@@ -1,4 +1,13 @@
 entries:
+  - title: "Rurouni Kenshin (2023)"
+    synonyms:
+      - "Rurouni Kenshin: Meiji Kenkaku Romantan (2023)"
+      - "るろうに剣心 －明治剣客浪漫譚－(2023)"
+    seasons:
+      - season: 1
+        anilist-id: 142877
+      - season: 2
+        anilist-id: 171637
   - title: "Tonbo!"
     synonyms:
       - "Ooi! Tonbo"
