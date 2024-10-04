@@ -254,9 +254,13 @@ entries:
     synonyms:
       - "Mein Schulgeist Hanako - After School"
       - "Mein Schulgeist Hanako: After School"
+      - "放課後少年花子くん"
+      - "Houkago Shounen Hanako-kun"
     seasons:
       - season: 1
         anilist-id: 159074
+      - season: 2
+        anilist-id: 170893
   - title: "Ah! My goddess"
     synonyms:
       - "Oh! My Goddess"
