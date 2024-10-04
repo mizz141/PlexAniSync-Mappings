@@ -217,6 +217,8 @@ entries:
         anilist-id: 104308
       - season: 2
         anilist-id: 124136
+      - season: 3
+        anilist-id: 154473
   - title: "ARP Backstage Pass"
     seasons:
       - season: 1
