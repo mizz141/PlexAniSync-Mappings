@@ -1,4 +1,12 @@
 entries:
+  - title: "MF Ghost"
+    synonyms:
+      - "MFゴースト"
+    seasons:
+      - season: 1
+        anilist-id: 143327
+      - season: 2
+        anilist-id: 171642
   - title: "Love Live! Superstar!!"
     synonyms:
       - "ラブライブ!スーパースター!!"
