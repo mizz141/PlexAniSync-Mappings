@@ -1,4 +1,18 @@
 entries:
+  - title: "Thunderbolt Fantasy"
+    synonyms:
+      - "Thunderbolt Fantasy: Touriken Yuuki"
+      - "Thunderbolt Fantasy: Sword Travels in the East"
+      - "Thunderbolt Fantasy -東離劍遊紀-"
+    seasons:
+      - season: 1
+        anilist-id: 98143
+      - season: 2
+        anilist-id: 99557
+      - season: 3
+        anilist-id: 119806
+      - season: 4
+        anilist-id: 138522
   - title: "The Idolm@ster Shiny Colors"
     synonyms:
       - "The iDOLM@STER: Shiny Colors"
