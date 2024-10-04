@@ -1,4 +1,17 @@
 entries:
+  - title: "The New Prince of Tennis"
+    synonyms:
+      - "Shin Tennis no Ouji-sama"
+      - "新テニスの王子様"
+    seasons:
+      - season: 1
+        anilist-id: 11371
+      - season: 2
+        anilist-id: 20941
+      - season: 3
+        anilist-id: 140187
+      - season: 4
+        anilist-id: 165810
   - title: "Shangri-La Frontier"
     synonyms:
       - "シャングリラ・フロンティア"
