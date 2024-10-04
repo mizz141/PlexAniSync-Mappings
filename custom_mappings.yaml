@@ -1,4 +1,13 @@
 entries:
+  - title: "The Seven Deadly Sins: Four Knights of the Apocalypse"
+    synonyms:
+      - "Nanatsu no Taizai: Mokushiroku no Yonkishi"
+      - "七つの大罪 黙示録の四騎士"
+    seasons:
+      - season: 1
+        anilist-id: 148862
+      - season: 2
+        anilist-id: 176292
   - title: "MF Ghost"
     synonyms:
       - "MFゴースト"
