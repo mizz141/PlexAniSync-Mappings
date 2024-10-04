@@ -1,4 +1,16 @@
 entries:
+  - title: "Bananya"
+    synonyms:
+      - "Bananya: Fushigi na Nakamatachi"
+      - "Bananya and the Curious Bunch"
+      - "ばなにゃ ふしぎななかまたち"
+    seasons:
+      - season: 1
+        anilist-id: 110881
+      - season: 2
+        anilist-id: 21704
+      - season: 3
+        anilist-id: 180599
   - title: "Thunderbolt Fantasy"
     synonyms:
       - "Thunderbolt Fantasy: Touriken Yuuki"
