@@ -1,4 +1,13 @@
 entries:
+  - title: "The Idolm@ster Shiny Colors"
+    synonyms:
+      - "The iDOLM@STER: Shiny Colors"
+      - "アイドルマスター シャイニーカラーズ"
+    seasons:
+      - season: 1
+        anilist-id: 162889
+      - season: 2
+        anilist-id: 175533
   - title: "Sword Art Online Alternative: Gun Gale Online"
     synonyms:
       - "ソードアート・オンライン オルタナティブ ガンゲイル・オンライン"
