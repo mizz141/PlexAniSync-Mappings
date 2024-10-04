@@ -2995,6 +2995,8 @@ entries:
       - season: 2
         anilist-id: 119661
         start: 14
+      - season: 3
+        anilist-id: 163134
   - title: "Reconguista in G the Movie I Go! Core Fighter"
     synonyms:
       - "Gundam: G no Reconguista I - Ike! Core Fighter"
