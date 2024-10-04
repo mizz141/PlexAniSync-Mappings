@@ -1,4 +1,12 @@
 entries:
+  - title: "Shangri-La Frontier"
+    synonyms:
+      - "シャングリラ・フロンティア"
+    seasons:
+      - season: 1
+        anilist-id: 151970
+      - season: 2
+        anilist-id: 176508
   - title: "Seirei Gensouki: Spirit Chronicles"
     synonyms:
       - "Seirei Gensouki"
