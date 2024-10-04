@@ -1,4 +1,12 @@
 entries:
+  - title: "KamiErabi GOD.app"
+    synonyms:
+      - "カミエラビ GOD.app"
+    seasons:
+      - season: 1
+        anilist-id: 162984
+      - season: 2
+        anilist-id: 172199
   - title: "Demon Lord, Retry!"
     synonyms:
       - "Maou-sama, Retry!"
