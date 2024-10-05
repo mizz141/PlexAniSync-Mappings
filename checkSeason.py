@@ -9,16 +9,21 @@ tvdb = tvdb_v4_official.TVDB(apikey)
 
 # TODO: iterate through PR changes of newly added seasons, and run the following for each show/season
 
-showName = "NieR꞉Automata Ver 1.1aZ"
-seasonNumber = 1
+showName = "My Hero Academia"
+seasonNumber = 8
 foundSeason = False
 
 # Get ID of show
 showId = None
 searchResults = tvdb.search(showName)
+# print(searchResults)
 for result in searchResults:
-    if showName in result['aliases']:
+    # print(result)
+    if showName == result['name']:
         showId = result['tvdb_id']
+    elif 'aliases' in result and showName in result['aliases']:
+        showId = result['tvdb_id']
+
 
 if (showId is None):
     sys.exit("Did not find result for show title: " + showName)
@@ -28,7 +33,7 @@ else:
 # fetching a season's episode list
 series = tvdb.get_series_extended(showId)
 for season in sorted(series["seasons"], key=lambda x: (x["type"]["type"], x["number"])):
-    print(season)
+    # print(season)
     if season["type"]["type"] == "official" and season["number"] == seasonNumber:
         season = tvdb.get_season_extended(season["id"])
         break
