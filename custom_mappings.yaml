@@ -3068,6 +3068,16 @@ entries:
         anilist-id: 45
       - season: 3
         anilist-id: 45
+  - title: "Rurouni Kenshin (2023)"
+    synonyms:
+      - "Samurai X (2023)"
+      - "Kenshin, le vagabond (2023)"
+      - "Rurouni Kenshin: Meiji Kenkaku Romantan (2023)"
+    seasons:
+      - season: 1
+        anilist-id: 142877
+      - season: 2
+        anilist-id: 171637
   - title: "Rust-Eater Bisco"
     synonyms:
       - "Sabikui Bisco"
