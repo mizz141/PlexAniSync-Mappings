@@ -10,7 +10,7 @@ tvdb = tvdb_v4_official.TVDB(apikey)
 # TODO: iterate through PR changes of newly added seasons, and run the following for each show/season
 
 showName = "My Hero Academia"
-seasonNumber = 8
+seasonNumber = 7
 foundSeason = False
 
 # Get ID of show
