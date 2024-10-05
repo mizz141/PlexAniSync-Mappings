@@ -9,7 +9,7 @@ tvdb = tvdb_v4_official.TVDB(apikey)
 
 # TODO: iterate through PR changes of newly added seasons, and run the following for each show/season
 
-showName = "NieR꞉Automata Ver 1.1a"
+showName = "NieR꞉Automata Ver 1.1aZ"
 seasonNumber = 1
 foundSeason = False
 
@@ -21,8 +21,7 @@ for result in searchResults:
         showId = result['tvdb_id']
 
 if (showId is None):
-    print("Did not find result for show title: " + showName)
-    sys.exit()
+    sys.exit("Did not find result for show title: " + showName)
 else:
     print("Found show: " + showName + " with id: " + showId)
 
@@ -39,4 +38,4 @@ if season is not None:
     foundSeason = True
     print("Found season: " + str(seasonNumber))
 else:
-    print("Did not find season: " + str(seasonNumber))
+    sys.exit("Did not find season: " + str(seasonNumber))
