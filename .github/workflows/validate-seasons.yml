@@ -1,5 +1,8 @@
 name: Validate added seasons
 on:
+  push:
+    branches:
+      - validateSeason
   pull_request:
     branches:
       - master
