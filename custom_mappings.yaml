@@ -685,6 +685,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 21558
+  - title: "DAN DA DAN"
+    synonyms:
+      - "DAN DA DAN: FIRST ENCOUNTER"
+    seasons:
+      - season: 1
+        anilist-id: 171018
   - title: "Danganronpa"
     synonyms:
       - "Danganronpa Kibou no Gakuen to Zetsubou no Koukousei The Animation"
