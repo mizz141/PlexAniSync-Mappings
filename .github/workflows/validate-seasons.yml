@@ -24,7 +24,7 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        python -m pip install tvdb_v4_official
+        python -m pip install tvdb_v4_official python-dotenv
         python checkSeason.py
     # TODO: create python script using tvdb api to validate seasons for each new season added in a PR
     - name: Run season validation
