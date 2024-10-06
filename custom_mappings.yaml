@@ -357,6 +357,8 @@ entries:
         anilist-id: 100668
       - season: 2
         anilist-id: 112323
+      - season: 3
+        anilist-id: 154473
   - title: "Armor Shop for Ladies & Gentlemen"
     synonyms:
       - "Otona no Bouguya-san"
@@ -365,8 +367,6 @@ entries:
         anilist-id: 104308
       - season: 2
         anilist-id: 124136
-      - season: 3
-        anilist-id: 154473
   - title: "ARP Backstage Pass"
     seasons:
       - season: 1
