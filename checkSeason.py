@@ -9,21 +9,20 @@ tvdb = tvdb_v4_official.TVDB(apikey)
 
 # TODO: iterate through PR changes of newly added seasons, and run the following for each show/season
 
-showName = "My Hero Academia"
-seasonNumber = 7
+showName = "KamiErabi GOD.app"
+seasonNumber = 2
 foundSeason = False
 
 # Get ID of show
 showId = None
 searchResults = tvdb.search(showName)
-# print(searchResults)
 for result in searchResults:
-    # print(result)
-    if showName == result['name']:
+    print(result['translations']['eng'])
+    if ((showName == result['name']) or
+        ('aliases' in result and showName in result['aliases']) or
+        ('translations' in result and 'eng' in result['translations'] and showName == result['translations']['eng'])
+        ):
         showId = result['tvdb_id']
-    elif 'aliases' in result and showName in result['aliases']:
-        showId = result['tvdb_id']
-
 
 if (showId is None):
     sys.exit("Did not find result for show title: " + showName)
