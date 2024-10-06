@@ -24,8 +24,7 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        python -m pip install tvdb_v4_official python-dotenv
-    # TODO: create python script using tvdb api to validate seasons for each new season added in a PR
+        python -m pip install tvdb_v4_official python-dotenv pyyaml
     - name: Run season validation
       env:
         TVDB_API_KEY: ${{ secrets.TVDB_API_KEY }}
