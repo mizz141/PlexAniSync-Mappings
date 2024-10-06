@@ -1,4 +1,4 @@
-import os, sys, tvdb_v4_official, yaml
+import os, sys, subprocess, tvdb_v4_official, yaml
 from dotenv import load_dotenv
 from pathlib import Path
 
@@ -54,8 +54,8 @@ def validateShowSeason(showName, seasonNumber):
         sys.exit(1)
 
 # TODO: get only PR changes of newly added seasons
-def validateAllMappings():
-    with open("custom_mappings.yaml") as f:
+def validateMappings():
+    with open("new.yaml") as f:
         mappings = yaml.safe_load(f)
         for show in sorted(mappings['entries'], key=lambda entry: (entry['title'], entry['seasons'])):
             showName = show['title']
@@ -64,6 +64,47 @@ def validateAllMappings():
             for season in seasons:
                 validateShowSeason(showName, season)
 
+def get_diff(file_path, commit_old='HEAD~1', commit_new='HEAD'):
+    diff_output = subprocess.run(
+        ['git', 'diff', commit_old, commit_new, '--', file_path],
+        capture_output=True, text=True
+    )
+    return diff_output.stdout
+
+def extract_changed_groups(diff_output):
+    changes = []
+    change_group = []
+    for line in diff_output.splitlines():
+        if line.startswith('+') and not line.startswith('+++'):  # Added lines
+            change_group.append(f"{line[1:]}")
+        elif line.startswith('-') and not line.startswith('---'):  # Removed lines
+            pass
+        elif line.startswith(' '): # Add change group and reset it
+            # TODO: if group does not contain string "season:", ignore it
+            if change_group:
+                changes.append(change_group)
+                change_group = []
+
+    return changes
+
+def extractNewMappings():
+    diff_output = get_diff("custom_mappings.yaml")
+    change_groups = extract_changed_groups(diff_output)
+    createTempYaml(change_groups)
+
+# Create new yaml with changed entries
+def createTempYaml(change_groups):
+    lines = []
+    lines.append("entries:\n")
+    # TODO: if entry doesn't have title, search full file to find context
+    for group in change_groups:
+        for line in group:
+            lines.append(line+"\n")
+    with open('new.yaml', 'w') as file:
+        # yaml.dump_all(new, file, default_flow_style=False)
+        file.write(''.join(lines))
+
 # TODO: cross reference anilist-id show name
-validateShowSeason("The Heroic Legend of Arslan (2015)", 1)
-# validateAllMappings()
+# validateShowSeason("The Heroic Legend of Arslan (2015)", 1)
+extractNewMappings()
+validateMappings()

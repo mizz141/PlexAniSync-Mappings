@@ -3325,18 +3325,6 @@ entries:
         anilist-id: 2966
       - season: 2
         anilist-id: 5341
-  - title: "Spice and Wolf" # Using TVDB Absolute ordering with Plex non-default setting for this series
-    synonyms:
-      - "Ookami to Koushinryou"
-    seasons:
-      - season: 1 # e1-13, includes special dvd episode 7
-        anilist-id: 2966
-      - season: 1 # prequel to s2
-        anilist-id: 6007
-        start: 14
-      - season: 1 # Spice and Wolf II
-        anilist-id: 5341
-        start: 15
   - title: "Spy x Family"
     synonyms:
       - "SPY x FAMILY"
