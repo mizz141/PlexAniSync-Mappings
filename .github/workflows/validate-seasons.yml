@@ -20,7 +20,7 @@ jobs:
       uses: xalvarez/prevent-file-change-action@v1
       with:
         githubToken: ${{ secrets.GITHUB_TOKEN }}
-        pattern: *.py
+        pattern: '**/*.py'
         trustedAuthors: evie-lau
         allowNewFiles: false
     - uses: actions/checkout@v4
