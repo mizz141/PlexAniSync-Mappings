@@ -8,13 +8,21 @@ on:
       - master
     paths:
       - "custom_mappings.yaml"
-      - "validate-tvdb.py"
+      - "*.py"
 env:
   PYTHON_VERSION: "3.10"
 jobs:
   validate-added-mappings:
     runs-on: ubuntu-latest
     steps:
+    # TODO: maybe make this step a pre-requisite to any CI flow
+    - name: Prevent file change
+      uses: xalvarez/prevent-file-change-action@v1
+      with:
+        githubToken: ${{ secrets.GITHUB_TOKEN }}
+        pattern: *.py
+        trustedAuthors: evie-lau
+        allowNewFiles: false
     - uses: actions/checkout@v4
       with:
         fetch-depth: 0

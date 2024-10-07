@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 from pathlib import Path
 
 # Load API Key and initialize tvdb
-load_dotenv(Path(".env"))
+load_dotenv()
 apikey = os.getenv("TVDB_API_KEY")
 tvdb = tvdb_v4_official.TVDB(apikey)
 
