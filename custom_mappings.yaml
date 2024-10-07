@@ -1,4 +1,175 @@
 entries:
+  - title: "Hyakusho Kizoku-the farmer’s days"
+    synonyms:
+      - "Hyakushou Kizoku"
+      - "百姓貴族"
+    seasons:
+      - season: 1
+        anilist-id: 155971
+      - season: 2
+        anilist-id: 171689
+  - title: "Bananya"
+    synonyms:
+      - "Bananya: Fushigi na Nakamatachi"
+      - "Bananya and the Curious Bunch"
+      - "ばなにゃ ふしぎななかまたち"
+    seasons:
+      - season: 1
+        anilist-id: 110881
+      - season: 2
+        anilist-id: 21704
+      - season: 3
+        anilist-id: 180599
+  - title: "Thunderbolt Fantasy"
+    synonyms:
+      - "Thunderbolt Fantasy: Touriken Yuuki"
+      - "Thunderbolt Fantasy: Sword Travels in the East"
+      - "Thunderbolt Fantasy -東離劍遊紀-"
+    seasons:
+      - season: 1
+        anilist-id: 98143
+      - season: 2
+        anilist-id: 99557
+      - season: 3
+        anilist-id: 119806
+      - season: 4
+        anilist-id: 138522
+  - title: "The Idolm@ster Shiny Colors"
+    synonyms:
+      - "The iDOLM@STER: Shiny Colors"
+      - "アイドルマスター シャイニーカラーズ"
+    seasons:
+      - season: 1
+        anilist-id: 162889
+      - season: 2
+        anilist-id: 175533
+  - title: "Sword Art Online Alternative: Gun Gale Online"
+    synonyms:
+      - "ソードアート・オンライン オルタナティブ ガンゲイル・オンライン"
+    seasons:
+      - season: 1
+        anilist-id: 100183
+      - season: 2
+        anilist-id: 167141
+  - title: "The New Prince of Tennis"
+    synonyms:
+      - "Shin Tennis no Ouji-sama"
+      - "新テニスの王子様"
+    seasons:
+      - season: 1
+        anilist-id: 11371
+      - season: 2
+        anilist-id: 20941
+      - season: 3
+        anilist-id: 140187
+      - season: 4
+        anilist-id: 165810
+  - title: "Shangri-La Frontier"
+    synonyms:
+      - "シャングリラ・フロンティア"
+    seasons:
+      - season: 1
+        anilist-id: 151970
+      - season: 2
+        anilist-id: 176508
+  - title: "Seirei Gensouki: Spirit Chronicles"
+    synonyms:
+      - "Seirei Gensouki"
+      - "精霊幻想記"
+    seasons:
+      - season: 1
+        anilist-id: 126546
+      - season: 2
+        anilist-id: 141182
+  - title: "Rurouni Kenshin (2023)"
+    synonyms:
+      - "Rurouni Kenshin: Meiji Kenkaku Romantan (2023)"
+      - "るろうに剣心 －明治剣客浪漫譚－(2023)"
+    seasons:
+      - season: 1
+        anilist-id: 142877
+      - season: 2
+        anilist-id: 171637
+  - title: "Tonbo!"
+    synonyms:
+      - "Ooi! Tonbo"
+      - "オーイ! とんぼ"
+    seasons:
+      - season: 1
+        anilist-id: 164440
+      - season: 1
+        anilist-id: 178729
+        start: 14
+  - title: "The Seven Deadly Sins: Four Knights of the Apocalypse"
+    synonyms:
+      - "Nanatsu no Taizai: Mokushiroku no Yonkishi"
+      - "七つの大罪 黙示録の四騎士"
+    seasons:
+      - season: 1
+        anilist-id: 148862
+      - season: 2
+        anilist-id: 176292
+  - title: "MF Ghost"
+    synonyms:
+      - "MFゴースト"
+    seasons:
+      - season: 1
+        anilist-id: 143327
+      - season: 2
+        anilist-id: 171642
+  - title: "Love Live! Superstar!!"
+    synonyms:
+      - "ラブライブ!スーパースター!!"
+    seasons:
+      - season: 1
+        anilist-id: 114979
+      - season: 2
+        anilist-id: 140642
+      - season: 3
+        anilist-id: 155502
+  - title: "Ron Kamonohashi's Forbidden Deductions"
+    synonyms:
+      - "Kamonohashi Ron no Kindan Suiri"
+      - "鴨乃橋ロンの禁断推理"
+    seasons:
+      - season: 1
+        anilist-id: 158926
+      - season: 2
+        anilist-id: 172355
+  - title: "Blue Lock"
+    synonyms:
+      - "ブルーロック"
+    seasons:
+      - season: 1
+        anilist-id: 137822
+      - season: 2
+        anilist-id: 163146
+  - title: "KamiErabi GOD.app"
+    synonyms:
+      - "カミエラビ GOD.app"
+    seasons:
+      - season: 1
+        anilist-id: 162984
+      - season: 2
+        anilist-id: 172199
+  - title: "Demon Lord, Retry!"
+    synonyms:
+      - "Maou-sama, Retry!"
+      - "魔王様、リトライ!"
+    seasons:
+      - season: 1
+        anilist-id: 104252
+      - season: 2
+        anilist-id: 168500
+  - title: "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World"
+    synonyms:
+      - "Tensei Kizoku, Kantei Skill de Nariagaru"
+      - "転生貴族、鑑定スキルで成り上がる"
+    seasons:
+      - season: 1
+        anilist-id: 164702
+      - season: 2
+        anilist-id: 178434
   - title: "22/7"
     synonyms:
       - "22/7 (nanabun no nijyuuni)"
@@ -93,9 +264,13 @@ entries:
     synonyms:
       - "Mein Schulgeist Hanako - After School"
       - "Mein Schulgeist Hanako: After School"
+      - "放課後少年花子くん"
+      - "Houkago Shounen Hanako-kun"
     seasons:
       - season: 1
         anilist-id: 159074
+      - season: 2
+        anilist-id: 170893
   - title: "Ah! My goddess"
     synonyms:
       - "Oh! My Goddess"
@@ -183,6 +358,8 @@ entries:
         anilist-id: 100668
       - season: 2
         anilist-id: 112323
+      - season: 3
+        anilist-id: 154473
   - title: "Armor Shop for Ladies & Gentlemen"
     synonyms:
       - "Otona no Bouguya-san"
@@ -430,6 +607,9 @@ entries:
       - season: 17
         anilist-id: 159322
         start: 14
+      - season: 17
+        anilist-id: 169755
+        start: 27
   - title: "Blood Blockade Battlefront"
     synonyms:
       - "Kekkai Sensen"
@@ -449,7 +629,7 @@ entries:
   - title: "Blue Exorcist"
     synonyms:
       - "Ao no Exorcist"
-      - "Ao No Exorcist"
+      - "青の祓"
     seasons:
       - season: 1
         anilist-id: 9919
@@ -457,6 +637,8 @@ entries:
         anilist-id: 21861
       - season: 3
         anilist-id: 158931
+      - season: 4
+        anilist-id: 176311
   - title: "BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense."
     synonyms:
       - "痛いのは嫌なので防御力に極振りしたいと思います"
@@ -2729,6 +2911,8 @@ entries:
         anilist-id: 21710
       - season: 6
         anilist-id: 97983
+      - season: 7
+        anilist-id: 166611
   - title: "Nekopara"
     seasons:
       - season: 1
@@ -2992,6 +3176,8 @@ entries:
       - season: 2
         anilist-id: 119661
         start: 14
+      - season: 3
+        anilist-id: 163134
   - title: "Reconguista in G the Movie I Go! Core Fighter"
     synonyms:
       - "Gundam: G no Reconguista I - Ike! Core Fighter"
