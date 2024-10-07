@@ -63,6 +63,8 @@ def get_diff(file_path, commit_old='master', commit_new='HEAD'):
         ['git', 'diff', commit_old, commit_new, '--', file_path],
         capture_output=True, text=True
     )
+    print("Git diff raw output: ")
+    print(diff_output)
     return diff_output.stdout
 
 def extract_changed_groups(diff_output):
@@ -75,12 +77,13 @@ def extract_changed_groups(diff_output):
             pass
         elif line.startswith(' '): # Add change group and reset it
             if change_group:
-                if "season:" not in str(change_group):
-                    pass
-                else:
+                print("Change group: ")
+                print(change_group)
+                if "season:" in str(change_group):
                     changes.append(change_group)
                     change_group = []
     if not changes:
+        #TODO: for some reason, coming here in Github Actions
         print("No season mapping changes detected in the latest commit")
         sys.exit()
     return changes
