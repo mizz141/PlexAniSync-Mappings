@@ -99,6 +99,7 @@ entries:
         anilist-id: 164440
       - season: 2
         anilist-id: 178729
+        start: 14
   - title: "The Seven Deadly Sins: Four Knights of the Apocalypse"
     synonyms:
       - "Nanatsu no Taizai: Mokushiroku no Yonkishi"
