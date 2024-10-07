@@ -22,7 +22,8 @@ def getTvdbId(showName):
             break
     return showId
 
-def validateShowSeason(showName, seasonsToFind):
+# Validate user-mapped season entries against TVDB seasons
+def validateShowSeasons(showName, seasonsToFind):
     errors = 0
 
     showId = getTvdbId(showName)
@@ -30,7 +31,6 @@ def validateShowSeason(showName, seasonsToFind):
     if (showId is None):
         print("No TVDB series result: " + showName)
         return errors
-    # Check if official season number exists for the show in TVDB
     # TODO: does not work for primary_type: movie, maybe separate method for those? Test with 5cm per second
     series = tvdb.get_series_extended(showId)
     tvdbSeasons = [season['number'] for season in series['seasons'] if season['type']['type'] == 'official']
@@ -47,7 +47,6 @@ def validateShowSeason(showName, seasonsToFind):
         print("Did not find season(s): " + str(invalidSeasons) + " in show: " + showName)
     return errors
 
-# TODO: get only PR changes of newly added seasons
 def validateMappings():
     errors = 0
     with open("temp.yaml") as f:
@@ -56,7 +55,7 @@ def validateMappings():
             showName = show['title']
             seasons = [s['season'] for s in show['seasons'] if 'season' in s]
             # print(showName + ": " + str(seasons))
-            errors += validateShowSeason(showName, seasons)
+            errors += validateShowSeasons(showName, seasons)
     return errors
 
 def get_diff(file_path, commit_old='HEAD~1', commit_new='HEAD'):
@@ -102,7 +101,6 @@ def createTempYaml(change_groups):
         for line in group:
             lines.append(line+"\n")
     with open('temp.yaml', 'w') as file:
-        # yaml.dump_all(new, file, default_flow_style=False)
         file.write(''.join(lines))
 
 def cleanup():
