@@ -58,7 +58,7 @@ def validateMappings():
             errors += validateShowSeasons(showName, seasons)
     return errors
 
-def get_diff(file_path, commit_old='HEAD~1', commit_new='HEAD'):
+def get_diff(file_path, commit_old='master', commit_new='HEAD'):
     diff_output = subprocess.run(
         ['git', 'diff', commit_old, commit_new, '--', file_path],
         capture_output=True, text=True
