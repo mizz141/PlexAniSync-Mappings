@@ -58,7 +58,7 @@ def validateMappings():
             errors += validateShowSeasons(showName, seasons)
     return errors
 
-def get_diff(file_path, commit_old='master', commit_new='HEAD'):
+def get_diff(file_path, commit_old='origin/master', commit_new='HEAD'):
     diff_output = subprocess.run(
         ['git', 'diff', commit_old, commit_new, '--', file_path],
         capture_output=True, text=True
@@ -75,9 +75,7 @@ def extract_changed_groups(diff_output):
             pass
         elif line.startswith(' '): # Add change group and reset it
             if change_group:
-                if "season:" not in str(change_group):
-                    pass
-                else:
+                if "season:" in str(change_group):
                     changes.append(change_group)
                     change_group = []
     if not changes:
