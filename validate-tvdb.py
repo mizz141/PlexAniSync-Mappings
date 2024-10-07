@@ -70,14 +70,21 @@ def extract_changed_groups(diff_output):
     change_group = []
     for line in diff_output.splitlines():
         if line.startswith('+') and not line.startswith('+++'):  # Added lines
+            # Add change group and reset it
+            if change_group and "title:" in line and "season:" in str(change_group):
+                changes.append(change_group)
+                change_group = []
             change_group.append(f"{line[1:]}")
         elif line.startswith('-') and not line.startswith('---'):  # Removed lines
             pass
-        elif line.startswith(' '): # Add change group and reset it
-            if change_group:
-                if "season:" in str(change_group):
-                    changes.append(change_group)
-                    change_group = []
+        elif line.startswith(' '): # Unchanged lines
+            # Add change group and reset it
+            if change_group and "title:" in line and "season:" in str(change_group):
+                changes.append(change_group)
+                change_group = []
+            # Append intermediary line if existing change_group exists
+            elif change_group:
+                change_group.append(f"{line[1:]}")
     if not changes:
         print("No season mapping changes detected in the latest commit")
         sys.exit()
