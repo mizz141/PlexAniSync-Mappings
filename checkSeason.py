@@ -1,4 +1,5 @@
-import os, sys, subprocess, tvdb_v4_official, yaml
+import os, sys, subprocess
+import tvdb_v4_official, yaml
 from dotenv import load_dotenv
 from pathlib import Path
 
@@ -49,7 +50,7 @@ def validateShowSeason(showName, seasonsToFind):
 # TODO: get only PR changes of newly added seasons
 def validateMappings():
     errors = 0
-    with open("new.yaml") as f:
+    with open("temp.yaml") as f:
         mappings = yaml.safe_load(f)
         for show in sorted(mappings['entries'], key=lambda entry: (entry['title'], entry['seasons'])):
             showName = show['title']
@@ -74,7 +75,6 @@ def extract_changed_groups(diff_output):
         elif line.startswith('-') and not line.startswith('---'):  # Removed lines
             pass
         elif line.startswith(' '): # Add change group and reset it
-            # TODO: if group does not contain string "season:", ignore it
             if change_group:
                 if "season:" not in str(change_group):
                     pass
@@ -82,6 +82,7 @@ def extract_changed_groups(diff_output):
                     changes.append(change_group)
                     change_group = []
     if not changes:
+        print("No season mapping changes detected in the latest commit")
         sys.exit()
     return changes
 
@@ -92,23 +93,23 @@ def extractNewMappings():
 
 # Create new yaml with changed entries
 def createTempYaml(change_groups):
-    # TODO: exit 0 if no changes, maybe earlier than here
     lines = []
     lines.append("entries:\n")
-    # TODO: if entry doesn't have title, search full file to find context
     for group in change_groups:
+        if "title:" not in str(group):
+            # TODO: search full mappings to find the context
+            continue
         for line in group:
             lines.append(line+"\n")
-    with open('new.yaml', 'w') as file:
+    with open('temp.yaml', 'w') as file:
         # yaml.dump_all(new, file, default_flow_style=False)
         file.write(''.join(lines))
 
 def cleanup():
-    os.remove("new.yaml")
+    os.remove("temp.yaml")
 
 # TODO: cross reference anilist-id show name
-# validateShowSeason("The Heroic Legend of Arslan (2015)", 1)
-# extractNewMappings()
+extractNewMappings()
 errors = validateMappings()
-sys.exit("Found "+ str(errors) + " errors")
+sys.exit("Found "+ str(errors) + " error(s) in the season mappings")
 # cleanup()
