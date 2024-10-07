@@ -82,9 +82,13 @@ def extract_changed_groups(diff_output):
         elif line.startswith(' '): # Add change group and reset it
             # TODO: if group does not contain string "season:", ignore it
             if change_group:
-                changes.append(change_group)
-                change_group = []
-
+                if "season:" not in str(change_group):
+                    pass
+                else:
+                    changes.append(change_group)
+                    change_group = []
+    if not changes:
+        sys.exit()
     return changes
 
 def extractNewMappings():
@@ -94,6 +98,7 @@ def extractNewMappings():
 
 # Create new yaml with changed entries
 def createTempYaml(change_groups):
+    # TODO: exit 0 if no changes, maybe earlier than here
     lines = []
     lines.append("entries:\n")
     # TODO: if entry doesn't have title, search full file to find context
@@ -104,7 +109,11 @@ def createTempYaml(change_groups):
         # yaml.dump_all(new, file, default_flow_style=False)
         file.write(''.join(lines))
 
+def cleanup():
+    os.remove("new.yaml")
+
 # TODO: cross reference anilist-id show name
 # validateShowSeason("The Heroic Legend of Arslan (2015)", 1)
-extractNewMappings()
+# extractNewMappings()
 validateMappings()
+# cleanup()
