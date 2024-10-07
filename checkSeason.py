@@ -21,48 +21,42 @@ def getTvdbId(showName):
             break
     return showId
 
-def validateShowSeason(showName, seasonNumber):
-    foundSeason = False
-    hasError = False
+def validateShowSeason(showName, seasonsToFind):
+    errors = 0
 
     showId = getTvdbId(showName)
 
     if (showId is None):
         print("No TVDB series result: " + showName)
-        return
-    print("Found show: " + showName + " with tvdb id: " + showId)
+        return errors
     # Check if official season number exists for the show in TVDB
-    series = tvdb.get_series_extended(showId) # TODO: does not work for primary_type: movie, maybe separate method for those?
-    for season in sorted(series["seasons"], key=lambda x: (x["type"]["type"], x["number"])):
-        # print(season)
-        if season["type"]["type"] == "official" and season["number"] == seasonNumber:
-            season = tvdb.get_season_extended(season["id"])
-            break
-        else:
-            season = None
+    # TODO: does not work for primary_type: movie, maybe separate method for those? Test with 5cm per second
+    series = tvdb.get_series_extended(showId)
+    tvdbSeasons = [season['number'] for season in series['seasons'] if season['type']['type'] == 'official']
 
-    if season is not None:
-        foundSeason = True
-        print("Found season: " + str(seasonNumber))
-    else:
-        hasError = True
-        print("Did not find season: " + str(seasonNumber))
+    # print("Found show: " + showName + " (" + showId + "), with seasons: " + str(tvdbSeasons))
+    # print("Validating user-mapped seasons: " + str(seasonsToFind))
+    invalidSeasons = []
+    for s in seasonsToFind:
+        if s not in tvdbSeasons:
+            errors += 1
+            invalidSeasons.append(s)
 
-    if hasError:
-        # print("The following show to season mappings were not found on TVDB:")
-        # print(mismatchMap)
-        sys.exit(1)
+    if errors > 0:
+        print("Did not find season(s): " + str(invalidSeasons) + " in show: " + showName)
+    return errors
 
 # TODO: get only PR changes of newly added seasons
 def validateMappings():
+    errors = 0
     with open("new.yaml") as f:
         mappings = yaml.safe_load(f)
         for show in sorted(mappings['entries'], key=lambda entry: (entry['title'], entry['seasons'])):
             showName = show['title']
             seasons = [s['season'] for s in show['seasons'] if 'season' in s]
             # print(showName + ": " + str(seasons))
-            for season in seasons:
-                validateShowSeason(showName, season)
+            errors += validateShowSeason(showName, seasons)
+    return errors
 
 def get_diff(file_path, commit_old='HEAD~1', commit_new='HEAD'):
     diff_output = subprocess.run(
@@ -115,5 +109,6 @@ def cleanup():
 # TODO: cross reference anilist-id show name
 # validateShowSeason("The Heroic Legend of Arslan (2015)", 1)
 # extractNewMappings()
-validateMappings()
+errors = validateMappings()
+sys.exit("Found "+ str(errors) + " errors")
 # cleanup()
