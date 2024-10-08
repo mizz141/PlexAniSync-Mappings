@@ -43,14 +43,14 @@ def validateShowSeasons(showName, seasonsToFind):
     return errors
 
 # Parse temp.yaml and validate shows/seasons against TVDB
-def validateMappings():
+def validateMappings(file="temp.yaml"):
     errors = 0
-    with open("temp.yaml") as f:
+    with open(file) as f:
         mappings = yaml.safe_load(f)
         for show in sorted(mappings['entries'], key=lambda entry: (entry['title'], entry['seasons'])):
             showName = show['title']
-            seasons = [s['season'] for s in show['seasons'] if 'season' in s]
-            print("Validating: " + showName + ": " + str(seasons))
+            seasons = set([s['season'] for s in show['seasons'] if 'season' in s])
+            print("Validating: " + showName + " - Seasons " + str(seasons))
             errors += validateShowSeasons(showName, seasons)
     return errors
 
