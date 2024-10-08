@@ -3065,6 +3065,16 @@ entries:
     seasons:
       - season: 1
         anilist-id: 153452
+  - title: "Ranma ½ (2024)"
+    synonyms:
+      - "Ranma 1/2 (2024)"
+      - "らんま1/2 (2024)"
+      - "Ranma 1/2 (New Anime)"
+      - "Ranma 1/2 (Shinsaku Anime)"
+      - "らんま1/2 (新作アニメ)"
+    seasons:
+      - season: 1
+        anilist-id: 178533
   - title: "Re:ZERO -Starting Life in Another World-"
     synonyms:
       - "Re:Zero -Starting Life in Another World-"
