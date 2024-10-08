@@ -3,11 +3,6 @@ import tvdb_v4_official, yaml
 from dotenv import load_dotenv
 from pathlib import Path
 
-# Load API Key and initialize tvdb
-load_dotenv()
-apikey = os.getenv("TVDB_API_KEY")
-tvdb = tvdb_v4_official.TVDB(apikey)
-
 def getTvdbId(showName):
     # Get TVDB ID of show
     showId = None
@@ -47,6 +42,7 @@ def validateShowSeasons(showName, seasonsToFind):
         print("Did not find season(s): " + str(invalidSeasons) + " in show: " + showName)
     return errors
 
+# Parse temp.yaml and validate shows/seasons against TVDB
 def validateMappings():
     errors = 0
     with open("temp.yaml") as f:
@@ -58,6 +54,7 @@ def validateMappings():
             errors += validateShowSeasons(showName, seasons)
     return errors
 
+# Get diff compared to main branch
 def get_diff(file_path, commit_old='origin/master', commit_new='HEAD'):
     diff_output = subprocess.run(
         ['git', 'diff', '-U20', commit_old, commit_new, '--', file_path],
@@ -65,6 +62,7 @@ def get_diff(file_path, commit_old='origin/master', commit_new='HEAD'):
     )
     return diff_output.stdout
 
+# Parse diff for changed mapping entries
 def extract_changed_groups(diff_output):
     changes = []
     change_group = []
@@ -90,12 +88,7 @@ def extract_changed_groups(diff_output):
         sys.exit()
     return changes
 
-def extractNewMappings():
-    diff_output = get_diff("custom_mappings.yaml")
-    change_groups = extract_changed_groups(diff_output)
-    createTempYaml(change_groups)
-
-# Create new yaml with changed entries
+# Create temp yaml with changed entries
 def createTempYaml(change_groups):
     lines = []
     lines.append("entries:\n")
@@ -108,8 +101,19 @@ def createTempYaml(change_groups):
     with open('temp.yaml', 'w') as file:
         file.write(''.join(lines))
 
+# Parse `git diff` for new mapped entries and write into temp yaml file
+def extractNewMappings():
+    diff_output = get_diff("custom_mappings.yaml")
+    change_groups = extract_changed_groups(diff_output)
+    createTempYaml(change_groups)
+
 def cleanup():
     os.remove("temp.yaml")
+
+# Load API Key and initialize tvdb
+load_dotenv()
+apikey = os.getenv("TVDB_API_KEY")
+tvdb = tvdb_v4_official.TVDB(apikey)
 
 # TODO: cross reference anilist-id show name
 extractNewMappings()
