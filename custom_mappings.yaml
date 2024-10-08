@@ -1,175 +1,4 @@
 entries:
-  - title: "Hyakusho Kizoku-the farmer’s days"
-    synonyms:
-      - "Hyakushou Kizoku"
-      - "百姓貴族"
-    seasons:
-      - season: 1
-        anilist-id: 155971
-      - season: 2
-        anilist-id: 171689
-  - title: "Bananya"
-    synonyms:
-      - "Bananya: Fushigi na Nakamatachi"
-      - "Bananya and the Curious Bunch"
-      - "ばなにゃ ふしぎななかまたち"
-    seasons:
-      - season: 1
-        anilist-id: 110881
-      - season: 2
-        anilist-id: 21704
-      - season: 3
-        anilist-id: 180599
-  - title: "Thunderbolt Fantasy"
-    synonyms:
-      - "Thunderbolt Fantasy: Touriken Yuuki"
-      - "Thunderbolt Fantasy: Sword Travels in the East"
-      - "Thunderbolt Fantasy -東離劍遊紀-"
-    seasons:
-      - season: 1
-        anilist-id: 98143
-      - season: 2
-        anilist-id: 99557
-      - season: 3
-        anilist-id: 119806
-      - season: 4
-        anilist-id: 138522
-  - title: "The Idolm@ster Shiny Colors"
-    synonyms:
-      - "The iDOLM@STER: Shiny Colors"
-      - "アイドルマスター シャイニーカラーズ"
-    seasons:
-      - season: 1
-        anilist-id: 162889
-      - season: 2
-        anilist-id: 175533
-  - title: "Sword Art Online Alternative: Gun Gale Online"
-    synonyms:
-      - "ソードアート・オンライン オルタナティブ ガンゲイル・オンライン"
-    seasons:
-      - season: 1
-        anilist-id: 100183
-      - season: 2
-        anilist-id: 167141
-  - title: "The New Prince of Tennis"
-    synonyms:
-      - "Shin Tennis no Ouji-sama"
-      - "新テニスの王子様"
-    seasons:
-      - season: 1
-        anilist-id: 11371
-      - season: 2
-        anilist-id: 20941
-      - season: 3
-        anilist-id: 140187
-      - season: 4
-        anilist-id: 165810
-  - title: "Shangri-La Frontier"
-    synonyms:
-      - "シャングリラ・フロンティア"
-    seasons:
-      - season: 1
-        anilist-id: 151970
-      - season: 2
-        anilist-id: 176508
-  - title: "Seirei Gensouki: Spirit Chronicles"
-    synonyms:
-      - "Seirei Gensouki"
-      - "精霊幻想記"
-    seasons:
-      - season: 1
-        anilist-id: 126546
-      - season: 2
-        anilist-id: 141182
-  - title: "Rurouni Kenshin (2023)"
-    synonyms:
-      - "Rurouni Kenshin: Meiji Kenkaku Romantan (2023)"
-      - "るろうに剣心 －明治剣客浪漫譚－(2023)"
-    seasons:
-      - season: 1
-        anilist-id: 142877
-      - season: 2
-        anilist-id: 171637
-  - title: "Tonbo!"
-    synonyms:
-      - "Ooi! Tonbo"
-      - "オーイ! とんぼ"
-    seasons:
-      - season: 1
-        anilist-id: 164440
-      - season: 1
-        anilist-id: 178729
-        start: 14
-  - title: "The Seven Deadly Sins: Four Knights of the Apocalypse"
-    synonyms:
-      - "Nanatsu no Taizai: Mokushiroku no Yonkishi"
-      - "七つの大罪 黙示録の四騎士"
-    seasons:
-      - season: 1
-        anilist-id: 148862
-      - season: 2
-        anilist-id: 176292
-  - title: "MF Ghost"
-    synonyms:
-      - "MFゴースト"
-    seasons:
-      - season: 1
-        anilist-id: 143327
-      - season: 2
-        anilist-id: 171642
-  - title: "Love Live! Superstar!!"
-    synonyms:
-      - "ラブライブ!スーパースター!!"
-    seasons:
-      - season: 1
-        anilist-id: 114979
-      - season: 2
-        anilist-id: 140642
-      - season: 3
-        anilist-id: 155502
-  - title: "Ron Kamonohashi's Forbidden Deductions"
-    synonyms:
-      - "Kamonohashi Ron no Kindan Suiri"
-      - "鴨乃橋ロンの禁断推理"
-    seasons:
-      - season: 1
-        anilist-id: 158926
-      - season: 2
-        anilist-id: 172355
-  - title: "Blue Lock"
-    synonyms:
-      - "ブルーロック"
-    seasons:
-      - season: 1
-        anilist-id: 137822
-      - season: 2
-        anilist-id: 163146
-  - title: "KamiErabi GOD.app"
-    synonyms:
-      - "カミエラビ GOD.app"
-    seasons:
-      - season: 1
-        anilist-id: 162984
-      - season: 2
-        anilist-id: 172199
-  - title: "Demon Lord, Retry!"
-    synonyms:
-      - "Maou-sama, Retry!"
-      - "魔王様、リトライ!"
-    seasons:
-      - season: 1
-        anilist-id: 104252
-      - season: 2
-        anilist-id: 168500
-  - title: "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World"
-    synonyms:
-      - "Tensei Kizoku, Kantei Skill de Nariagaru"
-      - "転生貴族、鑑定スキルで成り上がる"
-    seasons:
-      - season: 1
-        anilist-id: 164702
-      - season: 2
-        anilist-id: 178434
   - title: "22/7"
     synonyms:
       - "22/7 (nanabun no nijyuuni)"
@@ -407,6 +236,15 @@ entries:
         anilist-id: 20935
       - season: 2
         anilist-id: 21424
+  - title: "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World"
+    synonyms:
+      - "Tensei Kizoku, Kantei Skill de Nariagaru"
+      - "転生貴族、鑑定スキルで成り上がる"
+    seasons:
+      - season: 1
+        anilist-id: 164702
+      - season: 2
+        anilist-id: 178434
   - title: "Ascendance of a Bookworm"
     synonyms:
       - "Honzuki no Gekokujou : Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen"
@@ -503,6 +341,18 @@ entries:
         anilist-id: 10030
       - season: 3
         anilist-id: 12365
+  - title: "Bananya"
+    synonyms:
+      - "Bananya: Fushigi na Nakamatachi"
+      - "Bananya and the Curious Bunch"
+      - "ばなにゃ ふしぎななかまたち"
+    seasons:
+      - season: 1
+        anilist-id: 110881
+      - season: 2
+        anilist-id: 21704
+      - season: 3
+        anilist-id: 180599
   - title: "BanG Dream!"
     synonyms:
       - "Bandori"
@@ -639,6 +489,14 @@ entries:
         anilist-id: 158931
       - season: 4
         anilist-id: 176311
+  - title: "Blue Lock"
+    synonyms:
+      - "ブルーロック"
+    seasons:
+      - season: 1
+        anilist-id: 137822
+      - season: 2
+        anilist-id: 163146
   - title: "BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense."
     synonyms:
       - "痛いのは嫌なので防御力に極振りしたいと思います"
@@ -966,6 +824,15 @@ entries:
     seasons:
       - season: 1
         anilist-id: 153518
+  - title: "Demon Lord, Retry!"
+    synonyms:
+      - "Maou-sama, Retry!"
+      - "魔王様、リトライ!"
+    seasons:
+      - season: 1
+        anilist-id: 104252
+      - season: 2
+        anilist-id: 168500
   - title: "Demon Slayer: Kimetsu no Yaiba"
     synonyms:
       - "Demon Slayer"
@@ -1652,6 +1519,17 @@ entries:
       - season: 2
         anilist-id: 100852
         start: 14
+  - title: "Hunter x Hunter (2011)"
+    synonyms:
+      - "Hunter x Hunter"
+      - "Hunter x Hunter 2011"
+    seasons:
+      - season: 1
+        anilist-id: 11061
+      - season: 2
+        anilist-id: 11061
+      - season: 3
+        anilist-id: 11061
   - title: "Hunter × Hunter"
     synonyms:
       - "Hunter x Hunter (1999)"
@@ -1664,17 +1542,15 @@ entries:
         anilist-id: 138
       - season: 4
         anilist-id: 139
-  - title: "Hunter x Hunter (2011)"
+  - title: "Hyakusho Kizoku-the farmer’s days"
     synonyms:
-      - "Hunter x Hunter"
-      - "Hunter x Hunter 2011"
+      - "Hyakushou Kizoku"
+      - "百姓貴族"
     seasons:
       - season: 1
-        anilist-id: 11061
+        anilist-id: 155971
       - season: 2
-        anilist-id: 11061
-      - season: 3
-        anilist-id: 11061
+        anilist-id: 171689
   - title: "Hybrid x Heart Magias Academy Ataraxia"
     synonyms:
       - "魔装学園H×H"
@@ -1988,6 +1864,14 @@ entries:
         anilist-id: 98314
       - season: 2
         anilist-id: 100876
+  - title: "KamiErabi GOD.app"
+    synonyms:
+      - "カミエラビ GOD.app"
+    seasons:
+      - season: 1
+        anilist-id: 162984
+      - season: 2
+        anilist-id: 172199
   - title: "KanColle"
     synonyms:
       - "KanColle: Kantai Collection"
@@ -2137,6 +2021,16 @@ entries:
         anilist-id: 20671
       - season: 3
         anilist-id: 114862
+  - title: "Love Live! Superstar!!"
+    synonyms:
+      - "ラブライブ!スーパースター!!"
+    seasons:
+      - season: 1
+        anilist-id: 114979
+      - season: 2
+        anilist-id: 140642
+      - season: 3
+        anilist-id: 155502
   - title: "Love, Chunibyo & Other Delusions!"
     synonyms:
       - "Love, Chunibyo & Other Delusions"
@@ -2265,6 +2159,14 @@ entries:
         anilist-id: 100298
       - season: 2
         anilist-id: 113359
+  - title: "MF Ghost"
+    synonyms:
+      - "MFゴースト"
+    seasons:
+      - season: 1
+        anilist-id: 143327
+      - season: 2
+        anilist-id: 171642
   - title: "Michiko & Hatchin"
     synonyms:
       - "Michiko to Hatchin"
@@ -3051,6 +2953,14 @@ entries:
         anilist-id: 8769
       - season: 2
         anilist-id: 13659
+  - title: "Oshi No Ko"
+    synonyms:
+      - "[Oshi No Ko] - [Mein*Star]"
+    seasons:
+      - season: 1
+        anilist-id: 150672
+      - season: 2
+        anilist-id: 166531
   - title: "Our Last Crusade or the Rise of a New World"
     synonyms:
       - "キミと僕の最後の戦場、あるいは世界が始まる聖戦"
@@ -3060,14 +2970,6 @@ entries:
         anilist-id: 112667
       - season: 2
         anilist-id: 139825
-  - title: "Oshi No Ko"
-    synonyms:
-      - "[Oshi No Ko] - [Mein*Star]"
-    seasons:
-      - season: 1
-        anilist-id: 150672
-      - season: 2
-        anilist-id: 166531
   - title: "Overlord"
     seasons:
       - season: 1
@@ -3236,6 +3138,15 @@ entries:
     seasons:
       - season: 1
         anilist-id: 7060
+  - title: "Ron Kamonohashi's Forbidden Deductions"
+    synonyms:
+      - "Kamonohashi Ron no Kindan Suiri"
+      - "鴨乃橋ロンの禁断推理"
+    seasons:
+      - season: 1
+        anilist-id: 158926
+      - season: 2
+        anilist-id: 172355
   - title: "Rosario + Vampire"
     seasons:
       - season: 1
@@ -3254,6 +3165,15 @@ entries:
         anilist-id: 45
       - season: 3
         anilist-id: 45
+  - title: "Rurouni Kenshin (2023)"
+    synonyms:
+      - "Rurouni Kenshin: Meiji Kenkaku Romantan (2023)"
+      - "るろうに剣心 －明治剣客浪漫譚－(2023)"
+    seasons:
+      - season: 1
+        anilist-id: 142877
+      - season: 2
+        anilist-id: 171637
   - title: "Rust-Eater Bisco"
     synonyms:
       - "Sabikui Bisco"
@@ -3356,6 +3276,15 @@ entries:
         anilist-id: 107067
       - season: 2
         anilist-id: 125124
+  - title: "Seirei Gensouki: Spirit Chronicles"
+    synonyms:
+      - "Seirei Gensouki"
+      - "精霊幻想記"
+    seasons:
+      - season: 1
+        anilist-id: 126546
+      - season: 2
+        anilist-id: 141182
   - title: "Sekirei"
     synonyms:
       - "セキレイ"
@@ -3391,6 +3320,14 @@ entries:
     seasons:
       - season: 1
         anilist-id: 112293
+  - title: "Shangri-La Frontier"
+    synonyms:
+      - "シャングリラ・フロンティア"
+    seasons:
+      - season: 1
+        anilist-id: 151970
+      - season: 2
+        anilist-id: 176508
   - title: "Shelter"
     seasons:
       - season: 1
@@ -3587,6 +3524,14 @@ entries:
       - season: 4
         anilist-id: 114308
         start: 13
+  - title: "Sword Art Online Alternative: Gun Gale Online"
+    synonyms:
+      - "ソードアート・オンライン オルタナティブ ガンゲイル・オンライン"
+    seasons:
+      - season: 1
+        anilist-id: 100183
+      - season: 2
+        anilist-id: 167141
   - title: "Symphogear"
     synonyms:
       - "Superb Song of the Valkyries: Symphogear"
@@ -3737,6 +3682,15 @@ entries:
     seasons:
       - season: 1
         anilist-id: 10620
+  - title: "The Idolm@ster Shiny Colors"
+    synonyms:
+      - "The iDOLM@STER: Shiny Colors"
+      - "アイドルマスター シャイニーカラーズ"
+    seasons:
+      - season: 1
+        anilist-id: 162889
+      - season: 2
+        anilist-id: 175533
   - title: "The Impression of First GUNDAM"
     seasons:
       - season: 1
@@ -3801,6 +3755,19 @@ entries:
       - season: 2
         anilist-id: 130590
         start: 13
+  - title: "The New Prince of Tennis"
+    synonyms:
+      - "Shin Tennis no Ouji-sama"
+      - "新テニスの王子様"
+    seasons:
+      - season: 1
+        anilist-id: 11371
+      - season: 2
+        anilist-id: 20941
+      - season: 3
+        anilist-id: 140187
+      - season: 4
+        anilist-id: 165810
   - title: "The Rising of the Shield Hero"
     synonyms:
       - "Tate no Yuusha no Nariagari"
@@ -3823,6 +3790,15 @@ entries:
         anilist-id: 99539
       - season: 4
         anilist-id: 108928
+  - title: "The Seven Deadly Sins: Four Knights of the Apocalypse"
+    synonyms:
+      - "Nanatsu no Taizai: Mokushiroku no Yonkishi"
+      - "七つの大罪 黙示録の四騎士"
+    seasons:
+      - season: 1
+        anilist-id: 148862
+      - season: 2
+        anilist-id: 176292
   - title: "The Slime Diaries: That Time I Got Reincarnated as a Slime"
     synonyms:
       - "Tensura Nikki: Tensei Shitara Slime Datta Ken"
@@ -3885,6 +3861,20 @@ entries:
     seasons:
       - season: 1
         anilist-id: 129898
+  - title: "Thunderbolt Fantasy"
+    synonyms:
+      - "Thunderbolt Fantasy: Touriken Yuuki"
+      - "Thunderbolt Fantasy: Sword Travels in the East"
+      - "Thunderbolt Fantasy -東離劍遊紀-"
+    seasons:
+      - season: 1
+        anilist-id: 98143
+      - season: 2
+        anilist-id: 99557
+      - season: 3
+        anilist-id: 119806
+      - season: 4
+        anilist-id: 138522
   - title: "Thus Spoke Kishibe Rohan"
     synonyms:
       - "Kishibe Rohan wa Ugokanai"
@@ -3951,6 +3941,16 @@ entries:
     seasons:
       - season: 1
         anilist-id: 140643
+  - title: "Tonbo!"
+    synonyms:
+      - "Ooi! Tonbo"
+      - "オーイ! とんぼ"
+    seasons:
+      - season: 1
+        anilist-id: 164440
+      - season: 1
+        anilist-id: 178729
+        start: 14
   - title: "TONIKAWA: Over The Moon For You"
     synonyms:
       - "トニカクカワイイ"
