@@ -114,5 +114,6 @@ def cleanup():
 # TODO: cross reference anilist-id show name
 extractNewMappings()
 errors = validateMappings()
-sys.exit("Found "+ str(errors) + " error(s) in the season mappings")
+if errors != 0:
+    sys.exit("Found "+ str(errors) + " error(s) in the season mappings")
 # cleanup()
