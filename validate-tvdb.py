@@ -54,13 +54,13 @@ def validateMappings():
         for show in sorted(mappings['entries'], key=lambda entry: (entry['title'], entry['seasons'])):
             showName = show['title']
             seasons = [s['season'] for s in show['seasons'] if 'season' in s]
-            # print(showName + ": " + str(seasons))
+            print("Validating: " + showName + ": " + str(seasons))
             errors += validateShowSeasons(showName, seasons)
     return errors
 
 def get_diff(file_path, commit_old='origin/master', commit_new='HEAD'):
     diff_output = subprocess.run(
-        ['git', 'diff', commit_old, commit_new, '--', file_path],
+        ['git', 'diff', '-U20', commit_old, commit_new, '--', file_path],
         capture_output=True, text=True
     )
     return diff_output.stdout
@@ -116,4 +116,4 @@ extractNewMappings()
 errors = validateMappings()
 if errors != 0:
     sys.exit("Found "+ str(errors) + " error(s) in the season mappings")
-# cleanup()
+cleanup()
