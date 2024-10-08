@@ -110,13 +110,14 @@ def extractNewMappings():
 def cleanup():
     os.remove("temp.yaml")
 
+
+# TODO: cross reference anilist-id show name
+extractNewMappings()
 # Load API Key and initialize tvdb
 load_dotenv()
 apikey = os.getenv("TVDB_API_KEY")
 tvdb = tvdb_v4_official.TVDB(apikey)
 
-# TODO: cross reference anilist-id show name
-extractNewMappings()
 errors = validateMappings()
 if errors != 0:
     sys.exit("Found "+ str(errors) + " error(s) in the season mappings")
