@@ -2970,6 +2970,15 @@ entries:
         anilist-id: 112667
       - season: 2
         anilist-id: 139825
+  - title: "Oshi no Ko"
+    synonyms:
+      - "Oshi no Ko: Mein Star"
+      - "[Oshi No Ko] - [Mein*Star]"
+    seasons:
+      - season: 1
+        anilist-id: 150672
+      - season: 2
+        anilist-id: 166531
   - title: "Overlord"
     seasons:
       - season: 1
