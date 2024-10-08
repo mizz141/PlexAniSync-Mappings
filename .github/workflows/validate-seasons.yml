@@ -1,8 +1,8 @@
-name: Validate seasons
+name: TVDB
 on:
   push:
     branches:
-      - validateSeason # Remove after finalizing testing
+      - master
   pull_request:
     branches:
       - master
