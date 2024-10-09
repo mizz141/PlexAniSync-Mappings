@@ -43,3 +43,7 @@ jobs:
       env:
         TVDB_API_KEY: ${{ secrets.TVDB_API_KEY }}
       run: python validate-tvdb.py
+    - name: Create updated entries list
+      uses: actions/upload-artifact@v4
+      with:
+        path: temp.yaml
