@@ -27,6 +27,7 @@ def validateShowSeasons(showName, seasonsToFind):
         print("No TVDB series result: " + showName)
         return errors
     # TODO: does not work for primary_type: movie, maybe separate method for those? Test with 5cm per second
+    print(showId)
     series = tvdb.get_series_extended(showId)
     tvdbSeasons = [season['number'] for season in series['seasons'] if season['type']['type'] == 'official']
 
@@ -66,27 +67,22 @@ def get_diff(file_path, commit_old='origin/master', commit_new='HEAD'):
 def extract_changed_groups(diff_output):
     changes = []
     change_group = []
+    updatedEntry = False
     for line in diff_output.splitlines():
-        if line.startswith('+') and not line.startswith('+++'):  # Added lines
-            # Add change group and reset it
-            if change_group and "title:" in line and "season:" in str(change_group):
-                changes.append(change_group)
-                change_group = []
-            change_group.append(f"{line[1:]}")
-        elif line.startswith('-') and not line.startswith('---'):  # Removed lines
-            pass
-        elif line.startswith(' '): # Unchanged lines
-            # Add change group and reset it
-            if change_group and "title:" in line and "season:" in str(change_group):
-                changes.append(change_group)
-                change_group = []
-            # Append intermediary line if existing change_group exists
-            elif change_group:
-                change_group.append(f"{line[1:]}")
+        if line.startswith('-'): continue
+        if line.startswith('+'): updatedEntry = True
+        if "title:" in line:
+            addIfUpdated(change_group, changes, updatedEntry)
+            updatedEntry = False
+            change_group = []
+        change_group.append(f"{line[1:]}")
     if not changes:
         print("No season mapping changes detected in the latest commit")
         sys.exit()
     return changes
+
+def addIfUpdated(group, collection, isUpdate):
+    if group and isUpdate and "title:" in str(group) and "season:" in str(group): collection.append(group)
 
 # Create temp yaml with changed entries
 def createTempYaml(change_groups):
@@ -121,4 +117,4 @@ tvdb = tvdb_v4_official.TVDB(apikey)
 errors = validateMappings()
 if errors != 0:
     sys.exit("Found "+ str(errors) + " error(s) in the season mappings")
-cleanup()
+# cleanup()
