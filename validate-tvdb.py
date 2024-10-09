@@ -116,4 +116,4 @@ tvdb = tvdb_v4_official.TVDB(apikey)
 errors = validateMappings()
 if errors != 0:
     sys.exit("Found "+ str(errors) + " error(s) in the season mappings")
-cleanup()
+# cleanup()
