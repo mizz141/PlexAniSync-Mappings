@@ -26,6 +26,8 @@ jobs:
     - uses: actions/checkout@v4
       with:
         fetch-depth: 0
+        ref: ${{github.event.pull_request.head.ref}}
+        repository: ${{github.event.pull_request.head.repo.full_name}}
     - name: Set up Python ${{ env.PYTHON_VERSION }}
       uses: actions/setup-python@v5
       with:
@@ -43,3 +45,7 @@ jobs:
       env:
         TVDB_API_KEY: ${{ secrets.TVDB_API_KEY }}
       run: python validate-tvdb.py
+    - name: Create updated entries list
+      uses: actions/upload-artifact@v4
+      with:
+        path: temp.yaml
