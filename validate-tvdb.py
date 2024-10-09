@@ -22,12 +22,12 @@ def validateShowSeasons(showName, seasonsToFind):
     errors = 0
 
     showId = getTvdbId(showName)
+    print("Validating: " + showName + " [" + str(showId) + "] - Seasons " + str(seasonsToFind))
 
     if (showId is None):
         print("No TVDB series result: " + showName)
         return errors
     # TODO: does not work for primary_type: movie, maybe separate method for those? Test with 5cm per second
-    print(showId)
     series = tvdb.get_series_extended(showId)
     tvdbSeasons = [season['number'] for season in series['seasons'] if season['type']['type'] == 'official']
 
@@ -51,7 +51,6 @@ def validateMappings(file="temp.yaml"):
         for show in sorted(mappings['entries'], key=lambda entry: (entry['title'], entry['seasons'])):
             showName = show['title']
             seasons = set([s['season'] for s in show['seasons'] if 'season' in s])
-            print("Validating: " + showName + " - Seasons " + str(seasons))
             errors += validateShowSeasons(showName, seasons)
     return errors
 
@@ -117,4 +116,4 @@ tvdb = tvdb_v4_official.TVDB(apikey)
 errors = validateMappings()
 if errors != 0:
     sys.exit("Found "+ str(errors) + " error(s) in the season mappings")
-# cleanup()
+cleanup()
