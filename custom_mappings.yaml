@@ -3499,8 +3499,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 139821
-      - season: 2
+      - season: 1
         anilist-id: 163079
+        start: 13
   - title: "Summer Time Rendering"
     synonyms:
       - "Summertime Rendering"
