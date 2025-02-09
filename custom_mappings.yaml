@@ -3414,6 +3414,14 @@ entries:
     seasons:
       - season: 1
         anilist-id: 111501
+  - title: "Solo Leveling"
+    synonyms:
+      - "Ore dake Level Up na Ken"
+    seasons:
+      - season: 1
+        anilist-id: 151807
+      - season: 2
+        anilist-id: 176496
   - title: "Somali and the Forest Spirit"
     synonyms:
       - "Somari and the Guardian of the Forest"
