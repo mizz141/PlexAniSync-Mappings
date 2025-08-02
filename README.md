@@ -1,3 +1,7 @@
+# !!!DEPRECATED AND NO LONGER MAINTAINED!!!
+I've chosen to deprecate this repository and archive it due to it being no longer maintained.
+Reason being I migrated over to https://github.com/eliasbenb/PlexAniBridge/ so this repository is no longer necessary.
+
 ![YAML Badge](https://img.shields.io/badge/dynamic/yaml?color=informational&label=Mappings&query=$.entries.length&url=https%3A%2F%2Fraw.githubusercontent.com%2Fmizz141%2FPlexAniSync-Mappings%2Fmaster%2Fcustom_mappings.yaml)
 
 # PlexAniSync-Mappings
